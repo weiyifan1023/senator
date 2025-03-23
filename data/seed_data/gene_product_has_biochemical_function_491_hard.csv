@@ -1,0 +1,492 @@
+head_cui,head_name,rel,tail_cuis_list,tail_names_list,tail_names,tail_cuis,tail_cuis_len,tail_names_len,avg_match,avg_rouge_l
+C1333649,G(i) Alpha,gene_product_has_biochemical_function,['C1333999'],['Heterotrimeric G Protein Subunit'],Heterotrimeric G Protein Subunit,C1333999,1,1,0.0,0.0
+C1720949,Tumor Necrosis Factor Receptor Superfamily Member 10D,gene_product_has_biochemical_function,"['C0034800', 'C1332320', 'C1564881']","['Cell Surface Receptor', 'Apoptosis Inhibitor', 'Apoptosis Regulator']",Cell Surface Receptor || Apoptosis Inhibitor || Apoptosis Regulator,C0034800 || C1332320 || C1564881,3,3,0.0,0.06666666526666669
+C2716282,"Actin, Aortic Smooth Muscle",gene_product_has_biochemical_function,['C1179132'],['Scaffolding Protein'],Scaffolding Protein,C1179132,1,1,0.0,0.0
+C0082420,Endoglin,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C4281710,Cadherin-2,gene_product_has_biochemical_function,['C0006732'],['Calcium Binding Protein'],Calcium Binding Protein,C0006732,1,1,0.0,0.0
+C2348357,E3 Ubiquitin-Protein Ligase NEDD4,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C3815883,Myosin-2,gene_product_has_biochemical_function,['C0001473'],['ATPase'],ATPase,C0001473,1,1,0.0,0.0
+C3828496,PPBP Gene Product,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C0919482,MAF Family Protein,gene_product_has_biochemical_function,['C0040648'],['Transcription Factor'],Transcription Factor,C0040648,1,1,0.0,0.0
+C1672855,Apoptotic Protease-Activating Factor 1,gene_product_has_biochemical_function,"['C0815047', 'C1332322']","['Regulatory Protein', 'Apoptosis Promoter']",Regulatory Protein || Apoptosis Promoter,C0815047 || C1332322,2,2,0.0,0.0
+C1317964,Intercellular Adhesion Molecule 2,gene_product_has_biochemical_function,"['C0017968', 'C0021699', 'C1334164']","['Glycoprotein', 'Transmembrane Protein', 'Immunoglobulin Family Protein']",Glycoprotein || Transmembrane Protein || Immunoglobulin Family Protein,C0017968 || C0021699 || C1334164,3,3,0.0,0.0
+C1680604,E3 Ubiquitin-Protein Ligase BRE1A,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C0214737,C-C Motif Chemokine 8,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C3492898,E3 Ubiquitin-Protein Ligase ZNRF3,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C1741275,Autoimmune Regulator,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1314904,E3 Ubiquitin-Protein Ligase TRIM23,gene_product_has_biochemical_function,"['C0018296', 'C1621469']","['GTPase', 'Ubiquitination Regulation Protein']",GTPase || Ubiquitination Regulation Protein,C0018296 || C1621469,2,2,0.0,0.0
+C4723803,Gelsolin,gene_product_has_biochemical_function,['C0001239'],['Actin-Binding Protein'],Actin-Binding Protein,C0001239,1,1,0.0,0.0
+C0962292,EMILIN-1,gene_product_has_biochemical_function,['C0017968'],['Glycoprotein'],Glycoprotein,C0017968,1,1,0.0,0.0
+C2002111,Synaptojanin-1,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C3810627,Long-Chain Fatty Acid Transport Protein 4,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C4288045,VEGFA Gene Product,gene_product_has_biochemical_function,['C1256770'],['Vascular Endothelial Growth Factor Family'],Vascular Endothelial Growth Factor Family,C1256770,1,1,0.0,0.0
+C3884535,Amphiregulin,gene_product_has_biochemical_function,['C0018284'],['Growth Factor'],Growth Factor,C0018284,1,1,0.0,0.0
+C2713669,Plasma Serine Protease Inhibitor,gene_product_has_biochemical_function,['C0036764'],['Serpin'],Serpin,C0036764,1,1,0.0,0.0
+C0084210,Protein Serine/Threonine Phosphatase,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C0597721,Janus Kinase Family,gene_product_has_biochemical_function,['C0031727'],['Phosphotransferase'],Phosphotransferase,C0031727,1,1,0.0,0.0
+C1722829,E3 Ubiquitin-Protein Ligase TRIM21,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C1309483,Endoribonuclease Dicer,gene_product_has_biochemical_function,"['C0020289', 'C0084378']","['Hydrolase', 'RNA Helicase']",Hydrolase || RNA Helicase,C0020289 || C0084378,2,2,0.0,0.0
+C2713666,Angiotensinogen,gene_product_has_biochemical_function,['C0036733'],['Serine Proteinase Inhibitor Protein'],Serine Proteinase Inhibitor Protein,C0036733,1,1,0.0,0.0
+C3539874,Alpha-Globin Transcription Factor CP2,gene_product_has_biochemical_function,"['C0012940', 'C1335945']","['DNA Binding Protein', 'Sequence-Specific DNA Binding Protein']",DNA Binding Protein || Sequence-Specific DNA Binding Protein,C0012940 || C1335945,2,2,0.0,0.0
+C1451001,Heat-Stable Enterotoxin Receptor,gene_product_has_biochemical_function,['C0018358'],['Guanylate Cyclase'],Guanylate Cyclase,C0018358,1,1,0.0,0.0
+C1505874,"cAMP-Specific 3',5'-Cyclic Phosphodiesterase 4B",gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1336585,Transcription Initiation Factor TFIID Subunit 4,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C4521462,Lipase Maturation Factor 1,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C3890561,Ras-Related Protein Rab-7a,gene_product_has_biochemical_function,['C0018296'],['GTPase'],GTPase,C0018296,1,1,0.0,0.0
+C1611909,Folate Transporter 1,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C4281812,Neuropilin-1,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C1333055,Class II AP Endonuclease,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1566322,Cyclic AMP-Dependent Transcription Factor ATF-4,gene_product_has_biochemical_function,"['C0012940', 'C1335945', 'C1335962']","['DNA Binding Protein', 'Sequence-Specific DNA Binding Protein', 'Signaling Protein']",DNA Binding Protein || Sequence-Specific DNA Binding Protein || Signaling Protein,C0012940 || C1335945 || C1335962,3,3,0.0,0.0
+C0535872,Interferon Alpha-2,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C1611477,G1/S-Specific Cyclin-E2,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C3889472,"Fructose-1,6-Bisphosphatase 1",gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1434089,Protein-Arginine Deiminase Type-4,gene_product_has_biochemical_function,['C1333030'],['Chromatin Remodeling Factor'],Chromatin Remodeling Factor,C1333030,1,1,0.0,0.0
+C1527584,Transcription Factor RelB,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1449272,Multidrug Resistance-Associated Protein 5,gene_product_has_biochemical_function,"['C0001473', 'C0031165']","['ATPase', 'Permease']",ATPase || Permease,C0001473 || C0031165,2,2,0.0,0.0
+C0676272,Geminin,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C0294121,Eukaryotic Translation Initiation Factor 3 Subunit E,gene_product_has_biochemical_function,['C0085177'],['RNA Binding Protein'],RNA Binding Protein,C0085177,1,1,0.0,0.0
+C4521271,Nucleosome-Remodeling Factor Subunit BPTF,gene_product_has_biochemical_function,"['C0012940', 'C1333030', 'C1335945']","['DNA Binding Protein', 'Chromatin Remodeling Factor', 'Sequence-Specific DNA Binding Protein']",DNA Binding Protein || Chromatin Remodeling Factor || Sequence-Specific DNA Binding Protein,C0012940 || C1333030 || C1335945,3,3,0.0,0.0952380936054422
+C0667477,Tumor Necrosis Factor Receptor Superfamily Member 11A,gene_product_has_biochemical_function,"['C0034800', 'C1564881']","['Cell Surface Receptor', 'Apoptosis Regulator']",Cell Surface Receptor || Apoptosis Regulator,C0034800 || C1564881,2,2,0.0,0.09999999790000004
+C1384559,POU Domain Class 2-Associating Factor 1,gene_product_has_biochemical_function,['C1336776'],['Transcription Coactivator'],Transcription Coactivator,C1336776,1,1,0.0,0.0
+C0289408,Transcription Initiation Factor TFIID Subunit 10,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C3272515,Nodal Homolog,gene_product_has_biochemical_function,"['C0018284', 'C0040691', 'C0079189']","['Growth Factor', 'Transforming Growth Factor', 'Cytokine']",Growth Factor || Transforming Growth Factor || Cytokine,C0018284 || C0040691 || C0079189,3,3,0.0,0.0
+C4761511,Ras-Related Protein Rab-6B,gene_product_has_biochemical_function,['C0018296'],['GTPase'],GTPase,C0018296,1,1,0.0,0.0
+C1412022,Tumor Necrosis Factor Receptor Superfamily Member 3,gene_product_has_biochemical_function,"['C0034800', 'C1564881']","['Cell Surface Receptor', 'Apoptosis Regulator']",Cell Surface Receptor || Apoptosis Regulator,C0034800 || C1564881,2,2,0.0,0.09999999790000004
+C3273598,Phosphatidylinositol 3-Kinase Regulatory Subunit Alpha,gene_product_has_biochemical_function,"['C0242210', 'C1335962']","['Ligand Binding Protein', 'Signaling Protein']",Ligand Binding Protein || Signaling Protein,C0242210 || C1335962,2,2,0.0,0.0
+C3274830,Transducin-Like Enhancer Protein 3,gene_product_has_biochemical_function,['C1336789'],['Transcription Repressor/Corepressor'],Transcription Repressor/Corepressor,C1336789,1,1,0.0,0.0
+C0282651,Selectin,gene_product_has_biochemical_function,"['C0007578', 'C0242210']","['Cell Adhesion Molecule', 'Ligand Binding Protein']",Cell Adhesion Molecule || Ligand Binding Protein,C0007578 || C0242210,2,2,0.0,0.0
+C3272518,Sodium/Nucleoside Cotransporter 1,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C0079717,Integrin AlphaL/Beta2,gene_product_has_biochemical_function,['C0007578'],['Cell Adhesion Molecule'],Cell Adhesion Molecule,C0007578,1,1,0.0,0.0
+C3711669,Calretinin,gene_product_has_biochemical_function,['C0054444'],['Calbindin'],Calbindin,C0054444,1,1,0.0,0.0
+C1667075,P-Selectin Glycoprotein Ligand 1,gene_product_has_biochemical_function,['C0034848'],['Viral Receptor'],Viral Receptor,C0034848,1,1,0.0,0.0
+C0684287,Aldehyde Dehydrogenase,gene_product_has_biochemical_function,['C0030016'],['Oxidoreductase'],Oxidoreductase,C0030016,1,1,0.0,0.0
+C3816451,BAG Family Molecular Chaperone Regulator 3,gene_product_has_biochemical_function,['C1332320'],['Apoptosis Inhibitor'],Apoptosis Inhibitor,C1332320,1,1,0.0,0.0
+C3273565,P2Y Purinoceptor 8,gene_product_has_biochemical_function,"['C0034800', 'C0034836', 'C0120465']","['Cell Surface Receptor', 'Purinergic Receptor', 'Guanine Nucleotide Exchange Factor']",Cell Surface Receptor || Purinergic Receptor || Guanine Nucleotide Exchange Factor,C0034800 || C0034836 || C0120465,3,3,0.0,0.0
+C4048302,T-Lymphocyte Activation Antigen CD80,gene_product_has_biochemical_function,['C1334164'],['Immunoglobulin Family Protein'],Immunoglobulin Family Protein,C1334164,1,1,0.0,0.0
+C0245297,C-X-C Motif Chemokine 2,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C0017837,Glutathione S-Transferase,gene_product_has_biochemical_function,['C1332236'],['Alkyltransferase and Aryltransferase'],Alkyltransferase and Aryltransferase,C1332236,1,1,0.0,0.0
+C0245557,Tumor-Associated Calcium Signal Transducer 2,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C1333998,Heterogeneous Nuclear Ribonucleoprotein A3,gene_product_has_biochemical_function,['C0007292'],['Transport Protein'],Transport Protein,C0007292,1,1,0.0,0.0
+C3887507,T-Cell Surface Glycoprotein CD1a,gene_product_has_biochemical_function,['C0021072'],['Immunoprotein'],Immunoprotein,C0021072,1,1,0.0,0.0
+C1455445,Transcription Factor MafB,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1569775,Beta-Secretase 1,gene_product_has_biochemical_function,['C2717969'],['Aspartyl Peptidase'],Aspartyl Peptidase,C2717969,1,1,0.0,0.0
+C0021463,Inhibin,gene_product_has_biochemical_function,['C0597192'],['Peptide Hormone'],Peptide Hormone,C0597192,1,1,0.0,0.0
+C1431182,Ragulator Complex Protein LAMTOR5,gene_product_has_biochemical_function,['C1332320'],['Apoptosis Inhibitor'],Apoptosis Inhibitor,C1332320,1,1,0.0,0.0
+C1335613,RET Oncoprotein,gene_product_has_biochemical_function,"['C0031727', 'C0034800']","['Kinase', 'Cell Surface Receptor']",Kinase || Cell Surface Receptor,C0031727 || C0034800,2,2,0.0,0.0
+C1311257,X-Ray Repair Cross-Complementing Protein 6,gene_product_has_biochemical_function,['C0920283'],['Helicase'],Helicase,C0920283,1,1,0.0,0.0
+C0762871,Tumor Necrosis Factor Ligand Superfamily Member 15,gene_product_has_biochemical_function,['C1564881'],['Apoptosis Regulator'],Apoptosis Regulator,C1564881,1,1,0.0,0.0
+C3273385,Kinetochore Scaffold 1,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C0024544,Malate Dehydrogenase,gene_product_has_biochemical_function,['C0030016'],['Oxidoreductase'],Oxidoreductase,C0030016,1,1,0.0,0.0
+C1335959,Signal Transducer and Activator of Transcription 5B,gene_product_has_biochemical_function,"['C0012940', 'C1335962']","['DNA Binding Protein', 'Signaling Protein']",DNA Binding Protein || Signaling Protein,C0012940 || C1335962,2,2,0.0,0.0
+C3536909,Transcription Factor AP-1,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C5418985,Triggering Receptors Expressed on Myeloid Cells Family Protein,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C1522145,Nuclear Factor 1 X-Type,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C0666480,Tumor Necrosis Factor Receptor Superfamily Member 13B,gene_product_has_biochemical_function,"['C0034800', 'C1564881']","['Cell Surface Receptor', 'Apoptosis Regulator']",Cell Surface Receptor || Apoptosis Regulator,C0034800 || C1564881,2,2,0.0,0.09999999790000004
+C1870471,Macrophage Migration Inhibitory Factor,gene_product_has_biochemical_function,['C0024297'],['Lymphokine'],Lymphokine,C0024297,1,1,0.0,0.0
+C1744370,Receptor-Type Tyrosine-Protein Phosphatase R,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1566695,Neurogenic Locus Notch Homolog Protein 2,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C0008169,Chloramphenicol O-acetyltransferase,gene_product_has_biochemical_function,['C0001390'],['Acyltransferase'],Acyltransferase,C0001390,1,1,0.0,0.0
+C5203140,AT-Hook-Containing Transcription Factor,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C0165949,Antigen Peptide Transporter 2,gene_product_has_biochemical_function,"['C0001473', 'C0031165']","['ATPase', 'Permease']",ATPase || Permease,C0001473 || C0031165,2,2,0.0,0.0
+C4521441,Thyrotropin-Releasing Hormone,gene_product_has_biochemical_function,['C0027895'],['Neuropeptide'],Neuropeptide,C0027895,1,1,0.0,0.0
+C4319635,Tropomyosin Alpha-3 Chain Isoform 2,gene_product_has_biochemical_function,['C0001239'],['Actin-Binding Protein'],Actin-Binding Protein,C0001239,1,1,0.0,0.0
+C3641901,"Phosphatidylinositol 3,4,5-Trisphosphate 5-Phosphatase 1 Isoform 3",gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1431931,TFIIA-Alpha and Beta Like Factor,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C3814453,Phosphoglycolate Phosphatase,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1333229,DNA-Directed RNA Polymerase II Subunit RPB1,gene_product_has_biochemical_function,"['C0012940', 'C0031727']","['DNA Binding Protein', 'Kinase']",DNA Binding Protein || Kinase,C0012940 || C0031727,2,2,0.0,0.0
+C0166814,Integrin AlphaV/Beta6,gene_product_has_biochemical_function,['C0007578'],['Cell Adhesion Molecule'],Cell Adhesion Molecule,C0007578,1,1,0.0,0.0
+C0209851,Heterogeneous Nuclear Ribonucleoprotein A2/B1,gene_product_has_biochemical_function,['C0007292'],['Transport Protein'],Transport Protein,C0007292,1,1,0.0,0.0
+C1334032,Histone Deacetylase 1,gene_product_has_biochemical_function,['C1333030'],['Chromatin Remodeling Factor'],Chromatin Remodeling Factor,C1333030,1,1,0.0,0.0
+C0755123,SNW Domain-Containing Protein 1,gene_product_has_biochemical_function,['C1336776'],['Transcription Coactivator'],Transcription Coactivator,C1336776,1,1,0.0,0.0
+C2699988,Transcription Factor COE1,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1435548,Runt-Related Transcription Factor 1,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C3273656,Thyroid Hormone Receptor-Associated Protein 3,gene_product_has_biochemical_function,['C1336776'],['Transcription Coactivator'],Transcription Coactivator,C1336776,1,1,0.0,0.0
+C0913710,Monocarboxylate Transporter 5,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C0539599,Monocarboxylate Transporter 4,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C2825103,TOX High Mobility Group Box Family Member 3,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C0084347,Rhombotin-1,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C0054869,Cathepsin H,gene_product_has_biochemical_function,['C2717970'],['Cysteine Proteinase'],Cysteine Proteinase,C2717970,1,1,0.0,0.0
+C0962150,Transcription Factor IIIB 50 kDa Subunit,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1311076,Smoothened Homolog,gene_product_has_biochemical_function,"['C0034800', 'C0120465']","['Cell Surface Receptor', 'Guanine Nucleotide Exchange Factor']",Cell Surface Receptor || Guanine Nucleotide Exchange Factor,C0034800 || C0120465,2,2,0.0,0.0
+C3641672,TNFRSF8 Gene Product,gene_product_has_biochemical_function,"['C0034800', 'C1564881']","['Cell Surface Receptor', 'Apoptosis Regulator']",Cell Surface Receptor || Apoptosis Regulator,C0034800 || C1564881,2,2,0.0,0.0
+C3641673,Soluble Tumor Necrosis Factor Receptor Superfamily Member 8,gene_product_has_biochemical_function,"['C0034800', 'C1564881']","['Cell Surface Receptor', 'Apoptosis Regulator']",Cell Surface Receptor || Apoptosis Regulator,C0034800 || C1564881,2,2,0.0,0.09090908892561987
+C1505133,Sodium/Glucose Cotransporter 2,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C1416474,Interferon Regulatory Factor 6,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1505287,E3 Ubiquitin-Protein Ligase TRIM36,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C0212691,Nuclear Factor NF-kappa-B p100 Subunit,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C3275267,Staphylococcal Nuclease and Tudor Domain Containing 1,gene_product_has_biochemical_function,['C1336776'],['Transcription Coactivator'],Transcription Coactivator,C1336776,1,1,0.0,0.0
+C1309143,Securin,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C0022984,Laminin,gene_product_has_biochemical_function,['C0007578'],['Cell Adhesion Molecule'],Cell Adhesion Molecule,C0007578,1,1,0.0,0.0
+C3887684,Kit Ligand,gene_product_has_biochemical_function,['C0018284'],['Growth Factor'],Growth Factor,C0018284,1,1,0.0,0.0
+C0072259,Prostacyclin Synthase,gene_product_has_biochemical_function,['C0022202'],['Isomerase'],Isomerase,C0022202,1,1,0.0,0.0
+C1173190,Transcription Initiation Factor TFIID Subunit 12 Isoform TAFII20,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1121863,"Spectrin Beta Chain, Non-Erythrocytic 1",gene_product_has_biochemical_function,['C0001239'],['Actin-Binding Protein'],Actin-Binding Protein,C0001239,1,1,0.0,0.0
+C3641819,Truncated BID,gene_product_has_biochemical_function,"['C0815047', 'C1332322', 'C1335962']","['Regulatory Protein', 'Apoptosis Promoter', 'Signaling Protein']",Regulatory Protein || Apoptosis Promoter || Signaling Protein,C0815047 || C1332322 || C1335962,3,3,0.0,0.0
+C3659836,Activin Receptor Type-2B,gene_product_has_biochemical_function,['C0031727'],['Kinase'],Kinase,C0031727,1,1,0.0,0.0
+C0386669,Cyclin-Dependent Kinase 4 Inhibitor D,gene_product_has_biochemical_function,"['C0582261', 'C0597611', 'C0815047']","['Enzyme Inhibitor Protein', 'Tumor Suppressor Protein', 'Regulatory Protein']",Enzyme Inhibitor Protein || Tumor Suppressor Protein || Regulatory Protein,C0582261 || C0597611 || C0815047,3,3,0.0,0.08333333177083335
+C4316931,Tumstatin,gene_product_has_biochemical_function,['C1332295'],['Angiogenesis Inhibitory Protein'],Angiogenesis Inhibitory Protein,C1332295,1,1,0.0,0.0
+C1506376,B-Cell Antigen Receptor Complex-Associated Protein Beta Chain,gene_product_has_biochemical_function,['C0021072'],['Immunoprotein'],Immunoprotein,C0021072,1,1,0.0,0.0
+C1455461,E3 Ubiquitin-Protein Ligase RING2,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C2983090,Guanine Nucleotide-Binding Protein Subunit Alpha-11,gene_product_has_biochemical_function,['C0018296'],['GTPase'],GTPase,C0018296,1,1,0.0,0.0
+C3889642,Properdin,gene_product_has_biochemical_function,['C0009498'],['Complement'],Complement,C0009498,1,1,0.0,0.0
+C3831147,CFLAR Gene Product,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C0020843,IgD,gene_product_has_biochemical_function,['C0003241'],['Antibody'],Antibody,C0003241,1,1,0.0,0.0
+C0764906,OSA,gene_product_has_biochemical_function,['C0040648'],['Transcription Factor'],Transcription Factor,C0040648,1,1,0.0,0.0
+C1455524,DNA-Binding Protein Inhibitor ID-4,gene_product_has_biochemical_function,['C1336789'],['Transcription Repressor/Corepressor'],Transcription Repressor/Corepressor,C1336789,1,1,0.0,0.0
+C1506647,DNA-(Apurinic or Apyrimidinic Site) Lyase 2,gene_product_has_biochemical_function,"['C0020289', 'C1333236']","['Hydrolase', 'DNA Repair Endonuclease']",Hydrolase || DNA Repair Endonuclease,C0020289 || C1333236,2,2,0.0,0.0
+C3889282,Fermitin Family Homolog 2,gene_product_has_biochemical_function,['C1179132'],['Scaffolding Protein'],Scaffolding Protein,C1179132,1,1,0.0,0.0
+C0080058,p21 RAS Protein,gene_product_has_biochemical_function,['C0018296'],['GTPase'],GTPase,C0018296,1,1,0.0,0.0
+C0052451,Arylesterase,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1449159,C-C Motif Chemokine 2,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C0011522,Deoxyribonuclease,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1566790,Mothers Against Decapentaplegic Homolog 2,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C0674363,Probable ATP-Dependent RNA Helicase DDX6,gene_product_has_biochemical_function,"['C0001473', 'C1336788']","['ATPase', 'Transcription Regulatory Protein']",ATPase || Transcription Regulatory Protein,C0001473 || C1336788,2,2,0.0,0.0
+C5401453,Ras-Related Protein Rab-5B,gene_product_has_biochemical_function,['C0018296'],['GTPase'],GTPase,C0018296,1,1,0.0,0.0
+C1504769,DNA Fragmentation Factor Subunit Beta,gene_product_has_biochemical_function,"['C0020289', 'C1332322']","['Hydrolase', 'Apoptosis Promoter']",Hydrolase || Apoptosis Promoter,C0020289 || C1332322,2,2,0.0,0.0
+C1608817,Inhibin Beta E Chain,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C0388576,Proteasome Subunit Beta Type-10,gene_product_has_biochemical_function,['C0030946'],['Endopeptidase'],Endopeptidase,C0030946,1,1,0.0,0.0
+C1456335,Transcriptional Repressor CTCF,gene_product_has_biochemical_function,"['C1333030', 'C1336776', 'C1336789']","['Chromatin Remodeling Factor', 'Transcription Coactivator', 'Transcription Repressor/Corepressor']",Chromatin Remodeling Factor || Transcription Coactivator || Transcription Repressor/Corepressor,C1333030 || C1336776 || C1336789,3,3,0.0,0.0
+C0538294,CD166 Antigen,gene_product_has_biochemical_function,['C1334164'],['Immunoglobulin Family Protein'],Immunoglobulin Family Protein,C1334164,1,1,0.0,0.0
+C3642226,RET Gene Product,gene_product_has_biochemical_function,"['C0031727', 'C0034800']","['Kinase', 'Cell Surface Receptor']",Kinase || Cell Surface Receptor,C0031727 || C0034800,2,2,0.0,0.0
+C3275240,TCF3 Fusion Partner,gene_product_has_biochemical_function,"['C0815047', 'C1332322']","['Regulatory Protein', 'Apoptosis Promoter']",Regulatory Protein || Apoptosis Promoter,C0815047 || C1332322,2,2,0.0,0.0
+C0535837,Eyes Absent Homolog 1,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C0388246,Werner Syndrome ATP-Dependent Helicase,gene_product_has_biochemical_function,"['C0001473', 'C0012940', 'C0950448']","['ATPase', 'DNA Binding Protein', ""3'-5' Exonuclease""]",ATPase || DNA Binding Protein || 3'-5' Exonuclease,C0001473 || C0012940 || C0950448,3,3,0.0,0.0
+C1455357,Anion Exchange Protein 3,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C0246443,Cadherin-17,gene_product_has_biochemical_function,['C0006732'],['Calcium Binding Protein'],Calcium Binding Protein,C0006732,1,1,0.0,0.0
+C1453024,Succinate Dehydrogenase,gene_product_has_biochemical_function,['C0030016'],['Oxidoreductase'],Oxidoreductase,C0030016,1,1,0.0,0.0
+C2713376,Heparin Cofactor 2,gene_product_has_biochemical_function,['C0036764'],['Serpin'],Serpin,C0036764,1,1,0.0,0.0
+C0529119,Mothers Against Decapentaplegic Homolog 3,gene_product_has_biochemical_function,"['C0012940', 'C1336776']","['DNA Binding Protein', 'Transcription Coactivator']",DNA Binding Protein || Transcription Coactivator,C0012940 || C1336776,2,2,0.0,0.0
+C3810553,Sodium/Nucleoside Cotransporter 2,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C1138529,Microcephalin,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C1144191,Microphthalmia-Associated Transcription Factor,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C0025326,Human Menopausal Gonadotropin,gene_product_has_biochemical_function,['C0597192'],['Peptide Hormone'],Peptide Hormone,C0597192,1,1,0.0,0.0
+C4723706,Polypeptide N-Acetylgalactosaminyltransferase 12,gene_product_has_biochemical_function,['C0021699'],['Transmembrane Protein'],Transmembrane Protein,C0021699,1,1,0.0,0.0
+C3890045,C5a Anaphylatoxin,gene_product_has_biochemical_function,['C0009498'],['Complement Component Protein'],Complement Component Protein,C0009498,1,1,0.0,0.0
+C1533647,SRC Substrate Cortactin,gene_product_has_biochemical_function,['C0001239'],['Actin-Binding Protein'],Actin-Binding Protein,C0001239,1,1,0.0,0.0
+C0033679,Transglutaminase,gene_product_has_biochemical_function,['C0001390'],['Acyltransferase'],Acyltransferase,C0001390,1,1,0.0,0.0
+C4048587,Serotransferrin,gene_product_has_biochemical_function,['C0036825'],['Serum Protein'],Serum Protein,C0036825,1,1,0.0,0.0
+C1504735,Tumor Necrosis Factor Receptor Superfamily Member 17,gene_product_has_biochemical_function,"['C0034800', 'C1335962', 'C1564881']","['Cell Surface Receptor', 'Signaling Protein', 'Apoptosis Regulator']",Cell Surface Receptor || Signaling Protein || Apoptosis Regulator,C0034800 || C1335962 || C1564881,3,3,0.0,0.06666666526666669
+C0002059,Alkaline Phosphatase,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C3713834,Histone-Lysine N-Methyltransferase KMT5B,gene_product_has_biochemical_function,['C1333030'],['Chromatin Remodeling Factor'],Chromatin Remodeling Factor,C1333030,1,1,0.0,0.0
+C0758772,Myelin-Associated Glycoprotein,gene_product_has_biochemical_function,"['C0023206', 'C1334164']","['Lectin', 'Immunoglobulin Family Protein']",Lectin || Immunoglobulin Family Protein,C0023206 || C1334164,2,2,0.0,0.0
+C1742415,ADP-Ribosylation Factor 6,gene_product_has_biochemical_function,['C0018296'],['GTPase'],GTPase,C0018296,1,1,0.0,0.0
+C3715084,Artemin,gene_product_has_biochemical_function,"['C0040691', 'C0132298']","['Transforming Growth Factor', 'Neurotrophic Factor']",Transforming Growth Factor || Neurotrophic Factor,C0040691 || C0132298,2,2,0.0,0.0
+C0052128,Thrombin-Antithrombin Complex,gene_product_has_biochemical_function,['C0030940'],['Peptidase'],Peptidase,C0030940,1,1,0.0,0.0
+C1442821,Fos-Related Antigen 1,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1566530,Hairy/Enhancer-of-Split Related With YRPW Motif-Like Protein,gene_product_has_biochemical_function,['C1336789'],['Transcription Repressor/Corepressor'],Transcription Repressor/Corepressor,C1336789,1,1,0.0,0.0
+C0390071,C-C Motif Chemokine 13,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C1869169,Matrin-3,gene_product_has_biochemical_function,['C0028589'],['Nuclear Protein'],Nuclear Protein,C0028589,1,1,0.0,0.0
+C0763637,GTP-Binding Protein Di-Ras3,gene_product_has_biochemical_function,['C0018296'],['GTPase'],GTPase,C0018296,1,1,0.0,0.0
+C3888284,"Pro-Neuregulin-2, Membrane-Bound Isoform",gene_product_has_biochemical_function,['C0021699'],['Transmembrane Protein'],Transmembrane Protein,C0021699,1,1,0.0,0.0
+C1308614,Tumor Necrosis Factor Receptor Superfamily Member 11B,gene_product_has_biochemical_function,"['C0034800', 'C1564881']","['Cell Surface Receptor', 'Apoptosis Regulator']",Cell Surface Receptor || Apoptosis Regulator,C0034800 || C1564881,2,2,0.0,0.09999999790000004
+C1568182,Ataxin-1,gene_product_has_biochemical_function,['C0085177'],['RNA Binding Protein'],RNA Binding Protein,C0085177,1,1,0.0,0.0
+C0021037,"Immunoglobulin Light Chain, Lambda",gene_product_has_biochemical_function,"['C0021072', 'C0242210']","['Immunoprotein', 'Ligand Binding Protein']",Immunoprotein || Ligand Binding Protein,C0021072 || C0242210,2,2,0.0,0.0
+C3539602,"60 kDa Heat Shock Protein, Mitochondrial",gene_product_has_biochemical_function,"['C0007292', 'C0815047']","['Transport Protein', 'Regulatory Protein']",Transport Protein || Regulatory Protein,C0007292 || C0815047,2,2,0.0,0.0
+C0369073,Cytoplasmic Immunoglobulin,gene_product_has_biochemical_function,['C0003241'],['Antibody'],Antibody,C0003241,1,1,0.0,0.0
+C0765174,Nuclear Factor of Activated T-Cells 5,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C5202997,Ras-Related Protein Rab-44,gene_product_has_biochemical_function,['C0018296'],['GTPase'],GTPase,C0018296,1,1,0.0,0.0
+C4527150,LMNA Gene Product,gene_product_has_biochemical_function,['C1179132'],['Scaffolding Protein'],Scaffolding Protein,C1179132,1,1,0.0,0.0
+C0001942,Alcohol Dehydrogenase,gene_product_has_biochemical_function,['C0030016'],['Oxidoreductase'],Oxidoreductase,C0030016,1,1,0.0,0.0
+C1172384,Histone-Lysine N-Methyltransferase EZH2,gene_product_has_biochemical_function,"['C0012940', 'C1623167']","['DNA Binding Protein', 'Polycomb-Group Protein']",DNA Binding Protein || Polycomb-Group Protein,C0012940 || C1623167,2,2,0.0,0.0
+C0766894,Gamma-Aminobutyric Acid Type B Receptor Subunit 2,gene_product_has_biochemical_function,"['C0034800', 'C0120465']","['Cell Surface Receptor', 'Guanine Nucleotide Exchange Factor']",Cell Surface Receptor || Guanine Nucleotide Exchange Factor,C0034800 || C0120465,2,2,0.0,0.09999999790000004
+C0391783,Transcription Initiation Factor TFIID Subunit 5,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1448598,SKI-Like Protein,gene_product_has_biochemical_function,['C1336789'],['Transcription Repressor/Corepressor'],Transcription Repressor/Corepressor,C1336789,1,1,0.0,0.0
+C3887700,Angiostatin,gene_product_has_biochemical_function,"['C1332295', 'C1335962']","['Angiogenesis Inhibitory Protein', 'Signaling Protein']",Angiogenesis Inhibitory Protein || Signaling Protein,C1332295 || C1335962,2,2,0.0,0.0
+C0212768,Ubiquitin-Protein Ligase E3A,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C3272746,Eukaryotic Translation Initiation Factor 3 Subunit B,gene_product_has_biochemical_function,['C0085177'],['RNA Binding Protein'],RNA Binding Protein,C0085177,1,1,0.0,0.0
+C1308468,E3 Ubiquitin-Protein Ligase RNF5,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C3540629,"Diablo Homolog, Mitochondrial",gene_product_has_biochemical_function,"['C0815047', 'C1332322']","['Regulatory Protein', 'Apoptosis Promoter']",Regulatory Protein || Apoptosis Promoter,C0815047 || C1332322,2,2,0.0,0.0
+C0079785,Integrin AlphaM/Beta2,gene_product_has_biochemical_function,['C0007578'],['Cell Adhesion Molecule'],Cell Adhesion Molecule,C0007578,1,1,0.0,0.0
+C0282552,Beta Chemokine,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C0296863,DNA Replication Licensing Factor MCM5,gene_product_has_biochemical_function,"['C0012940', 'C0815047', 'C3658356']","['DNA Binding Protein', 'Regulatory Protein', 'MCM Protein']",DNA Binding Protein || Regulatory Protein || MCM Protein,C0012940 || C0815047 || C3658356,3,3,0.0,0.08333333177083335
+C1173600,E3 Ubiquitin-Protein Ligase XIAP,gene_product_has_biochemical_function,"['C0815047', 'C1332320', 'C1335962', 'C1621469']","['Regulatory Protein', 'Apoptosis Inhibitor', 'Signaling Protein', 'Ubiquitination Regulation Protein']",Regulatory Protein || Apoptosis Inhibitor || Signaling Protein || Ubiquitination Regulation Protein,C0815047 || C1332320 || C1335962 || C1621469,4,4,0.0,0.0
+C1309859,Angiomotin,gene_product_has_biochemical_function,['C0010852'],['Cytoskeletal Protein'],Cytoskeletal Protein,C0010852,1,1,0.0,0.0
+C3273634,Protein SSXT,gene_product_has_biochemical_function,['C1336776'],['Transcription Coactivator'],Transcription Coactivator,C1336776,1,1,0.0,0.0
+C0064839,Leukoregulin,gene_product_has_biochemical_function,['C0024297'],['Lymphokine'],Lymphokine,C0024297,1,1,0.0,0.0
+C1436357,E3 Ubiquitin-Protein Ligase SIAH2,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C4049828,Retinoic Acid Receptor Alpha Isoform Alpha-2,gene_product_has_biochemical_function,"['C0012940', 'C0019929', 'C1336776']","['DNA Binding Protein', 'Hormone Receptor', 'Transcription Coactivator']",DNA Binding Protein || Hormone Receptor || Transcription Coactivator,C0012940 || C0019929 || C1336776,3,3,0.0,0.08333333208333335
+C1744088,Cathepsin K,gene_product_has_biochemical_function,['C2717970'],['Cysteine Proteinase'],Cysteine Proteinase,C2717970,1,1,0.0,0.0
+C1622222,Proto-Oncogene Mas,gene_product_has_biochemical_function,"['C0034800', 'C0120465']","['Cell Surface Receptor', 'Guanine Nucleotide Exchange Factor']",Cell Surface Receptor || Guanine Nucleotide Exchange Factor,C0034800 || C0120465,2,2,0.0,0.0
+C1336610,Transcription Initiation Factor IIA Subunit 1,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1608576,Fascin,gene_product_has_biochemical_function,['C0001239'],['Actin-Binding Protein'],Actin-Binding Protein,C0001239,1,1,0.0,0.0
+C2716679,PH Domain Leucine-Rich Repeat-Containing Protein Phosphatase 2,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C3529801,Proteasome Subunit Alpha Type-5,gene_product_has_biochemical_function,['C0030946'],['Endopeptidase'],Endopeptidase,C0030946,1,1,0.0,0.0
+C3539570,Hairy/Enhancer-of-Split Related with YRPW Motif Protein 1,gene_product_has_biochemical_function,['C1336789'],['Transcription Repressor/Corepressor'],Transcription Repressor/Corepressor,C1336789,1,1,0.0,0.0
+C1336580,Transcription Initiation Factor TFIID Subunit 11,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C0054871,Cathepsin L1,gene_product_has_biochemical_function,['C2717970'],['Cysteine Proteinase'],Cysteine Proteinase,C2717970,1,1,0.0,0.0
+C1610523,Cadherin-11,gene_product_has_biochemical_function,['C0006732'],['Calcium Binding Protein'],Calcium Binding Protein,C0006732,1,1,0.0,0.0
+C1523975,Poly(A) Polymerase Gamma,gene_product_has_biochemical_function,['C0031727'],['Kinase'],Kinase,C0031727,1,1,0.0,0.0
+C0217511,NK-Tumor Recognition Protein,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C0255034,Signal Transducer and Activator of Transcription 4,gene_product_has_biochemical_function,"['C0012940', 'C1335962']","['DNA Binding Protein', 'Signaling Protein']",DNA Binding Protein || Signaling Protein,C0012940 || C1335962,2,2,0.0,0.0
+C1452695,E3 Ubiquitin-Protein Ligase CBL-B,gene_product_has_biochemical_function,"['C0242210', 'C1621469']","['Ligand Binding Protein', 'Ubiquitination Regulation Protein']",Ligand Binding Protein || Ubiquitination Regulation Protein,C0242210 || C1621469,2,2,0.0,0.0
+C2716213,Pogo Transposable Element With ZNF Domain,gene_product_has_biochemical_function,"['C0012940', 'C0815047']","['DNA Binding Protein', 'Regulatory Protein']",DNA Binding Protein || Regulatory Protein,C0012940 || C0815047,2,2,0.0,0.0
+C0077678,E3 Ubiquitin-Protein Transferase,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C1336786,General Transcription Factor IIF Subunit 1,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1698754,Interleukin-6,gene_product_has_biochemical_function,['C1334961'],['Neuropoietic Cytokine'],Neuropoietic Cytokine,C1334961,1,1,0.0,0.0
+C0074398,Serum Response Factor,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C4083254,Zinc Finger E-Box-Binding Homeobox 1,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1438619,Tumor Necrosis Factor Receptor Superfamily Member 12A,gene_product_has_biochemical_function,"['C0034800', 'C1332296', 'C1564881']","['Cell Surface Receptor', 'Angiogenesis Promoter', 'Apoptosis Regulator']",Cell Surface Receptor || Angiogenesis Promoter || Apoptosis Regulator,C0034800 || C1332296 || C1564881,3,3,0.0,0.06666666526666669
+C0534164,Transcription Factor Dp-1,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1308290,C-C Motif Chemokine 15,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C1175582,Protein Polybromo-1,gene_product_has_biochemical_function,['C1333030'],['Chromatin Remodeling Factor'],Chromatin Remodeling Factor,C1333030,1,1,0.0,0.0
+C1530795,BH3-Interacting Domain Death Agonist,gene_product_has_biochemical_function,"['C0815047', 'C1332322', 'C1335962']","['Regulatory Protein', 'Apoptosis Promoter', 'Signaling Protein']",Regulatory Protein || Apoptosis Promoter || Signaling Protein,C0815047 || C1332322 || C1335962,3,3,0.0,0.0
+C3889162,Leukotriene A-4 Hydrolase,gene_product_has_biochemical_function,['C0025543'],['Metallopeptidase'],Metallopeptidase,C0025543,1,1,0.0,0.0
+C1333809,Transcription Initiation Factor IIB,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1739021,M-Phase Inducer Phosphatase 1,gene_product_has_biochemical_function,"['C0020289', 'C0815047']","['Hydrolase', 'Regulatory Protein']",Hydrolase || Regulatory Protein,C0020289 || C0815047,2,2,0.0,0.0
+C0259073,Transcription Factor GATA-5,gene_product_has_biochemical_function,"['C0012940', 'C1333662']","['DNA Binding Protein', 'Gata-Binding Protein']",DNA Binding Protein || Gata-Binding Protein,C0012940 || C1333662,2,2,0.0,0.0
+C0056195,C4d,gene_product_has_biochemical_function,['C0009498'],['Complement'],Complement,C0009498,1,1,0.0,0.0
+C1431899,RelA-Associated Inhibitor,gene_product_has_biochemical_function,"['C0815047', 'C1336789']","['Regulatory Protein', 'Transcription Repressor/Corepressor']",Regulatory Protein || Transcription Repressor/Corepressor,C0815047 || C1336789,2,2,0.0,0.0
+C0656393,Chromaffin Granule Amine Transporter,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C1333807,General Transcription Factor 3C Polypeptide 3,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1448177,Tumor Necrosis Factor,gene_product_has_biochemical_function,"['C1332322', 'C1564881']","['Apoptosis Promoter', 'Apoptosis Regulator']",Apoptosis Promoter || Apoptosis Regulator,C1332322 || C1564881,2,2,0.0,0.0
+C1569967,Krueppel-Like Factor 1,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C0054450,Calcineurin,gene_product_has_biochemical_function,['C0031686'],['Phosphoprotein Phosphatase'],Phosphoprotein Phosphatase,C0031686,1,1,0.0,0.0
+C0172982,Zuotin,gene_product_has_biochemical_function,['C1337041'],['Z-DNA Binding Protein'],Z-DNA Binding Protein,C1337041,1,1,0.0,0.0
+C0138318,Vasopressin-Neurophysin 2-Copeptin,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C1514431,DNA Primase Large Subunit,gene_product_has_biochemical_function,"['C0031727', 'C0035681', 'C0815047']","['Kinase', 'RNA Polymerase', 'Regulatory Protein']",Kinase || RNA Polymerase || Regulatory Protein,C0031727 || C0035681 || C0815047,3,3,0.0,0.0
+C0035685,RNA-Directed RNA Polymerase,gene_product_has_biochemical_function,['C0031727'],['Kinase'],Kinase,C0031727,1,1,0.0,0.0
+C3539849,AT-Rich Interactive Domain-Containing Protein 1B,gene_product_has_biochemical_function,['C1333030'],['Chromatin Remodeling Factor'],Chromatin Remodeling Factor,C1333030,1,1,0.0,0.0
+C1335599,RAS Superfamily Protein,gene_product_has_biochemical_function,['C0018296'],['GTPase'],GTPase,C0018296,1,1,0.0,0.0
+C3811771,DNA Polymerase Epsilon Catalytic Subunit A,gene_product_has_biochemical_function,['C0031727'],['Kinase'],Kinase,C0031727,1,1,0.0,0.0
+C0919503,Friend Leukemia Integration 1 Transcription Factor,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1522039,Poly(A) Polymerase Alpha,gene_product_has_biochemical_function,['C0031727'],['Kinase'],Kinase,C0031727,1,1,0.0,0.0
+C4285649,Immunoglobulin Heavy Variable 3-21,gene_product_has_biochemical_function,['C0021072'],['Immunoprotein'],Immunoprotein,C0021072,1,1,0.0,0.0
+C1567879,Roundabout Homolog 3,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C0076560,Thrombospondin,gene_product_has_biochemical_function,"['C0007578', 'C1332295']","['Cell Adhesion Molecule', 'Angiogenesis Inhibitory Protein']",Cell Adhesion Molecule || Angiogenesis Inhibitory Protein,C0007578 || C1332295,2,2,0.0,0.0
+C2350551,Transcription Factor SOX-18,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C3273813,"Cytochrome b-c1 Complex Subunit 6, Mitochondrial",gene_product_has_biochemical_function,['C1179132'],['Scaffolding Protein'],Scaffolding Protein,C1179132,1,1,0.0,0.0
+C4330732,NFKB1 Gene Product,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C4725737,ALK Gene Product,gene_product_has_biochemical_function,['C0031727'],['Kinase'],Kinase,C0031727,1,1,0.0,0.0
+C0144227,Swi3p,gene_product_has_biochemical_function,['C0040648'],['Transcription Factor'],Transcription Factor,C0040648,1,1,0.0,0.0
+C1453193,Granulins,gene_product_has_biochemical_function,['C0018284'],['Growth Factor'],Growth Factor,C0018284,1,1,0.0,0.0
+C0005290,Beta Tubulin,gene_product_has_biochemical_function,['C1179132'],['Scaffolding Protein'],Scaffolding Protein,C1179132,1,1,0.0,0.0
+C0220528,Pre-B-Cell Leukemia Transcription Factor 1,gene_product_has_biochemical_function,"['C0012940', 'C0242617', 'C1335945']","['DNA Binding Protein', 'Homeobox Family Protein', 'Sequence-Specific DNA Binding Protein']",DNA Binding Protein || Homeobox Family Protein || Sequence-Specific DNA Binding Protein,C0012940 || C0242617 || C1335945,3,3,0.0,0.0
+C1611475,Cyclin-C,gene_product_has_biochemical_function,"['C0815047', 'C1336776']","['Regulatory Protein', 'Transcription Coactivator']",Regulatory Protein || Transcription Coactivator,C0815047 || C1336776,2,2,0.0,0.0
+C0291147,Tuberin,gene_product_has_biochemical_function,['C0242210'],['Ligand Binding Protein'],Ligand Binding Protein,C0242210,1,1,0.0,0.0
+C1098323,Phospholipase A and Acyltransferase 4,gene_product_has_biochemical_function,"['C0020289', 'C1335962']","['Hydrolase', 'Signaling Protein']",Hydrolase || Signaling Protein,C0020289 || C1335962,2,2,0.0,0.0
+C1310111,Cytokine Receptor-Like Factor 2,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C4086013,BCL2L1 Gene Product,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C3539558,Histone-Binding Protein RBBP4,gene_product_has_biochemical_function,['C1333030'],['Chromatin Remodeling Factor'],Chromatin Remodeling Factor,C1333030,1,1,0.0,0.0
+C4282429,Borealin,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C1431322,Musculin,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1504634,Telomeric Repeat-Binding Factor 1,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C3831456,ATP-Binding Cassette Sub-Family F Member 2,gene_product_has_biochemical_function,"['C0001473', 'C0031165']","['ATPase', 'Permease']",ATPase || Permease,C0001473 || C0031165,2,2,0.0,0.0
+C1615518,PC4 and SFRS1-Interacting Protein Isoform 2,gene_product_has_biochemical_function,['C1336776'],['Transcription Coactivator'],Transcription Coactivator,C1336776,1,1,0.0,0.0
+C4521279,Pituitary-Specific Positive Transcription Factor 1,gene_product_has_biochemical_function,"['C0012940', 'C1335945']","['DNA Binding Protein', 'Sequence-Specific DNA Binding Protein']",DNA Binding Protein || Sequence-Specific DNA Binding Protein,C0012940 || C1335945,2,2,0.0,0.0
+C1141639,Human Chorionic Gonadotropin,gene_product_has_biochemical_function,['C0597192'],['Peptide Hormone'],Peptide Hormone,C0597192,1,1,0.0,0.0
+C1450815,Probable Helicase Senataxin,gene_product_has_biochemical_function,['C0001473'],['ATPase'],ATPase,C0001473,1,1,0.0,0.0
+C0390803,Cullin-1,gene_product_has_biochemical_function,['C1179132'],['Scaffolding Protein'],Scaffolding Protein,C1179132,1,1,0.0,0.0
+C1530719,Erythroid Transcription Factor,gene_product_has_biochemical_function,"['C0012940', 'C1333662']","['DNA Binding Protein', 'Gata-Binding Protein']",DNA Binding Protein || Gata-Binding Protein,C0012940 || C1333662,2,2,0.0,0.0
+C3884279,Epiregulin,gene_product_has_biochemical_function,['C0018284'],['Growth Factor'],Growth Factor,C0018284,1,1,0.0,0.0
+C1366394,Signal Transducer and Activator of Transcription 5A,gene_product_has_biochemical_function,"['C0012940', 'C1335962']","['DNA Binding Protein', 'Signaling Protein']",DNA Binding Protein || Signaling Protein,C0012940 || C1335962,2,2,0.0,0.0
+C4316928,Endothelin-2,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C1335804,SAGA,gene_product_has_biochemical_function,['C0062773'],['Histone Acetylase'],Histone Acetylase,C0062773,1,1,0.0,0.0
+C0883157,Inhibin A,gene_product_has_biochemical_function,['C0597192'],['Peptide Hormone'],Peptide Hormone,C0597192,1,1,0.0,0.0
+C1334837,Myelin Protein Zero-Like 1,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C0002318,Alpha Tubulin,gene_product_has_biochemical_function,['C1179132'],['Scaffolding Protein'],Scaffolding Protein,C1179132,1,1,0.0,0.0
+C3851417,Monocarboxylate Transporter 11,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C1528909,Transcription Factor Sp3,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C0068605,Neuromedin-U,gene_product_has_biochemical_function,['C0027895'],['Neuropeptide'],Neuropeptide,C0027895,1,1,0.0,0.0
+C1308524,E3 Ubiquitin-Protein Ligase TRIM13,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C0008586,Chromogranin,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C1334497,Malignant T Cell Amplified Sequence 1,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C4284130,Glutaminase Family,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C2347769,Chromobox Protein Homolog 5,gene_product_has_biochemical_function,"['C1333030', 'C1336789']","['Chromatin Remodeling Factor', 'Transcription Repressor/Corepressor']",Chromatin Remodeling Factor || Transcription Repressor/Corepressor,C1333030 || C1336789,2,2,0.0,0.0
+C2987161,Mastermind-Like Protein 2,gene_product_has_biochemical_function,['C1336776'],['Transcription Coactivator'],Transcription Coactivator,C1336776,1,1,0.0,0.0
+C0248587,Transcription Activator BRG1,gene_product_has_biochemical_function,"['C0001473', 'C0920283']","['ATPase', 'DNA Helicase']",ATPase || DNA Helicase,C0001473 || C0920283,2,2,0.0,0.0
+C2699340,Class E Basic Helix-Loop-Helix Protein 22,gene_product_has_biochemical_function,['C1336789'],['Transcription Repressor/Corepressor'],Transcription Repressor/Corepressor,C1336789,1,1,0.0,0.0
+C1335886,SWI2/SNF2,gene_product_has_biochemical_function,['C0040648'],['Transcription Factor'],Transcription Factor,C0040648,1,1,0.0,0.0
+C1432030,Zinc Transporter ZIP6,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C1308799,Protein CBFA2T3,gene_product_has_biochemical_function,['C1336789'],['Transcription Repressor/Corepressor'],Transcription Repressor/Corepressor,C1336789,1,1,0.0,0.0
+C1432368,Dual Specificity Protein Phosphatase 5,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C0147139,Thrombospondin-1,gene_product_has_biochemical_function,"['C0007578', 'C1332295']","['Cell Adhesion Molecule', 'Angiogenesis Inhibitory Protein']",Cell Adhesion Molecule || Angiogenesis Inhibitory Protein,C0007578 || C1332295,2,2,0.0,0.0
+C4727298,TNFRSF9 Gene Product,gene_product_has_biochemical_function,"['C0034800', 'C1564881']","['Cell Surface Receptor', 'Apoptosis Regulator']",Cell Surface Receptor || Apoptosis Regulator,C0034800 || C1564881,2,2,0.0,0.0
+C4049897,Insulin-Like Growth Factor 1 Receptor Beta Chain,gene_product_has_biochemical_function,"['C0031727', 'C0034800']","['Kinase', 'Cell Surface Receptor']",Kinase || Cell Surface Receptor,C0031727 || C0034800,2,2,0.0,0.09999999790000004
+C1435323,DnaJ Homolog Subfamily B Member 6,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C3887675,Plasminogen Activator Inhibitor 2,gene_product_has_biochemical_function,['C0036764'],['Serpin'],Serpin,C0036764,1,1,0.0,0.0
+C1335439,Polymerase,gene_product_has_biochemical_function,['C0031727'],['Kinase'],Kinase,C0031727,1,1,0.0,0.0
+C2984878,T-Box Transcription Factor TBX5,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C3539575,Cytokine Receptor-Like Factor 1,gene_product_has_biochemical_function,"['C0034800', 'C1334164']","['Cell Surface Receptor', 'Immunoglobulin Family Protein']",Cell Surface Receptor || Immunoglobulin Family Protein,C0034800 || C1334164,2,2,0.0,0.0
+C0010803,Cytokeratin,gene_product_has_biochemical_function,['C0582263'],['Structural Protein'],Structural Protein,C0582263,1,1,0.0,0.0
+C0172237,TFIIH,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1335540,Serine/Threonine Protein Phosphatase 2A Catalytic Subunit Beta Isoform,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1335555,Receptor-Type Tyrosine-Protein Phosphatase Gamma,gene_product_has_biochemical_function,"['C0020289', 'C0034800']","['Hydrolase', 'Cell Surface Receptor']",Hydrolase || Cell Surface Receptor,C0020289 || C0034800,2,2,0.0,0.0
+C0968435,Fc Receptor-Like Protein 5,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C0293686,Bcl2 Antagonist of Cell Death,gene_product_has_biochemical_function,"['C0242210', 'C0815047']","['Ligand Binding Protein', 'Regulatory Protein']",Ligand Binding Protein || Regulatory Protein,C0242210 || C0815047,2,2,0.0,0.0
+C1335370,Pathologic Ab-Ig Protein,gene_product_has_biochemical_function,['C0003241'],['Antibody'],Antibody,C0003241,1,1,0.0,0.0
+C1506359,Natural Killer Cells Antigen CD94,gene_product_has_biochemical_function,"['C0021072', 'C0034800']","['Immunoprotein', 'Cell Surface Receptor']",Immunoprotein || Cell Surface Receptor,C0021072 || C0034800,2,2,0.0,0.0
+C1454919,Frizzled-1,gene_product_has_biochemical_function,"['C0034800', 'C0120465']","['Cell Surface Receptor', 'Guanine Nucleotide Exchange Factor']",Cell Surface Receptor || Guanine Nucleotide Exchange Factor,C0034800 || C0120465,2,2,0.0,0.0
+C2351743,Alpha-Actinin-1,gene_product_has_biochemical_function,['C0001239'],['Actin-Binding Protein'],Actin-Binding Protein,C0001239,1,1,0.0,0.0
+C2720176,Nuclear Receptor Subfamily 2 Group C Member 2,gene_product_has_biochemical_function,"['C0012940', 'C0019929', 'C1335945']","['DNA Binding Protein', 'Hormone Receptor', 'Sequence-Specific DNA Binding Protein']",DNA Binding Protein || Hormone Receptor || Sequence-Specific DNA Binding Protein,C0012940 || C0019929 || C1335945,3,3,0.0,0.07407407292181072
+C1453427,C-C Chemokine Receptor-Like 2,gene_product_has_biochemical_function,"['C0034800', 'C0120465']","['Cell Surface Receptor', 'Guanine Nucleotide Exchange Factor']",Cell Surface Receptor || Guanine Nucleotide Exchange Factor,C0034800 || C0120465,2,2,0.0,0.0
+C1570559,DNA Polymerase Eta,gene_product_has_biochemical_function,['C0031727'],['Kinase'],Kinase,C0031727,1,1,0.0,0.0
+C0171196,DNA-3-Methyladenine Glycosylase,gene_product_has_biochemical_function,['C1366764'],['DNA Repair Protein'],DNA Repair Protein,C1366764,1,1,0.0,0.0
+C0001990,Aldolase,gene_product_has_biochemical_function,['C0024188'],['Lyase'],Lyase,C0024188,1,1,0.0,0.0
+C1958029,Histone H2A Deubiquitinase MYSM1,gene_product_has_biochemical_function,"['C1333030', 'C1333282']","['Chromatin Remodeling Factor', 'Deubiquitinating Enzyme']",Chromatin Remodeling Factor || Deubiquitinating Enzyme,C1333030 || C1333282,2,2,0.0,0.0
+C2700434,T-Lymphocyte Activation Antigen CD86,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C1528545,DNA dC to dU-Editing Enzyme APOBEC-3F,gene_product_has_biochemical_function,['C0010723'],['Cytidine Deaminase'],Cytidine Deaminase,C0010723,1,1,0.0,0.0
+C4724741,ALKATI Protein,gene_product_has_biochemical_function,['C0031727'],['Kinase'],Kinase,C0031727,1,1,0.0,0.0
+C4723120,Protein Tyrosine Phosphatase Type IVA 3,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C3540645,Tyrosyl-DNA Phosphodiesterase 1,gene_product_has_biochemical_function,"['C0015284', 'C0020289']","['DNA Exonuclease', 'Hydrolase']",DNA Exonuclease || Hydrolase,C0015284 || C0020289,2,2,0.0,0.0
+C0121472,Hepatocyte Nuclear Factor 3-Gamma,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C0294292,Zinc Finger and BTB Domain-Containing Protein 16,gene_product_has_biochemical_function,"['C0012940', 'C1336789']","['DNA Binding Protein', 'Transcription Repressor/Corepressor']",DNA Binding Protein || Transcription Repressor/Corepressor,C0012940 || C1336789,2,2,0.0,0.09999999790000004
+C0675313,ETS Homologous Factor,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1870006,Receptor-Type Tyrosine-Protein Phosphatase C,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1447047,Upstream Stimulatory Factor 2,gene_product_has_biochemical_function,"['C0012940', 'C1335945']","['DNA Binding Protein', 'Sequence-Specific DNA Binding Protein']",DNA Binding Protein || Sequence-Specific DNA Binding Protein,C0012940 || C1335945,2,2,0.0,0.0
+C1615557,Eosinophil Lysophospholipase,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C4318395,DNA Polymerase Epsilon Subunit 2,gene_product_has_biochemical_function,['C0031727'],['Kinase'],Kinase,C0031727,1,1,0.0,0.0
+C3273313,FK506-Binding Protein-Like,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C0676565,Cyclin-K,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C1528437,CD82 Antigen,gene_product_has_biochemical_function,['C0021699'],['Transmembrane Protein'],Transmembrane Protein,C0021699,1,1,0.0,0.0
+C1431473,Peptidyl-Prolyl Cis-Trans Isomerase D,gene_product_has_biochemical_function,['C0243041'],['Chaperone'],Chaperone,C0243041,1,1,0.0,0.0
+C0757844,Tumor Necrosis Factor Ligand Superfamily Member 13,gene_product_has_biochemical_function,['C1564881'],['Apoptosis Regulator'],Apoptosis Regulator,C1564881,1,1,0.0,0.0
+C1438672,Contactin-Associated Protein-Like 2,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C3539830,Solute Carrier Family 22 Member 1,gene_product_has_biochemical_function,['C1335132'],['Organic Cation Transporter'],Organic Cation Transporter,C1335132,1,1,0.0,0.0
+C0753749,Ficolin-2,gene_product_has_biochemical_function,['C0023206'],['Lectin'],Lectin,C0023206,1,1,0.0,0.0
+C0385910,Transcriptional Adapter 2-Alpha,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1335984,C-C Motif Chemokine 14,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C1382029,Adenylate Cyclase,gene_product_has_biochemical_function,"['C0024188', 'C1335962']","['Lyase', 'Signaling Protein']",Lyase || Signaling Protein,C0024188 || C1335962,2,2,0.0,0.0
+C3538745,Multidrug Resistance-Associated Protein 4,gene_product_has_biochemical_function,"['C0001473', 'C0031165']","['ATPase', 'Permease']",ATPase || Permease,C0001473 || C0031165,2,2,0.0,0.0
+C1707864,ERBB2 Gene Product,gene_product_has_biochemical_function,"['C0031727', 'C0034800', 'C0206454']","['Kinase', 'Cell Surface Receptor', 'Growth Factor Receptor']",Kinase || Cell Surface Receptor || Growth Factor Receptor,C0031727 || C0034800 || C0206454,3,3,0.0,0.0
+C3815595,Rho-Related GTP-Binding Protein RhoJ,gene_product_has_biochemical_function,['C0018296'],['GTPase'],GTPase,C0018296,1,1,0.0,0.0
+C1429361,Plastin-2,gene_product_has_biochemical_function,"['C0001239', 'C0006732']","['Actin-Binding Protein', 'Calcium Binding Protein']",Actin-Binding Protein || Calcium Binding Protein,C0001239 || C0006732,2,2,0.0,0.0
+C0671702,Tyrosine-Protein Phosphatase Non-Receptor Type Substrate 1,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C1172460,"High Affinity cAMP-Specific and IBMX-Insensitive 3',5'-Cyclic Phosphodiesterase 8B",gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C3853653,DNA Polymerase Beta,gene_product_has_biochemical_function,['C0031727'],['Kinase'],Kinase,C0031727,1,1,0.0,0.0
+C1137457,CCN Family Member 2,gene_product_has_biochemical_function,['C0599765'],['Heparin Binding Growth Factor'],Heparin Binding Growth Factor,C0599765,1,1,0.0,0.0
+C1439340,Sodium-Dependent Dopamine Transporter,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C3543836,C-X-C Motif Chemokine 16,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C1433276,ATP-Dependent DNA Helicase Q4,gene_product_has_biochemical_function,['C0001473'],['ATPase'],ATPase,C0001473,1,1,0.0,0.0
+C0259479,Polyphosphoinositide Phosphatase,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1870328,C-X-C Motif Chemokine 6,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C1336587,Transcription Initiation Factor TFIID Subunit 7-Like,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C0035681,RNA Polymerase,gene_product_has_biochemical_function,['C0031727'],['Kinase'],Kinase,C0031727,1,1,0.0,0.0
+C0024395,Lactate Dehydrogenase Isoenzyme 5,gene_product_has_biochemical_function,['C0030016'],['Oxidoreductase'],Oxidoreductase,C0030016,1,1,0.0,0.0
+C0072108,Proliferating Cell Nuclear Antigen,gene_product_has_biochemical_function,"['C0815047', 'C1366764']","['Regulatory Protein', 'DNA Repair Protein']",Regulatory Protein || DNA Repair Protein,C0815047 || C1366764,2,2,0.0,0.0
+C2987172,Prolow-Density Lipoprotein Receptor-Related Protein 1,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C1309784,Histone-Lysine N-Methyltransferase NSD2,gene_product_has_biochemical_function,['C1333030'],['Chromatin Remodeling Factor'],Chromatin Remodeling Factor,C1333030,1,1,0.0,0.0
+C0063690,Integrase,gene_product_has_biochemical_function,['C0028632'],['Nucleotidyltransferase'],Nucleotidyltransferase,C0028632,1,1,0.0,0.0
+C0243041,Chaperone,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C1336784,Transcription Initiation Factor IIA Beta Chain,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C0765587,ZBTB16/RARA Fusion Protein,gene_product_has_biochemical_function,['C1336789'],['Transcription Repressor/Corepressor'],Transcription Repressor/Corepressor,C1336789,1,1,0.0,0.0
+C0390769,Helicase-Like Transcription Factor,gene_product_has_biochemical_function,['C0001473'],['ATPase'],ATPase,C0001473,1,1,0.0,0.0
+C3542400,Cyclic AMP-Dependent Transcription Factor ATF-5,gene_product_has_biochemical_function,"['C0012940', 'C1335945', 'C1335962']","['DNA Binding Protein', 'Sequence-Specific DNA Binding Protein', 'Signaling Protein']",DNA Binding Protein || Sequence-Specific DNA Binding Protein || Signaling Protein,C0012940 || C1335945 || C1335962,3,3,0.0,0.0
+C1333650,Guanine Nucleotide-Binding Protein G(q) Subunit Alpha,gene_product_has_biochemical_function,['C0018296'],['GTPase'],GTPase,C0018296,1,1,0.0,0.0
+C1431547,Chromodomain-Helicase-DNA-Binding Protein 4,gene_product_has_biochemical_function,"['C0001473', 'C1333030']","['ATPase', 'Chromatin Remodeling Factor']",ATPase || Chromatin Remodeling Factor,C0001473 || C1333030,2,2,0.0,0.0
+C0965398,Fc Receptor-Like Protein 4,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C3253592,Multidrug and Toxin Extrusion Protein 2,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C0669417,Transcription Initiation Factor TFIID Subunit 2,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C0971008,E3 Ubiquitin-Protein Ligase MDM2,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C3539581,Sphingomyelin Phosphodiesterase 4,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C0671988,TATA-Binding Protein-Associated Factor 172,gene_product_has_biochemical_function,"['C0001473', 'C0012940']","['ATPase', 'DNA Binding Protein']",ATPase || DNA Binding Protein,C0001473 || C0012940,2,2,0.0,0.0
+C0388904,Dr1-Associated Corepressor,gene_product_has_biochemical_function,['C1336789'],['Transcription Repressor/Corepressor'],Transcription Repressor/Corepressor,C1336789,1,1,0.0,0.0
+C5202848,Tumor Necrosis Factor Receptor Superfamily Member 19L,gene_product_has_biochemical_function,"['C0034800', 'C1564881']","['Cell Surface Receptor', 'Apoptosis Regulator']",Cell Surface Receptor || Apoptosis Regulator,C0034800 || C1564881,2,2,0.0,0.09999999790000004
+C2984551,Bcl-2-Binding Component 3,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C5401408,Immunoglobulin Kappa Constant,gene_product_has_biochemical_function,['C0021072'],['Immunoprotein'],Immunoprotein,C0021072,1,1,0.0,0.0
+C1568630,Transcription Factor SOX-2,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1307598,Trans-Acting T-Cell-Specific Transcription Factor GATA-3,gene_product_has_biochemical_function,"['C0012940', 'C1333662']","['DNA Binding Protein', 'Gata-Binding Protein']",DNA Binding Protein || Gata-Binding Protein,C0012940 || C1333662,2,2,0.0,0.0
+C0663493,Pituitary Homeobox 2,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1453959,Sodium/Hydrogen Exchanger 1,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C4723709,Galactose-1-Phosphate Uridylyltransferase,gene_product_has_biochemical_function,['C0031727'],['Kinase'],Kinase,C0031727,1,1,0.0,0.0
+C1336702,Telomeric Repeat-Binding Factor 2,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C4045245,Ras-Related Protein Rab-12,gene_product_has_biochemical_function,['C0018296'],['GTPase'],GTPase,C0018296,1,1,0.0,0.0
+C1334632,"Beta-1,3-N-Acetylglucosaminyltransferase Manic Fringe",gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C3887682,Platelet Glycoprotein 4,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C1309526,Glycophorin-A,gene_product_has_biochemical_function,"['C0017954', 'C0021699']","['Glycophorin', 'Transmembrane Protein']",Glycophorin || Transmembrane Protein,C0017954 || C0021699,2,2,0.0,0.0
+C3539753,Ras-Related Protein Rab-5C,gene_product_has_biochemical_function,['C0018296'],['GTPase'],GTPase,C0018296,1,1,0.0,0.0
+C1432727,CD226 Antigen,gene_product_has_biochemical_function,['C1334164'],['Immunoglobulin Family Protein'],Immunoglobulin Family Protein,C1334164,1,1,0.0,0.0
+C1708810,Proto-Oncogene DBL,gene_product_has_biochemical_function,['C0120465'],['Guanine Nucleotide Exchange Factor'],Guanine Nucleotide Exchange Factor,C0120465,1,1,0.0,0.0
+C1504766,Histone Deacetylase 3,gene_product_has_biochemical_function,['C1333030'],['Chromatin Remodeling Factor'],Chromatin Remodeling Factor,C1333030,1,1,0.0,0.0
+C0021088,Inosine Monophosphate Dehydrogenase,gene_product_has_biochemical_function,['C0030016'],['Oxidoreductase'],Oxidoreductase,C0030016,1,1,0.0,0.0
+C2350360,Cytotoxic T-Lymphocyte Protein 4,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C1141015,Adenosine Nucleotide Transporter,gene_product_has_biochemical_function,['C0031165'],['Permease'],Permease,C0031165,1,1,0.0,0.0
+C3714923,Neuromedin-C,gene_product_has_biochemical_function,['C0027895'],['Neuropeptide'],Neuropeptide,C0027895,1,1,0.0,0.0
+C4520807,Lamin-A/C,gene_product_has_biochemical_function,"['C0133195', 'C1179132']","['Nuclear Matrix Protein', 'Scaffolding Protein']",Nuclear Matrix Protein || Scaffolding Protein,C0133195 || C1179132,2,2,0.0,0.0
+C1313262,Tumor Necrosis Factor Ligand Superfamily Member 18,gene_product_has_biochemical_function,['C1564881'],['Apoptosis Regulator'],Apoptosis Regulator,C1564881,1,1,0.0,0.0
+C1337113,BRAHMA,gene_product_has_biochemical_function,['C0040648'],['Transcription Factor'],Transcription Factor,C0040648,1,1,0.0,0.0
+C1455316,Alpha-1-Antitrypsin,gene_product_has_biochemical_function,['C0036764'],['Serpin'],Serpin,C0036764,1,1,0.0,0.0
+C1333808,General Transcription Factor 3C Polypeptide 5,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1433121,Transcription Factor HES-5,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1528383,Stromal Cell-Derived Factor 1,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C2713652,Histone Deacetylase 2,gene_product_has_biochemical_function,['C1333030'],['Chromatin Remodeling Factor'],Chromatin Remodeling Factor,C1333030,1,1,0.0,0.0
+C0673602,Solute Carrier Family 22 Member 18,gene_product_has_biochemical_function,"['C0021699', 'C1335132']","['Transmembrane Protein', 'Organic Cation Transporter']",Transmembrane Protein || Organic Cation Transporter,C0021699 || C1335132,2,2,0.0,0.0
+C1260069,Phosphatidylcholine Translocator ABCB4,gene_product_has_biochemical_function,"['C0001473', 'C0031165']","['ATPase', 'Permease']",ATPase || Permease,C0001473 || C0031165,2,2,0.0,0.0
+C1869547,Tyrosine-Protein Phosphatase Non-Receptor Type 12,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C0016006,Fibrinogen,gene_product_has_biochemical_function,['C0005789'],['Coagulation Factor'],Coagulation Factor,C0005789,1,1,0.0,0.0
+C1434703,Zinc Transporter ZIP4,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C1959210,Multidrug and Toxin Extrusion Protein 1,gene_product_has_biochemical_function,['C3897553'],['Solute Carrier Family'],Solute Carrier Family,C3897553,1,1,0.0,0.0
+C1436356,Poly [ADP-Ribose] Polymerase 2,gene_product_has_biochemical_function,['C0085249'],['Glycosyltransferase'],Glycosyltransferase,C0085249,1,1,0.0,0.0
+C3274839,C-C Motif Chemokine 28,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C1431403,Protocadherin-7,gene_product_has_biochemical_function,"['C0006631', 'C0006732']","['Cadherin', 'Calcium Binding Protein']",Cadherin || Calcium Binding Protein,C0006631 || C0006732,2,2,0.0,0.0
+C3850450,Integrin Alpha-6,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C1611071,"Eukaryotic Translation Initiation Factor 1A, X-Chromosomal",gene_product_has_biochemical_function,['C0085177'],['RNA Binding Protein'],RNA Binding Protein,C0085177,1,1,0.0,0.0
+C3537330,Phosphatidylinositol 3-Kinase Regulatory Subunit Beta,gene_product_has_biochemical_function,"['C0242210', 'C1335962']","['Ligand Binding Protein', 'Signaling Protein']",Ligand Binding Protein || Signaling Protein,C0242210 || C1335962,2,2,0.0,0.0
+C0069529,Myb Oncogene Protein,gene_product_has_biochemical_function,['C0040648'],['Transcription Factor'],Transcription Factor,C0040648,1,1,0.0,0.0
+C1435805,Transcription Factor GATA-4,gene_product_has_biochemical_function,"['C0012940', 'C1333662']","['DNA Binding Protein', 'Gata-Binding Protein']",DNA Binding Protein || Gata-Binding Protein,C0012940 || C1333662,2,2,0.0,0.0
+C0665823,Torsin-1A,gene_product_has_biochemical_function,"['C0001473', 'C0815047']","['ATPase', 'Regulatory Protein']",ATPase || Regulatory Protein,C0001473 || C0815047,2,2,0.0,0.0
+C5202874,Tumor Necrosis Factor Receptor Superfamily Member EDAR,gene_product_has_biochemical_function,"['C0034800', 'C1564881']","['Cell Surface Receptor', 'Apoptosis Regulator']",Cell Surface Receptor || Apoptosis Regulator,C0034800 || C1564881,2,2,0.0,0.09999999790000004
+C3273428,Eukaryotic Initiation Factor 4A-II,gene_product_has_biochemical_function,['C0084378'],['RNA Helicase'],RNA Helicase,C0084378,1,1,0.0,0.0
+C0216876,Myocyte-Specific Enhancer Factor 2C,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C0288972,BHLH Protein,gene_product_has_biochemical_function,['C0040648'],['Transcription Factor'],Transcription Factor,C0040648,1,1,0.0,0.0
+C3272719,Lysine-Specific Demethylase 6A,gene_product_has_biochemical_function,['C1333030'],['Chromatin Remodeling Factor'],Chromatin Remodeling Factor,C1333030,1,1,0.0,0.0
+C3541330,Kinesin-1 Heavy Chain,gene_product_has_biochemical_function,['C0026045'],['Microtubule Associated Protein'],Microtubule Associated Protein,C0026045,1,1,0.0,0.0
+C1429223,Iduronate 2-Sulfatase,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1333316,Dual-Specificity Phosphoprotein Phosphatase,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C2933578,E3 Ubiquitin-Protein Ligase RFWD3,gene_product_has_biochemical_function,"['C1563385', 'C1621469']","['Fanconi Anemia Complementation Group Protein', 'Ubiquitination Regulation Protein']",Fanconi Anemia Complementation Group Protein || Ubiquitination Regulation Protein,C1563385 || C1621469,2,2,0.0,0.0
+C3539848,Cadherin-23,gene_product_has_biochemical_function,['C0006732'],['Calcium Binding Protein'],Calcium Binding Protein,C0006732,1,1,0.0,0.0
+C3813596,26S Protease Regulatory Subunit 7,gene_product_has_biochemical_function,['C0001473'],['ATPase'],ATPase,C0001473,1,1,0.0,0.0
+C0147080,Tryptase,gene_product_has_biochemical_function,['C2717971'],['Serine Protease'],Serine Protease,C2717971,1,1,0.0,0.0
+C3657794,Intestine-Specific Homeobox,gene_product_has_biochemical_function,"['C0012940', 'C1335945']","['DNA Binding Protein', 'Sequence-Specific DNA Binding Protein']",DNA Binding Protein || Sequence-Specific DNA Binding Protein,C0012940 || C1335945,2,2,0.0,0.0
+C0126037,Hepatocyte Nuclear Factor 1-Beta,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1447996,Ectonucleotide Pyrophosphatase/Phosphodiesterase Family Member 3,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1259595,Tumor Necrosis Factor Receptor Superfamily Member 6B,gene_product_has_biochemical_function,"['C0034800', 'C1564881']","['Cell Surface Receptor', 'Apoptosis Regulator']",Cell Surface Receptor || Apoptosis Regulator,C0034800 || C1564881,2,2,0.0,0.09999999790000004
+C1723424,E3 Ubiquitin-Protein Ligase RNF130,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C3537354,Nuclear Transcription Factor Y Subunit Alpha,gene_product_has_biochemical_function,"['C0012940', 'C0108685']","['DNA Binding Protein', 'CCAAT Enhancer Binding Protein']",DNA Binding Protein || CCAAT Enhancer Binding Protein,C0012940 || C0108685,2,2,0.0,0.0
+C2746081,Transcription Factor 4,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1335132,Organic Cation Transporter,gene_product_has_biochemical_function,['C0007292'],['Transport Protein'],Transport Protein,C0007292,1,1,0.0,0.0
+C1698756,Interleukin-8,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C3273784,Sentrin-Specific Protease 6,gene_product_has_biochemical_function,['C0030946'],['Endopeptidase'],Endopeptidase,C0030946,1,1,0.0,0.0
+C0913648,T-Box Transcription Factor TBX21,gene_product_has_biochemical_function,"['C0012940', 'C1335945']","['DNA Binding Protein', 'Sequence-Specific DNA Binding Protein']",DNA Binding Protein || Sequence-Specific DNA Binding Protein,C0012940 || C1335945,2,2,0.0,0.0
+C1173804,N-Lysine Methyltransferase KMT5A,gene_product_has_biochemical_function,['C1333030'],['Chromatin Remodeling Factor'],Chromatin Remodeling Factor,C1333030,1,1,0.0,0.0
+C3887812,Substance P,gene_product_has_biochemical_function,['C0027895'],['Neuropeptide'],Neuropeptide,C0027895,1,1,0.0,0.0
+C1448137,Transcriptional-Regulating Factor 1,gene_product_has_biochemical_function,['C1336776'],['Transcription Coactivator'],Transcription Coactivator,C1336776,1,1,0.0,0.0
+C3711758,Nestin,gene_product_has_biochemical_function,['C1179132'],['Scaffolding Protein'],Scaffolding Protein,C1179132,1,1,0.0,0.0
+C1173181,Zinc Finger Protein 224,gene_product_has_biochemical_function,['C1336789'],['Transcription Repressor/Corepressor'],Transcription Repressor/Corepressor,C1336789,1,1,0.0,0.0
+C1332336,Aryl Hydrocarbon Receptor Nuclear Translocator 2,gene_product_has_biochemical_function,"['C0012940', 'C0242210', 'C0288972', 'C3811709']","['DNA Binding Protein', 'Ligand Binding Protein', 'BHLH Protein', 'Hypoxia Inducible Factor Family']",DNA Binding Protein || Ligand Binding Protein || BHLH Protein || Hypoxia Inducible Factor Family,C0012940 || C0242210 || C0288972 || C3811709,4,4,0.0,0.0
+C0758584,Stanniocalcin-2,gene_product_has_biochemical_function,['C0597192'],['Peptide Hormone'],Peptide Hormone,C0597192,1,1,0.0,0.0
+C1321894,Menin,gene_product_has_biochemical_function,['C1336789'],['Transcription Repressor/Corepressor'],Transcription Repressor/Corepressor,C1336789,1,1,0.0,0.0
+C0966598,Transcription Factor TFIIIB Component B'' homolog,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1436698,BMP and Activin Membrane-Bound Inhibitor Homolog,gene_product_has_biochemical_function,['C1333312'],['Dominant Negative Receptor'],Dominant Negative Receptor,C1333312,1,1,0.0,0.0
+C0062507,Heparinase,gene_product_has_biochemical_function,['C0024188'],['Lyase'],Lyase,C0024188,1,1,0.0,0.0
+C5401222,Mitochondrial Import Inner Membrane Translocase Subunit TIM14,gene_product_has_biochemical_function,"['C0058610', 'C0815047']","['DNAJ Protein', 'Regulatory Protein']",DNAJ Protein || Regulatory Protein,C0058610 || C0815047,2,2,0.0,0.0
+C2698218,E3 Ubiquitin-Protein Ligase Midline-1,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C0294361,Cardiotrophin-1,gene_product_has_biochemical_function,['C0079189'],['Cytokine'],Cytokine,C0079189,1,1,0.0,0.0
+C1333192,Cytidylyltransferase,gene_product_has_biochemical_function,"['C0028632', 'C0031727']","['Nucleotidyltransferase', 'Phosphotransferase']",Nucleotidyltransferase || Phosphotransferase,C0028632 || C0031727,2,2,0.0,0.0
+C1142673,Filamin-C,gene_product_has_biochemical_function,['C0001239'],['Actin-Binding Protein'],Actin-Binding Protein,C0001239,1,1,0.0,0.0
+C1333478,Ets Translocation Variant 1,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C1334394,Licensing Factor,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C0017040,Gamma-Glutamyl Transpeptidase,gene_product_has_biochemical_function,"['C0001390', 'C0030940']","['Acyltransferase', 'Peptidase']",Acyltransferase || Peptidase,C0001390 || C0030940,2,2,0.0,0.0
+C0015296,Exonuclease,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1333479,Ets Translocation Variant 4,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C3811246,Tropomyosin Alpha-1 Chain,gene_product_has_biochemical_function,['C0001239'],['Actin-Binding Protein'],Actin-Binding Protein,C0001239,1,1,0.0,0.0
+C0663932,Antileukoproteinase,gene_product_has_biochemical_function,['C0036733'],['Serine Proteinase Inhibitor Protein'],Serine Proteinase Inhibitor Protein,C0036733,1,1,0.0,0.0
+C3541262,Proteasome Assembly Chaperone 2,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C3641900,INPP5D Gene Product,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1504635,Tumor Necrosis Factor Receptor Superfamily Member 10A,gene_product_has_biochemical_function,"['C0034800', 'C1564881']","['Cell Surface Receptor', 'Apoptosis Regulator']",Cell Surface Receptor || Apoptosis Regulator,C0034800 || C1564881,2,2,0.0,0.09999999790000004
+C0759781,ATP-Binding Cassette Sub-Family D Member 1,gene_product_has_biochemical_function,"['C0001473', 'C0031165']","['ATPase', 'Permease']",ATPase || Permease,C0001473 || C0031165,2,2,0.0,0.0
+C4283937,Melanoma Antigen Preferentially Expressed in Tumors,gene_product_has_biochemical_function,"['C1332320', 'C1336789']","['Apoptosis Inhibitor', 'Transcription Repressor/Corepressor']",Apoptosis Inhibitor || Transcription Repressor/Corepressor,C1332320 || C1336789,2,2,0.0,0.0
+C1454645,Tumor Necrosis Factor Receptor Superfamily Member 6,gene_product_has_biochemical_function,"['C0034800', 'C1564881']","['Cell Surface Receptor', 'Apoptosis Regulator']",Cell Surface Receptor || Apoptosis Regulator,C0034800 || C1564881,2,2,0.0,0.09999999790000004
+C2000386,Chromodomain-Helicase-DNA-Binding Protein 8,gene_product_has_biochemical_function,"['C0001473', 'C1333030']","['ATPase', 'Chromatin Remodeling Factor']",ATPase || Chromatin Remodeling Factor,C0001473 || C1333030,2,2,0.0,0.0
+C1611622,"Keratin, Type I Cytoskeletal 14",gene_product_has_biochemical_function,['C1179132'],['Scaffolding Protein'],Scaffolding Protein,C1179132,1,1,0.0,0.0
+C1570131,Inhibin Beta A Chain,gene_product_has_biochemical_function,['C1335962'],['Signaling Protein'],Signaling Protein,C1335962,1,1,0.0,0.0
+C1741198,E3 Ubiquitin-Protein Ligase MIB1,gene_product_has_biochemical_function,['C1621469'],['Ubiquitination Regulation Protein'],Ubiquitination Regulation Protein,C1621469,1,1,0.0,0.0
+C2985133,Fanconi-Associated Nuclease 1,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1566918,Tartrate-Resistant Acid Phosphatase Type 5,gene_product_has_biochemical_function,"['C0014894', 'C0020289']","['Esterase', 'Hydrolase']",Esterase || Hydrolase,C0014894 || C0020289,2,2,0.0,0.0
+C0971458,Fc Receptor-Like Protein 2,gene_product_has_biochemical_function,['C0034800'],['Cell Surface Receptor'],Cell Surface Receptor,C0034800,1,1,0.0,0.0
+C1434088,Protein-Arginine Deiminase Type-2,gene_product_has_biochemical_function,['C1333030'],['Chromatin Remodeling Factor'],Chromatin Remodeling Factor,C1333030,1,1,0.0,0.0
+C0121471,Hepatocyte Nuclear Factor 3-Beta,gene_product_has_biochemical_function,['C0012940'],['DNA Binding Protein'],DNA Binding Protein,C0012940,1,1,0.0,0.0
+C2605495,Cathepsin S,gene_product_has_biochemical_function,['C2717970'],['Cysteine Proteinase'],Cysteine Proteinase,C2717970,1,1,0.0,0.0
+C3893229,G1/S-Specific Cyclin-D1b,gene_product_has_biochemical_function,['C0815047'],['Regulatory Protein'],Regulatory Protein,C0815047,1,1,0.0,0.0
+C0246454,Probable Global Transcription Activator SNF2L2,gene_product_has_biochemical_function,['C0001473'],['ATPase'],ATPase,C0001473,1,1,0.0,0.0
+C3891562,CD45RB,gene_product_has_biochemical_function,['C0020289'],['Hydrolase'],Hydrolase,C0020289,1,1,0.0,0.0
+C1455125,Cadherin EGF LAG Seven-Pass G-Type Receptor 2,gene_product_has_biochemical_function,"['C0006732', 'C0034800', 'C0120465']","['Calcium Binding Protein', 'Cell Surface Receptor', 'Guanine Nucleotide Exchange Factor']",Calcium Binding Protein || Cell Surface Receptor || Guanine Nucleotide Exchange Factor,C0006732 || C0034800 || C0120465,3,3,0.0,0.06666666526666669

@@ -1,0 +1,957 @@
+head_cui,head_name,rel,tail_cuis_list,tail_names_list,tail_names,tail_cuis,tail_cuis_len,tail_names_len,avg_match,avg_rouge_l
+C0282651,Selectin,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2354682,Frizzled-8,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1566807,Mothers Against Decapentaplegic Homolog 5,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3899962,BTC Gene Product,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1332653,C-X-C Chemokine Receptor Type 6,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0755533,Fibroblast Growth Factor 18,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0294276,Epithelial Discoidin Domain-Containing Receptor 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4330732,NFKB1 Gene Product,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1504636,DNA Topoisomerase 2-Beta,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3815898,T-Box Transcription Factor TBX4,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1448189,Barttin,gene_product_has_associated_anatomy,"['C0007603', 'C0022009', 'C3161472']","['Plasma Membrane', 'Ion Channel', 'Cellular Membrane']",Plasma Membrane || Ion Channel || Cellular Membrane,C0007603 || C0022009 || C3161472,3,3,0.0,0.0
+C0250373,Myocyte-Specific Enhancer Factor 2D,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0667316,Afadin,gene_product_has_associated_anatomy,"['C0010853', 'C0230613']","['Cytoskeleton', 'Zonula Adherens']",Cytoskeleton || Zonula Adherens,C0010853 || C0230613,2,2,0.0,0.0
+C1435016,U2 Small Nuclear Ribonucleoprotein Auxiliary Factor 35 kDa Subunit-Related Protein 2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3815137,Probable ATP-Dependent RNA Helicase DDX52,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4082295,Metabotropic Glutamate Receptor 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2986601,Transient Receptor Potential Cation Channel Subfamily V Member 6,gene_product_has_associated_anatomy,"['C0017189', 'C0022009', 'C3161472']","['Gastrointestinal Tract', 'Ion Channel', 'Cellular Membrane']",Gastrointestinal Tract || Ion Channel || Cellular Membrane,C0017189 || C0022009 || C3161472,3,3,0.0,0.060606059614325074
+C3810534,Ephrin-B2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1257646,Serum Paraoxonase/Arylesterase 1,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C4723717,UMP-CMP Kinase,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1435775,Protein Wnt-10a,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1701550,Interleukin-1 Receptor Type 2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1527442,Interleukin Enhancer-Binding Factor 2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0145464,Transcription Factor E3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4724753,Histone H3-Like Centromeric Protein A,gene_product_has_associated_anatomy,"['C0007610', 'C0007709', 'C0008546', 'C0028623', 'C1383501', 'C1518457']","['Nucleus', 'Centromere', 'Chromatin', 'Nucleosome', 'Cytosol', 'Nucleosome Core Particle']",Nucleus || Centromere || Chromatin || Nucleosome || Cytosol || Nucleosome Core Particle,C0007610 || C0007709 || C0008546 || C0028623 || C1383501 || C1518457,6,6,0.0,0.0
+C0147139,Thrombospondin-1,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C1452363,F-Box Only Protein 5,gene_product_has_associated_anatomy,['C0026046'],['Microtubule'],Microtubule,C0026046,1,1,0.0,0.0
+C1436542,Glutathione Peroxidase 3,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0764082,FGFR1 Oncogene Partner,gene_product_has_associated_anatomy,['C0242608'],['Centrosome'],Centrosome,C0242608,1,1,0.0,0.0
+C0675313,ETS Homologous Factor,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0034806,Follicle-Stimulating Hormone Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C5202567,Krueppel-Like Factor 3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1435681,Homeobox Protein MSX-1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0300061,Centromere Protein F,gene_product_has_associated_anatomy,['C0028581'],['Nuclear Matrix'],Nuclear Matrix,C0028581,1,1,0.0,0.0
+C1333344,Epidermal Growth Factor Receptor Kinase Pathway Substrate 8-Like Protein 1,gene_product_has_associated_anatomy,['C0230613'],['Zonula Adherens'],Zonula Adherens,C0230613,1,1,0.0,0.0
+C0252032,Tyrosine-Protein Kinase Receptor TYRO3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4521276,Maternal Embryonic Leucine Zipper Kinase,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1141015,Adenosine Nucleotide Transporter,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C3712803,Insulin-Like Growth Factor I,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1100024,Interleukin-25,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0537987,Mucin-5B,gene_product_has_associated_anatomy,"['C0015352', 'C0026727']","['Extracellular Space', 'Mucus']",Extracellular Space || Mucus,C0015352 || C0026727,2,2,0.0,0.0
+C4722642,Histone H2A-Bbd Type 2/3,gene_product_has_associated_anatomy,"['C0007610', 'C0008546', 'C0028623', 'C1518457']","['Nucleus', 'Chromatin', 'Nucleosome', 'Nucleosome Core Particle']",Nucleus || Chromatin || Nucleosome || Nucleosome Core Particle,C0007610 || C0008546 || C0028623 || C1518457,4,4,0.0,0.0
+C0903677,Epithelial Cell Adhesion Molecule,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3275250,Calcium-Responsive Transactivator,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1144168,Leptin Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1334837,Myelin Protein Zero-Like 1,gene_product_has_associated_anatomy,"['C0007603', 'C0887870']","['Plasma Membrane', 'Focal Adhesion']",Plasma Membrane || Focal Adhesion,C0007603 || C0887870,2,2,0.0,0.0
+C3273490,Motor Neuron and Pancreas Homeobox Protein 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C5235419,Junctin-2,gene_product_has_associated_anatomy,"['C0021868', 'C0036226']","['Intracellular Membrane', 'Sarcoplasmic Reticulum']",Intracellular Membrane || Sarcoplasmic Reticulum,C0021868 || C0036226,2,2,0.0,0.0
+C1670125,Secretory Phospholipase A2 Receptor,gene_product_has_associated_anatomy,"['C0007603', 'C0015352']","['Plasma Membrane', 'Extracellular Space']",Plasma Membrane || Extracellular Space,C0007603 || C0015352,2,2,0.0,0.0
+C5400890,GDNF Family Receptor Alpha-Like,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1447703,Cyclic AMP-Responsive Element-Binding Protein 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4082275,Gastric Inhibitory Polypeptide Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C5238314,Proliferation-Associated Protein 2G4,gene_product_has_associated_anatomy,"['C0007609', 'C0007610']","['Nucleolus', 'Nucleus']",Nucleolus || Nucleus,C0007609 || C0007610,2,2,0.0,0.0
+C2746081,Transcription Factor 4,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1143721,Transducin-Like Enhancer Protein 4,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1453673,Clusterin,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C1431040,Mitogen-Activated Protein Kinase Kinase Kinase 13,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C1454788,SLIT-ROBO Rho GTPase-Activating Protein 2,gene_product_has_associated_anatomy,"['C0039062', 'C0230628']","['Synapse', 'Lamellipodia']",Synapse || Lamellipodia,C0039062 || C0230628,2,2,0.0,0.0
+C3811065,Beta-Secretase 2,gene_product_has_associated_anatomy,['C1513117'],['Membrane of the Golgi Apparatus'],Membrane of the Golgi Apparatus,C1513117,1,1,0.0,0.0
+C3539569,DNA-Binding Protein Inhibitor ID-3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0295892,Protein Wnt-7a,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1458135,14-3-3 Protein Theta,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C1448662,Non-Receptor Tyrosine-Protein Kinase TYK2,gene_product_has_associated_anatomy,"['C0007610', 'C1383501']","['Nucleus', 'Cytosol']",Nucleus || Cytosol,C0007610 || C1383501,2,2,0.0,0.0
+C2714958,Regenerating Islet-Derived Protein 3-Alpha,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C2700330,Zinc Finger Transcription Factor Trps1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1447107,Hepatocyte Growth Factor,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3640795,Homeobox Protein Nkx-2.5,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0296537,Killer Cell Immunoglobulin-Like Receptor 2DL3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0668015,Kunitz-Type Protease Inhibitor 1,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1611622,"Keratin, Type I Cytoskeletal 14",gene_product_has_associated_anatomy,"['C0010853', 'C0021770', 'C1268448']","['Cytoskeleton', 'Intermediate Filament', 'Keratin Filament']",Cytoskeleton || Intermediate Filament || Keratin Filament,C0010853 || C0021770 || C1268448,3,3,0.0,0.0
+C0021756,Interleukin-2,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C4288079,UPF0577 Protein KIAA1324,gene_product_has_associated_anatomy,"['C0007603', 'C0230812', 'C0887838', 'C1513117']","['Plasma Membrane', 'Membrane of the Lysosome', 'Trans-Golgi Network', 'Membrane of the Golgi Apparatus']",Plasma Membrane || Membrane of the Lysosome || Trans-Golgi Network || Membrane of the Golgi Apparatus,C0007603 || C0230812 || C0887838 || C1513117,4,4,0.0,0.0
+C0039602,3-Oxo-5-Alpha-Steroid 4-Dehydrogenase 2,gene_product_has_associated_anatomy,"['C0230790', 'C1325633']","['Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum']",Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum,C0230790 || C1325633,2,2,0.0,0.0
+C1334834,Muscarinic Acetylcholine Receptor M5,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3816729,Enhancer of Polycomb Homolog 1,gene_product_has_associated_anatomy,['C0028584'],['Nuclear Membrane'],Nuclear Membrane,C0028584,1,1,0.0,0.0
+C3273645,Suppressor of Fused Homolog,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C2743825,Histone-Lysine N-Methyltransferase KMT5C,gene_product_has_associated_anatomy,['C0019397'],['Heterochromatin'],Heterochromatin,C0019397,1,1,0.0,0.0
+C4724737,Transmembrane Protein 45B,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C2000427,OTU Domain-Containing Protein 5,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C4723825,Transcriptional Regulator Kaiso,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0078193,Versican Core Protein,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C1721673,Retinal Dehydrogenase 1,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C5202607,C-Type Lectin Domain Family 12 Member A,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1432030,Zinc Transporter ZIP6,gene_product_has_associated_anatomy,"['C0007603', 'C3161472']","['Plasma Membrane', 'Cellular Membrane']",Plasma Membrane || Cellular Membrane,C0007603 || C3161472,2,2,0.0,0.0
+C2985261,NUT Family Member 1,gene_product_has_associated_anatomy,['C0039597'],['Testis'],Testis,C0039597,1,1,0.0,0.0
+C3273516,LIM and SH3 Domain Protein 1,gene_product_has_associated_anatomy,"['C0010853', 'C3161472']","['Cytoskeleton', 'Cellular Membrane']",Cytoskeleton || Cellular Membrane,C0010853 || C3161472,2,2,0.0,0.0
+C3852391,Endothelin-3,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0082613,Protein FosB,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3491277,Myeloid Cell Surface Antigen CD33,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0667477,Tumor Necrosis Factor Receptor Superfamily Member 11A,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1869251,E3 Ubiquitin-Protein Ligase AMFR,gene_product_has_associated_anatomy,"['C0007603', 'C0230790', 'C1325633', 'C1521759']","['Plasma Membrane', 'Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum', 'Ring Finger Domain']",Plasma Membrane || Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum || Ring Finger Domain,C0007603 || C0230790 || C1325633 || C1521759,4,4,0.0,0.0
+C3275275,Angiopoietin-Related Protein 4,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3275259,Zinc Finger Protein 521,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1173190,Transcription Initiation Factor TFIID Subunit 12 Isoform TAFII20,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0005290,Beta Tubulin,gene_product_has_associated_anatomy,"['C0010853', 'C0026046']","['Cytoskeleton', 'Microtubule']",Cytoskeleton || Microtubule,C0010853 || C0026046,2,2,0.0,0.0
+C1528378,Interleukin-13 Receptor Subunit Alpha-1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3815886,SEC14-Like Protein 1,gene_product_has_associated_anatomy,"['C0018042', 'C3161472']","['Golgi Apparatus', 'Cellular Membrane']",Golgi Apparatus || Cellular Membrane,C0018042 || C3161472,2,2,0.0,0.0
+C4284026,Protein Disulfide-Isomerase A6,gene_product_has_associated_anatomy,['C0014239'],['Endoplasmic Reticulum'],Endoplasmic Reticulum,C0014239,1,1,0.0,0.0
+C1434703,Zinc Transporter ZIP4,gene_product_has_associated_anatomy,"['C0007603', 'C3161472']","['Plasma Membrane', 'Cellular Membrane']",Plasma Membrane || Cellular Membrane,C0007603 || C3161472,2,2,0.0,0.0
+C3539862,Complement C1q Subcomponent Subunit A,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3275253,Zinc Finger Protein 350,gene_product_has_associated_anatomy,"['C0007610', 'C0028581']","['Nucleus', 'Nuclear Matrix']",Nucleus || Nuclear Matrix,C0007610 || C0028581,2,2,0.0,0.0
+C0288450,Cryptochrome-1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3540574,"Bifunctional Methylenetetrahydrofolate Dehydrogenase/Cyclohydrolase, Mitochondrial",gene_product_has_associated_anatomy,['C0026237'],['Mitochondrion'],Mitochondrion,C0026237,1,1,0.0,0.0
+C2699064,Retinoic Acid-Induced Protein 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0135710,Programmed Cell Death Protein 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2984893,Forkhead Box Protein D3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3888276,1-Acyl-Sn-Glycerol-3-Phosphate Acyltransferase Epsilon,gene_product_has_associated_anatomy,"['C0230790', 'C0230839', 'C1325633']","['Membrane of the Smooth Endoplasmic Reticulum', 'Outer Mitochondrial Membrane', 'Membrane of the Rough Endoplasmic Reticulum']",Membrane of the Smooth Endoplasmic Reticulum || Outer Mitochondrial Membrane || Membrane of the Rough Endoplasmic Reticulum,C0230790 || C0230839 || C1325633,3,3,0.0,0.0
+C0009325,Collagen,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C4761481,Ubiquitin Carboxyl-Terminal Hydrolase Isozyme L5,gene_product_has_associated_anatomy,"['C0007610', 'C0208355']","['Nucleus', 'Proteasome']",Nucleus || Proteasome,C0007610 || C0208355,2,2,0.0,0.0
+C1568975,Cytokine Receptor Common Subunit Gamma,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0768285,C-C Motif Chemokine 27,gene_product_has_associated_anatomy,"['C0014597', 'C0015352', 'C3714787']","['Epithelial Cell', 'Extracellular Space', 'Central Nervous System']",Epithelial Cell || Extracellular Space || Central Nervous System,C0014597 || C0015352 || C3714787,3,3,0.0,0.0
+C3542427,Homeobox Protein Meis2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3887831,Fibroblast Growth Factor 21,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0763459,BCL2/Adenovirus E1B 19 kDa Protein-Interacting Protein 3,gene_product_has_associated_anatomy,['C0230839'],['Outer Mitochondrial Membrane'],Outer Mitochondrial Membrane,C0230839,1,1,0.0,0.0
+C0289408,Transcription Initiation Factor TFIID Subunit 10,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0665313,Cyclic AMP-Dependent Transcription Factor ATF-6 Alpha,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C5400893,Run Domain Beclin-1-Interacting and Cysteine-Rich Domain-Containing Protein,gene_product_has_associated_anatomy,"['C0024369', 'C0034850', 'C3161472']","['Lysosome', 'Endosome', 'Cellular Membrane']",Lysosome || Endosome || Cellular Membrane,C0024369 || C0034850 || C3161472,3,3,0.0,0.0
+C2349936,Non-POU Domain-Containing Octamer-Binding Protein,gene_product_has_associated_anatomy,['C0028581'],['Nuclear Matrix'],Nuclear Matrix,C0028581,1,1,0.0,0.0
+C4721818,CD97 Antigen,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0384822,Heat Shock Protein 105 kDa,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C3272503,RecQ-Mediated Genome Instability Protein 2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1506219,TGF-Beta Receptor Type-2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3812151,Advanced Glycosylation End Product-Specific Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4522182,"Branched-Chain-Amino-Acid Aminotransferase, Cytosolic",gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C3274827,SH3 and PX Domain-Containing Protein 2A,gene_product_has_associated_anatomy,"['C0010834', 'C0021721']","['Cytoplasm', 'Cell Junction']",Cytoplasm || Cell Junction,C0010834 || C0021721,2,2,0.0,0.0
+C1429990,Megakaryocyte-Potentiating Factor,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0122269,T-Cell Leukemia Homeobox Protein 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3538941,Carbonyl Reductase [NADPH] 3,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C3711287,Vasopressin V2 Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1434268,"1-Phosphatidylinositol 4,5-Bisphosphate Phosphodiesterase Epsilon-1",gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C2697614,Homeobox Protein ARX,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0905573,Developmentally-Regulated GTP-Binding Protein 1,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C3812672,Copine-1,gene_product_has_associated_anatomy,"['C2350332', 'C3161472']","['Exosome', 'Cellular Membrane']",Exosome || Cellular Membrane,C2350332 || C3161472,2,2,0.0,0.0
+C1308398,Toll-Like Receptor 5,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1334952,Neuregulin Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3541241,Tumor Necrosis Factor Receptor Superfamily Member 21,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0069304,"POU Domain, Class 5, Transcription Factor 1",gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1528383,Stromal Cell-Derived Factor 1,gene_product_has_associated_anatomy,"['C0014597', 'C0015352', 'C3714787']","['Epithelial Cell', 'Extracellular Space', 'Central Nervous System']",Epithelial Cell || Extracellular Space || Central Nervous System,C0014597 || C0015352 || C3714787,3,3,0.0,0.0
+C4553379,Apolipoprotein(a),gene_product_has_associated_anatomy,"['C0015352', 'C0064417']","['Extracellular Space', 'Kringle Domain']",Extracellular Space || Kringle Domain,C0015352 || C0064417,2,2,0.0,0.0
+C4284454,Complement C2,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C4521323,Thymosin Beta-4,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C1564968,Caveolin-2,gene_product_has_associated_anatomy,['C0230653'],['Caveola'],Caveola,C0230653,1,1,0.0,0.0
+C3814816,L-Lactate Dehydrogenase A Chain,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C1174250,Dipeptidyl Peptidase 9,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C3811218,Plexin-D1,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C1412022,Tumor Necrosis Factor Receptor Superfamily Member 3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3252286,Unconventional Myosin-If,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C4285219,Alpha-Soluble NSF Attachment Protein,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C1959210,Multidrug and Toxin Extrusion Protein 1,gene_product_has_associated_anatomy,"['C0007603', 'C3161472']","['Plasma Membrane', 'Cellular Membrane']",Plasma Membrane || Cellular Membrane,C0007603 || C3161472,2,2,0.0,0.0
+C1335132,Organic Cation Transporter,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C0378310,CCAAT/Enhancer Binding Protein Alpha,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0673013,G-Protein Coupled Estrogen Receptor 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1448657,Cell Cycle Checkpoint Control Protein RAD9A,gene_product_has_associated_anatomy,['C0682537'],['Nucleoplasm'],Nucleoplasm,C0682537,1,1,0.0,0.0
+C3811748,Cyclic GMP-AMP Synthase,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C1567287,TP53-Regulated Inhibitor of Apoptosis 1,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C3890046,Chymotrypsin-Like Elastase Family Member 1,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C2984583,Pappalysin-1,gene_product_has_associated_anatomy,['C0032043'],['Placenta'],Placenta,C0032043,1,1,0.0,0.0
+C3888272,Argininosuccinate Synthase,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C3272518,Sodium/Nucleoside Cotransporter 1,gene_product_has_associated_anatomy,"['C0007603', 'C0022646', 'C3161472']","['Plasma Membrane', 'Kidney', 'Cellular Membrane']",Plasma Membrane || Kidney || Cellular Membrane,C0007603 || C0022646 || C3161472,3,3,0.0,0.0
+C0293442,Major Vault Protein,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3273474,Cytospin-B,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4318399,Protein NYNRIN,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C1702088,Interleukin-5,gene_product_has_associated_anatomy,"['C0005953', 'C0015352']","['Bone Marrow', 'Extracellular Space']",Bone Marrow || Extracellular Space,C0005953 || C0015352,2,2,0.0,0.0
+C0034804,Estrogen Receptor Family,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C1431330,Aryl Hydrocarbon Receptor Nuclear Translocator-Like Protein 1,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C3537381,Plexin Domain-Containing Protein 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4724092,Glycerol-3-Phosphate Acyltransferase 3,gene_product_has_associated_anatomy,"['C0230790', 'C1325633']","['Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum']",Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum,C0230790 || C1325633,2,2,0.0,0.0
+C1439118,Voltage-Dependent L-Type Calcium Channel Subunit Alpha-1S,gene_product_has_associated_anatomy,"['C0007603', 'C0022009', 'C1704336', 'C3161472']","['Plasma Membrane', 'Ion Channel', 'Skeletal Muscle Cell', 'Cellular Membrane']",Plasma Membrane || Ion Channel || Skeletal Muscle Cell || Cellular Membrane,C0007603 || C0022009 || C1704336 || C3161472,4,4,0.0,0.06249999906250001
+C3537389,Calcium-Activated Potassium Channel Subunit Alpha-1,gene_product_has_associated_anatomy,"['C0007603', 'C0022009', 'C0230653', 'C1516036', 'C3161472']","['Plasma Membrane', 'Ion Channel', 'Caveola', 'Apical Domain of the Epithelium', 'Cellular Membrane']",Plasma Membrane || Ion Channel || Caveola || Apical Domain of the Epithelium || Cellular Membrane,C0007603 || C0022009 || C0230653 || C1516036 || C3161472,5,5,0.0,0.05714285632653062
+C1742828,Dixin,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C0245587,60S Ribosomal Protein L13,gene_product_has_associated_anatomy,['C0035553'],['Ribosome'],Ribosome,C0035553,1,1,0.0,0.0
+C0665692,Neuregulin-3,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3884530,Epigen,gene_product_has_associated_anatomy,"['C0007603', 'C0015352']","['Plasma Membrane', 'Extracellular Space']",Plasma Membrane || Extracellular Space,C0007603 || C0015352,2,2,0.0,0.0
+C0070926,Bifunctional Purine Biosynthesis Protein PURH,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C3273640,Protein SSX2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4330763,NXPE Family Member 1,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0962292,EMILIN-1,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C1448833,Calcium Signal-Modulating Cyclophilin Ligand,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C5234938,Neuromedin-B Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0530438,Ras-Responsive Element-Binding Protein 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1309784,Histone-Lysine N-Methyltransferase NSD2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3541315,SNRPN Upstream Reading Frame Protein,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4284637,Cystathionine Beta-Synthase,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C3813181,Protein HEXIM1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1312176,CUB and Sushi Domain-Containing Protein 3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1701032,Integrin Alpha-M,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1741739,Agouti-Related Protein,gene_product_has_associated_anatomy,"['C0015352', 'C0018042']","['Extracellular Space', 'Golgi Apparatus']",Extracellular Space || Golgi Apparatus,C0015352 || C0018042,2,2,0.0,0.0
+C1566598,Tryptophan 5-Hydroxylase 1,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C5399791,Ubiquitin Carboxyl-Terminal Hydrolase 32,gene_product_has_associated_anatomy,['C0018042'],['Golgi Apparatus'],Golgi Apparatus,C0018042,1,1,0.0,0.0
+C1741845,Nascent Polypeptide-Associated Complex Subunit Alpha,gene_product_has_associated_anatomy,"['C0010834', 'C3161472']","['Cytoplasm', 'Cellular Membrane']",Cytoplasm || Cellular Membrane,C0010834 || C3161472,2,2,0.0,0.0
+C0104364,APOBEC1 Complementation Factor,gene_product_has_associated_anatomy,"['C0007610', 'C0019397']","['Nucleus', 'Heterochromatin']",Nucleus || Heterochromatin,C0007610 || C0019397,2,2,0.0,0.0
+C3660488,Rho GTPase-Activating Protein 22,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C4724710,Teratocarcinoma-Derived Growth Factor 1,gene_product_has_associated_anatomy,"['C0007603', 'C0015352']","['Plasma Membrane', 'Extracellular Space']",Plasma Membrane || Extracellular Space,C0007603 || C0015352,2,2,0.0,0.0
+C3539733,Lysocardiolipin Acyltransferase 1,gene_product_has_associated_anatomy,['C0014239'],['Endoplasmic Reticulum'],Endoplasmic Reticulum,C0014239,1,1,0.0,0.0
+C0123156,DNA-Binding Protein Inhibitor ID-2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1570804,Cadherin-13,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3816455,Homeobox Protein SIX5,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0250455,Forkhead Box Protein O1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1448586,Homeobox Protein Hox-A5,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1098642,Solute Carrier Family 28 Member 3,gene_product_has_associated_anatomy,"['C0007603', 'C0230790', 'C1325633', 'C3161472']","['Plasma Membrane', 'Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum', 'Cellular Membrane']",Plasma Membrane || Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum || Cellular Membrane,C0007603 || C0230790 || C1325633 || C3161472,4,4,0.0,0.0
+C3889282,Fermitin Family Homolog 2,gene_product_has_associated_anatomy,"['C0036225', 'C0887870']","['Sarcomere', 'Focal Adhesion']",Sarcomere || Focal Adhesion,C0036225 || C0887870,2,2,0.0,0.0
+C1435659,Tumor Necrosis Factor Receptor Superfamily Member 16,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0961804,ICOS Ligand,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4318396,Protein MB21D2,gene_product_has_associated_anatomy,['C0230613'],['Zonula Adherens'],Zonula Adherens,C0230613,1,1,0.0,0.0
+C1701777,Ubiquitin-Like Modifier-Activating Enzyme ATG7,gene_product_has_associated_anatomy,['C3887595'],['Autophagosome'],Autophagosome,C3887595,1,1,0.0,0.0
+C1336837,Tumor Susceptibility Gene 101 Protein,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C4317106,Zinc Finger FYVE Domain-Containing Protein 9,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C1307053,Tyrosine-Protein Kinase CSK,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C0171406,NADH Dehydrogenase (Ubiquinone),gene_product_has_associated_anatomy,"['C0230840', 'C1512191']","['Inner Mitochondrial Membrane', 'Electron-Transport Chain of the Respiratory Enzymes']",Inner Mitochondrial Membrane || Electron-Transport Chain of the Respiratory Enzymes,C0230840 || C1512191,2,2,0.0,0.0
+C1457885,GDNF Family Receptor Alpha-2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0245557,Tumor-Associated Calcium Signal Transducer 2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0294292,Zinc Finger and BTB Domain-Containing Protein 16,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3275240,TCF3 Fusion Partner,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1312870,Sodium/Hydrogen Exchanger 9,gene_product_has_associated_anatomy,"['C1166848', 'C1179907', 'C3161472']","['Late Endosome', 'Membrane of the Endosome', 'Cellular Membrane']",Late Endosome || Membrane of the Endosome || Cellular Membrane,C1166848 || C1179907 || C3161472,3,3,0.0,0.0
+C1447045,Early Growth Response Protein 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3273678,Cellular Nucleic Acid-Binding Protein,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3899760,CLEC11A Gene Product,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3889653,Shelterin,gene_product_has_associated_anatomy,['C0085187'],['Telomere'],Telomere,C0085187,1,1,0.0,0.0
+C2827420,Cx9C Motif-Containing Protein 4,gene_product_has_associated_anatomy,['C1179889'],['Intermembrane Space of the Mitochondrion'],Intermembrane Space of the Mitochondrion,C1179889,1,1,0.0,0.0
+C1333901,HLA Class II Histocompatibility Antigen DRB,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0021764,Interleukin,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3539718,Ubiquilin-2,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C3893229,G1/S-Specific Cyclin-D1b,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0108801,Transferrin Receptor Protein 1,gene_product_has_associated_anatomy,"['C0007603', 'C3161472']","['Plasma Membrane', 'Cellular Membrane']",Plasma Membrane || Cellular Membrane,C0007603 || C3161472,2,2,0.0,0.0
+C1565925,Shugoshin 1,gene_product_has_associated_anatomy,"['C0007709', 'C0242608']","['Centromere', 'Centrosome']",Centromere || Centrosome,C0007709 || C0242608,2,2,0.0,0.0
+C3538965,Homeobox Protein Hox-B6,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3537349,Kinesin-Like Protein KIF2C,gene_product_has_associated_anatomy,"['C0007709', 'C0026046', 'C3161472']","['Centromere', 'Microtubule', 'Cellular Membrane']",Centromere || Microtubule || Cellular Membrane,C0007709 || C0026046 || C3161472,3,3,0.0,0.0
+C1528909,Transcription Factor Sp3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1567292,Myosin Phosphatase Rho-Interacting Protein,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C0029446,SPARC,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C1530758,Transcription Factor GATA-6,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1612111,Mucin-1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0249747,Protein DEK,gene_product_has_associated_anatomy,"['C0007610', 'C0008546']","['Nucleus', 'Chromatin']",Nucleus || Chromatin,C0007610 || C0008546,2,2,0.0,0.0
+C4723711,Inositol-Trisphosphate 3-Kinase B,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C1721045,Interleukin-7 Receptor Subunit Alpha,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1522145,Nuclear Factor 1 X-Type,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3811243,Usher Syndrome Type-1G Protein,gene_product_has_associated_anatomy,['C0230626'],['Stereocilium'],Stereocilium,C0230626,1,1,0.0,0.0
+C1609756,Pancreastatin,gene_product_has_associated_anatomy,['C0886515'],['Secretory Granule'],Secretory Granule,C0886515,1,1,0.0,0.0
+C4521281,A-Kinase Anchor Protein 6,gene_product_has_associated_anatomy,"['C0028584', 'C0036226']","['Nuclear Membrane', 'Sarcoplasmic Reticulum']",Nuclear Membrane || Sarcoplasmic Reticulum,C0028584 || C0036226,2,2,0.0,0.0
+C3486709,Brain-Derived Neurotrophic Factor,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1312700,"Fatty Acid-Binding Protein, Liver",gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C1447440,Cyclin-Dependent Kinase 3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1312389,Fos-Related Antigen 2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0075691,Syndecan,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2985458,"Nuclear Factor of Activated T-Cells, Cytoplasmic 2",gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1436698,BMP and Activin Membrane-Bound Inhibitor Homolog,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2350542,Transcription Factor SOX-11,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0282554,Chemokine,gene_product_has_associated_anatomy,"['C0014597', 'C0015352', 'C3714787']","['Epithelial Cell', 'Extracellular Space', 'Central Nervous System']",Epithelial Cell || Extracellular Space || Central Nervous System,C0014597 || C0015352 || C3714787,3,3,0.0,0.0
+C0069529,Myb Oncogene Protein,gene_product_has_associated_anatomy,['C1519125'],['SANT Domain'],SANT Domain,C1519125,1,1,0.0,0.0
+C1438376,Wiskott-Aldrich Syndrome Protein Family Member 3,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C1384573,Folate Receptor Alpha,gene_product_has_associated_anatomy,"['C0007603', 'C1518684']","['Plasma Membrane', 'Outer Leaflet of the Lipid Bilayer']",Plasma Membrane || Outer Leaflet of the Lipid Bilayer,C0007603 || C1518684,2,2,0.0,0.0
+C0216876,Myocyte-Specific Enhancer Factor 2C,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3813552,Voltage-Dependent T-Type Calcium Channel Subunit Alpha-1G,gene_product_has_associated_anatomy,"['C0007603', 'C0022009', 'C3161472']","['Plasma Membrane', 'Ion Channel', 'Cellular Membrane']",Plasma Membrane || Ion Channel || Cellular Membrane,C0007603 || C0022009 || C3161472,3,3,0.0,0.08333333208333335
+C3275239,Soluble Calcium-Activated Nucleotidase 1,gene_product_has_associated_anatomy,"['C0230790', 'C1325633', 'C1513117']","['Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum', 'Membrane of the Golgi Apparatus']",Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum || Membrane of the Golgi Apparatus,C0230790 || C1325633 || C1513117,3,3,0.0,0.0
+C0540760,Transcription Initiation Factor TFIID Subunit 9,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4289932,Bcl-2-Related Ovarian Killer Protein,gene_product_has_associated_anatomy,"['C0230790', 'C1325633', 'C1513117']","['Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum', 'Membrane of the Golgi Apparatus']",Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum || Membrane of the Golgi Apparatus,C0230790 || C1325633 || C1513117,3,3,0.0,0.0
+C1698205,Ubiquitin Carboxyl-Terminal Hydrolase 14,gene_product_has_associated_anatomy,['C0208355'],['Proteasome'],Proteasome,C0208355,1,1,0.0,0.0
+C1144195,Attractin,gene_product_has_associated_anatomy,"['C0007603', 'C0015352']","['Plasma Membrane', 'Extracellular Space']",Plasma Membrane || Extracellular Space,C0007603 || C0015352,2,2,0.0,0.0
+C1431526,Inositol Hexakisphosphate Kinase 1,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C3853627,Arylsulfatase A,gene_product_has_associated_anatomy,['C1179902'],['Lumen of the Lysosome'],Lumen of the Lysosome,C1179902,1,1,0.0,0.0
+C4521272,U11/U12 Small Nuclear Ribonucleoprotein 25 kDa Protein,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0250029,DNA Repair Protein XRCC1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C2983545,Placenta-Specific Gene 8 Protein,gene_product_has_associated_anatomy,['C1956385'],['Precursor of Plasmacytoid Dendritic Cell'],Precursor of Plasmacytoid Dendritic Cell,C1956385,1,1,0.0,0.0
+C0963236,Nischarin,gene_product_has_associated_anatomy,"['C0007603', 'C0034850']","['Plasma Membrane', 'Endosome']",Plasma Membrane || Endosome,C0007603 || C0034850,2,2,0.0,0.0
+C3538906,Protein Wnt-16,gene_product_has_associated_anatomy,"['C0015350', 'C0015352']","['Extracellular Matrix', 'Extracellular Space']",Extracellular Matrix || Extracellular Space,C0015350 || C0015352,2,2,0.0,0.0
+C1336585,Transcription Initiation Factor TFIID Subunit 4,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4283921,Complement C4-A,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3254418,Mineralocorticoid Receptor,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C4082263,Integrin Alpha-L,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0962150,Transcription Factor IIIB 50 kDa Subunit,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0017626,Glial Fibrillary Acidic Protein,gene_product_has_associated_anatomy,"['C0010853', 'C0021770']","['Cytoskeleton', 'Intermediate Filament']",Cytoskeleton || Intermediate Filament,C0010853 || C0021770,2,2,0.0,0.0
+C5400629,Transcription Factor Sp4,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1672521,"Keratin, Type I Cytoskeletal 16",gene_product_has_associated_anatomy,"['C0010853', 'C0021770', 'C1268448']","['Cytoskeleton', 'Intermediate Filament', 'Keratin Filament']",Cytoskeleton || Intermediate Filament || Keratin Filament,C0010853 || C0021770 || C1268448,3,3,0.0,0.0
+C1506531,Interferon Regulatory Factor 9,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1871221,Calcium/Calmodulin-Dependent Protein Kinase Type 1,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C1447799,Glutathione S-Transferase Theta-1,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C1452369,Sodium Channel Protein Type 9 Subunit Alpha,gene_product_has_associated_anatomy,"['C0007603', 'C0022009', 'C3161472']","['Plasma Membrane', 'Ion Channel', 'Cellular Membrane']",Plasma Membrane || Ion Channel || Cellular Membrane,C0007603 || C0022009 || C3161472,3,3,0.0,0.07407407292181072
+C0378781,T-Cell Acute Lymphocytic Leukemia Protein 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3537372,Bacterial 16S RNA,gene_product_has_associated_anatomy,['C0035553'],['Ribosome'],Ribosome,C0035553,1,1,0.0,0.0
+C1434353,E3 Ubiquitin-Protein Ligase RAD18,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1452577,DNA (Cytosine-5)-Methyltransferase 3B,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0289012,Tumor Necrosis Factor Receptor 1-Associated DEATH Domain Protein,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C4721556,Peptide YY,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0081714,Basigin,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0757880,G2/Mitotic-Specific Cyclin-B2,gene_product_has_associated_anatomy,"['C0007610', 'C0018042']","['Nucleus', 'Golgi Apparatus']",Nucleus || Golgi Apparatus,C0007610 || C0018042,2,2,0.0,0.0
+C1432185,"Neuroligin 4, X-Linked",gene_product_has_associated_anatomy,"['C0007603', 'C1167384']","['Plasma Membrane', 'Postsynaptic Membrane']",Plasma Membrane || Postsynaptic Membrane,C0007603 || C1167384,2,2,0.0,0.0
+C2002897,Estradiol 17-Beta-Dehydrogenase 2,gene_product_has_associated_anatomy,['C0014239'],['Endoplasmic Reticulum'],Endoplasmic Reticulum,C0014239,1,1,0.0,0.0
+C3889625,Somatostatin Receptor Type 2b,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1566695,Neurogenic Locus Notch Homolog Protein 2,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C1259459,R-Spondin-3,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3884533,Betacellulin,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1450313,Transcription Factor E2F6,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3815198,Zinc Finger MYND Domain-Containing Protein 10,gene_product_has_associated_anatomy,['C0242608'],['Centrosome'],Centrosome,C0242608,1,1,0.0,0.0
+C4521305,GTP-Binding Nuclear Protein Ran,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4723803,Gelsolin,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C1314904,E3 Ubiquitin-Protein Ligase TRIM23,gene_product_has_associated_anatomy,['C0230812'],['Membrane of the Lysosome'],Membrane of the Lysosome,C0230812,1,1,0.0,0.0
+C1336587,Transcription Initiation Factor TFIID Subunit 7-Like,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1334040,Homeobox Protein Meis1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1565760,Polycystic Kidney Disease Protein 1-Like 2,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C1309395,Bromodomain Adjacent to Zinc Finger Domain Protein 1A,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1335534,Protein Hormone Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1135757,Integrin Alpha-10,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3887507,T-Cell Surface Glycoprotein CD1a,gene_product_has_associated_anatomy,"['C0007603', 'C1179907']","['Plasma Membrane', 'Membrane of the Endosome']",Plasma Membrane || Membrane of the Endosome,C0007603 || C1179907,2,2,0.0,0.0
+C3827789,Protein O-Mannosyl-Transferase TMTC1,gene_product_has_associated_anatomy,"['C0230790', 'C1325633']","['Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum']",Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum,C0230790 || C1325633,2,2,0.0,0.0
+C1504769,DNA Fragmentation Factor Subunit Beta,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C2348047,DNA-Binding Protein Ikaros,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3712788,MAX Gene-Associated Protein,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1741807,Killer Cell Immunoglobulin-Like Receptor 2DL2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4307934,Serine/Threonine-Protein Kinase Nek1,gene_product_has_associated_anatomy,['C0242608'],['Centrosome'],Centrosome,C0242608,1,1,0.0,0.0
+C0538294,CD166 Antigen,gene_product_has_associated_anatomy,"['C0007603', 'C0016030', 'C0023516', 'C0027882']","['Plasma Membrane', 'Fibroblast', 'Leukocyte', 'Neuron']",Plasma Membrane || Fibroblast || Leukocyte || Neuron,C0007603 || C0016030 || C0023516 || C0027882,4,4,0.0,0.0
+C1438953,Atypical Chemokine Receptor 4,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0071189,Insulin-Like Growth Factor-Binding Protein 1,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3540654,Transmembrane Protein 138,gene_product_has_associated_anatomy,"['C0008778', 'C0042219']","['Cilium', 'Vacuole']",Cilium || Vacuole,C0008778 || C0042219,2,2,0.0,0.0
+C1259595,Tumor Necrosis Factor Receptor Superfamily Member 6B,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4761329,Glucagon Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4045245,Ras-Related Protein Rab-12,gene_product_has_associated_anatomy,"['C0230812', 'C1166848', 'C1179907', 'C1513117']","['Membrane of the Lysosome', 'Late Endosome', 'Membrane of the Endosome', 'Membrane of the Golgi Apparatus']",Membrane of the Lysosome || Late Endosome || Membrane of the Endosome || Membrane of the Golgi Apparatus,C0230812 || C1166848 || C1179907 || C1513117,4,4,0.0,0.0
+C3539756,UV Excision Repair Protein RAD23 Homolog B,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C5419227,"HLA Class II Histocompatibility Antigen, DR Beta 3-0101 Chain",gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1621352,DNA (Cytosine-5)-Methyltransferase 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1527805,Transforming Growth Factor-Beta-Induced Protein IG-H3,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C2699116,Roundabout Homolog 4,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1872943,"Thioredoxin Reductase 1, Cytoplasmic",gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C3539761,Ribonuclease Inhibitor,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C1448774,B-Cell Lymphoma 6 Protein,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3489929,cGMP-Dependent Protein Kinase 1,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C1450762,Putative Polycomb Group Protein ASXL2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4284186,Centrosomal Protein of 170 kDa Protein B,gene_product_has_associated_anatomy,"['C0010853', 'C0026046']","['Cytoskeleton', 'Microtubule']",Cytoskeleton || Microtubule,C0010853 || C0026046,2,2,0.0,0.0
+C0085358,T-Cell Surface Glycoprotein CD8,gene_product_has_associated_anatomy,['C1515139'],['T-Lymphocyte and Natural Killer Cell'],T-Lymphocyte and Natural Killer Cell,C1515139,1,1,0.0,0.0
+C0968181,Interferon Regulatory Factor 5,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0011244,Hemoglobin Subunit Delta,gene_product_has_associated_anatomy,"['C0014792', 'C3161472']","['Erythrocyte', 'Cellular Membrane']",Erythrocyte || Cellular Membrane,C0014792 || C3161472,2,2,0.0,0.0
+C3888389,"Beta-1,4-Galactosyltransferase 6",gene_product_has_associated_anatomy,['C1513117'],['Membrane of the Golgi Apparatus'],Membrane of the Golgi Apparatus,C1513117,1,1,0.0,0.0
+C0768454,Toll-Like Receptor 6,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0019763,"HLA Class II Histocompatibility Antigen, DR Alpha Chain",gene_product_has_associated_anatomy,"['C0007603', 'C3161472']","['Plasma Membrane', 'Cellular Membrane']",Plasma Membrane || Cellular Membrane,C0007603 || C3161472,2,2,0.0,0.0
+C1310944,Msx2-Interacting Protein,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1333637,Frizzled-2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3539647,40S Ribosomal Protein S14,gene_product_has_associated_anatomy,['C0035553'],['Ribosome'],Ribosome,C0035553,1,1,0.0,0.0
+C1452435,Protein-Serine O-Palmitoleoyltransferase Porcupine,gene_product_has_associated_anatomy,"['C0230790', 'C1325633']","['Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum']",Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum,C0230790 || C1325633,2,2,0.0,0.0
+C1702024,Receptor Tyrosine-Protein Kinase erbB-2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0964836,Interleukin-20,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1438723,E3 Ubiquitin-Protein Ligase UHRF1,gene_product_has_associated_anatomy,['C0008546'],['Chromatin'],Chromatin,C0008546,1,1,0.0,0.0
+C0676565,Cyclin-K,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0219578,Cellular Retinoic Acid-Binding Protein 1,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C1741097,Ubiquitin-Conjugating Enzyme E2 T,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3275268,Zinc Finger Protein 687,gene_product_has_associated_anatomy,['C0007609'],['Nucleolus'],Nucleolus,C0007609,1,1,0.0,0.0
+C1567060,Transcription Factor p65,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C3710638,Centrosomal Protein of 89 kDa,gene_product_has_associated_anatomy,"['C0242608', 'C1179889']","['Centrosome', 'Intermembrane Space of the Mitochondrion']",Centrosome || Intermembrane Space of the Mitochondrion,C0242608 || C1179889,2,2,0.0,0.09999999750000008
+C3273763,SAP Domain-Containing Ribonucleoprotein,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0030128,Cadherin-3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1173181,Zinc Finger Protein 224,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0391783,Transcription Initiation Factor TFIID Subunit 5,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1611857,Cadherin-10,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0209606,Integrin Alpha4/Beta1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3813625,ATPase WRNIP1,gene_product_has_associated_anatomy,"['C0007610', 'C0026237']","['Nucleus', 'Mitochondrion']",Nucleus || Mitochondrion,C0007610 || C0026237,2,2,0.0,0.0
+C4082165,Oxytocin,gene_product_has_associated_anatomy,"['C0015352', 'C0032009']","['Extracellular Space', 'Posterior Lobe of the Pituitary Gland']",Extracellular Space || Posterior Lobe of the Pituitary Gland,C0015352 || C0032009,2,2,0.0,0.0
+C1334189,Cation-Independent Mannose-6 Phosphate Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1144343,A-Kinase Anchor Protein SPHKAP,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C1504710,Nuclear Transition Protein 2,gene_product_has_associated_anatomy,"['C0007610', 'C0028623', 'C0037857']","['Nucleus', 'Nucleosome', 'Spermatid']",Nucleus || Nucleosome || Spermatid,C0007610 || C0028623 || C0037857,3,3,0.0,0.0
+C1699801,Interleukin-9,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1367171,Interleukin-17C,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1505172,DNA Polymerase Kappa,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1869579,Receptor-Type Tyrosine-Protein Phosphatase Beta,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1452607,Low Affinity Immunoglobulin Gamma Fc Region Receptor II-B,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0537447,Exostosin-1,gene_product_has_associated_anatomy,"['C0014239', 'C0018042']","['Endoplasmic Reticulum', 'Golgi Apparatus']",Endoplasmic Reticulum || Golgi Apparatus,C0014239 || C0018042,2,2,0.0,0.0
+C0166441,"Solute Carrier Family 2, Facilitated Glucose Transporter Member 4",gene_product_has_associated_anatomy,"['C0030281', 'C3161472']","['Beta Cell', 'Cellular Membrane']",Beta Cell || Cellular Membrane,C0030281 || C3161472,2,2,0.0,0.0
+C1431185,Nuclear Factor 1 B-Type,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C2742696,CST Complex Subunit STN1,gene_product_has_associated_anatomy,"['C0007610', 'C0085187']","['Nucleus', 'Telomere']",Nucleus || Telomere,C0007610 || C0085187,2,2,0.0,0.0
+C0034805,Fc Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3890375,DNA Repair Protein RAD51 Homolog 4,gene_product_has_associated_anatomy,"['C0007610', 'C0242608']","['Nucleus', 'Centrosome']",Nucleus || Centrosome,C0007610 || C0242608,2,2,0.0,0.0
+C3272714,Unconventional Prefoldin RPB5 Interactor 1,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C1872412,C-C Chemokine Receptor Type 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1437576,Early Growth Response Protein 3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0907306,Signal-Regulatory Protein Beta-1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2001954,Major Facilitator Superfamily Domain-Containing Protein 8,gene_product_has_associated_anatomy,"['C0230812', 'C3161472']","['Membrane of the Lysosome', 'Cellular Membrane']",Membrane of the Lysosome || Cellular Membrane,C0230812 || C3161472,2,2,0.0,0.0
+C1452413,Nuclear Factor NF-kappa-B p50 Subunit,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C2697615,Homeobox Protein TGIF1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3711784,Titin,gene_product_has_associated_anatomy,"['C0010853', 'C0036225', 'C1166688', 'C1179121']","['Cytoskeleton', 'Sarcomere', 'Mitotic Chromosome', 'Thin Filament']",Cytoskeleton || Sarcomere || Mitotic Chromosome || Thin Filament,C0010853 || C0036225 || C1166688 || C1179121,4,4,0.0,0.0
+C1336785,Transcription Initiation Factor IIA Subunit 2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1664181,Lymphotoxin-Beta,gene_product_has_associated_anatomy,"['C0007603', 'C0015352']","['Plasma Membrane', 'Extracellular Space']",Plasma Membrane || Extracellular Space,C0007603 || C0015352,2,2,0.0,0.0
+C1334833,Muscarinic Acetylcholine Receptor M4,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1570815,DNA Helicase MCM9,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0255652,Cyclin-Dependent Kinase 7,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1438309,Retinol-Binding Protein 4,gene_product_has_associated_anatomy,"['C0015352', 'C0032105', 'C2350332', 'C3161472']","['Extracellular Space', 'Plasma', 'Exosome', 'Cellular Membrane']",Extracellular Space || Plasma || Exosome || Cellular Membrane,C0015352 || C0032105 || C2350332 || C3161472,4,4,0.0,0.0
+C1667071,Caspase Recruitment Domain-Containing Protein 9,gene_product_has_associated_anatomy,"['C0010834', 'C0023516']","['Cytoplasm', 'Leukocyte']",Cytoplasm || Leukocyte,C0010834 || C0023516,2,2,0.0,0.0
+C1454784,Uromodulin-Like 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1529559,Transcription Factor AP-2-Epsilon,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3888277,Histo-Blood Group ABO System Transferase,gene_product_has_associated_anatomy,"['C0014792', 'C1513117']","['Erythrocyte', 'Membrane of the Golgi Apparatus']",Erythrocyte || Membrane of the Golgi Apparatus,C0014792 || C1513117,2,2,0.0,0.0
+C1530963,Glial Cell Line-Derived Neurotrophic Factor,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C4761469,Probable ATP-Dependent RNA Helicase DHX58,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C1333364,Protein EVI2B,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3640794,Cyclin-Dependent Kinase 5 Activator 1,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C3539868,Forkhead Box Protein P3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0080095,Colony Stimulating Factor Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0108747,Fc-Gamma Receptor III,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C5202839,"KH Domain-Containing, RNA-Binding, Signal Transduction-Associated Protein 3",gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4283885,Sister Chromatid Cohesion Protein PDS5 Homolog A,gene_product_has_associated_anatomy,"['C0007610', 'C0008546']","['Nucleus', 'Chromatin']",Nucleus || Chromatin,C0007610 || C0008546,2,2,0.0,0.0
+C1138427,Integrin AlphaV/Beta3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3538937,"Arachidonate 12-Lipoxygenase, 12S-Type",gene_product_has_associated_anatomy,"['C0010834', 'C0036208']","['Cytoplasm', 'Sarcolemma']",Cytoplasm || Sarcolemma,C0010834 || C0036208,2,2,0.0,0.0
+C0002211,Alpha-Globulin,gene_product_has_associated_anatomy,"['C0015352', 'C0032105', 'C0229664']","['Extracellular Space', 'Plasma', 'Blood']",Extracellular Space || Plasma || Blood,C0015352 || C0032105 || C0229664,3,3,0.0,0.0
+C0758256,Dysferlin,gene_product_has_associated_anatomy,['C0036208'],['Sarcolemma'],Sarcolemma,C0036208,1,1,0.0,0.0
+C4724210,Fibrocystin,gene_product_has_associated_anatomy,"['C0007603', 'C0007709', 'C3536735']","['Plasma Membrane', 'Centromere', 'Basal Body']",Plasma Membrane || Centromere || Basal Body,C0007603 || C0007709 || C3536735,3,3,0.0,0.0
+C3543836,C-X-C Motif Chemokine 16,gene_product_has_associated_anatomy,"['C0014597', 'C0015352', 'C3714787']","['Epithelial Cell', 'Extracellular Space', 'Central Nervous System']",Epithelial Cell || Extracellular Space || Central Nervous System,C0014597 || C0015352 || C3714787,3,3,0.0,0.0
+C3537344,Polycomb Protein EED,gene_product_has_associated_anatomy,['C0682537'],['Nucleoplasm'],Nucleoplasm,C0682537,1,1,0.0,0.0
+C1453415,Src-Like-Adapter,gene_product_has_associated_anatomy,['C0034850'],['Endosome'],Endosome,C0034850,1,1,0.0,0.0
+C4288623,NRXN3 Gene Product,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1259094,Centriolin,gene_product_has_associated_anatomy,['C0242608'],['Centrosome'],Centrosome,C0242608,1,1,0.0,0.0
+C0669938,Dynamin-1-Like Protein,gene_product_has_associated_anatomy,"['C0018042', 'C0230839', 'C1179904']","['Golgi Apparatus', 'Outer Mitochondrial Membrane', 'Membrane of the Peroxisome']",Golgi Apparatus || Outer Mitochondrial Membrane || Membrane of the Peroxisome,C0018042 || C0230839 || C1179904,3,3,0.0,0.0
+C1310550,Glutamate Carboxypeptidase 2,gene_product_has_associated_anatomy,"['C0007603', 'C1519666']","['Plasma Membrane', 'Tumor-Associated Vasculature']",Plasma Membrane || Tumor-Associated Vasculature,C0007603 || C1519666,2,2,0.0,0.0
+C1506848,Mucin-20,gene_product_has_associated_anatomy,"['C0007603', 'C0015352']","['Plasma Membrane', 'Extracellular Space']",Plasma Membrane || Extracellular Space,C0007603 || C0015352,2,2,0.0,0.0
+C2744535,Early Activation Antigen CD69,gene_product_has_associated_anatomy,"['C0005821', 'C0007603', 'C0014467', 'C0023005', 'C0027950', 'C1515879']","['Platelet', 'Plasma Membrane', 'Eosinophil', 'Langerhans Cell', 'Neutrophil', 'Activated Lymphocyte']",Platelet || Plasma Membrane || Eosinophil || Langerhans Cell || Neutrophil || Activated Lymphocyte,C0005821 || C0007603 || C0014467 || C0023005 || C0027950 || C1515879,6,6,0.0,0.0
+C3640093,Armadillo Repeat Protein Deleted In Velo-Cardio-Facial Syndrome,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3811710,Kininogen-1,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3887563,Adenosylhomocysteinase,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C0034836,Purinergic Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0084152,Zinc Finger Protein 40,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1333483,DNA Excision Repair Protein ERCC-1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1311385,Microtubule-Associated Proteins 1A/1B Light Chain 3C,gene_product_has_associated_anatomy,['C3887595'],['Autophagosome'],Autophagosome,C3887595,1,1,0.0,0.0
+C0061671,Integrin Alpha-IIb,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4723811,Pecanex-Like Protein 2,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C1565573,Killer Cell Immunoglobulin-Like Receptor 2DS1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3853695,Platelet-Derived Growth Factor Receptor Beta,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1528440,Bcl-2-Like Protein 1,gene_product_has_associated_anatomy,['C0230839'],['Outer Mitochondrial Membrane'],Outer Mitochondrial Membrane,C0230839,1,1,0.0,0.0
+C0002287,Alpha-Lactalbumin,gene_product_has_associated_anatomy,['C0929301'],['Mammary Gland'],Mammary Gland,C0929301,1,1,0.0,0.0
+C3272401,Lysyl Oxidase Homolog 2,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1312695,"Fatty Acid-Binding Protein, Epidermal",gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C4321494,Interleukin-35,gene_product_has_associated_anatomy,['C4284002'],['Type 1 Regulatory T-Cell'],Type 1 Regulatory T-Cell,C4284002,1,1,0.0,0.0
+C0251006,Receptor-Type Tyrosine-Protein Kinase FLT3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2932687,Protein NLRC5,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C0094209,5'-3' Exonuclease,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1308290,C-C Motif Chemokine 15,gene_product_has_associated_anatomy,"['C0014597', 'C0015352', 'C3714787']","['Epithelial Cell', 'Extracellular Space', 'Central Nervous System']",Epithelial Cell || Extracellular Space || Central Nervous System,C0014597 || C0015352 || C3714787,3,3,0.0,0.0
+C3538969,Protein FAN,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C0540463,Podocalyxin,gene_product_has_associated_anatomy,"['C0007603', 'C1516934']","['Plasma Membrane', 'Epithelial Microvillus']",Plasma Membrane || Epithelial Microvillus,C0007603 || C1516934,2,2,0.0,0.0
+C3888289,Stem Cell Growth Factor Beta,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0216162,Copper-Transporting ATPase 1,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C4723807,Adhesion G Protein-Coupled Receptor L3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0538091,Caspase-6,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C1564904,Catenin Family Protein,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C1332383,Charged Multivesicular Body Protein 2a,gene_product_has_associated_anatomy,"['C1166848', 'C2350332', 'C3161472']","['Late Endosome', 'Exosome', 'Cellular Membrane']",Late Endosome || Exosome || Cellular Membrane,C1166848 || C2350332 || C3161472,3,3,0.0,0.0
+C1333633,Forkhead Box Protein O3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3539575,Cytokine Receptor-Like Factor 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0041455,Type I Collagen,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C5202970,Histone H1t,gene_product_has_associated_anatomy,"['C0007610', 'C0008546', 'C0028623']","['Nucleus', 'Chromatin', 'Nucleosome']",Nucleus || Chromatin || Nucleosome,C0007610 || C0008546 || C0028623,3,3,0.0,0.0
+C3657794,Intestine-Specific Homeobox,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3657556,Inactive Rhomboid Protein 2,gene_product_has_associated_anatomy,"['C0230790', 'C1325633']","['Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum']",Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum,C0230790 || C1325633,2,2,0.0,0.0
+C2985466,"Nuclear Factor of Activated T-Cells, Cytoplasmic 3",gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1568999,Somatostatin Receptor Type 4,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0289863,Tissue Polypeptide Specific Antigen,gene_product_has_associated_anatomy,['C0032105'],['Plasma'],Plasma,C0032105,1,1,0.0,0.0
+C0079460,Granulocyte-Macrophage Colony-Stimulating Factor,gene_product_has_associated_anatomy,"['C0005953', 'C0015352']","['Bone Marrow', 'Extracellular Space']",Bone Marrow || Extracellular Space,C0005953 || C0015352,2,2,0.0,0.0
+C1138314,Alpha-2-HS-Glycoprotein,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0962190,Interleukin-21,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0083453,Midkine,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C4722635,Core Histone Macro-H2A.2,gene_product_has_associated_anatomy,"['C0007610', 'C0008546', 'C0028623', 'C0036867', 'C1518457']","['Nucleus', 'Chromatin', 'Nucleosome', 'Barr Body', 'Nucleosome Core Particle']",Nucleus || Chromatin || Nucleosome || Barr Body || Nucleosome Core Particle,C0007610 || C0008546 || C0028623 || C0036867 || C1518457,5,5,0.0,0.057142856163265324
+C4521270,"Membrane-Associated Guanylate Kinase, WW and PDZ Domain-Containing Protein 3",gene_product_has_associated_anatomy,['C0242358'],['Tight Junction'],Tight Junction,C0242358,1,1,0.0,0.0
+C1869222,Replication Protein A 32 kDa Subunit,gene_product_has_associated_anatomy,['C0682537'],['Nucleoplasm'],Nucleoplasm,C0682537,1,1,0.0,0.0
+C3542912,Calcium/Calmodulin-Dependent Protein Kinase Type II Subunit Alpha,gene_product_has_associated_anatomy,"['C0007603', 'C0039062']","['Plasma Membrane', 'Synapse']",Plasma Membrane || Synapse,C0007603 || C0039062,2,2,0.0,0.0
+C0082420,Endoglin,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0378964,Myristoylated Alanine-Rich C-Kinase Substrate,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C1608761,Fibrillin-2,gene_product_has_associated_anatomy,"['C0015350', 'C1517171']","['Extracellular Matrix', 'Fibrillin Microfibrils']",Extracellular Matrix || Fibrillin Microfibrils,C0015350 || C1517171,2,2,0.0,0.0
+C1872244,Dedicator of Cytokinesis Protein 8,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C1506872,Catenin Alpha-1,gene_product_has_associated_anatomy,"['C0010853', 'C0230613']","['Cytoskeleton', 'Zonula Adherens']",Cytoskeleton || Zonula Adherens,C0010853 || C0230613,2,2,0.0,0.0
+C0076088,Tenascin Family,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C4318397,Glypican-1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1384551,E3 Ubiquitin/ISG15 Ligase TRIM25,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C3884445,Dynamin-2,gene_product_has_associated_anatomy,"['C0010853', 'C0026046', 'C1167384']","['Cytoskeleton', 'Microtubule', 'Postsynaptic Membrane']",Cytoskeleton || Microtubule || Postsynaptic Membrane,C0010853 || C0026046 || C1167384,3,3,0.0,0.0
+C0767190,Protein MRVI1,gene_product_has_associated_anatomy,['C0014239'],['Endoplasmic Reticulum'],Endoplasmic Reticulum,C0014239,1,1,0.0,0.0
+C2934278,Late Cornified Envelope Protein 3B,gene_product_has_associated_anatomy,['C0221921'],['Stratum Corneum'],Stratum Corneum,C0221921,1,1,0.0,0.0
+C1171893,Vascular Endothelial Growth Factor B,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1368102,Neuromedin-K Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3275238,Zinc Finger Protein 384,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0034785,Beta Adrenergic Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0537839,Neurogenin-1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1442793,Transcription Factor Jun-B,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1306916,Endonuclease III-Like Protein 1,gene_product_has_associated_anatomy,['C0682537'],['Nucleoplasm'],Nucleoplasm,C0682537,1,1,0.0,0.0
+C0080065,Myc Proto-Oncogene Protein,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4082564,Integrin Beta-2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3537336,Amyloid Beta A4 Precursor Protein-Binding Family A Member 3,gene_product_has_associated_anatomy,"['C0010834', 'C3161472']","['Cytoplasm', 'Cellular Membrane']",Cytoplasm || Cellular Membrane,C0010834 || C3161472,2,2,0.0,0.0
+C1453685,Nuclear Receptor Subfamily 4 Group A Member 3,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C1314771,Disintegrin and Metalloproteinase Domain-Containing Protein 8,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0002318,Alpha Tubulin,gene_product_has_associated_anatomy,"['C0010853', 'C0026046']","['Cytoskeleton', 'Microtubule']",Cytoskeleton || Microtubule,C0010853 || C0026046,2,2,0.0,0.0
+C3810532,Ephrin Type-A Receptor 7,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3272740,F-Box/WD Repeat-Containing Protein 1A,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0165949,Antigen Peptide Transporter 2,gene_product_has_associated_anatomy,"['C0014239', 'C0230790', 'C1325633', 'C3161472']","['Endoplasmic Reticulum', 'Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum', 'Cellular Membrane']",Endoplasmic Reticulum || Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum || Cellular Membrane,C0014239 || C0230790 || C1325633 || C3161472,4,4,0.0,0.0
+C1723259,Stromelysin-2,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1741101,Cathepsin Z,gene_product_has_associated_anatomy,['C0024369'],['Lysosome'],Lysosome,C0024369,1,1,0.0,0.0
+C1447801,Claspin,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3887582,Peroxisome Proliferator-Activated Receptor Gamma,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C2353974,Interleukin-34,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1455201,"Keratin, Type I Cytoskeletal 18",gene_product_has_associated_anatomy,"['C0010853', 'C0021770', 'C1268448']","['Cytoskeleton', 'Intermediate Filament', 'Keratin Filament']",Cytoskeleton || Intermediate Filament || Keratin Filament,C0010853 || C0021770 || C1268448,3,3,0.0,0.0
+C3669265,Ubiquitin Carboxyl-Terminal Hydrolase 44,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0534281,Vasoactive Intestinal Polypeptide Receptor 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3829911,H/ACA Ribonucleoprotein Complex Non-Core Subunit NAF1,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C0143466,ETS Domain-Containing Protein Elk-4,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4521271,Nucleosome-Remodeling Factor Subunit BPTF,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3539675,Target of Rapamycin Complex 2 Subunit MAPKAP1,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C5400998,Proteasomal Ubiquitin Receptor ADRM1,gene_product_has_associated_anatomy,"['C0007610', 'C1518774']","['Nucleus', 'PA700 Regulatory Module']",Nucleus || PA700 Regulatory Module,C0007610 || C1518774,2,2,0.0,0.0
+C1504635,Tumor Necrosis Factor Receptor Superfamily Member 10A,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1957129,Free Fatty Acid Receptor 4,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C5202788,Putative Histone H2B Type 2-C,gene_product_has_associated_anatomy,"['C0007610', 'C0008546', 'C0028623', 'C1518457']","['Nucleus', 'Chromatin', 'Nucleosome', 'Nucleosome Core Particle']",Nucleus || Chromatin || Nucleosome || Nucleosome Core Particle,C0007610 || C0008546 || C0028623 || C1518457,4,4,0.0,0.0
+C0535333,Ras-Like Protein Family Member 10A,gene_product_has_associated_anatomy,['C0007609'],['Nucleolus'],Nucleolus,C0007609,1,1,0.0,0.0
+C1259497,Galactosylgalactosylxylosylprotein 3-Beta-Glucuronosyltransferase 2,gene_product_has_associated_anatomy,['C1513117'],['Membrane of the Golgi Apparatus'],Membrane of the Golgi Apparatus,C1513117,1,1,0.0,0.0
+C0022984,Laminin,gene_product_has_associated_anatomy,"['C0004799', 'C0015350']","['Basement Membrane', 'Extracellular Matrix']",Basement Membrane || Extracellular Matrix,C0004799 || C0015350,2,2,0.0,0.0
+C1332033,AF4/FMR2 Family Member 4,gene_product_has_associated_anatomy,"['C0007610', 'C0015965']","['Nucleus', 'Fetus']",Nucleus || Fetus,C0007610 || C0015965,2,2,0.0,0.0
+C2742695,CST Complex Subunit CTC1,gene_product_has_associated_anatomy,"['C0007610', 'C0085187']","['Nucleus', 'Telomere']",Nucleus || Telomere,C0007610 || C0085187,2,2,0.0,0.0
+C1313485,Post-GPI Attachment to Proteins Factor 2,gene_product_has_associated_anatomy,"['C0014239', 'C0018042', 'C0021868']","['Endoplasmic Reticulum', 'Golgi Apparatus', 'Intracellular Membrane']",Endoplasmic Reticulum || Golgi Apparatus || Intracellular Membrane,C0014239 || C0018042 || C0021868,3,3,0.0,0.0
+C4318409,Humanin,gene_product_has_associated_anatomy,"['C0010834', 'C0015352', 'C0026237']","['Cytoplasm', 'Extracellular Space', 'Mitochondrion']",Cytoplasm || Extracellular Space || Mitochondrion,C0010834 || C0015352 || C0026237,3,3,0.0,0.0
+C1448554,Sodium Bicarbonate Cotransporter 3,gene_product_has_associated_anatomy,"['C0007603', 'C0230626', 'C3161472']","['Plasma Membrane', 'Stereocilium', 'Cellular Membrane']",Plasma Membrane || Stereocilium || Cellular Membrane,C0007603 || C0230626 || C3161472,3,3,0.0,0.0
+C1435323,DnaJ Homolog Subfamily B Member 6,gene_product_has_associated_anatomy,"['C0007610', 'C0036225']","['Nucleus', 'Sarcomere']",Nucleus || Sarcomere,C0007610 || C0036225,2,2,0.0,0.0
+C1309859,Angiomotin,gene_product_has_associated_anatomy,"['C0230628', 'C0242358']","['Lamellipodia', 'Tight Junction']",Lamellipodia || Tight Junction,C0230628 || C0242358,2,2,0.0,0.0
+C0169360,60S Ribosomal Protein L8,gene_product_has_associated_anatomy,['C0035553'],['Ribosome'],Ribosome,C0035553,1,1,0.0,0.0
+C0089793,Phosphatidylinositol 4-Kinase Beta,gene_product_has_associated_anatomy,"['C0230839', 'C1325633']","['Outer Mitochondrial Membrane', 'Membrane of the Rough Endoplasmic Reticulum']",Outer Mitochondrial Membrane || Membrane of the Rough Endoplasmic Reticulum,C0230839 || C1325633,2,2,0.0,0.0
+C3273595,Septin-5,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C1146629,Transcription Initiation Factor TFIID Subunit 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1741275,Autoimmune Regulator,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0672585,B-Cell CLL/Lymphoma 9 Protein,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0905893,Paired Box Protein Pax-7,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0015980,Interferon Beta,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1448198,Bromodomain-Containing Protein 4,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3273329,Lymphatic Vessel Endothelial Hyaluronic Acid Receptor 1,gene_product_has_associated_anatomy,"['C0007603', 'C3161472']","['Plasma Membrane', 'Cellular Membrane']",Plasma Membrane || Cellular Membrane,C0007603 || C3161472,2,2,0.0,0.0
+C1741295,60S Acidic Ribosomal Protein P0,gene_product_has_associated_anatomy,['C0035553'],['Ribosome'],Ribosome,C0035553,1,1,0.0,0.0
+C1431931,TFIIA-Alpha and Beta Like Factor,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0538238,Growth/Differentiation Factor 8,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C2827438,Homeobox Protein SIX1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1431883,Bcl-2-Associated Transcription Factor 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0757769,Zinc Finger Protein PLAGL1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1430023,Tripartite Motif-Containing Protein 29,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3273500,Homeobox Protein Hox-C11,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0665379,Zinc Finger and BTB Domain-Containing Protein 17,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1447488,G-Protein Coupled Receptor 15,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0767970,Ras-Related Protein Ral-B,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0080054,Cyclin-Dependent Kinase 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0388904,Dr1-Associated Corepressor,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1447574,Apolipoprotein L1,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C2744538,Low Affinity Immunoglobulin Epsilon Fc Receptor,gene_product_has_associated_anatomy,"['C0004561', 'C0007603']","['B-Lymphocyte', 'Plasma Membrane']",B-Lymphocyte || Plasma Membrane,C0004561 || C0007603,2,2,0.0,0.0
+C0669846,Equilibrative Nucleoside Transporter 2,gene_product_has_associated_anatomy,"['C0007603', 'C3161472']","['Plasma Membrane', 'Cellular Membrane']",Plasma Membrane || Cellular Membrane,C0007603 || C3161472,2,2,0.0,0.0
+C2352715,Carcinoembryonic Antigen-Related Cell Adhesion Molecule 5,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3538938,Amyloid Beta A4 Precursor Protein-Binding Family A Member 1,gene_product_has_associated_anatomy,"['C0887882', 'C3161472']","['Transport Vesicle', 'Cellular Membrane']",Transport Vesicle || Cellular Membrane,C0887882 || C3161472,2,2,0.0,0.0
+C2933718,60S Ribosomal Protein L5,gene_product_has_associated_anatomy,['C0035553'],['Ribosome'],Ribosome,C0035553,1,1,0.0,0.0
+C3538889,"Troponin T, Cardiac Muscle",gene_product_has_associated_anatomy,"['C0010853', 'C1383501']","['Cytoskeleton', 'Cytosol']",Cytoskeleton || Cytosol,C0010853 || C1383501,2,2,0.0,0.0
+C3539817,Tubulin Beta Chain,gene_product_has_associated_anatomy,"['C0010853', 'C0026046']","['Cytoskeleton', 'Microtubule']",Cytoskeleton || Microtubule,C0010853 || C0026046,2,2,0.0,0.0
+C3641910,Phosphatidylcholine:Ceramide Cholinephosphotransferase 2,gene_product_has_associated_anatomy,"['C0007603', 'C1513117']","['Plasma Membrane', 'Membrane of the Golgi Apparatus']",Plasma Membrane || Membrane of the Golgi Apparatus,C0007603 || C1513117,2,2,0.0,0.0
+C0965398,Fc Receptor-Like Protein 4,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1869169,Matrin-3,gene_product_has_associated_anatomy,['C0028581'],['Nuclear Matrix'],Nuclear Matrix,C0028581,1,1,0.0,0.0
+C3538715,KAT8 Regulatory NSL Complex Subunit 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0648695,Integrin Alpha4/Beta7,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1568555,Glutathione Peroxidase 1,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C5202849,Tumor Necrosis Factor Receptor Superfamily Member 27,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1435181,Protocadherin Fat 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1447076,Beta-Thromboglobulin,gene_product_has_associated_anatomy,"['C0014597', 'C0015352', 'C3714787']","['Epithelial Cell', 'Extracellular Space', 'Central Nervous System']",Epithelial Cell || Extracellular Space || Central Nervous System,C0014597 || C0015352 || C3714787,3,3,0.0,0.0
+C1337093,Transcription Initiation Protein SPT3 Homolog,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0768857,Nucleotide-Binding Oligomerization Domain-Containing Protein 1,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C1455357,Anion Exchange Protein 3,gene_product_has_associated_anatomy,"['C0007603', 'C0018827', 'C0225828', 'C3161472']","['Plasma Membrane', 'Cardiac Ventricle', 'Cardiomyocyte', 'Cellular Membrane']",Plasma Membrane || Cardiac Ventricle || Cardiomyocyte || Cellular Membrane,C0007603 || C0018827 || C0225828 || C3161472,4,4,0.0,0.0
+C1743795,Lysozyme C,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1505136,Serine/Threonine-Protein Kinase Nek2,gene_product_has_associated_anatomy,['C0242608'],['Centrosome'],Centrosome,C0242608,1,1,0.0,0.0
+C1522544,Granulocyte-Macrophage Colony-Stimulating Factor Receptor Subunit Alpha,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4548357,Urokinase-Type Plasminogen Activator,gene_product_has_associated_anatomy,"['C0042036', 'C0229664']","['Urine', 'Blood']",Urine || Blood,C0042036 || C0229664,2,2,0.0,0.0
+C1567781,Hepatocyte Growth Factor-Like Protein,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1611930,Protein RRP5 Homolog,gene_product_has_associated_anatomy,['C0007609'],['Nucleolus'],Nucleolus,C0007609,1,1,0.0,0.0
+C3541909,Synphilin-1,gene_product_has_associated_anatomy,"['C0007609', 'C0010834']","['Nucleolus', 'Cytoplasm']",Nucleolus || Cytoplasm,C0007609 || C0010834,2,2,0.0,0.0
+C2984120,Zinc Finger Protein PLAGL2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0003805,Aromatase,gene_product_has_associated_anatomy,['C0014239'],['Endoplasmic Reticulum'],Endoplasmic Reticulum,C0014239,1,1,0.0,0.0
+C2987029,Serine/Threonine-Protein Kinase D3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4084846,Casein Kinase I Isoform Delta,gene_product_has_associated_anatomy,"['C0026046', 'C0242608']","['Microtubule', 'Centrosome']",Microtubule || Centrosome,C0026046 || C0242608,2,2,0.0,0.0
+C1609942,Endoplasmin,gene_product_has_associated_anatomy,"['C0014239', 'C1383501']","['Endoplasmic Reticulum', 'Cytosol']",Endoplasmic Reticulum || Cytosol,C0014239 || C1383501,2,2,0.0,0.0
+C1334521,Transient Receptor Potential Cation Channel Subfamily M Member 5,gene_product_has_associated_anatomy,"['C0007603', 'C0022009', 'C3161472']","['Plasma Membrane', 'Ion Channel', 'Cellular Membrane']",Plasma Membrane || Ion Channel || Cellular Membrane,C0007603 || C0022009 || C3161472,3,3,0.0,0.060606059614325074
+C1742415,ADP-Ribosylation Factor 6,gene_product_has_associated_anatomy,"['C0007603', 'C0018042', 'C1179907']","['Plasma Membrane', 'Golgi Apparatus', 'Membrane of the Endosome']",Plasma Membrane || Golgi Apparatus || Membrane of the Endosome,C0007603 || C0018042 || C1179907,3,3,0.0,0.0
+C1527211,Protegrin,gene_product_has_associated_anatomy,['C0023516'],['Leukocyte'],Leukocyte,C0023516,1,1,0.0,0.0
+C0059973,Ezrin,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C2985420,CD276 Antigen,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4761618,Magnesium Transporter Protein 1,gene_product_has_associated_anatomy,"['C0007603', 'C0230790', 'C1325633', 'C3161472']","['Plasma Membrane', 'Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum', 'Cellular Membrane']",Plasma Membrane || Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum || Cellular Membrane,C0007603 || C0230790 || C1325633 || C3161472,4,4,0.0,0.0
+C3540577,Canalicular Multispecific Organic Anion Transporter 1,gene_product_has_associated_anatomy,"['C0007603', 'C1516036', 'C3161472']","['Plasma Membrane', 'Apical Domain of the Epithelium', 'Cellular Membrane']",Plasma Membrane || Apical Domain of the Epithelium || Cellular Membrane,C0007603 || C1516036 || C3161472,3,3,0.0,0.0
+C1432707,SH3 Domain-Containing Kinase-Binding Protein 1,gene_product_has_associated_anatomy,['C0887883'],['Endocytotic Vesicle'],Endocytotic Vesicle,C0887883,1,1,0.0,0.0
+C1700851,Interleukin-12 Receptor Subunit Beta-1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3711735,Metabotropic Glutamate Receptor 5,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2742135,L-Selectin,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2348929,"HLA Class II Histocompatibility Antigen, DQ Beta 1 Chain",gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1565805,Fibroblast Growth Factor 9,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C2984597,Disintegrin and Metalloproteinase Domain-Containing Protein 10,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1527757,Fibroblast Growth Factor Receptor 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0028589,Nuclear Protein,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1958501,Sperm-Associated Antigen 11B,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1175384,Frizzled-3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0391485,PDZK1-Interacting Protein 1,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C1449190,Proteinase-Activated Receptor 4,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0086411,Histone H2B,gene_product_has_associated_anatomy,"['C0007610', 'C0008546', 'C0028623', 'C1518457']","['Nucleus', 'Chromatin', 'Nucleosome', 'Nucleosome Core Particle']",Nucleus || Chromatin || Nucleosome || Nucleosome Core Particle,C0007610 || C0008546 || C0028623 || C1518457,4,4,0.0,0.0
+C3540599,Microtubule-Associated Proteins 1A/1B Light Chain 3A,gene_product_has_associated_anatomy,['C3887595'],['Autophagosome'],Autophagosome,C3887595,1,1,0.0,0.0
+C0949791,Organic Anion Transporter Protein,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C1436804,Protein Capicua Homolog,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3884528,Heparin-Binding EGF-Like Growth Factor,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1528298,Agouti-Signaling Protein,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1438932,Gremlin-1,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C4687642,TNFRSF1A Gene Product,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1455624,Swh3p,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C2000665,Carbohydrate Sulfotransferase 3,gene_product_has_associated_anatomy,['C1513117'],['Membrane of the Golgi Apparatus'],Membrane of the Golgi Apparatus,C1513117,1,1,0.0,0.0
+C1528563,Pancreas/Duodenum Homeobox Protein 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1173940,Bile Acid Receptor,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C1701014,Arrestin Domain-Containing Protein 3,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C0103404,Annexin A2,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0540682,Mothers Against Decapentaplegic Homolog 6,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0765165,Neutral Amino Acid Transporter B(0),gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C1333639,Frizzled-4,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4288528,PGF Gene Product,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C4724738,Biorientation of Chromosomes in Cell Division Protein 1-Like 1,gene_product_has_associated_anatomy,['C0598316'],['DNA Replication Fork'],DNA Replication Fork,C0598316,1,1,0.0,0.0
+C3813215,Sodium/Potassium-Transporting ATPase Subunit Alpha-1,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C3889621,Metabotropic Glutamate Receptor 2,gene_product_has_associated_anatomy,"['C0007603', 'C0039062']","['Plasma Membrane', 'Synapse']",Plasma Membrane || Synapse,C0007603 || C0039062,2,2,0.0,0.0
+C1566322,Cyclic AMP-Dependent Transcription Factor ATF-4,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C5202871,Krueppel-Like Factor 2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1505993,Lipopolysaccharide-Binding Protein,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3890561,Ras-Related Protein Rab-7a,gene_product_has_associated_anatomy,"['C0024369', 'C1166848']","['Lysosome', 'Late Endosome']",Lysosome || Late Endosome,C0024369 || C1166848,2,2,0.0,0.0
+C4723712,Endoribonuclease ZC3H12A,gene_product_has_associated_anatomy,"['C0007610', 'C1325633']","['Nucleus', 'Membrane of the Rough Endoplasmic Reticulum']",Nucleus || Membrane of the Rough Endoplasmic Reticulum,C0007610 || C1325633,2,2,0.0,0.0
+C1447137,Zinc Finger Homeobox Protein 3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1529670,Transcription Factor E2F4,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0071253,Platelet-Derived Growth Factor Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0753253,Syndecan-1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0910226,Laminin Subunit Gamma-2,gene_product_has_associated_anatomy,"['C0015350', 'C0085872']","['Extracellular Matrix', 'Basal Lamina']",Extracellular Matrix || Basal Lamina,C0015350 || C0085872,2,2,0.0,0.0
+C0255567,Vasodilator-Stimulated Phosphoprotein,gene_product_has_associated_anatomy,"['C0005821', 'C0021721', 'C3161472']","['Platelet', 'Cell Junction', 'Cellular Membrane']",Platelet || Cell Junction || Cellular Membrane,C0005821 || C0021721 || C3161472,3,3,0.0,0.0
+C5206552,Grainyhead-Like Protein 2 Homolog,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4522290,WW Domain-Containing Adapter Protein With Coiled-Coil,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0674363,Probable ATP-Dependent RNA Helicase DDX6,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0055637,Secretogranin-2,gene_product_has_associated_anatomy,"['C0001629', 'C0032008', 'C0886515']","['Adrenal Medulla', 'Anterior Lobe of the Pituitary Gland', 'Secretory Granule']",Adrenal Medulla || Anterior Lobe of the Pituitary Gland || Secretory Granule,C0001629 || C0032008 || C0886515,3,3,0.0,0.0
+C1452523,NEDD8-Activating Enzyme E1 Catalytic Subunit,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3641902,"HLA Class II Histocompatibility Antigen, DQ Alpha 1 Chain",gene_product_has_associated_anatomy,"['C0007603', 'C3161472']","['Plasma Membrane', 'Cellular Membrane']",Plasma Membrane || Cellular Membrane,C0007603 || C3161472,2,2,0.0,0.0
+C5202997,Ras-Related Protein Rab-44,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2742134,P-Selectin,gene_product_has_associated_anatomy,"['C0007603', 'C0225336', 'C1515922']","['Plasma Membrane', 'Endothelial Cell', 'Alpha Granule']",Plasma Membrane || Endothelial Cell || Alpha Granule,C0007603 || C0225336 || C1515922,3,3,0.0,0.0
+C0376854,Vascular Endothelial Growth Factor A 165 Isoform,gene_product_has_associated_anatomy,"['C0015350', 'C0015352']","['Extracellular Matrix', 'Extracellular Space']",Extracellular Matrix || Extracellular Space,C0015350 || C0015352,2,2,0.0,0.0
+C1096755,Transcription Elongation Factor SPT5,gene_product_has_associated_anatomy,['C0682537'],['Nucleoplasm'],Nucleoplasm,C0682537,1,1,0.0,0.0
+C1702052,Protein Unc-13 Homolog D,gene_product_has_associated_anatomy,"['C0886515', 'C3161472']","['Secretory Vesicle', 'Cellular Membrane']",Secretory Vesicle || Cellular Membrane,C0886515 || C3161472,2,2,0.0,0.0
+C1545715,Zinc Finger Protein ZIC 4,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0386669,Cyclin-Dependent Kinase 4 Inhibitor D,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C2987181,Cyclic AMP-Responsive Element-Binding Protein 3-Like Protein 3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1449212,WNT1-Inducible-Signaling Pathway Protein 1,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1456447,Sodium-Dependent Noradrenaline Transporter,gene_product_has_associated_anatomy,"['C0007603', 'C3161472']","['Plasma Membrane', 'Cellular Membrane']",Plasma Membrane || Cellular Membrane,C0007603 || C3161472,2,2,0.0,0.0
+C3537397,UDP-Glucuronosyltransferase 2B17,gene_product_has_associated_anatomy,"['C0230790', 'C1325633']","['Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum']",Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum,C0230790 || C1325633,2,2,0.0,0.0
+C0376900,Carcinoembryonic Antigen-Related Cell Adhesion Molecule 6,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2001250,DNA Helicase INO80,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1308468,E3 Ubiquitin-Protein Ligase RNF5,gene_product_has_associated_anatomy,"['C0007603', 'C0230790', 'C0596952', 'C1325633']","['Plasma Membrane', 'Membrane of the Smooth Endoplasmic Reticulum', 'Mitochondrial Membrane', 'Membrane of the Rough Endoplasmic Reticulum']",Plasma Membrane || Membrane of the Smooth Endoplasmic Reticulum || Mitochondrial Membrane || Membrane of the Rough Endoplasmic Reticulum,C0007603 || C0230790 || C0596952 || C1325633,4,4,0.0,0.0
+C0072259,Prostacyclin Synthase,gene_product_has_associated_anatomy,['C0014239'],['Endoplasmic Reticulum'],Endoplasmic Reticulum,C0014239,1,1,0.0,0.0
+C1438619,Tumor Necrosis Factor Receptor Superfamily Member 12A,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3829674,Homeobox Protein SIX2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3816180,Lysophosphatidic Acid Receptor 3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1453587,Tissue Factor Pathway Inhibitor 2,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C4521279,Pituitary-Specific Positive Transcription Factor 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1447443,Steroid Hormone Receptor ERR2,gene_product_has_associated_anatomy,"['C0007610', 'C0010834', 'C0682537']","['Nucleus', 'Cytoplasm', 'Nucleoplasm']",Nucleus || Cytoplasm || Nucleoplasm,C0007610 || C0010834 || C0682537,3,3,0.0,0.0
+C1260195,Anoctamin-1,gene_product_has_associated_anatomy,"['C0022009', 'C0678848', 'C2350332', 'C3161472']","['Ion Channel', 'Gated Ion Channel', 'Exosome', 'Cellular Membrane']",Ion Channel || Gated Ion Channel || Exosome || Cellular Membrane,C0022009 || C0678848 || C2350332 || C3161472,4,4,0.0,0.0
+C3539837,Steroid Hormone Receptor ERR1,gene_product_has_associated_anatomy,"['C0007610', 'C0010834', 'C0682537']","['Nucleus', 'Cytoplasm', 'Nucleoplasm']",Nucleus || Cytoplasm || Nucleoplasm,C0007610 || C0010834 || C0682537,3,3,0.0,0.0
+C4727299,Soluble Tumor Necrosis Factor Receptor Superfamily Member 9,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0017007,Gamma Globulin,gene_product_has_associated_anatomy,"['C0015352', 'C0032105', 'C0229664']","['Extracellular Space', 'Plasma', 'Blood']",Extracellular Space || Plasma || Blood,C0015352 || C0032105 || C0229664,3,3,0.0,0.0
+C0219484,Transcription Factor MafK,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4284184,Cytochrome C Oxidase Subunit 1,gene_product_has_associated_anatomy,"['C0026237', 'C0230840', 'C1512191']","['Mitochondrion', 'Inner Mitochondrial Membrane', 'Electron-Transport Chain of the Respiratory Enzymes']",Mitochondrion || Inner Mitochondrial Membrane || Electron-Transport Chain of the Respiratory Enzymes,C0026237 || C0230840 || C1512191,3,3,0.0,0.0
+C0211525,Tyrosine-Protein Kinase Transmembrane Receptor ROR1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0061779,GMP Synthase [Glutamine-Hydrolyzing],gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C2347825,Collagen Alpha-5(IV) Chain,gene_product_has_associated_anatomy,"['C0004799', 'C0015350']","['Basement Membrane', 'Extracellular Matrix']",Basement Membrane || Extracellular Matrix,C0004799 || C0015350,2,2,0.0,0.0
+C1259992,Fibroblast Growth Factor Receptor 2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1449195,Cytokine Receptor Common Subunit Beta,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4724755,Protocadherin Alpha-C2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C5202811,Cas Scaffolding Protein Family Member 4,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C1447906,Inhibin Beta B Chain,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0127014,Microtubule-Associated Protein 4,gene_product_has_associated_anatomy,"['C0010853', 'C0026046']","['Cytoskeleton', 'Microtubule']",Cytoskeleton || Microtubule,C0010853 || C0026046,2,2,0.0,0.0
+C1432465,Polycystic Kidney Disease Protein 1-Like 1,gene_product_has_associated_anatomy,"['C0006685', 'C0007603', 'C0008778', 'C0022009', 'C3161472']","['Calcium Channel', 'Plasma Membrane', 'Cilium', 'Ion Channel', 'Cellular Membrane']",Calcium Channel || Plasma Membrane || Cilium || Ion Channel || Cellular Membrane,C0006685 || C0007603 || C0008778 || C0022009 || C3161472,5,5,0.0,0.0
+C0211526,Tyrosine-Protein Kinase Transmembrane Receptor ROR2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2606415,Palmitoyltransferase ZDHHC2,gene_product_has_associated_anatomy,"['C0007603', 'C0230790', 'C1325633', 'C1513117']","['Plasma Membrane', 'Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum', 'Membrane of the Golgi Apparatus']",Plasma Membrane || Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum || Membrane of the Golgi Apparatus,C0007603 || C0230790 || C1325633 || C1513117,4,4,0.0,0.0
+C0034848,Viral Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1447702,Homeodomain-Interacting Protein Kinase 2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3273437,Protein FEV,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1506186,Fibromodulin,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C1506647,DNA-(Apurinic or Apyrimidinic Site) Lyase 2,gene_product_has_associated_anatomy,"['C0007610', 'C0026237']","['Nucleus', 'Mitochondrion']",Nucleus || Mitochondrion,C0007610 || C0026237,2,2,0.0,0.0
+C3539660,Katanin p60 ATPase-Containing Subunit A-Like 2,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C1438270,Ras GTPase-Activating-Like Protein IQGAP2,gene_product_has_associated_anatomy,['C0010851'],['Cytoskeleton Filament'],Cytoskeleton Filament,C0010851,1,1,0.0,0.0
+C0916595,Sialic Acid-Binding Ig-Like Lectin 9,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3537357,Podoplanin,gene_product_has_associated_anatomy,"['C0007603', 'C0026049', 'C0230628', 'C0600315']","['Plasma Membrane', 'Microvillus', 'Lamellipodia', 'Filopodia']",Plasma Membrane || Microvillus || Lamellipodia || Filopodia,C0007603 || C0026049 || C0230628 || C0600315,4,4,0.0,0.0
+C3887686,Cytochrome P450 2E1,gene_product_has_associated_anatomy,['C0014239'],['Endoplasmic Reticulum'],Endoplasmic Reticulum,C0014239,1,1,0.0,0.0
+C0137798,Polyhomeotic,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1702242,Activated RNA Polymerase II Transcriptional Coactivator p15,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C2606719,Flap Endonuclease GEN Homolog 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0073263,60S Ribosomal Protein L7a,gene_product_has_associated_anatomy,['C0035553'],['Ribosome'],Ribosome,C0035553,1,1,0.0,0.0
+C4761542,Sialic Acid-Binding Ig-Like Lectin 15,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C0082708,Zinc Finger Protein GLI3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4082532,Macrophage Colony-Stimulating Factor 1 Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1310111,Cytokine Receptor-Like Factor 2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0242194,Band 3 Anion Transport Protein,gene_product_has_associated_anatomy,"['C0007603', 'C0014792', 'C1519718', 'C3161472']","['Plasma Membrane', 'Erythrocyte', 'Intercalated Cell', 'Cellular Membrane']",Plasma Membrane || Erythrocyte || Intercalated Cell || Cellular Membrane,C0007603 || C0014792 || C1519718 || C3161472,4,4,0.0,0.0
+C3815899,Alpha-Tectorin,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C1458138,Protein Wnt-11,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1435863,DET1 Homolog,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C2353079,Serine/Threonine-Protein Kinase/Endoribonuclease IRE1,gene_product_has_associated_anatomy,"['C0230790', 'C1325633']","['Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum']",Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum,C0230790 || C1325633,2,2,0.0,0.0
+C4319826,Bone Marrow Stromal Antigen 2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1701084,CD9 Antigen,gene_product_has_associated_anatomy,"['C0007603', 'C1515922']","['Plasma Membrane', 'Alpha Granule']",Plasma Membrane || Alpha Granule,C0007603 || C1515922,2,2,0.0,0.0
+C3887626,ADP/ATP Translocase 3,gene_product_has_associated_anatomy,"['C0230840', 'C3161472']","['Inner Mitochondrial Membrane', 'Cellular Membrane']",Inner Mitochondrial Membrane || Cellular Membrane,C0230840 || C3161472,2,2,0.0,0.0
+C5204381,EDA Gene Product,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C4281796,Thyrotropin Receptor,gene_product_has_associated_anatomy,"['C0007603', 'C1515441']","['Plasma Membrane', 'Thyroid Gland Tissue']",Plasma Membrane || Thyroid Gland Tissue,C0007603 || C1515441,2,2,0.0,0.0
+C1336852,"Chemokine, Other",gene_product_has_associated_anatomy,"['C0014597', 'C0015352', 'C3714787']","['Epithelial Cell', 'Extracellular Space', 'Central Nervous System']",Epithelial Cell || Extracellular Space || Central Nervous System,C0014597 || C0015352 || C3714787,3,3,0.0,0.0
+C0212691,Nuclear Factor NF-kappa-B p100 Subunit,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0671550,Matrix Metalloproteinase-14,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1571217,Paired Box Protein Pax-9,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0007367,Catalase,gene_product_has_associated_anatomy,['C1179905'],['Lumen of the Peroxisome'],Lumen of the Peroxisome,C1179905,1,1,0.0,0.0
+C0141333,Protein S100-A11,gene_product_has_associated_anatomy,"['C0007610', 'C0010834', 'C2350332']","['Nucleus', 'Cytoplasm', 'Exosome']",Nucleus || Cytoplasm || Exosome,C0007610 || C0010834 || C2350332,3,3,0.0,0.0
+C0282552,Beta Chemokine,gene_product_has_associated_anatomy,"['C0014597', 'C0015352', 'C3714787']","['Epithelial Cell', 'Extracellular Space', 'Central Nervous System']",Epithelial Cell || Extracellular Space || Central Nervous System,C0014597 || C0015352 || C3714787,3,3,0.0,0.0
+C1448777,Cyclin-Dependent Kinase Inhibitor 3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C2351743,Alpha-Actinin-1,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C3273647,Transcription Elongation Factor A Protein 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1310520,E3 Ubiquitin-Protein Ligase RNF216,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C3888284,"Pro-Neuregulin-2, Membrane-Bound Isoform",gene_product_has_associated_anatomy,"['C0007603', 'C0015352']","['Plasma Membrane', 'Extracellular Space']",Plasma Membrane || Extracellular Space,C0007603 || C0015352,2,2,0.0,0.0
+C0903042,WAP Four-Disulfide Core Domain Protein 2,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0386212,Cell Surface Glycoprotein MUC18,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1436661,Inhibitor of Growth Protein 4,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0001643,Beta-2 Adrenergic Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2700208,Forkhead Box Protein L2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C5401405,IQ Motif and SEC7 Domain-Containing Protein 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4082288,Gastrin/Cholecystokinin Type B Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0960824,Melanoma-Associated Antigen D1,gene_product_has_associated_anatomy,"['C0007603', 'C0010834']","['Plasma Membrane', 'Cytoplasm']",Plasma Membrane || Cytoplasm,C0007603 || C0010834,2,2,0.0,0.0
+C3541291,Kinesin-Like Protein KIF23,gene_product_has_associated_anatomy,"['C0026046', 'C1511498', 'C3161472']","['Microtubule', 'Contractile System', 'Cellular Membrane']",Microtubule || Contractile System || Cellular Membrane,C0026046 || C1511498 || C3161472,3,3,0.0,0.0
+C2001938,Serine/Threonine-Protein Phosphatase 6 Catalytic Subunit,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C4049898,Protein LSM14 Homolog A,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C0666480,Tumor Necrosis Factor Receptor Superfamily Member 13B,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1528456,CD5 Antigen-Like,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0539380,Forkhead Box Protein N3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4553325,Atrial Natriuretic Factor,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C4553956,Beta-Glucuronidase,gene_product_has_associated_anatomy,['C0024369'],['Lysosome'],Lysosome,C0024369,1,1,0.0,0.0
+C1312691,Ubiquilin-4,gene_product_has_associated_anatomy,"['C0007610', 'C0010834', 'C0208355']","['Nucleus', 'Cytoplasm', 'Proteasome']",Nucleus || Cytoplasm || Proteasome,C0007610 || C0010834 || C0208355,3,3,0.0,0.0
+C1608638,SPARC-Like Protein 1,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1743883,Glutathione S-Transferase Mu 4,gene_product_has_associated_anatomy,"['C0230790', 'C1325633']","['Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum']",Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum,C0230790 || C1325633,2,2,0.0,0.0
+C1620161,Biglycan,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C1452130,Transcription Factor PU.1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0961212,Cytochrome P450 2A13,gene_product_has_associated_anatomy,"['C0230790', 'C1325633']","['Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum']",Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum,C0230790 || C1325633,2,2,0.0,0.0
+C1448495,"6-Phosphofructokinase, Muscle Type",gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C0140599,Antigen Peptide Transporter 1,gene_product_has_associated_anatomy,"['C0014239', 'C0230790', 'C1325633', 'C3161472']","['Endoplasmic Reticulum', 'Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum', 'Cellular Membrane']",Endoplasmic Reticulum || Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum || Cellular Membrane,C0014239 || C0230790 || C1325633 || C3161472,4,4,0.0,0.0
+C4688347,Histone H3.2,gene_product_has_associated_anatomy,"['C0007610', 'C0008546', 'C0028623', 'C1518457']","['Nucleus', 'Chromatin', 'Nucleosome', 'Nucleosome Core Particle']",Nucleus || Chromatin || Nucleosome || Nucleosome Core Particle,C0007610 || C0008546 || C0028623 || C1518457,4,4,0.0,0.0
+C5401449,F-Box Only Protein 3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3816181,Low-Density Lipoprotein Receptor-Related Protein 1B,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C3898193,NRG1 Gene Product,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C4049828,Retinoic Acid Receptor Alpha Isoform Alpha-2,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C3273838,Protein S100-B,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C3273794,Sentrin-Specific Protease 1,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C1741313,Homeobox Protein Hox-A1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C2741742,Alcohol Dehydrogenase 4,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C3273510,Heat Shock Protein HSP 90-Beta,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C5400895,Plakophilin-2,gene_product_has_associated_anatomy,"['C0007603', 'C0011703', 'C0021770']","['Plasma Membrane', 'Desmosome', 'Intermediate Filament']",Plasma Membrane || Desmosome || Intermediate Filament,C0007603 || C0011703 || C0021770,3,3,0.0,0.0
+C1530787,Trifunctional Purine Biosynthetic Protein Adenosine-3,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C0258380,PMS1 Protein Homolog 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1384564,Cyclin-Dependent Kinase 8,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3537287,Vesicle-Trafficking Protein SEC22b,gene_product_has_associated_anatomy,"['C0230790', 'C1325633', 'C1513117', 'C3161472']","['Membrane of the Smooth Endoplasmic Reticulum', 'Membrane of the Rough Endoplasmic Reticulum', 'Membrane of the Golgi Apparatus', 'Cellular Membrane']",Membrane of the Smooth Endoplasmic Reticulum || Membrane of the Rough Endoplasmic Reticulum || Membrane of the Golgi Apparatus || Cellular Membrane,C0230790 || C1325633 || C1513117 || C3161472,4,4,0.0,0.0
+C0753749,Ficolin-2,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1442794,Transcription Factor Jun-D,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1743775,Interleukin-18-Binding Protein,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1871518,C-C Chemokine Receptor Type 3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3274755,"Carnitine O-Palmitoyltransferase 1, Brain Isoform",gene_product_has_associated_anatomy,['C0230839'],['Outer Mitochondrial Membrane'],Outer Mitochondrial Membrane,C0230839,1,1,0.0,0.0
+C2717442,Centrosomal Protein of 72 kDa,gene_product_has_associated_anatomy,"['C0007708', 'C0242608']","['Centriole', 'Centrosome']",Centriole || Centrosome,C0007708 || C0242608,2,2,0.0,0.0
+C1435989,Nck-Associated Protein 1,gene_product_has_associated_anatomy,"['C0230628', 'C3161472']","['Lamellipodia', 'Cellular Membrane']",Lamellipodia || Cellular Membrane,C0230628 || C3161472,2,2,0.0,0.0
+C1257874,Parathyroid Hormone-Related Protein,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1570089,Scavenger Receptor Cysteine-Rich Type 1 Protein M130,gene_product_has_associated_anatomy,"['C0007603', 'C0021868', 'C0024432', 'C0026473']","['Plasma Membrane', 'Intracellular Membrane', 'Macrophage', 'Monocyte']",Plasma Membrane || Intracellular Membrane || Macrophage || Monocyte,C0007603 || C0021868 || C0024432 || C0026473,4,4,0.0,0.0
+C3537377,C-Type Mannose Receptor 2,gene_product_has_associated_anatomy,['C0887870'],['Focal Adhesion'],Focal Adhesion,C0887870,1,1,0.0,0.0
+C3274852,Transcription Factor Spi-B,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C4318405,Probable Carboxypeptidase X1,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1702300,Interleukin-1 Beta,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1698754,Interleukin-6,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3816733,Neurexin-3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4316851,G/T Mismatch-Specific Thymine DNA Glycosylase,gene_product_has_associated_anatomy,['C0682537'],['Nucleoplasm'],Nucleoplasm,C0682537,1,1,0.0,0.0
+C0754515,Telomere Reverse Transcriptase,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1689848,Collagen Alpha-2(IV) Chain,gene_product_has_associated_anatomy,"['C0004799', 'C0015350']","['Basement Membrane', 'Extracellular Matrix']",Basement Membrane || Extracellular Matrix,C0004799 || C0015350,2,2,0.0,0.0
+C4723822,Histone H3.Y,gene_product_has_associated_anatomy,"['C0007610', 'C0008546', 'C0028623', 'C1518457']","['Nucleus', 'Chromatin', 'Nucleosome', 'Nucleosome Core Particle']",Nucleus || Chromatin || Nucleosome || Nucleosome Core Particle,C0007610 || C0008546 || C0028623 || C1518457,4,4,0.0,0.0
+C2932861,5'-Nucleotidase,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0005157,Beta Globulin,gene_product_has_associated_anatomy,"['C0015352', 'C0032105', 'C0229664']","['Extracellular Space', 'Plasma', 'Blood']",Extracellular Space || Plasma || Blood,C0015352 || C0032105 || C0229664,3,3,0.0,0.0
+C1432903,Cysteinyl Leukotriene Receptor 2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0638262,Integrin Beta-3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2983131,CDK-Activating Kinase Assembly Factor MAT1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1332831,Cytokine SCM-1 Beta,gene_product_has_associated_anatomy,"['C0014597', 'C0015352', 'C3714787']","['Epithelial Cell', 'Extracellular Space', 'Central Nervous System']",Epithelial Cell || Extracellular Space || Central Nervous System,C0014597 || C0015352 || C3714787,3,3,0.0,0.0
+C3812275,"Putative POU Domain, Class 5, Transcription Factor 1B",gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3888282,Proepiregulin,gene_product_has_associated_anatomy,"['C0007603', 'C0015352']","['Plasma Membrane', 'Extracellular Space']",Plasma Membrane || Extracellular Space,C0007603 || C0015352,2,2,0.0,0.0
+C1529634,Runt-Related Transcription Factor 3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4082584,Chromogranin-A,gene_product_has_associated_anatomy,"['C0001629', 'C0026473', 'C0027950', 'C0030274', 'C0886515']","['Adrenal Medulla', 'Monocyte', 'Neutrophil', 'Pancreas', 'Secretory Granule']",Adrenal Medulla || Monocyte || Neutrophil || Pancreas || Secretory Granule,C0001629 || C0026473 || C0027950 || C0030274 || C0886515,5,5,0.0,0.0
+C3887585,Low Affinity Immunoglobulin Gamma Fc Region Receptor II-C,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C2348783,Thy-1 Membrane Glycoprotein,gene_product_has_associated_anatomy,['C1518684'],['Outer Leaflet of the Lipid Bilayer'],Outer Leaflet of the Lipid Bilayer,C1518684,1,1,0.0,0.0
+C3887680,Aminopeptidase N,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4318407,Protein CASC4,gene_product_has_associated_anatomy,['C1513117'],['Membrane of the Golgi Apparatus'],Membrane of the Golgi Apparatus,C1513117,1,1,0.0,0.0
+C1701820,Interleukin-12 Receptor Subunit Beta-2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0079189,Cytokine,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1521898,Low Affinity Immunoglobulin Gamma Fc Region Receptor III-A,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1741764,Fractalkine,gene_product_has_associated_anatomy,"['C0014597', 'C0015352', 'C3714787']","['Epithelial Cell', 'Extracellular Space', 'Central Nervous System']",Epithelial Cell || Extracellular Space || Central Nervous System,C0014597 || C0015352 || C3714787,3,3,0.0,0.0
+C1366394,Signal Transducer and Activator of Transcription 5A,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C2825105,Histone Acetyltransferase KAT6A,gene_product_has_associated_anatomy,['C0028623'],['Nucleosome'],Nucleosome,C0028623,1,1,0.0,0.0
+C2973986,Breast Cancer Type 2 Susceptibility Protein,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1336787,General Transcription Factor IIF Subunit 2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0055635,Secretogranin-1,gene_product_has_associated_anatomy,"['C0026473', 'C0027950', 'C0886515']","['Monocyte', 'Neutrophil', 'Secretory Granule']",Monocyte || Neutrophil || Secretory Granule,C0026473 || C0027950 || C0886515,3,3,0.0,0.0
+C3813608,Protein Sprouty Homolog 2,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C3713834,Histone-Lysine N-Methyltransferase KMT5B,gene_product_has_associated_anatomy,['C0019397'],['Heterochromatin'],Heterochromatin,C0019397,1,1,0.0,0.0
+C3537284,Adiponectin Receptor Protein 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1136119,EphA Receptor Family,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0009392,Colony Stimulating Factor,gene_product_has_associated_anatomy,"['C0005953', 'C0015352']","['Bone Marrow', 'Extracellular Space']",Bone Marrow || Extracellular Space,C0005953 || C0015352,2,2,0.0,0.0
+C3884130,Anillin,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C0122007,"HLA Class II Histocompatibility Antigen, DP(W4) Beta Chain",gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3887700,Angiostatin,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0018284,Growth Factor,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1439265,E3 Ubiquitin-Protein Ligase HERC2,gene_product_has_associated_anatomy,"['C0007610', 'C0007708', 'C0010834']","['Nucleus', 'Centriole', 'Cytoplasm']",Nucleus || Centriole || Cytoplasm,C0007610 || C0007708 || C0010834,3,3,0.0,0.0
+C1699434,Chymase,gene_product_has_associated_anatomy,"['C0015352', 'C0024880', 'C0886515']","['Extracellular Space', 'Mast Cell', 'Secretory Granule']",Extracellular Space || Mast Cell || Secretory Granule,C0015352 || C0024880 || C0886515,3,3,0.0,0.0
+C0106701,Polycomb Complex Protein BMI-1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1447472,Protein S100-P,gene_product_has_associated_anatomy,"['C0007610', 'C0010834', 'C2350332']","['Nucleus', 'Cytoplasm', 'Exosome']",Nucleus || Cytoplasm || Exosome,C0007610 || C0010834 || C2350332,3,3,0.0,0.0
+C2987178,Cyclic AMP-Responsive Element-Binding Protein 3-Like Protein 2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4553902,Double Homeobox Protein 4-Like Protein 2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4318408,LisH Domain-Containing Protein FOPNL,gene_product_has_associated_anatomy,"['C0242608', 'C3536735']","['Centrosome', 'Basal Body']",Centrosome || Basal Body,C0242608 || C3536735,2,2,0.0,0.0
+C4723716,A Disintegrin and Metalloproteinase with Thrombospondin Motifs 20,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3273385,Kinetochore Scaffold 1,gene_product_has_associated_anatomy,"['C0007610', 'C0007709']","['Nucleus', 'Centromere']",Nucleus || Centromere,C0007610 || C0007709,2,2,0.0,0.0
+C2003478,Lymphocyte Antigen 6K,gene_product_has_associated_anatomy,"['C0007603', 'C0015352']","['Plasma Membrane', 'Extracellular Space']",Plasma Membrane || Extracellular Space,C0007603 || C0015352,2,2,0.0,0.0
+C0913413,Serine/Threonine-Protein Kinase LATS2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1451756,Interleukin-5 Receptor Subunit Alpha,gene_product_has_associated_anatomy,"['C0004827', 'C0007603', 'C0014467']","['Basophil', 'Plasma Membrane', 'Eosinophil']",Basophil || Plasma Membrane || Eosinophil,C0004827 || C0007603 || C0014467,3,3,0.0,0.0
+C3813210,Proactivator Polypeptide,gene_product_has_associated_anatomy,['C0024369'],['Lysosome'],Lysosome,C0024369,1,1,0.0,0.0
+C1384612,Lymphotactin,gene_product_has_associated_anatomy,"['C0014597', 'C0015352', 'C3714787']","['Epithelial Cell', 'Extracellular Space', 'Central Nervous System']",Epithelial Cell || Extracellular Space || Central Nervous System,C0014597 || C0015352 || C3714787,3,3,0.0,0.0
+C1452082,Peroxisome Proliferator-Activated Receptor Gamma Coactivator 1-Alpha,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0964846,Actin-Related Protein 3B,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C2604501,Very Low-Density Lipoprotein Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1455498,"5,6-Dihydroxyindole-2-Carboxylic Acid Oxidase",gene_product_has_associated_anatomy,['C0025201'],['Melanocyte'],Melanocyte,C0025201,1,1,0.0,0.0
+C0292198,Cyclin-Dependent Kinase 4 Inhibitor C,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1310412,Cyclic AMP-Responsive Element-Binding Protein 3-Like Protein 4,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3811804,V-Type Proton ATPase Subunit S1,gene_product_has_associated_anatomy,"['C0021868', 'C0042219']","['Intracellular Membrane', 'Vacuole']",Intracellular Membrane || Vacuole,C0021868 || C0042219,2,2,0.0,0.0
+C1308877,Protein Regulator of Cytokinesis 1,gene_product_has_associated_anatomy,['C0026046'],['Microtubule'],Microtubule,C0026046,1,1,0.0,0.0
+C1871858,Tyrosine-Protein Phosphatase Non-Receptor Type 21,gene_product_has_associated_anatomy,"['C0010834', 'C0010853']","['Cytoplasm', 'Cytoskeleton']",Cytoplasm || Cytoskeleton,C0010834 || C0010853,2,2,0.0,0.0
+C0166814,Integrin AlphaV/Beta6,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1433105,General Receptor For Phosphoinositides 1-Associated Scaffold Protein,gene_product_has_associated_anatomy,['C1167384'],['Postsynaptic Membrane'],Postsynaptic Membrane,C1167384,1,1,0.0,0.0
+C1313359,N-Glycosylase/DNA Lyase,gene_product_has_associated_anatomy,"['C0007610', 'C0026237']","['Nucleus', 'Mitochondrion']",Nucleus || Mitochondrion,C0007610 || C0026237,2,2,0.0,0.0
+C0214743,Interleukin-13,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3539691,Carbohydrate-Responsive Element-Binding Protein,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1870145,E3 Ubiquitin-Protein Ligase MARCH9,gene_product_has_associated_anatomy,"['C0230812', 'C1513117']","['Membrane of the Lysosome', 'Membrane of the Golgi Apparatus']",Membrane of the Lysosome || Membrane of the Golgi Apparatus,C0230812 || C1513117,2,2,0.0,0.0
+C1176019,Histone-Lysine N-Methyltransferase H3 Lysine-79 Specific,gene_product_has_associated_anatomy,['C0682537'],['Nucleoplasm'],Nucleoplasm,C0682537,1,1,0.0,0.0
+C1530825,"Glycine Amidinotransferase, Mitochondrial",gene_product_has_associated_anatomy,['C1179889'],['Intermembrane Space of the Mitochondrion'],Intermembrane Space of the Mitochondrion,C1179889,1,1,0.0,0.0
+C4283961,Protein Wnt-5b,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C2348755,Testin,gene_product_has_associated_anatomy,['C0887870'],['Focal Adhesion'],Focal Adhesion,C0887870,1,1,0.0,0.0
+C0640485,B-Cell Lymphoma Protein 3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1452015,E3 Ubiquitin-Protein Ligase TRAF7,gene_product_has_associated_anatomy,['C1179845'],['Membranous Cytoplasmic Organelle'],Membranous Cytoplasmic Organelle,C1179845,1,1,0.0,0.0
+C2827574,Hemoglobin Subunit Gamma-1,gene_product_has_associated_anatomy,"['C0014792', 'C3161472']","['Erythrocyte', 'Cellular Membrane']",Erythrocyte || Cellular Membrane,C0014792 || C3161472,2,2,0.0,0.0
+C1438411,Adiponectin,gene_product_has_associated_anatomy,['C0206131'],['Adipocyte'],Adipocyte,C0206131,1,1,0.0,0.0
+C4283742,Ceramide Glucosyltransferase,gene_product_has_associated_anatomy,['C1513117'],['Membrane of the Golgi Apparatus'],Membrane of the Golgi Apparatus,C1513117,1,1,0.0,0.0
+C3813577,Mitotic Spindle Assembly Checkpoint Protein MAD2A,gene_product_has_associated_anatomy,"['C0007610', 'C0597729', 'C1383501']","['Nucleus', 'Spindle Pole Body', 'Cytosol']",Nucleus || Spindle Pole Body || Cytosol,C0007610 || C0597729 || C1383501,3,3,0.0,0.07407407259259262
+C4086618,NRXN2 Gene Product,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3710858,Ceramide-1-Phosphate Transfer Protein,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C1333998,Heterogeneous Nuclear Ribonucleoprotein A3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1259316,Atypical Chemokine Receptor 3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1308247,C-C Motif Chemokine 20,gene_product_has_associated_anatomy,"['C0014597', 'C0015352', 'C3714787']","['Epithelial Cell', 'Extracellular Space', 'Central Nervous System']",Epithelial Cell || Extracellular Space || Central Nervous System,C0014597 || C0015352 || C3714787,3,3,0.0,0.0
+C0292369,SWI/SNF-Related Matrix-Associated Actin-Dependent Regulator of Chromatin Subfamily B Member 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1565306,Cyclin-Dependent Kinase 5,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1447742,Calcium-Activated Chloride Channel Regulator 2,gene_product_has_associated_anatomy,"['C0007603', 'C0022009', 'C3161472']","['Plasma Membrane', 'Ion Channel', 'Cellular Membrane']",Plasma Membrane || Ion Channel || Cellular Membrane,C0007603 || C0022009 || C3161472,3,3,0.0,0.09523809387755104
+C1321919,Toll-Like Receptor 4,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3710678,Mitotic Checkpoint Serine/Threonine-Protein Kinase BUB1,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C1608576,Fascin,gene_product_has_associated_anatomy,"['C0010853', 'C0600315']","['Cytoskeleton', 'Filopodia']",Cytoskeleton || Filopodia,C0010853 || C0600315,2,2,0.0,0.0
+C3273600,PR Domain Zinc Finger Protein 16,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1172764,Alpha-Methylacyl-CoA Racemase,gene_product_has_associated_anatomy,"['C0026237', 'C0752063']","['Mitochondrion', 'Peroxisome']",Mitochondrion || Peroxisome,C0026237 || C0752063,2,2,0.0,0.0
+C4318400,G-Protein Coupled Receptor 182,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1335462,Pre-B-Cell Leukemia Transcription Factor 3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3540623,Egl Nine Homolog 1,gene_product_has_associated_anatomy,"['C0007610', 'C1383501']","['Nucleus', 'Cytosol']",Nucleus || Cytosol,C0007610 || C1383501,2,2,0.0,0.0
+C1436751,STE20-Like Serine/Threonine-Protein Kinase,gene_product_has_associated_anatomy,['C0021721'],['Cell Junction'],Cell Junction,C0021721,1,1,0.0,0.0
+C1568206,Interferon Alpha/Beta Receptor 2,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4049985,V-Type Immunoglobulin Domain-Containing Suppressor of T-Cell Activation,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0766421,Methyl-CpG-Binding Domain Protein 4,gene_product_has_associated_anatomy,['C0682537'],['Nucleoplasm'],Nucleoplasm,C0682537,1,1,0.0,0.0
+C0013765,Elastin,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C0218975,Zinc Finger Protein GLI2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0915111,Developmentally-Regulated GTP-Binding Protein 2,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C4528409,TAF12 Gene Product,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1438393,Kinetochore Protein NDC80 Homolog,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1447786,Tumor Necrosis Factor Receptor Superfamily Member 1B,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0676905,DNA Repair Protein XRCC2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3828292,rRNA-Processing Protein UTP23 Homolog,gene_product_has_associated_anatomy,['C0007609'],['Nucleolus'],Nucleolus,C0007609,1,1,0.0,0.0
+C1447896,Interleukin-19,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C0010852,Cytoskeletal Protein,gene_product_has_associated_anatomy,['C0010853'],['Cytoskeleton'],Cytoskeleton,C0010853,1,1,0.0,0.0
+C1314894,Collagen Alpha-3(IV) Chain,gene_product_has_associated_anatomy,"['C0004799', 'C0015350']","['Basement Membrane', 'Extracellular Matrix']",Basement Membrane || Extracellular Matrix,C0004799 || C0015350,2,2,0.0,0.0
+C4723709,Galactose-1-Phosphate Uridylyltransferase,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C1454919,Frizzled-1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1259813,V-Set Domain-Containing T-Cell Activation Inhibitor 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0388675,Protein S100-A2,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C0218227,Thrombopoietin Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1958398,BCL-6 Corepressor-Like Protein 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3542399,Cyclic AMP-Dependent Transcription Factor ATF-3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3539753,Ras-Related Protein Rab-5C,gene_product_has_associated_anatomy,['C0887883'],['Endocytotic Vesicle'],Endocytotic Vesicle,C0887883,1,1,0.0,0.0
+C1333233,DNA Mismatch Repair Protein Mlh3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3829673,Homeobox Protein SIX4,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0529155,Somatostatin Receptor Type 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C4048686,Annexin A5,gene_product_has_associated_anatomy,"['C0007603', 'C0022009', 'C3161472']","['Plasma Membrane', 'Ion Channel', 'Cellular Membrane']",Plasma Membrane || Ion Channel || Cellular Membrane,C0007603 || C0022009 || C3161472,3,3,0.0,0.0
+C1309483,Endoribonuclease Dicer,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3273497,Homeobox Protein Hox-A11,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4725709,CLDN18 Gene Product,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1453118,Calcineurin-Binding Protein Cabin-1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1699802,Interleukin-10,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1709990,Zinc Finger Protein SNAI2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1334039,Homeobox Protein Hox-C6,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1097812,KiSS-1 Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0212908,MAX-Interacting Protein 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0218234,Protein CBFA2T1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0003595,Apolipoprotein E,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C3539848,Cadherin-23,gene_product_has_associated_anatomy,"['C0007603', 'C0230626']","['Plasma Membrane', 'Stereocilium']",Plasma Membrane || Stereocilium,C0007603 || C0230626,2,2,0.0,0.0
+C1336784,Transcription Initiation Factor IIA Beta Chain,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1335552,Protein Tyrosine Phosphatase Type IVA 1,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C5202782,Histone H2B Type 1-H,gene_product_has_associated_anatomy,"['C0007610', 'C0008546', 'C0028623', 'C1518457']","['Nucleus', 'Chromatin', 'Nucleosome', 'Nucleosome Core Particle']",Nucleus || Chromatin || Nucleosome || Nucleosome Core Particle,C0007610 || C0008546 || C0028623 || C1518457,4,4,0.0,0.0
+C0755085,Osteomodulin,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C4049851,Translocator Protein,gene_product_has_associated_anatomy,"['C0230839', 'C3161472']","['Outer Mitochondrial Membrane', 'Cellular Membrane']",Outer Mitochondrial Membrane || Cellular Membrane,C0230839 || C3161472,2,2,0.0,0.0
+C0167206,Transmembrane 4 L6 Family Member 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1308467,Adhesion G Protein-Coupled Receptor B3,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0040690,Transforming Growth Factor-Beta Superfamily,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C4320090,Receptor Tyrosine-Protein Kinase erbB-2 Carboxyl Terminal Fragment,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0389252,Proto-Oncogene Tyrosine-Protein Kinase Receptor Ret,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0914163,Transcription Factor E2-Alpha,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1335430,Platelet-Derived Growth Factor Subunit A,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C2713376,Heparin Cofactor 2,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1455126,Tumor Necrosis Factor Receptor Superfamily Member 18,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0216705,Protein AF-9,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3640214,Protein ECT2,gene_product_has_associated_anatomy,"['C0007610', 'C0242358', 'C1383501']","['Nucleus', 'Tight Junction', 'Cytosol']",Nucleus || Tight Junction || Cytosol,C0007610 || C0242358 || C1383501,3,3,0.0,0.0
+C3537292,Forkhead Box Protein O6,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4283898,"Androgen Receptor Splice Variant 5,6,7es",gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C1453067,Aldo-Keto Reductase Family 1 Member C3,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C5203003,Histone H2A Type 1-J,gene_product_has_associated_anatomy,"['C0007610', 'C0008546', 'C0028623', 'C1518457']","['Nucleus', 'Chromatin', 'Nucleosome', 'Nucleosome Core Particle']",Nucleus || Chromatin || Nucleosome || Nucleosome Core Particle,C0007610 || C0008546 || C0028623 || C1518457,4,4,0.0,0.0
+C3537354,Nuclear Transcription Factor Y Subunit Alpha,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C5401351,Band 4.1-Like Protein 5,gene_product_has_associated_anatomy,['C0230613'],['Zonula Adherens'],Zonula Adherens,C0230613,1,1,0.0,0.0
+C1447150,Heterogeneous Nuclear Ribonucleoprotein K,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1368335,Ubiquitin Carboxyl-Terminal Hydrolase BAP1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1663627,ALK Tyrosine Kinase Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0530601,RNA-Binding Protein With Multiple Splicing,gene_product_has_associated_anatomy,"['C0010834', 'C0682537']","['Cytoplasm', 'Nucleoplasm']",Cytoplasm || Nucleoplasm,C0010834 || C0682537,2,2,0.0,0.0
+C5202704,cAMP-Responsive Element Modulator,gene_product_has_associated_anatomy,"['C0007610', 'C0037857']","['Nucleus', 'Spermatid']",Nucleus || Spermatid,C0007610 || C0037857,2,2,0.0,0.0
+C0968617,Transcription Initiation Factor TFIID Subunit 3,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4085191,Interleukin-18 Receptor 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1612271,Proton-Coupled Folate Transporter,gene_product_has_associated_anatomy,"['C0007603', 'C3161472']","['Plasma Membrane', 'Cellular Membrane']",Plasma Membrane || Cellular Membrane,C0007603 || C3161472,2,2,0.0,0.0
+C1307941,A Disintegrin and Metalloprotease with Thrombospondin Motifs 1,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C1738239,Sodium/Calcium Exchanger 1,gene_product_has_associated_anatomy,"['C0007603', 'C3161472']","['Plasma Membrane', 'Cellular Membrane']",Plasma Membrane || Cellular Membrane,C0007603 || C3161472,2,2,0.0,0.0
+C1335068,Neurogenic Locus Notch Homolog Protein 1,gene_product_has_associated_anatomy,['C3161472'],['Cellular Membrane'],Cellular Membrane,C3161472,1,1,0.0,0.0
+C3541892,Protein Unc-119 Homolog A,gene_product_has_associated_anatomy,"['C0242608', 'C3161472']","['Centrosome', 'Cellular Membrane']",Centrosome || Cellular Membrane,C0242608 || C3161472,2,2,0.0,0.0
+C1431711,Fibroblast Growth Factor 19,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1531217,Desmoplakin,gene_product_has_associated_anatomy,['C0011703'],['Desmosome'],Desmosome,C0011703,1,1,0.0,0.0
+C2003673,Activin Receptor Type-2A,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C3273506,Homeobox Protein Hox-D13,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3540505,Ubiquitin-Conjugating Enzyme E2 R1,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C0074468,Sialate O-Acetylesterase,gene_product_has_associated_anatomy,['C0024369'],['Lysosome'],Lysosome,C0024369,1,1,0.0,0.0
+C0540340,Suppressor of Cytokine Signaling 2,gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C0171427,Paired Mesoderm Homeobox Protein 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1741716,G1/S-Specific Cyclin-D1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1531278,Nicotinate-Nucleotide Pyrophosphorylase [Carboxylating],gene_product_has_associated_anatomy,['C1383501'],['Cytosol'],Cytosol,C1383501,1,1,0.0,0.0
+C1453681,Syntaxin-Binding Protein 2,gene_product_has_associated_anatomy,"['C0007603', 'C0886515', 'C2350332', 'C3161472']","['Plasma Membrane', 'Secretory Granule', 'Exosome', 'Cellular Membrane']",Plasma Membrane || Secretory Granule || Exosome || Cellular Membrane,C0007603 || C0886515 || C2350332 || C3161472,4,4,0.0,0.0
+C1448187,Collagen Alpha-1(III) Chain,gene_product_has_associated_anatomy,['C0015350'],['Extracellular Matrix'],Extracellular Matrix,C0015350,1,1,0.0,0.0
+C4319635,Tropomyosin Alpha-3 Chain Isoform 2,gene_product_has_associated_anatomy,"['C0010853', 'C0016030']","['Cytoskeleton', 'Fibroblast']",Cytoskeleton || Fibroblast,C0010853 || C0016030,2,2,0.0,0.0
+C0217373,Reticulon-1,gene_product_has_associated_anatomy,"['C0014239', 'C3161472']","['Endoplasmic Reticulum', 'Cellular Membrane']",Endoplasmic Reticulum || Cellular Membrane,C0014239 || C3161472,2,2,0.0,0.0
+C1336768,DNA Topoisomerase 3-Alpha,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4284341,Selenocysteine-Specific Elongation Factor,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C0076922,TFIIIB,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C1138490,Mucosal Addressin Cell Adhesion Molecule 1,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0535872,Interferon Alpha-2,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C1527413,Adenosine Receptor A2b,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C1335959,Signal Transducer and Activator of Transcription 5B,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C0914906,Nuclear Receptor Subfamily 1 Group I Member 3,gene_product_has_associated_anatomy,"['C0007610', 'C0010834']","['Nucleus', 'Cytoplasm']",Nucleus || Cytoplasm,C0007610 || C0010834,2,2,0.0,0.0
+C3273709,Protein Transport Protein Sec23B,gene_product_has_associated_anatomy,"['C0230790', 'C0887882', 'C1325633', 'C1513117', 'C3161472']","['Membrane of the Smooth Endoplasmic Reticulum', 'Transport Vesicle', 'Membrane of the Rough Endoplasmic Reticulum', 'Membrane of the Golgi Apparatus', 'Cellular Membrane']",Membrane of the Smooth Endoplasmic Reticulum || Transport Vesicle || Membrane of the Rough Endoplasmic Reticulum || Membrane of the Golgi Apparatus || Cellular Membrane,C0230790 || C0887882 || C1325633 || C1513117 || C3161472,5,5,0.0,0.07999999904000002
+C3537392,T-Box Brain Protein 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4288605,Nitrilase Homolog 1,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C1171892,Vascular Endothelial Growth Factor A,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3889626,Annexin A6,gene_product_has_associated_anatomy,"['C1166848', 'C2350332', 'C3161472']","['Late Endosome', 'Exosome', 'Cellular Membrane']",Late Endosome || Exosome || Cellular Membrane,C1166848 || C2350332 || C3161472,3,3,0.0,0.0
+C1568991,Interleukin-24,gene_product_has_associated_anatomy,['C0015352'],['Extracellular Space'],Extracellular Space,C0015352,1,1,0.0,0.0
+C3538814,Ribosyldihydronicotinamide Dehydrogenase [Quinone],gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C1447552,"ATP-Binding Cassette Sub-Family B Member 6, Mitochondrial",gene_product_has_associated_anatomy,"['C0026237', 'C3161472']","['Mitochondrion', 'Cellular Membrane']",Mitochondrion || Cellular Membrane,C0026237 || C3161472,2,2,0.0,0.0
+C0220528,Pre-B-Cell Leukemia Transcription Factor 1,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C4725710,Claudin-18 Isoform A2,gene_product_has_associated_anatomy,"['C0007603', 'C0014597', 'C0242358']","['Plasma Membrane', 'Epithelial Cell', 'Tight Junction']",Plasma Membrane || Epithelial Cell || Tight Junction,C0007603 || C0014597 || C0242358,3,3,0.0,0.0
+C1505478,Hypoxia Up-Regulated 1 Protein,gene_product_has_associated_anatomy,['C0014239'],['Endoplasmic Reticulum'],Endoplasmic Reticulum,C0014239,1,1,0.0,0.0
+C0762318,Retinoic Acid-Induced Protein 3,gene_product_has_associated_anatomy,"['C0007603', 'C3161472']","['Plasma Membrane', 'Cellular Membrane']",Plasma Membrane || Cellular Membrane,C0007603 || C3161472,2,2,0.0,0.0
+C1872104,Interleukin-23 Receptor,gene_product_has_associated_anatomy,['C0007603'],['Plasma Membrane'],Plasma Membrane,C0007603,1,1,0.0,0.0
+C0528328,Transcription Factor Dp-2,gene_product_has_associated_anatomy,['C0007610'],['Nucleus'],Nucleus,C0007610,1,1,0.0,0.0
+C3500855,Arginase-1,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0
+C5202974,Histone H2A Type 1-C,gene_product_has_associated_anatomy,"['C0007610', 'C0008546', 'C0028623', 'C1518457']","['Nucleus', 'Chromatin', 'Nucleosome', 'Nucleosome Core Particle']",Nucleus || Chromatin || Nucleosome || Nucleosome Core Particle,C0007610 || C0008546 || C0028623 || C1518457,4,4,0.0,0.0
+C4084849,Serine/Threonine-Protein Kinase TAO1,gene_product_has_associated_anatomy,['C0010834'],['Cytoplasm'],Cytoplasm,C0010834,1,1,0.0,0.0

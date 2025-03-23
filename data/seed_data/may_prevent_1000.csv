@@ -1,0 +1,1001 @@
+head_cui,head_name,rel,tail_cuis_list,tail_names_list,tail_names,tail_cuis,tail_cuis_len,tail_names_len,avg_match,avg_rouge_l
+C0038745,sulfisoxazole,may_prevent,"['C0004623', 'C0026946', 'C0033740']","['Bacterial Infections', 'Mycoses', 'Protozoan Infections']",Bacterial Infections || Mycoses || Protozoan Infections,C0004623 || C0026946 || C0033740,3,3,0.0,0.0
+C0304305,cyclizine lactate,may_prevent,"['C0026603', 'C0027497', 'C0042963']","['Motion Sickness', 'Nausea', 'Vomiting']",Motion Sickness || Nausea || Vomiting,C0026603 || C0027497 || C0042963,3,3,0.0,0.0
+C0054635,caramiphen,may_prevent,['C0010200'],['Cough'],Cough,C0010200,1,1,0.0,0.0
+C4507568,bictegravir,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C0304455,dyclonine hydrochloride,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0065818,dolasetron mesylate,may_prevent,['C0520909'],['Postoperative Nausea and Vomiting'],Postoperative Nausea and Vomiting,C0520909,1,1,0.0,0.0
+C5390776,influenza A virus A/Hawaii/70/2019 (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C0025746,methylene blue,may_prevent,['C0010520'],['Cyanosis'],Cyanosis,C0010520,1,1,0.0,0.0
+C0005100,benzyl alcohol,may_prevent,['C0030756'],['Lice Infestations'],Lice Infestations,C0030756,1,1,0.0,0.0
+C4522829,pitavastatin sodium,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C3536841,Aminoglycoside Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2606637,elvitegravir,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C3159361,human adenovirus E serotype 4 strain CL-68578,may_prevent,['C0001486'],['Adenoviridae Infections'],Adenoviridae Infections,C0001486,1,1,0.0,0.0
+C0537670,oprelvekin,may_prevent,['C0040034'],['Thrombocytopenia'],Thrombocytopenia,C0040034,1,1,0.0,0.0
+C2344269,Streptococcus pneumoniae serotype 19F capsular antigen diphtheria CRM197 protein conjugate vaccine,may_prevent,['C0038410'],['Streptococcus pneumoniae'],Streptococcus pneumoniae,C0038410,1,1,1.0,0.30769230508875745
+C0072980,sirolimus,may_prevent,['C0018133'],['Graft vs Host Disease'],Graft vs Host Disease,C0018133,1,1,0.0,0.0
+C4490323,betrixaban maleate,may_prevent,['C1861172'],['Venous Thromboembolism'],Venous Thromboembolism,C1861172,1,1,0.0,0.0
+C0700546,methylprednisolone sodium succinate,may_prevent,"['C0003868', 'C0003873', 'C0018133']","['Arthritis, Gouty', 'Arthritis, Rheumatoid', 'Graft vs Host Disease']","Arthritis, Gouty || Arthritis, Rheumatoid || Graft vs Host Disease",C0003868 || C0003873 || C0018133,3,3,0.0,0.0
+C0304456,tetracaine hydrochloride,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C2725003,"Bordetella pertussis filamentous hemagglutinin vaccine, inactivated",may_prevent,['C0043167'],['Whooping Cough'],Whooping Cough,C0043167,1,1,0.0,0.0
+C0019435,hexachlorophene,may_prevent,"['C0009450', 'C0038166']","['Communicable Diseases', 'Staphylococcal Skin Infections']",Communicable Diseases || Staphylococcal Skin Infections,C0009450 || C0038166,2,2,0.0,0.0
+C0010592,cyclosporine,may_prevent,['C0018133'],['Graft vs Host Disease'],Graft vs Host Disease,C0018133,1,1,0.0,0.0
+C0282104,ciprofloxacin hydrochloride,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C0043483,bacitracin zinc,may_prevent,['C0162627'],"['Skin Diseases, Bacterial']","Skin Diseases, Bacterial",C0162627,1,1,0.0,0.0
+C0038426,streptomycin sulfate,may_prevent,['C0026918'],['Mycobacterium Infections'],Mycobacterium Infections,C0026918,1,1,0.0,0.0
+C0138273,prednisolone sodium phosphate,may_prevent,"['C0003868', 'C0003873']","['Arthritis, Gouty', 'Arthritis, Rheumatoid']","Arthritis, Gouty || Arthritis, Rheumatoid",C0003868 || C0003873,2,2,0.0,0.0
+C1260298,tigecycline,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0971023,entecavir,may_prevent,['C0019163'],['Hepatitis B'],Hepatitis B,C0019163,1,1,0.0,0.0
+C0013547,econazole,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0025575,metaraminol,may_prevent,['C0020649'],['Hypotension'],Hypotension,C0020649,1,1,0.0,0.0
+C0065533,magnesium trisilicate,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.4999999950000001
+C3536760,Antimycobacterial,may_prevent,['C0026918'],['Mycobacterium Infections'],Mycobacterium Infections,C0026918,1,1,0.0,0.0
+C0040867,triamcinolone diacetate,may_prevent,"['C0003868', 'C0003873', 'C0004096']","['Arthritis, Gouty', 'Arthritis, Rheumatoid', 'Asthma']","Arthritis, Gouty || Arthritis, Rheumatoid || Asthma",C0003868 || C0003873 || C0004096,3,3,0.0,0.0
+C0021968,iodine,may_prevent,['C0038941'],['Surgical Wound Infection'],Surgical Wound Infection,C0038941,1,1,0.0,0.0
+C0209227,famciclovir,may_prevent,"['C0019342', 'C0019348', 'C0019360']","['Herpes Genitalis', 'Herpes Simplex', 'Herpes Zoster']",Herpes Genitalis || Herpes Simplex || Herpes Zoster,C0019342 || C0019348 || C0019360,3,3,0.0,0.0
+C2983838,omadacycline,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C3256748,disodium hydrogen phosphate dehydrate,may_prevent,['C0085682'],['Hypophosphatemia'],Hypophosphatemia,C0085682,1,1,0.0,0.0
+C0015821,fenbendazole,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0700531,diethylcarbamazine citrate,may_prevent,['C0030499'],['Parasitic Diseases'],Parasitic Diseases,C0030499,1,1,0.0,0.0
+C0358490,procaine hydrochloride,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0065374,lisinopril,may_prevent,"['C0011881', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0149721 || C0242698,3,3,0.0,0.0
+C0138038,monobasic potassium phosphate,may_prevent,"['C0020621', 'C0085682']","['Hypokalemia', 'Hypophosphatemia']",Hypokalemia || Hypophosphatemia,C0020621 || C0085682,2,2,0.0,0.0
+C0887621,bupivacaine hydrochloride,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0357929,calamine,may_prevent,"['C0011616', 'C0032087']","['Dermatitis, Contact', 'Plant Poisoning']","Dermatitis, Contact || Plant Poisoning",C0011616 || C0032087,2,2,0.0,0.0
+C3540733,esomeprazole strontium,may_prevent,['C0038358'],['Stomach Ulcer'],Stomach Ulcer,C0038358,1,1,0.0,0.0
+C0037508,sodium fluoride,may_prevent,"['C0011334', 'C0011389', 'C0080233']","['Dental Caries', 'Dental Plaque', 'Tooth Loss']",Dental Caries || Dental Plaque || Tooth Loss,C0011334 || C0011389 || C0080233,3,3,0.0,0.0
+C0028365,norfloxacin,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C1121991,cangrelor,may_prevent,"['C0010072', 'C0027051', 'C0038454']","['Coronary Thrombosis', 'Myocardial Infarction', 'Stroke']",Coronary Thrombosis || Myocardial Infarction || Stroke,C0010072 || C0027051 || C0038454,3,3,0.0,0.0
+C1330622,estradiol acetate,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C0055014,ceftibuten,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C3643467,Diarylquinoline Antimycobacterial,may_prevent,['C0026918'],['Mycobacterium Infections'],Mycobacterium Infections,C0026918,1,1,0.0,0.0
+C0025638,methenamine,may_prevent,['C0042029'],['Urinary Tract Infections'],Urinary Tract Infections,C0042029,1,1,0.0,0.0
+C0301383,mannitol hexanitrate,may_prevent,"['C0003460', 'C0013221', 'C0022660', 'C0028961']","['Anuria', 'Drug Toxicity', 'Kidney Failure, Acute', 'Oliguria']","Anuria || Drug Toxicity || Kidney Failure, Acute || Oliguria",C0003460 || C0013221 || C0022660 || C0028961,4,4,0.0,0.0
+C0012265,digoxin,may_prevent,['C0018801'],['Heart Failure'],Heart Failure,C0018801,1,1,0.0,0.0
+C0521901,tetracycline phosphate complex,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C0086303,flecainide acetate,may_prevent,['C0003811'],"['Arrhythmias, Cardiac']","Arrhythmias, Cardiac",C0003811,1,1,0.0,0.0
+C0077163,trimethobenzamide,may_prevent,"['C0027497', 'C0042963']","['Nausea', 'Vomiting']",Nausea || Vomiting,C0027497 || C0042963,2,2,0.0,0.0
+C0053091,benazepril,may_prevent,"['C0011881', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0149721 || C0242698,3,3,0.0,0.0
+C0065864,medroxyprogesterone acetate,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C4723206,lanadelumab-flyo,may_prevent,['C0019243'],"['Angioedemas, Hereditary']","Angioedemas, Hereditary",C0019243,1,1,0.0,0.0
+C4306797,Fluoroquinolone Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0007561,ceftriaxone,may_prevent,"['C0004623', 'C0038941']","['Bacterial Infections', 'Surgical Wound Infection']",Bacterial Infections || Surgical Wound Infection,C0004623 || C0038941,2,2,0.0,0.0
+C4508938,Oliceridine,may_prevent,['C0184567'],['Acute Pain'],Acute Pain,C0184567,1,1,0.0,0.0
+C0017449,oxytetracycline hydrochloride,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C0521900,amoxicillin trihydrate,may_prevent,"['C0004623', 'C0014121']","['Bacterial Infections', 'Endocarditis, Bacterial']","Bacterial Infections || Endocarditis, Bacterial",C0004623 || C0014121,2,2,0.0,0.0
+C1576818,levalbuterol tartrate,may_prevent,['C0006266'],['Bronchial Spasm'],Bronchial Spasm,C0006266,1,1,0.0,0.0
+C0059725,ethoheptazine,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0597277,potassium ion,may_prevent,['C0020621'],['Hypokalemia'],Hypokalemia,C0020621,1,1,0.0,0.0
+C0006920,capreomycin sulfate,may_prevent,['C0026918'],['Mycobacterium Infections'],Mycobacterium Infections,C0026918,1,1,0.0,0.0
+C0022625,ketoconazole,may_prevent,"['C0026946', 'C0162526']","['Mycoses', 'AIDS-Related Opportunistic Infections']",Mycoses || AIDS-Related Opportunistic Infections,C0026946 || C0162526,2,2,0.0,0.0
+C0034238,pyrantel tartrate,may_prevent,"['C0003950', 'C0028887']","['Ascariasis', 'Oesophagostomiasis']",Ascariasis || Oesophagostomiasis,C0003950 || C0028887,2,2,0.0,0.0
+C0282045,"aluminum hydroxide, dried (USP)",may_prevent,['C0017181'],['Gastrointestinal Hemorrhage'],Gastrointestinal Hemorrhage,C0017181,1,1,0.0,0.0
+C4033440,magnesium phosphate anhydrous,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.39999999520000007
+C2709752,Streptococcus pneumoniae type 19F capsular polysaccharide antigen,may_prevent,['C0032269'],['Pneumococcal Infections'],Pneumococcal Infections,C0032269,1,1,0.0,0.0
+C0008241,proguanil,may_prevent,"['C0024530', 'C0024535']","['Malaria', 'Malaria, Falciparum']","Malaria || Malaria, Falciparum",C0024530 || C0024535,2,2,0.0,0.0
+C3855806,levomefolate magnesium,may_prevent,"['C0016412', 'C0027794']","['Folic Acid Deficiency', 'Neural Tube Defects']",Folic Acid Deficiency || Neural Tube Defects,C0016412 || C0027794,2,2,0.0,0.0
+C0724585,fenofibrate micronized,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0039286,tamoxifen,may_prevent,['C1134719'],"['Carcinoma, Ductal, Breast']","Carcinoma, Ductal, Breast",C1134719,1,1,0.0,0.0
+C3536707,Pediculicide,may_prevent,['C0030756'],['Lice Infestations'],Lice Infestations,C0030756,1,1,0.0,0.0
+C0024730,mannitol,may_prevent,"['C0003460', 'C0028961']","['Anuria', 'Oliguria']",Anuria || Oliguria,C0003460 || C0028961,2,2,0.0,0.0
+C2927385,"influenza virus vaccine, inactivated A-Victoria-210-2009 X-187 (H3N2) (A-Perth-16-2009) strain",may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,0.0,0.33333332958333334
+C2939773,levomefolate,may_prevent,"['C0016412', 'C0027794']","['Folic Acid Deficiency', 'Neural Tube Defects']",Folic Acid Deficiency || Neural Tube Defects,C0016412 || C0027794,2,2,0.0,0.0
+C4080052,elbasvir,may_prevent,['C0019196'],['Hepatitis C'],Hepatitis C,C0019196,1,1,0.0,0.0
+C1509560,magnesium glycinate,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.4999999950000001
+C2726834,spectinomycin sulfate tetrahydrate,may_prevent,['C0026936'],['Mycoplasma Infections'],Mycoplasma Infections,C0026936,1,1,0.0,0.0
+C0016267,floxacillin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0026933,mycophenolic acid,may_prevent,['C0018133'],['Graft vs Host Disease'],Graft vs Host Disease,C0018133,1,1,0.0,0.0
+C0205996,pristinamycin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0037531,nafcillin sodium,may_prevent,"['C0004623', 'C0032787', 'C0085426']","['Bacterial Infections', 'Postoperative Complications', 'Gram-Positive Bacterial Infections']",Bacterial Infections || Postoperative Complications || Gram-Positive Bacterial Infections,C0004623 || C0032787 || C0085426,3,3,0.0,0.0
+C0071554,polyestradiol phosphate,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C0122922,hypochlorite,may_prevent,['C0037278'],"['Skin Diseases, Infectious']","Skin Diseases, Infectious",C0037278,1,1,0.0,0.0
+C0069803,oxybenzone,may_prevent,['C0038814'],['Sunburn'],Sunburn,C0038814,1,1,0.0,0.0
+C4555929,edetate calcium disodium monohyrdate,may_prevent,['C0023176'],['Lead Poisoning'],Lead Poisoning,C0023176,1,1,0.0,0.0
+C0618111,raloxifene hydrochloride,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C0770720,diphtheria toxoid adsorbed,may_prevent,['C0012546'],['Diphtheria'],Diphtheria,C0012546,1,1,1.0,0.4999999962500001
+C0010137,cortisone,may_prevent,"['C0003868', 'C0003873']","['Arthritis, Gouty', 'Arthritis, Rheumatoid']","Arthritis, Gouty || Arthritis, Rheumatoid",C0003868 || C0003873,2,2,0.0,0.0
+C0001465,adenosine monophosphate,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0520529,potassium phenethicillin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2741588,Neisseria meningitidis serogroup W-135 oligosaccharide diphtheria CRM197 protein conjugate vaccine,may_prevent,['C1136221'],"['Neisseria meningitidis, Serogroup W-135']","Neisseria meningitidis, Serogroup W-135",C1136221,1,1,0.0,0.4285714244897959
+C0036581,selenium,may_prevent,['C0011156'],['Deficiency Diseases'],Deficiency Diseases,C0011156,1,1,0.0,0.0
+C2344295,"L1 protein, human papillomavirus type 18 vaccine",may_prevent,"['C0017416', 'C0279637', 'C0343641', 'C0878500']","['Genital Neoplasms, Female', 'Anal Cancer', 'Papillomavirus Infections', 'Neoplasms, Intraepithelial']","Genital Neoplasms, Female || Anal Cancer || Papillomavirus Infections || Neoplasms, Intraepithelial",C0017416 || C0279637 || C0343641 || C0878500,4,4,0.0,0.05555555469135803
+C0770382,dibucaine hydrochloride,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C3709760,coagulation factor XIII a-subunit (recombinant),may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C4033637,influenza B virus B/Brisbane/60/2008 antigen,may_prevent,['C0029348'],['Influenza B virus'],Influenza B virus,C0029348,1,1,1.0,0.7499999953125
+C0215717,parnaparin,may_prevent,"['C0034065', 'C0042487']","['Pulmonary Embolism', 'Venous Thrombosis']",Pulmonary Embolism || Venous Thrombosis,C0034065 || C0042487,2,2,0.0,0.0
+C0168273,bivalirudin,may_prevent,"['C0040038', 'C0151744']","['Thromboembolism', 'Myocardial Ischemia']",Thromboembolism || Myocardial Ischemia,C0040038 || C0151744,2,2,0.0,0.0
+C0065162,lomefloxacin,may_prevent,['C0042029'],['Urinary Tract Infections'],Urinary Tract Infections,C0042029,1,1,0.0,0.0
+C0040864,triamcinolone,may_prevent,"['C0003868', 'C0003873', 'C0004096']","['Arthritis, Gouty', 'Arthritis, Rheumatoid', 'Asthma']","Arthritis, Gouty || Arthritis, Rheumatoid || Asthma",C0003868 || C0003873 || C0004096,3,3,0.0,0.0
+C0245531,salmeterol xinafoate,may_prevent,"['C0004099', 'C0006266']","['Asthma, Exercise-Induced', 'Bronchial Spasm']","Asthma, Exercise-Induced || Bronchial Spasm",C0004099 || C0006266,2,2,0.0,0.0
+C0028923,oleandomycin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C3505264,chondroitin sulfate sodium (shark),may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0011779,dexamethasone isonicotinate,may_prevent,"['C0004096', 'C0027430', 'C0027497', 'C0042963']","['Asthma', 'Nasal Polyps', 'Nausea', 'Vomiting']",Asthma || Nasal Polyps || Nausea || Vomiting,C0004096 || C0027430 || C0027497 || C0042963,4,4,0.0,0.0
+C0079856,moricizine,may_prevent,['C0003811'],"['Arrhythmias, Cardiac']","Arrhythmias, Cardiac",C0003811,1,1,0.0,0.0
+C0982192,"heparin sodium, porcine",may_prevent,"['C0032787', 'C0034065', 'C0040038', 'C0042487']","['Postoperative Complications', 'Pulmonary Embolism', 'Thromboembolism', 'Venous Thrombosis']",Postoperative Complications || Pulmonary Embolism || Thromboembolism || Venous Thrombosis,C0032787 || C0034065 || C0040038 || C0042487,4,4,0.0,0.0
+C0033126,primaquine,may_prevent,"['C0024530', 'C0024537']","['Malaria', 'Malaria, Vivax']","Malaria || Malaria, Vivax",C0024530 || C0024537,2,2,0.0,0.0
+C2266976,Lipopeptide Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0025051,medazepam,may_prevent,['C0036572'],['Seizures'],Seizures,C0036572,1,1,0.0,0.0
+C2699162,cephalexin anhydrous,may_prevent,['C0014121'],"['Endocarditis, Bacterial']","Endocarditis, Bacterial",C0014121,1,1,0.0,0.0
+C2351042,besifloxacin,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C0030829,penicillin G benzathine,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0259507,danaparoid,may_prevent,"['C0032787', 'C0034065', 'C0040038', 'C0042487']","['Postoperative Complications', 'Pulmonary Embolism', 'Thromboembolism', 'Venous Thrombosis']",Postoperative Complications || Pulmonary Embolism || Thromboembolism || Venous Thrombosis,C0032787 || C0034065 || C0040038 || C0042487,4,4,0.0,0.0
+C2683417,prasugrel hydrochloride,may_prevent,"['C0007785', 'C0010072', 'C0027051']","['Cerebral Infarction', 'Coronary Thrombosis', 'Myocardial Infarction']",Cerebral Infarction || Coronary Thrombosis || Myocardial Infarction,C0007785 || C0010072 || C0027051,3,3,0.0,0.0
+C0025384,mepivacaine,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0015620,famotidine,may_prevent,"['C0013295', 'C0017181', 'C0038358']","['Duodenal Ulcer', 'Gastrointestinal Hemorrhage', 'Stomach Ulcer']",Duodenal Ulcer || Gastrointestinal Hemorrhage || Stomach Ulcer,C0013295 || C0017181 || C0038358,3,3,0.0,0.0
+C0004906,beclomethasone dipropionate,may_prevent,"['C0004096', 'C0027430']","['Asthma', 'Nasal Polyps']",Asthma || Nasal Polyps,C0004096 || C0027430,2,2,0.0,0.0
+C1882993,segesterone,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C0056301,copper sulfate,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C0813202,carbenicillin disodium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0034421,quinine hydrochloride,may_prevent,['C0026821'],['Muscle Cramp'],Muscle Cramp,C0026821,1,1,0.0,0.0
+C0894727,methampicillin sodium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0001268,spectinomycin,may_prevent,['C0026936'],['Mycoplasma Infections'],Mycoplasma Infections,C0026936,1,1,0.0,0.0
+C2344313,human-bovine reassortant rotavirus strain G3 vaccine,may_prevent,['C0035869'],['Rotavirus Infections'],Rotavirus Infections,C0035869,1,1,0.0,0.24999999625000005
+C2930762,tedizolid phosphate,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0025147,medroxyprogesterone,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C0771341,cefpirome sulfate,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C4764383,hyaluronidase-oysk,may_prevent,['C0015379'],['Extravasation of Diagnostic and Therapeutic Materials'],Extravasation of Diagnostic and Therapeutic Materials,C0015379,1,1,0.0,0.0
+C2241979,Salmonella typhi Ty21a live antigen,may_prevent,['C0041466'],['Typhoid Fever'],Typhoid Fever,C0041466,1,1,0.0,0.0
+C4291322,vitamin A myristate,may_prevent,['C0042842'],['Vitamin A Deficiency'],Vitamin A Deficiency,C0042842,1,1,0.0,0.6666666616666668
+C0052944,bambuterol,may_prevent,['C0006266'],['Bronchial Spasm'],Bronchial Spasm,C0006266,1,1,0.0,0.0
+C2700331,zinc sulfate anhydrous,may_prevent,['C3714509'],['Nutrition Disorders'],Nutrition Disorders,C3714509,1,1,0.0,0.0
+C0289432,methylergonovine maleate,may_prevent,['C0032797'],['Postpartum Hemorrhage'],Postpartum Hemorrhage,C0032797,1,1,0.0,0.0
+C4291328,Vibrio cholerae CVD 103-HGR strain live antigen,may_prevent,['C0318248'],['Vibrio cholerae O1'],Vibrio cholerae O1,C0318248,1,1,0.0,0.3999999958
+C0011795,dextran 70,may_prevent,"['C0034065', 'C0042487']","['Pulmonary Embolism', 'Venous Thrombosis']",Pulmonary Embolism || Venous Thrombosis,C0034065 || C0042487,2,2,0.0,0.0
+C0073115,vitamin A palmitate,may_prevent,['C0042842'],['Vitamin A Deficiency'],Vitamin A Deficiency,C0042842,1,1,0.0,0.6666666616666668
+C0065944,meningococcal group C polysaccharide,may_prevent,['C0025303'],['Meningococcal Infections'],Meningococcal Infections,C0025303,1,1,0.0,0.33333332888888895
+C1120386,micafungin,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C4704008,influenza A virus A/Singapore/INFIMH-16-0019/2016 (H3N2) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C0002679,amphotericin B,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0109354,chloramphenicol sodium succinate,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0700442,amiodarone hydrochloride,may_prevent,['C0003811'],"['Arrhythmias, Cardiac']","Arrhythmias, Cardiac",C0003811,1,1,0.0,0.0
+C1291843,influenza B virus antigen,may_prevent,['C0029348'],['Influenza B virus'],Influenza B virus,C0029348,1,1,1.0,0.8571428522448981
+C0062527,hepatitis B surface antigen vaccine,may_prevent,['C0019163'],['Hepatitis B'],Hepatitis B,C0019163,1,1,1.0,0.5714285673469389
+C0770333,difenoxin hydrochloride,may_prevent,['C0011991'],['Diarrhea'],Diarrhea,C0011991,1,1,0.0,0.0
+C3536912,Human Immunodeficiency Virus Protease Inhibitor,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C4033636,diptheria toxoid absorbed,may_prevent,['C0012546'],['Diphtheria'],Diphtheria,C0012546,1,1,0.0,0.0
+C0033229,prochlorperazine,may_prevent,"['C0027497', 'C0042963']","['Nausea', 'Vomiting']",Nausea || Vomiting,C0027497 || C0042963,2,2,0.0,0.0
+C2344291,"L1 protein, human papillomavirus type 11 vaccine",may_prevent,"['C0017416', 'C0279637', 'C0343641', 'C0878500']","['Genital Neoplasms, Female', 'Anal Cancer', 'Papillomavirus Infections', 'Neoplasms, Intraepithelial']","Genital Neoplasms, Female || Anal Cancer || Papillomavirus Infections || Neoplasms, Intraepithelial",C0017416 || C0279637 || C0343641 || C0878500,4,4,0.0,0.05555555469135803
+C0756085,dalfopristin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0040123,thyroglobulin,may_prevent,['C0020676'],['Hypothyroidism'],Hypothyroidism,C0020676,1,1,0.0,0.0
+C0887127,metoclopramide dihydrochloride,may_prevent,['C0520909'],['Postoperative Nausea and Vomiting'],Postoperative Nausea and Vomiting,C0520909,1,1,0.0,0.0
+C0017066,ganciclovir,may_prevent,['C0010823'],['Cytomegalovirus Infections'],Cytomegalovirus Infections,C0010823,1,1,0.0,0.0
+C0246719,risedronate,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C0724560,colloidal oatmeal,may_prevent,['C0011603'],['Dermatitis'],Dermatitis,C0011603,1,1,0.0,0.0
+C4033624,influenza A virus (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.7499999953125
+C0053570,bifonazole,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0752270,Echinacea preparation,may_prevent,['C0009443'],['Common Cold'],Common Cold,C0009443,1,1,0.0,0.0
+C1365493,bemiparin sodium,may_prevent,"['C0032787', 'C0040038', 'C0042487']","['Postoperative Complications', 'Thromboembolism', 'Venous Thrombosis']",Postoperative Complications || Thromboembolism || Venous Thrombosis,C0032787 || C0040038 || C0042487,3,3,0.0,0.0
+C2724167,"human papillomavirus type 18, L1 capsid protein (residues 2-472) vaccine",may_prevent,"['C0017416', 'C0279637', 'C0343641', 'C0878500']","['Genital Neoplasms, Female', 'Anal Cancer', 'Papillomavirus Infections', 'Neoplasms, Intraepithelial']","Genital Neoplasms, Female || Anal Cancer || Papillomavirus Infections || Neoplasms, Intraepithelial",C0017416 || C0279637 || C0343641 || C0878500,4,4,0.0,0.04166666597222223
+C0072857,quinapril,may_prevent,"['C0011881', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0149721 || C0242698,3,3,0.0,0.0
+C0020316,hydroxocobalamin,may_prevent,['C0042847'],['Vitamin B 12 Deficiency'],Vitamin B 12 Deficiency,C0042847,1,1,0.0,0.0
+C0126791,magnesium stearate,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.4999999950000001
+C1648700,"alanine, DL-",may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0001407,adenine,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0700445,cefotaxime sodium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C1831808,apixaban,may_prevent,"['C0038454', 'C0040038', 'C0042487']","['Stroke', 'Thromboembolism', 'Venous Thrombosis']",Stroke || Thromboembolism || Venous Thrombosis,C0038454 || C0040038 || C0042487,3,3,0.0,0.0
+C2699141,cefovecin sodium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0066531,midecamycin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0001714,polymyxin B sulfate,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0546849,amiloride hydrochloride,may_prevent,['C0020621'],['Hypokalemia'],Hypokalemia,C0020621,1,1,0.0,0.0
+C0872890,dextromethorphan tannate,may_prevent,['C0010200'],['Cough'],Cough,C0010200,1,1,0.0,0.0
+C1699236,"synthetic conjugated estrogens, B",may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C1601311,dextromethorphan hydroiodide,may_prevent,['C0010200'],['Cough'],Cough,C0010200,1,1,0.0,0.0
+C0770917,benazepril hydrochloride,may_prevent,"['C0011881', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0149721 || C0242698,3,3,0.0,0.0
+C0536495,moxifloxacin,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C0249582,paricalcitol,may_prevent,['C0020502'],['Hyperparathyroidism'],Hyperparathyroidism,C0020502,1,1,0.0,0.0
+C0032857,povidone-iodine,may_prevent,"['C0009450', 'C0037274', 'C0038941']","['Communicable Diseases', 'Skin Diseases', 'Surgical Wound Infection']",Communicable Diseases || Skin Diseases || Surgical Wound Infection,C0009450 || C0037274 || C0038941,3,3,0.0,0.0
+C0887187,"ibuprofen, sodium salt",may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0025942,miconazole,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C1307126,"factor VIII, human",may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C0008574,chromium,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0338196,amphotericin B colloidal dispersion,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C2266974,Echinocandin Antifungal,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C5244432,Neisseria meningitidis serogroup A capsular polysaccharide tetanus toxoid protein conjugate vaccine,may_prevent,['C1136211'],"['Neisseria meningitidis, Serogroup A']","Neisseria meningitidis, Serogroup A",C1136211,1,1,0.0,0.3999999960888889
+C1571574,bazedoxifene acetate,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C0008402,cholestyramine resin,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0950387,cinoxate,may_prevent,['C0038814'],['Sunburn'],Sunburn,C0038814,1,1,0.0,0.0
+C3536839,Antiseptic,may_prevent,['C0009450'],['Communicable Diseases'],Communicable Diseases,C0009450,1,1,0.0,0.0
+C0700446,cefoxitin sodium,may_prevent,"['C0004623', 'C0032965', 'C0038941']","['Bacterial Infections', 'Pregnancy Complications, Infectious', 'Surgical Wound Infection']","Bacterial Infections || Pregnancy Complications, Infectious || Surgical Wound Infection",C0004623 || C0032965 || C0038941,3,3,0.0,0.0
+C1383389,chloroquine hydrochloride,may_prevent,['C0024530'],['Malaria'],Malaria,C0024530,1,1,0.0,0.0
+C0022092,iron-dextran complex,may_prevent,['C0162316'],"['Anemia, Iron-Deficiency']","Anemia, Iron-Deficiency",C0162316,1,1,0.0,0.0
+C0059610,estradiol cypionate,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C3883246,Neisseria meningitidis serogroup B recombinant NHBA fusion protein antigen,may_prevent,['C1136217'],"['Neisseria meningitidis, Serogroup B']","Neisseria meningitidis, Serogroup B",C1136217,1,1,0.0,0.4615384572781066
+C0772384,"zinc sulfate, heptahydrate",may_prevent,['C3714509'],['Nutrition Disorders'],Nutrition Disorders,C3714509,1,1,0.0,0.0
+C0009262,colchicine,may_prevent,['C0018099'],['Gout'],Gout,C0018099,1,1,0.0,0.0
+C0007538,cefadroxil,may_prevent,"['C0004623', 'C0014121']","['Bacterial Infections', 'Endocarditis, Bacterial']","Bacterial Infections || Endocarditis, Bacterial",C0004623 || C0014121,2,2,0.0,0.0
+C0074246,secnidazole,may_prevent,['C0085166'],"['Vaginosis, Bacterial']","Vaginosis, Bacterial",C0085166,1,1,0.0,0.0
+C0991811,cobalamin concentrate,may_prevent,['C0042847'],['Vitamin B 12 Deficiency'],Vitamin B 12 Deficiency,C0042847,1,1,0.0,0.0
+C5207592,selenium chloride,may_prevent,['C0011156'],['Deficiency Diseases'],Deficiency Diseases,C0011156,1,1,0.0,0.0
+C3848556,pralidoxime cation,may_prevent,['C0013221'],['Drug Toxicity'],Drug Toxicity,C0013221,1,1,0.0,0.0
+C0247025,tirofiban,may_prevent,"['C0035126', 'C0038454', 'C0040038', 'C0151744']","['Reperfusion Injury', 'Stroke', 'Thromboembolism', 'Myocardial Ischemia']",Reperfusion Injury || Stroke || Thromboembolism || Myocardial Ischemia,C0035126 || C0038454 || C0040038 || C0151744,4,4,0.0,0.0
+C0027603,neomycin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2828282,amoxicillin anhydrous,may_prevent,['C0014121'],"['Endocarditis, Bacterial']","Endocarditis, Bacterial",C0014121,1,1,0.0,0.0
+C0015120,etidocaine,may_prevent,['C0030201'],"['Pain, Postoperative']","Pain, Postoperative",C0030201,1,1,0.0,0.0
+C0025815,methylprednisolone,may_prevent,"['C0003868', 'C0003873', 'C0018133']","['Arthritis, Gouty', 'Arthritis, Rheumatoid', 'Graft vs Host Disease']","Arthritis, Gouty || Arthritis, Rheumatoid || Graft vs Host Disease",C0003868 || C0003873 || C0018133,3,3,0.0,0.0
+C0225326,fiber,may_prevent,"['C0009806', 'C3714509']","['Constipation', 'Nutrition Disorders']",Constipation || Nutrition Disorders,C0009806 || C3714509,2,2,0.0,0.0
+C0074554,simvastatin,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0027324,nafcillin,may_prevent,"['C0004623', 'C0032787', 'C0085426']","['Bacterial Infections', 'Postoperative Complications', 'Gram-Positive Bacterial Infections']",Bacterial Infections || Postoperative Complications || Gram-Positive Bacterial Infections,C0004623 || C0032787 || C0085426,3,3,0.0,0.0
+C0909839,emtricitabine,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C0174938,methylprednisolone aceponate,may_prevent,"['C0003868', 'C0003873', 'C0018133']","['Arthritis, Gouty', 'Arthritis, Rheumatoid', 'Graft vs Host Disease']","Arthritis, Gouty || Arthritis, Rheumatoid || Graft vs Host Disease",C0003868 || C0003873 || C0018133,3,3,0.0,0.0
+C4281720,"cytomegalovirus immune globulin, human",may_prevent,['C0010823'],['Cytomegalovirus Infections'],Cytomegalovirus Infections,C0010823,1,1,0.0,0.33333332888888895
+C0016377,flurbiprofen,may_prevent,"['C0026205', 'C0271051']","['Miosis', 'Macular Edema']",Miosis || Macular Edema,C0026205 || C0271051,2,2,0.0,0.0
+C4723538,fremanezumab-vfrm,may_prevent,['C0149931'],['Migraine Disorders'],Migraine Disorders,C0149931,1,1,0.0,0.0
+C0011796,dextran 75,may_prevent,"['C0034065', 'C0042487']","['Pulmonary Embolism', 'Venous Thrombosis']",Pulmonary Embolism || Venous Thrombosis,C0034065 || C0042487,2,2,0.0,0.0
+C4278463,emicizumab,may_prevent,['C3494187'],['Factor VIII Deficiency'],Factor VIII Deficiency,C3494187,1,1,0.0,0.0
+C0023566,levonorgestrel,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C0057610,dexpanthenol,may_prevent,['C0037274'],['Skin Diseases'],Skin Diseases,C0037274,1,1,0.0,0.0
+C0033124,prilocaine,may_prevent,['C0040460'],['Toothache'],Toothache,C0040460,1,1,0.0,0.0
+C1509932,chondroitin sulfate A sodium,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C2741584,Neisseria meningitidis serogroup A oligosaccharide diphtheria CRM197 protein conjugate vaccine,may_prevent,['C1136211'],"['Neisseria meningitidis, Serogroup A']","Neisseria meningitidis, Serogroup A",C1136211,1,1,0.0,0.4285714244897959
+C1450857,tafenoquine succinate,may_prevent,['C0024530'],['Malaria'],Malaria,C0024530,1,1,0.0,0.0
+C2344398,"smallpox vaccine live, New York City Board of Health vaccinia strain",may_prevent,['C0037354'],['Smallpox'],Smallpox,C0037354,1,1,1.0,0.16666666513888892
+C0531104,lumefantrine,may_prevent,['C0024530'],['Malaria'],Malaria,C0024530,1,1,0.0,0.0
+C0770372,benoxinate hydrochloride,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C5390772,influenza A virus A/Victoria/2454/2019 (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C2699326,"sodium phosphate, tribasic, dodecahydrate",may_prevent,['C0085682'],['Hypophosphatemia'],Hypophosphatemia,C0085682,1,1,0.0,0.0
+C2746103,Streptococcus pneumoniae serotype 1 capsular antigen diphtheria CRM197 protein conjugate vaccine,may_prevent,['C0038410'],['Streptococcus pneumoniae'],Streptococcus pneumoniae,C0038410,1,1,1.0,0.30769230508875745
+C2266960,Dihydrofolate Reductase Inhibitor Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2344309,human-bovine reassortant rotavirus strain G1 vaccine,may_prevent,['C0035869'],['Rotavirus Infections'],Rotavirus Infections,C0035869,1,1,0.0,0.24999999625000005
+C0873118,levobupivacaine,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0008168,chloramphenicol,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C3475327,influenza A virus A/Christchurch/16/2010 (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C0009077,cloxacillin,may_prevent,"['C0032787', 'C0085426']","['Postoperative Complications', 'Gram-Positive Bacterial Infections']",Postoperative Complications || Gram-Positive Bacterial Infections,C0032787 || C0085426,2,2,0.0,0.0
+C3536907,Quinolone Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2344068,Neisseria meningitidis serogroup C capsular polysaccharide diphtheria toxoid protein conjugate vaccine,may_prevent,['C1136218'],"['Neisseria meningitidis, Serogroup C']","Neisseria meningitidis, Serogroup C",C1136218,1,1,0.0,0.3999999960888889
+C0004015,aspartic acid,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0304712,ergot preparation,may_prevent,['C0032797'],['Postpartum Hemorrhage'],Postpartum Hemorrhage,C0032797,1,1,0.0,0.0
+C0740235,proparacaine hydrochloride,may_prevent,['C0151827'],['Eye Pain'],Eye Pain,C0151827,1,1,0.0,0.0
+C1434792,ibalizumab,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C3542463,tbo-filgrastim,may_prevent,"['C0027947', 'C3714514']","['Neutropenia', 'Infections']",Neutropenia || Infections,C0027947 || C3714514,2,2,0.0,0.0
+C5135597,"dengue virus live antigen, CYD serotype 3",may_prevent,['C0011311'],['Dengue'],Dengue,C0011311,1,1,1.0,0.24999999781250004
+C0589330,copper chloride,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C0796396,iodine-125,may_prevent,['C0038941'],['Surgical Wound Infection'],Surgical Wound Infection,C0038941,1,1,0.0,0.0
+C0886658,nedocromil sodium,may_prevent,['C0004096'],['Asthma'],Asthma,C0004096,1,1,0.0,0.0
+C3537186,Penicillin-class Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0002371,aluminum hydroxide,may_prevent,['C0017181'],['Gastrointestinal Hemorrhage'],Gastrointestinal Hemorrhage,C0017181,1,1,0.0,0.0
+C0003641,aprotinin,may_prevent,['C0079027'],"['Blood Loss, Surgical']","Blood Loss, Surgical",C0079027,1,1,0.0,0.0
+C0031862,vitamin K1,may_prevent,['C4722227'],['Hypoprothrombinemias'],Hypoprothrombinemias,C4722227,1,1,0.0,0.0
+C0126777,magnesium gluconate,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.4999999950000001
+C5196136,influenza A virus A/Idaho/07/2018 (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C0533545,gemifloxacin,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C0772181,estradiol hemihydrate,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C2826078,"coagulation factor X, human",may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C0700451,doxycycline monohydrate,may_prevent,['C0024530'],['Malaria'],Malaria,C0024530,1,1,0.0,0.0
+C0220578,palonosetron,may_prevent,['C0520909'],['Postoperative Nausea and Vomiting'],Postoperative Nausea and Vomiting,C0520909,1,1,0.0,0.0
+C0035891,roxithromycin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0700562,alfentanil hydrochloride,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C5390778,influenza A virus A/Nebraska/14/2019 (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C3883358,Hepatitis C Virus Non-Nucleoside NS5B Palm Polymerase Inhibitor,may_prevent,['C0019196'],['Hepatitis C'],Hepatitis C,C0019196,1,1,1.0,0.39999999680000003
+C0772506,acetylcysteine sodium,may_prevent,"['C0022672', 'C0032787']","['Kidney Tubular Necrosis, Acute', 'Postoperative Complications']","Kidney Tubular Necrosis, Acute || Postoperative Complications",C0022672 || C0032787,2,2,0.0,0.0
+C3255944,magnesium sulfate monohydrate,may_prevent,"['C0024473', 'C0036572']","['Magnesium Deficiency', 'Seizures']",Magnesium Deficiency || Seizures,C0024473 || C0036572,2,2,0.0,0.19999999760000003
+C0007555,cefotetan,may_prevent,"['C0004623', 'C0032965', 'C0038941']","['Bacterial Infections', 'Pregnancy Complications, Infectious', 'Surgical Wound Infection']","Bacterial Infections || Pregnancy Complications, Infectious || Surgical Wound Infection",C0004623 || C0032965 || C0038941,3,3,0.0,0.0
+C0076115,terconazole,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C5398275,influenza A virus A/Hawaii/66/2019 (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C3536842,Antidiarrheal,may_prevent,['C0011991'],['Diarrhea'],Diarrhea,C0011991,1,1,1.0,0.0
+C0256103,reteplase,may_prevent,['C0018801'],['Heart Failure'],Heart Failure,C0018801,1,1,0.0,0.0
+C1566826,rilpivirine,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C0002372,aluminum hydroxide gel,may_prevent,['C0017181'],['Gastrointestinal Hemorrhage'],Gastrointestinal Hemorrhage,C0017181,1,1,0.0,0.0
+C0982366,psyllium hydrocolloid,may_prevent,['C0009806'],['Constipation'],Constipation,C0009806,1,1,0.0,0.0
+C1118156,thyroid (beef),may_prevent,['C0020676'],['Hypothyroidism'],Hypothyroidism,C0020676,1,1,0.0,0.0
+C3255821,methylcellulose (100 CPS),may_prevent,['C0009806'],['Constipation'],Constipation,C0009806,1,1,0.0,0.0
+C0304594,naftifine hydrochloride,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0903411,tafenoquine,may_prevent,['C0024530'],['Malaria'],Malaria,C0024530,1,1,0.0,0.0
+C0125903,linolenic acid,may_prevent,['C0085307'],['Embolism and Thrombosis'],Embolism and Thrombosis,C0085307,1,1,0.0,0.0
+C0055880,clindamycin palmitate,may_prevent,['C0014121'],"['Endocarditis, Bacterial']","Endocarditis, Bacterial",C0014121,1,1,0.0,0.0
+C4033443,influenza B virus B/Utah/9/2014 antigen,may_prevent,['C0029348'],['Influenza B virus'],Influenza B virus,C0029348,1,1,1.0,0.7499999953125
+C0105750,beractant,may_prevent,['C0035220'],"['Respiratory Distress Syndrome, Newborn']","Respiratory Distress Syndrome, Newborn",C0035220,1,1,0.0,0.0
+C2266962,Ketolide Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0282398,mefloquine hydrochloride,may_prevent,"['C0024530', 'C0024535', 'C0024537']","['Malaria', 'Malaria, Falciparum', 'Malaria, Vivax']","Malaria || Malaria, Falciparum || Malaria, Vivax",C0024530 || C0024535 || C0024537,3,3,0.0,0.0
+C0771588,quinine ascorbate,may_prevent,['C0026821'],['Muscle Cramp'],Muscle Cramp,C0026821,1,1,0.0,0.0
+C0002435,amdinocillin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0543459,mexiletine hydrochloride,may_prevent,['C0003811'],"['Arrhythmias, Cardiac']","Arrhythmias, Cardiac",C0003811,1,1,0.0,0.0
+C0724526,ampicillin (anhydrous),may_prevent,['C0014121'],"['Endocarditis, Bacterial']","Endocarditis, Bacterial",C0014121,1,1,0.0,0.0
+C0006168,bretylium tosylate,may_prevent,['C0042510'],['Ventricular Fibrillation'],Ventricular Fibrillation,C0042510,1,1,0.0,0.0
+C0543448,magnesium aspartate,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.4999999950000001
+C2266961,Dihydrofolate Reductase Inhibitor Antiprotozoal,may_prevent,['C0033740'],['Protozoan Infections'],Protozoan Infections,C0033740,1,1,0.0,0.0
+C0034235,pyrantel,may_prevent,"['C0003950', 'C0028887']","['Ascariasis', 'Oesophagostomiasis']",Ascariasis || Oesophagostomiasis,C0003950 || C0028887,2,2,0.0,0.0
+C1099776,tenofovir disoproxil fumarate,may_prevent,"['C0019163', 'C0019693']","['Hepatitis B', 'HIV Infections']",Hepatitis B || HIV Infections,C0019163 || C0019693,2,2,0.0,0.0
+C1372952,varicella zoster immune globulin (human),may_prevent,['C0008049'],['Chickenpox'],Chickenpox,C0008049,1,1,0.0,0.0
+C0015518,factor X,may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C0102137,alginate,may_prevent,['C0017168'],['Gastroesophageal Reflux'],Gastroesophageal Reflux,C0017168,1,1,0.0,0.0
+C3872026,ceftolozane sulfate,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2709772,Streptococcus pneumoniae type 7F capsular polysaccharide antigen,may_prevent,['C0032269'],['Pneumococcal Infections'],Pneumococcal Infections,C0032269,1,1,0.0,0.0
+C0139919,ranitidine bismuth citrate,may_prevent,"['C0013295', 'C0017181', 'C0038358']","['Duodenal Ulcer', 'Gastrointestinal Hemorrhage', 'Stomach Ulcer']",Duodenal Ulcer || Gastrointestinal Hemorrhage || Stomach Ulcer,C0013295 || C0017181 || C0038358,3,3,0.0,0.0
+C2699547,"arginine, DL-",may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C2267040,Human Immunodeficiency Virus 1 Fusion Inhibitor,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C0002501,amikacin sulfate,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0001275,activated charcoal,may_prevent,"['C0013221', 'C0016204']","['Drug Toxicity', 'Flatulence']",Drug Toxicity || Flatulence,C0013221 || C0016204,2,2,0.0,0.0
+C0771305,"cyclosporine, modified",may_prevent,['C0018133'],['Graft vs Host Disease'],Graft vs Host Disease,C0018133,1,1,0.0,0.0
+C0771454,cefotiam hydrochloride,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0032911,praziquantel,may_prevent,['C0018889'],['Helminthiasis'],Helminthiasis,C0018889,1,1,0.0,0.0
+C2356367,"measles virus vaccine live, Enders' attenuated Edmonston strain",may_prevent,['C0025007'],['Measles'],Measles,C0025007,1,1,1.0,0.2222222202469136
+C0142817,carbenicillin indanyl sodium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0086159,dihydroergocristine monomesylate,may_prevent,['C0032797'],['Postpartum Hemorrhage'],Postpartum Hemorrhage,C0032797,1,1,0.0,0.0
+C0026783,mumps virus,may_prevent,['C0026780'],['Mumps'],Mumps,C0026780,1,1,1.0,0.6666666622222223
+C5221242,cefiderocol sulfate tosylate,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0700346,"antihemophilic factor, human",may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C0016330,fluorine,may_prevent,"['C0011334', 'C0011389', 'C0080233']","['Dental Caries', 'Dental Plaque', 'Tooth Loss']",Dental Caries || Dental Plaque || Tooth Loss,C0011334 || C0011389 || C0080233,3,3,0.0,0.0
+C2266932,Nitroimidazole Antimicrobial,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C0017890,glycine,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C3488951,influenza A virus A/Singapore/6/1986 (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C0024472,magnesium chloride,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.4999999950000001
+C0873071,"progesterone, micronized",may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C2709764,Streptococcus pneumoniae type 33F capsular polysaccharide antigen,may_prevent,['C0032269'],['Pneumococcal Infections'],Pneumococcal Infections,C0032269,1,1,0.0,0.0
+C4283417,acetylcysteine magnesium,may_prevent,"['C0022672', 'C0032787']","['Kidney Tubular Necrosis, Acute', 'Postoperative Complications']","Kidney Tubular Necrosis, Acute || Postoperative Complications",C0022672 || C0032787,2,2,0.0,0.0
+C0064582,lactic acid,may_prevent,['C0011603'],['Dermatitis'],Dermatitis,C0011603,1,1,0.0,0.0
+C4257011,lonoctocog alfa,may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C0772119,pyridoxine phosphoserinate,may_prevent,['C0936215'],['Vitamin B 6 Deficiency'],Vitamin B 6 Deficiency,C0936215,1,1,0.0,0.0
+C0724579,enoxaparin sodium,may_prevent,"['C0002965', 'C0032787', 'C0034065', 'C0040038', 'C0042487']","['Angina, Unstable', 'Postoperative Complications', 'Pulmonary Embolism', 'Thromboembolism', 'Venous Thrombosis']","Angina, Unstable || Postoperative Complications || Pulmonary Embolism || Thromboembolism || Venous Thrombosis",C0002965 || C0032787 || C0034065 || C0040038 || C0042487,5,5,0.0,0.0
+C0872910,"potassium,chelated",may_prevent,['C0020621'],['Hypokalemia'],Hypokalemia,C0020621,1,1,0.0,0.0
+C5200988,ropivacaine hydrochloride anhydrous,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0301527,potassium gluconate,may_prevent,['C0020621'],['Hypokalemia'],Hypokalemia,C0020621,1,1,0.0,0.0
+C0060657,formoterol,may_prevent,"['C0004099', 'C0006266']","['Asthma, Exercise-Induced', 'Bronchial Spasm']","Asthma, Exercise-Induced || Bronchial Spasm",C0004099 || C0006266,2,2,0.0,0.0
+C3864831,"L1 protein, human papillomavirus type 33 vaccine",may_prevent,"['C0017416', 'C0279637', 'C0343641', 'C0878500']","['Genital Neoplasms, Female', 'Anal Cancer', 'Papillomavirus Infections', 'Neoplasms, Intraepithelial']","Genital Neoplasms, Female || Anal Cancer || Papillomavirus Infections || Neoplasms, Intraepithelial",C0017416 || C0279637 || C0343641 || C0878500,4,4,0.0,0.05555555469135803
+C0993224,medronate disodium,may_prevent,['C0029456'],['Osteoporosis'],Osteoporosis,C0029456,1,1,0.0,0.0
+C3536926,Antirheumatic Agent,may_prevent,['C0035435'],['Rheumatic Diseases'],Rheumatic Diseases,C0035435,1,1,0.0,0.0
+C3859490,Neisseria meningitidis serogroup B recombinant LP2086 A05 protein variant antigen,may_prevent,['C1136217'],"['Neisseria meningitidis, Serogroup B']","Neisseria meningitidis, Serogroup B",C1136217,1,1,0.0,0.4285714244897959
+C0033228,fenofibrate,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0961781,spinosad,may_prevent,['C0030756'],['Lice Infestations'],Lice Infestations,C0030756,1,1,0.0,0.0
+C0025872,metronidazole,may_prevent,"['C0004623', 'C0033740', 'C0040921']","['Bacterial Infections', 'Protozoan Infections', 'Trichomonas Infections']",Bacterial Infections || Protozoan Infections || Trichomonas Infections,C0004623 || C0033740 || C0040921,3,3,0.0,0.0
+C0887647,cefsulodin sodium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0700547,methysergide maleate,may_prevent,['C0042376'],['Vascular Headaches'],Vascular Headaches,C0042376,1,1,0.0,0.0
+C0771010,floxacillin magnesium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0677829,palifermin,may_prevent,['C0333355'],['Mucositis'],Mucositis,C0333355,1,1,0.0,0.0
+C0305058,"tetanus immune globulin, human",may_prevent,['C0039614'],['Tetanus'],Tetanus,C0039614,1,1,1.0,0.39999999680000003
+C0052300,peanut oil,may_prevent,['C0018799'],['Heart Diseases'],Heart Diseases,C0018799,1,1,0.0,0.0
+C2725005,"Bordetella pertussis toxoid vaccine, inactivated",may_prevent,['C0043167'],['Whooping Cough'],Whooping Cough,C0043167,1,1,0.0,0.0
+C3253985,dolutegravir,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C0015505,factor VIIa,may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C3883355,Lipoglycopeptide Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2344267,Streptococcus pneumoniae serotype 18C capsular antigen diphtheria CRM197 protein conjugate vaccine,may_prevent,['C0038410'],['Streptococcus pneumoniae'],Streptococcus pneumoniae,C0038410,1,1,1.0,0.30769230508875745
+C0058831,dyclonine,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0019169,hepatitis B virus,may_prevent,['C0019163'],['Hepatitis B'],Hepatitis B,C0019163,1,1,1.0,0.7999999952000001
+C0993202,Alternaria alternata allergenic extract,may_prevent,['C0020523'],"['Hypersensitivity, Immediate']","Hypersensitivity, Immediate",C0020523,1,1,0.0,0.0
+C2917325,Cephamycin Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C4083872,antihemophilic factor (recombinant) pegylated,may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C0795584,beclomethasone dipropionate monohydrate,may_prevent,"['C0004096', 'C0027430']","['Asthma', 'Nasal Polyps']",Asthma || Nasal Polyps,C0004096 || C0027430,2,2,0.0,0.0
+C0069937,padimate-O,may_prevent,"['C0037286', 'C0038814']","['Skin Neoplasms', 'Sunburn']",Skin Neoplasms || Sunburn,C0037286 || C0038814,2,2,0.0,0.0
+C0982276,meningococcal polysaccharide vaccine group Y,may_prevent,['C0025303'],['Meningococcal Infections'],Meningococcal Infections,C0025303,1,1,0.0,0.2857142816326531
+C0015689,omega-3 fatty acids,may_prevent,"['C0003811', 'C0010068']","['Arrhythmias, Cardiac', 'Coronary Disease']","Arrhythmias, Cardiac || Coronary Disease",C0003811 || C0010068,2,2,0.0,0.0
+C0002502,amiloride,may_prevent,['C0020621'],['Hypokalemia'],Hypokalemia,C0020621,1,1,0.0,0.0
+C2266963,Monobactam Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0982437,"tocopheryl acid succinate,D-alpha",may_prevent,"['C0002395', 'C0002878', 'C0006287', 'C0013386', 'C0042875']","['Alzheimer Disease', 'Anemia, Hemolytic', 'Bronchopulmonary Dysplasia', 'Dyskinesia, Drug-Induced', 'Vitamin E Deficiency']","Alzheimer Disease || Anemia, Hemolytic || Bronchopulmonary Dysplasia || Dyskinesia, Drug-Induced || Vitamin E Deficiency",C0002395 || C0002878 || C0006287 || C0013386 || C0042875,5,5,0.0,0.0
+C3495437,lysine monohydrate,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0078221,"typhoid Vi polysaccharide vaccine, S typhi Ty2 strain",may_prevent,['C0041466'],['Typhoid Fever'],Typhoid Fever,C0041466,1,1,0.0,0.19999999680000002
+C0060241,iron sucrose,may_prevent,['C0162316'],"['Anemia, Iron-Deficiency']","Anemia, Iron-Deficiency",C0162316,1,1,0.0,0.0
+C0772153,zinc nicotinate,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C2828290,delafloxacin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0040341,tobramycin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0085174,misoprostol,may_prevent,['C0038358'],['Stomach Ulcer'],Stomach Ulcer,C0038358,1,1,0.0,0.0
+C0772457,magnesium phosphate dibasic trihydrate,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.33333332888888895
+C2722689,influenza A-California-7-2009-(H1N1)v-like virus vaccine,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,0.0,0.5714285665306124
+C3848552,gentian violet cation,may_prevent,"['C0006845', 'C0006846']","['Candidiasis, Chronic Mucocutaneous', 'Candidiasis, Cutaneous']","Candidiasis, Chronic Mucocutaneous || Candidiasis, Cutaneous",C0006845 || C0006846,2,2,0.0,0.0
+C0028741,nystatin,may_prevent,"['C0006846', 'C0026946', 'C0162526']","['Candidiasis, Cutaneous', 'Mycoses', 'AIDS-Related Opportunistic Infections']","Candidiasis, Cutaneous || Mycoses || AIDS-Related Opportunistic Infections",C0006846 || C0026946 || C0162526,3,3,0.0,0.0
+C0068483,nedocromil,may_prevent,['C0004096'],['Asthma'],Asthma,C0004096,1,1,0.0,0.0
+C0029193,metaproterenol,may_prevent,['C0004099'],"['Asthma, Exercise-Induced']","Asthma, Exercise-Induced",C0004099,1,1,0.0,0.0
+C4505508,lanadelumab,may_prevent,['C0019243'],"['Angioedemas, Hereditary']","Angioedemas, Hereditary",C0019243,1,1,0.0,0.0
+C5390775,influenza A virus A/Delaware/39/2019 (H3N2) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C3535911,edetate calcium,may_prevent,['C0023176'],['Lead Poisoning'],Lead Poisoning,C0023176,1,1,0.0,0.0
+C5398276,oliceridine fumarate,may_prevent,['C0184567'],['Acute Pain'],Acute Pain,C0184567,1,1,0.0,0.0
+C2917373,Human Immunodeficiency Virus Integrase Strand Transfer Inhibitor,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C0887016,pheniramine maleate,may_prevent,"['C0035457', 'C0042109']","['Rhinitis, Allergic, Perennial', 'Urticaria']","Rhinitis, Allergic, Perennial || Urticaria",C0035457 || C0042109,2,2,0.0,0.0
+C0304783,sodium estrone sulfate,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C0874161,oseltamivir,may_prevent,['C0021400'],"['Influenza, Human']","Influenza, Human",C0021400,1,1,0.0,0.0
+C0034239,pyrazinamide,may_prevent,"['C0026918', 'C0041296']","['Mycobacterium Infections', 'Tuberculosis']",Mycobacterium Infections || Tuberculosis,C0026918 || C0041296,2,2,0.0,0.0
+C0080845,"24-homo-1,25-dihydroxyvitamin D3",may_prevent,['C0042870'],['Vitamin D Deficiency'],Vitamin D Deficiency,C0042870,1,1,0.0,0.0
+C0537439,enfuvirtide,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C0770546,"heparin, porcine",may_prevent,"['C0032787', 'C0034065', 'C0040038', 'C0042487']","['Postoperative Complications', 'Pulmonary Embolism', 'Thromboembolism', 'Venous Thrombosis']",Postoperative Complications || Pulmonary Embolism || Thromboembolism || Venous Thrombosis,C0032787 || C0034065 || C0040038 || C0042487,4,4,0.0,0.0
+C0027679,neostigmine,may_prevent,"['C0005686', 'C0080274']","['Urinary Bladder Diseases', 'Urinary Retention']",Urinary Bladder Diseases || Urinary Retention,C0005686 || C0080274,2,2,0.0,0.0
+C2709748,Streptococcus pneumoniae type 18C capsular polysaccharide antigen,may_prevent,['C0032269'],['Pneumococcal Infections'],Pneumococcal Infections,C0032269,1,1,0.0,0.0
+C0717752,"estrogens, esterified (USP)",may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C0288672,abciximab,may_prevent,['C0151744'],['Myocardial Ischemia'],Myocardial Ischemia,C0151744,1,1,0.0,0.0
+C4723517,influenza A virus A/North Carolina/04/2016 (H3N2) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.5999999958
+C5389885,pegfilgrastim-apgf,may_prevent,"['C0027947', 'C3714514']","['Neutropenia', 'Infections']",Neutropenia || Infections,C0027947 || C3714514,2,2,0.0,0.0
+C3883248,Neisseria meningitidis serogroup B recombinant FHBP fusion protein antigen,may_prevent,['C1136217'],"['Neisseria meningitidis, Serogroup B']","Neisseria meningitidis, Serogroup B",C1136217,1,1,0.0,0.4615384572781066
+C0020600,hypochlorous acid,may_prevent,['C0037278'],"['Skin Diseases, Infectious']","Skin Diseases, Infectious",C0037278,1,1,0.0,0.0
+C0081959,ceftiofur,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0008269,chloroquine,may_prevent,['C0024530'],['Malaria'],Malaria,C0024530,1,1,0.0,0.0
+C0048504,fomepizole,may_prevent,"['C0001122', 'C0013221', 'C0035078', 'C0042790']","['Acidosis', 'Drug Toxicity', 'Kidney Failure', 'Vision Disorders']",Acidosis || Drug Toxicity || Kidney Failure || Vision Disorders,C0001122 || C0013221 || C0035078 || C0042790,4,4,0.0,0.0
+C0592532,certoparin,may_prevent,"['C0034065', 'C0042487']","['Pulmonary Embolism', 'Venous Thrombosis']",Pulmonary Embolism || Venous Thrombosis,C0034065 || C0042487,2,2,0.0,0.0
+C2344315,human-bovine reassortant rotavirus strain G4 vaccine,may_prevent,['C0035869'],['Rotavirus Infections'],Rotavirus Infections,C0035869,1,1,0.0,0.24999999625000005
+C0056593,cupric chloride,may_prevent,"['C0028715', 'C0032961']","['Nutritional and Metabolic Diseases', 'Pregnancy']",Nutritional and Metabolic Diseases || Pregnancy,C0028715 || C0032961,2,2,0.0,0.0
+C0949217,"amiloride hydrochloride, anhydrous",may_prevent,['C0020621'],['Hypokalemia'],Hypokalemia,C0020621,1,1,0.0,0.0
+C0771294,moexipril hydrochloride,may_prevent,"['C0011881', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0149721 || C0242698,3,3,0.0,0.0
+C0076660,tibolone,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C0771561,hydroxocobalamin acetate,may_prevent,['C0042847'],['Vitamin B 12 Deficiency'],Vitamin B 12 Deficiency,C0042847,1,1,0.0,0.0
+C3475329,influenza B virus B/Hubei Wujigang/158/2009/antigen,may_prevent,['C0029348'],['Influenza B virus'],Influenza B virus,C0029348,1,1,1.0,0.7499999953125
+C0142785,sodium acetate,may_prevent,['C0020625'],['Hyponatremia'],Hyponatremia,C0020625,1,1,0.0,0.0
+C3700999,sucralfate malate,may_prevent,['C0013295'],['Duodenal Ulcer'],Duodenal Ulcer,C0013295,1,1,0.0,0.0
+C0600560,dexfenfluramine hydrochloride,may_prevent,['C0028754'],['Obesity'],Obesity,C0028754,1,1,0.0,0.0
+C0244404,raloxifene,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C0066005,meropenem,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0376218,warfarin sodium,may_prevent,"['C0004238', 'C0007787', 'C0010072', 'C0027051', 'C0032787', 'C0034065', 'C0038454', 'C0040038', 'C0042487']","['Atrial Fibrillation', 'Ischemic Attack, Transient', 'Coronary Thrombosis', 'Myocardial Infarction', 'Postoperative Complications', 'Pulmonary Embolism', 'Stroke', 'Thromboembolism', 'Venous Thrombosis']","Atrial Fibrillation || Ischemic Attack, Transient || Coronary Thrombosis || Myocardial Infarction || Postoperative Complications || Pulmonary Embolism || Stroke || Thromboembolism || Venous Thrombosis",C0004238 || C0007787 || C0010072 || C0027051 || C0032787 || C0034065 || C0038454 || C0040038 || C0042487,9,9,0.0,0.0
+C0028040,nicotine,may_prevent,['C0038587'],['Substance Withdrawal Syndrome'],Substance Withdrawal Syndrome,C0038587,1,1,0.0,0.0
+C0043474,zidovudine,may_prevent,"['C0019693', 'C0032965']","['HIV Infections', 'Pregnancy Complications, Infectious']","HIV Infections || Pregnancy Complications, Infectious",C0019693 || C0032965,2,2,0.0,0.0
+C2983911,"chondroitin sulfate, bovine",may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C3855966,Antileishmanial,may_prevent,['C0023281'],['Leishmaniasis'],Leishmaniasis,C0023281,1,1,0.0,0.0
+C0164662,stavudine,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C0006699,calcium gluconate,may_prevent,['C0029456'],['Osteoporosis'],Osteoporosis,C0029456,1,1,0.0,0.0
+C2983945,ozenoxacin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0209738,lamivudine,may_prevent,"['C0019163', 'C0019693']","['Hepatitis B', 'HIV Infections']",Hepatitis B || HIV Infections,C0019163 || C0019693,2,2,0.0,0.0
+C0001927,albuterol,may_prevent,"['C0004099', 'C0006266']","['Asthma, Exercise-Induced', 'Bronchial Spasm']","Asthma, Exercise-Induced || Bronchial Spasm",C0004099 || C0006266,2,2,0.0,0.0
+C0301503,"rabies immune globulin, human",may_prevent,['C0034494'],['Rabies'],Rabies,C0034494,1,1,1.0,0.39999999680000003
+C0102840,aluminum chloride,may_prevent,['C0011334'],['Dental Caries'],Dental Caries,C0011334,1,1,0.0,0.0
+C0042338,"herpesvirus 3, human",may_prevent,['C0008049'],['Chickenpox'],Chickenpox,C0008049,1,1,0.0,0.0
+C0012551,"diphtheria toxoid vaccine, inactivated",may_prevent,['C0012546'],['Diphtheria'],Diphtheria,C0012546,1,1,1.0,0.39999999680000003
+C1707321,cefadroxil hemihydrate,may_prevent,['C0014121'],"['Endocarditis, Bacterial']","Endocarditis, Bacterial",C0014121,1,1,0.0,0.0
+C3864828,"L1 protein, human papillomavirus type 58 vaccine",may_prevent,"['C0017416', 'C0279637', 'C0343641', 'C0878500']","['Genital Neoplasms, Female', 'Anal Cancer', 'Papillomavirus Infections', 'Neoplasms, Intraepithelial']","Genital Neoplasms, Female || Anal Cancer || Papillomavirus Infections || Neoplasms, Intraepithelial",C0017416 || C0279637 || C0343641 || C0878500,4,4,0.0,0.05555555469135803
+C0301556,arginine hydrochloride,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0045010,17-alpha-hydroxyprogesterone,may_prevent,['C0000786'],"['Abortion, Spontaneous']","Abortion, Spontaneous",C0000786,1,1,0.0,0.0
+C0002860,androstenedione,may_prevent,['C0151786'],['Muscle Weakness'],Muscle Weakness,C0151786,1,1,0.0,0.0
+C0085259,mupirocin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C5390015,influenza A virus A/Guangdong-Maonan/SWL1536/2019 (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C0004057,aspirin,may_prevent,"['C0007785', 'C0007787', 'C0027051', 'C0030193', 'C0032914']","['Cerebral Infarction', 'Ischemic Attack, Transient', 'Myocardial Infarction', 'Pain', 'Pre-Eclampsia']","Cerebral Infarction || Ischemic Attack, Transient || Myocardial Infarction || Pain || Pre-Eclampsia",C0007785 || C0007787 || C0027051 || C0030193 || C0032914,5,5,0.0,0.0
+C0145932,trimethobenzamide hydrochloride,may_prevent,"['C0027497', 'C0042963']","['Nausea', 'Vomiting']",Nausea || Vomiting,C0027497 || C0042963,2,2,0.0,0.0
+C0011786,dexfenfluramine,may_prevent,['C0028754'],['Obesity'],Obesity,C0028754,1,1,0.0,0.0
+C3883357,Hepatitis C Virus NS5A Inhibitor,may_prevent,['C0019196'],['Hepatitis C'],Hepatitis C,C0019196,1,1,1.0,0.5714285673469389
+C0282052,ampicillin sodium,may_prevent,"['C0004623', 'C0014121']","['Bacterial Infections', 'Endocarditis, Bacterial']","Bacterial Infections || Endocarditis, Bacterial",C0004623 || C0014121,2,2,0.0,0.0
+C0724546,carbetapentane tannate,may_prevent,['C0010200'],['Cough'],Cough,C0010200,1,1,0.0,0.0
+C1337140,cefadroxil hydrate,may_prevent,['C0014121'],"['Endocarditis, Bacterial']","Endocarditis, Bacterial",C0014121,1,1,0.0,0.0
+C3888362,influenza A virus A/California/7/2009 (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C0054452,heparin calcium,may_prevent,"['C0032787', 'C0034065', 'C0040038', 'C0042487']","['Postoperative Complications', 'Pulmonary Embolism', 'Thromboembolism', 'Venous Thrombosis']",Postoperative Complications || Pulmonary Embolism || Thromboembolism || Venous Thrombosis,C0032787 || C0034065 || C0040038 || C0042487,4,4,0.0,0.0
+C4762536,ondansetron hydrochloride anhydrous,may_prevent,['C0520909'],['Postoperative Nausea and Vomiting'],Postoperative Nausea and Vomiting,C0520909,1,1,0.0,0.0
+C1620287,prasugrel,may_prevent,"['C0007785', 'C0010072', 'C0027051']","['Cerebral Infarction', 'Coronary Thrombosis', 'Myocardial Infarction']",Cerebral Infarction || Coronary Thrombosis || Myocardial Infarction,C0007785 || C0010072 || C0027051,3,3,0.0,0.0
+C0937622,esomeprazole magnesium,may_prevent,['C0038358'],['Stomach Ulcer'],Stomach Ulcer,C0038358,1,1,0.0,0.0
+C3488950,influenza A virus A/Beijing/32/1992 (H3N2) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C0302583,iron,may_prevent,['C0162316'],"['Anemia, Iron-Deficiency']","Anemia, Iron-Deficiency",C0162316,1,1,0.0,0.0
+C0059562,erythromycin lactobionate,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C5390016,influenza A virus A/Hong Kong/2671/2019 (H3N2) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.5999999958
+C0065517,magnesium carbonate,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.4999999950000001
+C3857933,acetylcysteine amide,may_prevent,"['C0022672', 'C0032787']","['Kidney Tubular Necrosis, Acute', 'Postoperative Complications']","Kidney Tubular Necrosis, Acute || Postoperative Complications",C0022672 || C0032787,2,2,0.0,0.0
+C0008809,ciprofloxacin,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C0028360,norethynodrel,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C2344265,Streptococcus pneumoniae serotype 14 capsular antigen diphtheria CRM197 protein conjugate vaccine,may_prevent,['C0038410'],['Streptococcus pneumoniae'],Streptococcus pneumoniae,C0038410,1,1,1.0,0.30769230508875745
+C0035527,riboflavin,may_prevent,['C0035528'],['Riboflavin Deficiency'],Riboflavin Deficiency,C0035528,1,1,0.0,0.6666666622222223
+C0022642,ketotifen,may_prevent,['C0035457'],"['Rhinitis, Allergic, Perennial']","Rhinitis, Allergic, Perennial",C0035457,1,1,0.0,0.0
+C0027519,tobramycin sulfate,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2266930,Macrolide Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0054302,butylparaben,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C2741586,Neisseria meningitidis serogroup C oligosaccharide diphtheria CRM197 protein conjugate vaccine,may_prevent,['C1136218'],"['Neisseria meningitidis, Serogroup C']","Neisseria meningitidis, Serogroup C",C1136218,1,1,0.0,0.4285714244897959
+C0078373,tocopherol acetate,may_prevent,"['C0002395', 'C0002878', 'C0006287', 'C0013386', 'C0042875']","['Alzheimer Disease', 'Anemia, Hemolytic', 'Bronchopulmonary Dysplasia', 'Dyskinesia, Drug-Induced', 'Vitamin E Deficiency']","Alzheimer Disease || Anemia, Hemolytic || Bronchopulmonary Dysplasia || Dyskinesia, Drug-Induced || Vitamin E Deficiency",C0002395 || C0002878 || C0006287 || C0013386 || C0042875,5,5,0.0,0.0
+C2726765,Agkistrodon piscivorus antivenin,may_prevent,"['C0011065', 'C0522224']","['Death', 'Paralysis']",Death || Paralysis,C0011065 || C0522224,2,2,0.0,0.0
+C0065646,manganese monoxide,may_prevent,['C0011156'],['Deficiency Diseases'],Deficiency Diseases,C0011156,1,1,0.0,0.0
+C3531467,influenza A virus A/New Caledonia/20/1999 (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.5999999958
+C0103049,amlexanox,may_prevent,['C0041582'],['Ulcer'],Ulcer,C0041582,1,1,0.0,0.0
+C2746111,Streptococcus pneumoniae serotype 3 capsular antigen diphtheria CRM197 protein conjugate vaccine,may_prevent,['C0038410'],['Streptococcus pneumoniae'],Streptococcus pneumoniae,C0038410,1,1,1.0,0.30769230508875745
+C0035661,ritodrine,may_prevent,['C0022876'],"['Obstetric Labor, Premature']","Obstetric Labor, Premature",C0022876,1,1,0.0,0.0
+C0031507,phenytoin,may_prevent,['C0014557'],"['Epilepsy, Post-Traumatic']","Epilepsy, Post-Traumatic",C0014557,1,1,0.0,0.0
+C3642427,tavaborole,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0028902,ofloxacin,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C0071839,prednisolone acetate,may_prevent,"['C0003868', 'C0003873']","['Arthritis, Gouty', 'Arthritis, Rheumatoid']","Arthritis, Gouty || Arthritis, Rheumatoid",C0003868 || C0003873,2,2,0.0,0.0
+C0007554,cefotaxime,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C4691679,fosnetupitant chloride hydrochloride,may_prevent,"['C0027497', 'C0042963']","['Nausea', 'Vomiting']",Nausea || Vomiting,C0027497 || C0042963,2,2,0.0,0.0
+C2827257,lisinopril anhydrous,may_prevent,"['C0011881', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0149721 || C0242698,3,3,0.0,0.0
+C0000392,beta-alanine,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0061347,calcium glubionate,may_prevent,['C0029456'],['Osteoporosis'],Osteoporosis,C0029456,1,1,0.0,0.0
+C0771798,penicillin V calcium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C4723520,influenza B virus B/Iowa/06/2017 antigen,may_prevent,['C0029348'],['Influenza B virus'],Influenza B virus,C0029348,1,1,1.0,0.7499999953125
+C2699808,doxycycline anhydrous,may_prevent,['C0024530'],['Malaria'],Malaria,C0024530,1,1,0.0,0.0
+C0887411,dextromethorphan hydrochloride,may_prevent,['C0010200'],['Cough'],Cough,C0010200,1,1,0.0,0.0
+C0037512,gold sodium thiosulfate,may_prevent,['C0013221'],['Drug Toxicity'],Drug Toxicity,C0013221,1,1,0.0,0.0
+C0037521,sodium iodide,may_prevent,"['C0011156', 'C0038941']","['Deficiency Diseases', 'Surgical Wound Infection']",Deficiency Diseases || Surgical Wound Infection,C0011156 || C0038941,2,2,0.0,0.0
+C0724622,magnesium chloride hexahydrate,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.39999999520000007
+C0057144,daptomycin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0771340,calteridol calcium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0056096,colchiceine,may_prevent,['C0018099'],['Gout'],Gout,C0018099,1,1,0.0,0.0
+C0038689,sulfamethoxazole,may_prevent,"['C0004623', 'C0026946', 'C0033740']","['Bacterial Infections', 'Mycoses', 'Protozoan Infections']",Bacterial Infections || Mycoses || Protozoan Infections,C0004623 || C0026946 || C0033740,3,3,0.0,0.0
+C0024452,mafenide,may_prevent,"['C0004623', 'C0036690']","['Bacterial Infections', 'Septicemia']",Bacterial Infections || Septicemia,C0004623 || C0036690,2,2,0.0,0.0
+C3160091,Hepatitis C Virus NS3/4A Protease Inhibitor,may_prevent,['C0019196'],['Hepatitis C'],Hepatitis C,C0019196,1,1,1.0,0.4999999962500001
+C0012289,dihydroergocristine,may_prevent,['C0032797'],['Postpartum Hemorrhage'],Postpartum Hemorrhage,C0032797,1,1,0.0,0.0
+C2732002,"antihemophilic factor, human recombinant",may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C4490395,influenza A virus A/Singapore/GP1908/2015 (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C0039736,thalidomide,may_prevent,['C0018133'],['Graft vs Host Disease'],Graft vs Host Disease,C0018133,1,1,0.0,0.0
+C0771436,tenonitrozole,may_prevent,['C0033740'],['Protozoan Infections'],Protozoan Infections,C0033740,1,1,0.0,0.0
+C0024467,magnesium,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.6666666622222223
+C0028114,alphaprodine hydrochloride,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0030873,pentazocine,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0042105,ursodiol,may_prevent,['C0008350'],['Cholelithiasis'],Cholelithiasis,C0008350,1,1,0.0,0.0
+C0022614,ketamine,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0118168,fosinopril,may_prevent,"['C0011881', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0149721 || C0242698,3,3,0.0,0.0
+C0772501,levalbuterol,may_prevent,['C0006266'],['Bronchial Spasm'],Bronchial Spasm,C0006266,1,1,0.0,0.0
+C0077004,triamcinolone hexacetonide,may_prevent,"['C0003868', 'C0003873', 'C0004096']","['Arthritis, Gouty', 'Arthritis, Rheumatoid', 'Asthma']","Arthritis, Gouty || Arthritis, Rheumatoid || Asthma",C0003868 || C0003873 || C0004096,3,3,0.0,0.0
+C0071553,polyestradiol,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C0107509,butoconazole nitrate,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0546863,ethambutol hydrochloride,may_prevent,['C0026918'],['Mycobacterium Infections'],Mycobacterium Infections,C0026918,1,1,0.0,0.0
+C0253563,eptifibatide,may_prevent,"['C0035126', 'C0151744']","['Reperfusion Injury', 'Myocardial Ischemia']",Reperfusion Injury || Myocardial Ischemia,C0035126 || C0151744,2,2,0.0,0.0
+C0039266,talampicillin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2709774,Streptococcus pneumoniae type 8 capsular polysaccharide antigen,may_prevent,['C0032269'],['Pneumococcal Infections'],Pneumococcal Infections,C0032269,1,1,0.0,0.0
+C3538368,levothyroxine sodium anhydrous,may_prevent,['C0020676'],['Hypothyroidism'],Hypothyroidism,C0020676,1,1,0.0,0.0
+C4703816,pegfilgrastim-jmdb,may_prevent,"['C0027947', 'C3714514']","['Neutropenia', 'Infections']",Neutropenia || Infections,C0027947 || C3714514,2,2,0.0,0.0
+C0982292,nafcillin sodium monohydrate,may_prevent,"['C0004623', 'C0032787', 'C0085426']","['Bacterial Infections', 'Postoperative Complications', 'Gram-Positive Bacterial Infections']",Bacterial Infections || Postoperative Complications || Gram-Positive Bacterial Infections,C0004623 || C0032787 || C0085426,3,3,0.0,0.0
+C0040866,triamcinolone acetonide,may_prevent,"['C0003868', 'C0003873', 'C0004096']","['Arthritis, Gouty', 'Arthritis, Rheumatoid', 'Asthma']","Arthritis, Gouty || Arthritis, Rheumatoid || Asthma",C0003868 || C0003873 || C0004096,3,3,0.0,0.0
+C3864830,"L1 protein, human papillomavirus type 45 vaccine",may_prevent,"['C0017416', 'C0279637', 'C0343641', 'C0878500']","['Genital Neoplasms, Female', 'Anal Cancer', 'Papillomavirus Infections', 'Neoplasms, Intraepithelial']","Genital Neoplasms, Female || Anal Cancer || Papillomavirus Infections || Neoplasms, Intraepithelial",C0017416 || C0279637 || C0343641 || C0878500,4,4,0.0,0.05555555469135803
+C1883053,"sodium phosphate, dibasic, dihydrate",may_prevent,['C0085682'],['Hypophosphatemia'],Hypophosphatemia,C0085682,1,1,0.0,0.0
+C0022487,kanamycin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C1725449,perindopril arginine,may_prevent,"['C0011881', 'C0027051', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Myocardial Infarction', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Myocardial Infarction || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0027051 || C0149721 || C0242698,4,4,0.0,0.0
+C0599686,Nucleoside Analog Antiviral,may_prevent,['C0042769'],['Virus Diseases'],Virus Diseases,C0042769,1,1,0.0,0.0
+C0073571,ropivacaine,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0053154,cloxacillin benzathine,may_prevent,"['C0032787', 'C0085426']","['Postoperative Complications', 'Gram-Positive Bacterial Infections']",Postoperative Complications || Gram-Positive Bacterial Infections,C0032787 || C0085426,2,2,0.0,0.0
+C0521946,caramiphen edisylate,may_prevent,['C0010200'],['Cough'],Cough,C0010200,1,1,0.0,0.0
+C2344273,Streptococcus pneumoniae serotype 4 capsular antigen diphtheria CRM197 protein conjugate vaccine,may_prevent,['C0038410'],['Streptococcus pneumoniae'],Streptococcus pneumoniae,C0038410,1,1,1.0,0.30769230508875745
+C1456409,etravirine,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C0006809,camphor,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0068700,nicorandil,may_prevent,"['C0340288', 'C0948089']","['Angina, Stable', 'Acute Coronary Syndrome']","Angina, Stable || Acute Coronary Syndrome",C0340288 || C0948089,2,2,0.0,0.0
+C0724515,abacavir sulfate,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C4033623,influenza A virus (H3N2) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.7499999953125
+C2242160,"poliovirus vaccine inactivated, type 3 (Saukett)",may_prevent,['C0032371'],['Poliomyelitis'],Poliomyelitis,C0032371,1,1,0.0,0.0
+C0772394,lepirudin,may_prevent,"['C0040038', 'C0151744']","['Thromboembolism', 'Myocardial Ischemia']",Thromboembolism || Myocardial Ischemia,C0040038 || C0151744,2,2,0.0,0.0
+C0037548,riboflavin 5'-phosphate sodium,may_prevent,['C0035528'],['Riboflavin Deficiency'],Riboflavin Deficiency,C0035528,1,1,0.0,0.39999999520000007
+C0206232,nadroparin,may_prevent,"['C0002965', 'C0032787', 'C0034065', 'C0040038', 'C0042487']","['Angina, Unstable', 'Postoperative Complications', 'Pulmonary Embolism', 'Thromboembolism', 'Venous Thrombosis']","Angina, Unstable || Postoperative Complications || Pulmonary Embolism || Thromboembolism || Venous Thrombosis",C0002965 || C0032787 || C0034065 || C0040038 || C0042487,5,5,0.0,0.0
+C0003765,arginine,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0770888,prochlorperazine mesylate,may_prevent,"['C0027497', 'C0042963']","['Nausea', 'Vomiting']",Nausea || Vomiting,C0027497 || C0042963,2,2,0.0,0.0
+C1095803,Capsicum extract,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0132776,nonoxynol-9,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C0086073,cromolyn,may_prevent,['C0004099'],"['Asthma, Exercise-Induced']","Asthma, Exercise-Induced",C0004099,1,1,0.0,0.0
+C3475328,influenza A virus A/Victoria/361/2011 (H3N2) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C0020197,hyaluronidase,may_prevent,['C0015379'],['Extravasation of Diagnostic and Therapeutic Materials'],Extravasation of Diagnostic and Therapeutic Materials,C0015379,1,1,0.0,0.0
+C0022489,kanamycin A,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C1099664,fondaparinux sodium,may_prevent,"['C0032787', 'C0040038', 'C0042487']","['Postoperative Complications', 'Thromboembolism', 'Venous Thrombosis']",Postoperative Complications || Thromboembolism || Venous Thrombosis,C0032787 || C0040038 || C0042487,3,3,0.0,0.0
+C0032825,potassium chloride,may_prevent,['C0020621'],['Hypokalemia'],Hypokalemia,C0020621,1,1,0.0,0.0
+C0053817,bitolterol,may_prevent,"['C0004096', 'C0006266']","['Asthma', 'Bronchial Spasm']",Asthma || Bronchial Spasm,C0004096 || C0006266,2,2,0.0,0.0
+C5390779,influenza B virus B/Darwin/7/2019 antigen,may_prevent,['C0029348'],['Influenza B virus'],Influenza B virus,C0029348,1,1,1.0,0.7499999953125
+C2746107,Streptococcus pneumoniae serotype 19A capsular antigen diphtheria CRM197 protein conjugate vaccine,may_prevent,['C0038410'],['Streptococcus pneumoniae'],Streptococcus pneumoniae,C0038410,1,1,1.0,0.30769230508875745
+C0002598,amiodarone,may_prevent,['C0003811'],"['Arrhythmias, Cardiac']","Arrhythmias, Cardiac",C0003811,1,1,0.0,0.0
+C4082558,"Rho(D) immune globulin, human",may_prevent,['C0035404'],['Rh Isoimmunization'],Rh Isoimmunization,C0035404,1,1,0.0,0.0
+C0674428,efavirenz,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C0017887,nitroglycerin,may_prevent,['C0002962'],['Angina Pectoris'],Angina Pectoris,C0002962,1,1,0.0,0.0
+C0216971,colfosceril palmitate,may_prevent,['C0035220'],"['Respiratory Distress Syndrome, Newborn']","Respiratory Distress Syndrome, Newborn",C0035220,1,1,0.0,0.0
+C3537278,amifostine anhydrous,may_prevent,"['C0013221', 'C0022660', 'C0022661']","['Drug Toxicity', 'Kidney Failure, Acute', 'Kidney Failure, Chronic']","Drug Toxicity || Kidney Failure, Acute || Kidney Failure, Chronic",C0013221 || C0022660 || C0022661,3,3,0.0,0.0
+C0029983,oxacillin,may_prevent,"['C0004623', 'C0032787', 'C0085426']","['Bacterial Infections', 'Postoperative Complications', 'Gram-Positive Bacterial Infections']",Bacterial Infections || Postoperative Complications || Gram-Positive Bacterial Infections,C0004623 || C0032787 || C0085426,3,3,0.0,0.0
+C4551052,bictegravir sodium,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C0025853,metoclopramide,may_prevent,['C0520909'],['Postoperative Nausea and Vomiting'],Postoperative Nausea and Vomiting,C0520909,1,1,0.0,0.0
+C0771451,midecamycin diacetate,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2266959,Cephalosporin Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0057002,cytomegalovirus immune globulin,may_prevent,['C0010823'],['Cytomegalovirus Infections'],Cytomegalovirus Infections,C0010823,1,1,0.0,0.39999999520000007
+C0139697,quinidine bisulfate,may_prevent,"['C0024535', 'C0039240', 'C0042514']","['Malaria, Falciparum', 'Tachycardia, Supraventricular', 'Tachycardia, Ventricular']","Malaria, Falciparum || Tachycardia, Supraventricular || Tachycardia, Ventricular",C0024535 || C0039240 || C0042514,3,3,0.0,0.0
+C0053882,cefprozil,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C1576966,tacrolimus monohydrate,may_prevent,['C0018133'],['Graft vs Host Disease'],Graft vs Host Disease,C0018133,1,1,0.0,0.0
+C3848531,methylene blue cation,may_prevent,['C0010520'],['Cyanosis'],Cyanosis,C0010520,1,1,0.0,0.0
+C1608295,articaine,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0086760,oxyquinoline sulfate,may_prevent,['C0037278'],"['Skin Diseases, Infectious']","Skin Diseases, Infectious",C0037278,1,1,0.0,0.0
+C0123053,ibutilide fumarate,may_prevent,['C0003811'],"['Arrhythmias, Cardiac']","Arrhythmias, Cardiac",C0003811,1,1,0.0,0.0
+C4291320,bezlotoxumab,may_prevent,['C0009062'],['Clostridium Infections'],Clostridium Infections,C0009062,1,1,0.0,0.0
+C0071778,potassium phosphate,may_prevent,"['C0020621', 'C0085682']","['Hypokalemia', 'Hypophosphatemia']",Hypokalemia || Hypophosphatemia,C0020621 || C0085682,2,2,0.0,0.0
+C4522494,influenza A virus A/Slovenia/2903/2015 (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C0795582,azithromycin dihydrate,may_prevent,"['C0004623', 'C0014121', 'C0026919', 'C0033740']","['Bacterial Infections', 'Endocarditis, Bacterial', 'Mycobacterium Infections, Nontuberculous', 'Protozoan Infections']","Bacterial Infections || Endocarditis, Bacterial || Mycobacterium Infections, Nontuberculous || Protozoan Infections",C0004623 || C0014121 || C0026919 || C0033740,4,4,0.0,0.0
+C0041485,tyrosine,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0109040,diphenidol hydrochloride,may_prevent,"['C0026603', 'C0027497', 'C0042963']","['Motion Sickness', 'Nausea', 'Vomiting']",Motion Sickness || Nausea || Vomiting,C0026603 || C0027497 || C0042963,3,3,0.0,0.0
+C0051512,aluminum chloride hexahydrate,may_prevent,['C0011334'],['Dental Caries'],Dental Caries,C0011334,1,1,0.0,0.0
+C0005059,benzocaine,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0282181,flunarizine hydrochloride,may_prevent,"['C0085096', 'C0149931', 'C0155501', 'C0155503']","['Peripheral Vascular Diseases', 'Migraine Disorders', 'Vertigo, Peripheral', 'Central Nervous System Origin Vertigo']","Peripheral Vascular Diseases || Migraine Disorders || Vertigo, Peripheral || Central Nervous System Origin Vertigo",C0085096 || C0149931 || C0155501 || C0155503,4,4,0.0,0.0
+C2917336,Benzylamine Antifungal,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0059849,ethynodiol,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C0541154,colesevelam hydrochloride,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0724348,vitamin E d-alpha,may_prevent,"['C0002395', 'C0002878', 'C0006287', 'C0013386', 'C0042875']","['Alzheimer Disease', 'Anemia, Hemolytic', 'Bronchopulmonary Dysplasia', 'Dyskinesia, Drug-Induced', 'Vitamin E Deficiency']","Alzheimer Disease || Anemia, Hemolytic || Bronchopulmonary Dysplasia || Dyskinesia, Drug-Induced || Vitamin E Deficiency",C0002395 || C0002878 || C0006287 || C0013386 || C0042875,5,5,0.0,0.13333333233333336
+C0013015,domperidone,may_prevent,['C1262313'],['Invasive Fungal Infections'],Invasive Fungal Infections,C1262313,1,1,0.0,0.0
+C4293264,"alpha,alpha-dibromo-d-camphor",may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0020336,hydroxychloroquine,may_prevent,"['C0024530', 'C0035435']","['Malaria', 'Rheumatic Diseases']",Malaria || Rheumatic Diseases,C0024530 || C0035435,2,2,0.0,0.0
+C3256380,stannous fluoride dihydrate,may_prevent,"['C0011334', 'C0011389', 'C0017574', 'C0080233']","['Dental Caries', 'Dental Plaque', 'Gingivitis', 'Tooth Loss']",Dental Caries || Dental Plaque || Gingivitis || Tooth Loss,C0011334 || C0011389 || C0017574 || C0080233,4,4,0.0,0.0
+C0022251,isosorbide,may_prevent,['C0002962'],['Angina Pectoris'],Angina Pectoris,C0002962,1,1,0.0,0.0
+C3645236,influenza A virus A/Texas/50/2012 (H3N2) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C4691680,fosnetupitant,may_prevent,"['C0027497', 'C0042963']","['Nausea', 'Vomiting']",Nausea || Vomiting,C0027497 || C0042963,2,2,0.0,0.0
+C3485497,"influenza B virus vaccine, B-Texas-6-2011, inactivated",may_prevent,['C0029348'],['Influenza B virus'],Influenza B virus,C0029348,1,1,1.0,0.6666666622222223
+C3535682,Bacillus anthracis strain V770-NP1-R antigens,may_prevent,['C0003175'],['Anthrax'],Anthrax,C0003175,1,1,0.0,0.0
+C0034272,pyridoxine,may_prevent,"['C0013221', 'C0936215']","['Drug Toxicity', 'Vitamin B 6 Deficiency']",Drug Toxicity || Vitamin B 6 Deficiency,C0013221 || C0936215,2,2,0.0,0.0
+C1876229,telaprevir,may_prevent,['C0019196'],['Hepatitis C'],Hepatitis C,C0019196,1,1,0.0,0.0
+C0000970,acetaminophen,may_prevent,"['C0015967', 'C0030193']","['Fever', 'Pain']",Fever || Pain,C0015967 || C0030193,2,2,0.0,0.0
+C0305062,"tetanus toxoid vaccine, inactivated",may_prevent,['C0039614'],['Tetanus'],Tetanus,C0039614,1,1,1.0,0.39999999680000003
+C2355841,hepatitis A vaccine (inactivated) strain HM175,may_prevent,['C0019159'],['Hepatitis A'],Hepatitis A,C0019159,1,1,1.0,0.4999999962500001
+C0965129,rosuvastatin,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0546873,naproxen sodium,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0724707,timolol hemihydrate,may_prevent,['C0018799'],['Heart Diseases'],Heart Diseases,C0018799,1,1,0.0,0.0
+C0393080,voriconazole,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0086160,dihydroergocryptine mesylate,may_prevent,"['C0032797', 'C0149931']","['Postpartum Hemorrhage', 'Migraine Disorders']",Postpartum Hemorrhage || Migraine Disorders,C0032797 || C0149931,2,2,0.0,0.0
+C0025153,mefloquine,may_prevent,"['C0024530', 'C0024535', 'C0024537']","['Malaria', 'Malaria, Falciparum', 'Malaria, Vivax']","Malaria || Malaria, Falciparum || Malaria, Vivax",C0024530 || C0024535 || C0024537,3,3,0.0,0.0
+C0058677,domiphen,may_prevent,['C0040435'],['Tooth Diseases'],Tooth Diseases,C0040435,1,1,0.0,0.0
+C0756081,quinupristin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2266958,Amphenicol-class Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0062525,hepatitis B immune globulin,may_prevent,['C0019163'],['Hepatitis B'],Hepatitis B,C0019163,1,1,1.0,0.6666666622222223
+C0060179,fenofibric acid,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0546862,econazole nitrate,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C2709758,Streptococcus pneumoniae type 22F capsular polysaccharide antigen,may_prevent,['C0032269'],['Pneumococcal Infections'],Pneumococcal Infections,C0032269,1,1,0.0,0.0
+C0051515,aluminum magnesium silicate,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.39999999520000007
+C2344297,"L1 protein, human papillomavirus type 6 vaccine",may_prevent,"['C0017416', 'C0279637', 'C0343641', 'C0878500']","['Genital Neoplasms, Female', 'Anal Cancer', 'Papillomavirus Infections', 'Neoplasms, Intraepithelial']","Genital Neoplasms, Female || Anal Cancer || Papillomavirus Infections || Neoplasms, Intraepithelial",C0017416 || C0279637 || C0343641 || C0878500,4,4,0.0,0.05555555469135803
+C2344347,"mumps virus vaccine live, Jeryl Lynn strain",may_prevent,['C0026780'],['Mumps'],Mumps,C0026780,1,1,1.0,0.24999999781250004
+C0058731,doxycycline hyclate,may_prevent,['C0024530'],['Malaria'],Malaria,C0024530,1,1,0.0,0.0
+C0076891,trandolapril,may_prevent,"['C0011881', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0149721 || C0242698,3,3,0.0,0.0
+C2725008,hepatitis B virus subtype ADW2 HBsAg surface protein antigen,may_prevent,['C0019163'],['Hepatitis B'],Hepatitis B,C0019163,1,1,1.0,0.363636360661157
+C0058135,dihydroxyaluminum sodium carbonate,may_prevent,['C0017181'],['Gastrointestinal Hemorrhage'],Gastrointestinal Hemorrhage,C0017181,1,1,0.0,0.0
+C0033216,procainamide,may_prevent,['C0003811'],"['Arrhythmias, Cardiac']","Arrhythmias, Cardiac",C0003811,1,1,0.0,0.0
+C0700607,digoxin antibodies Fab fragments,may_prevent,"['C0000771', 'C0013221', 'C0029944']","['Abnormalities, Drug-Induced', 'Drug Toxicity', 'Drug Overdose']","Abnormalities, Drug-Induced || Drug Toxicity || Drug Overdose",C0000771 || C0013221 || C0029944,3,3,0.0,0.0
+C0120726,halofantrine,may_prevent,['C0024530'],['Malaria'],Malaria,C0024530,1,1,0.0,0.0
+C0027780,netilmicin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C4694273,galcanezumab,may_prevent,['C0149931'],['Migraine Disorders'],Migraine Disorders,C0149931,1,1,0.0,0.0
+C0303757,coal tar pitch volatiles,may_prevent,['C0032024'],['Pityriasis'],Pityriasis,C0032024,1,1,0.0,0.0
+C3536846,Antiprotozoal,may_prevent,['C0033740'],['Protozoan Infections'],Protozoan Infections,C0033740,1,1,0.0,0.0
+C0936072,amantadine hydrochloride,may_prevent,['C0021400'],"['Influenza, Human']","Influenza, Human",C0021400,1,1,0.0,0.0
+C4059934,influenza B virus B/Brisbane/9/2014 antigen,may_prevent,['C0029348'],['Influenza B virus'],Influenza B virus,C0029348,1,1,1.0,0.7499999953125
+C0007559,ceftazidime,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0037513,heparin sodium,may_prevent,"['C0032787', 'C0034065', 'C0040038', 'C0042487']","['Postoperative Complications', 'Pulmonary Embolism', 'Thromboembolism', 'Venous Thrombosis']",Postoperative Complications || Pulmonary Embolism || Thromboembolism || Venous Thrombosis,C0032787 || C0034065 || C0040038 || C0042487,4,4,0.0,0.0
+C0086248,ergotamine tartrate,may_prevent,['C0032797'],['Postpartum Hemorrhage'],Postpartum Hemorrhage,C0032797,1,1,0.0,0.0
+C0012258,digitoxin,may_prevent,['C0018801'],['Heart Failure'],Heart Failure,C0018801,1,1,0.0,0.0
+C0039644,tetracycline,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C0015528,factor XIII,may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C2709776,Streptococcus pneumoniae type 9N capsular polysaccharide antigen,may_prevent,['C0032269'],['Pneumococcal Infections'],Pneumococcal Infections,C0032269,1,1,0.0,0.0
+C3529352,evolocumab,may_prevent,"['C0004153', 'C0027051', 'C2936350']","['Atherosclerosis', 'Myocardial Infarction', 'Plaque, Atherosclerotic']","Atherosclerosis || Myocardial Infarction || Plaque, Atherosclerotic",C0004153 || C0027051 || C2936350,3,3,0.0,0.0
+C4689607,ibalizumab-uiyk,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C1871526,raltegravir,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C0700453,fenoterol hydrobromide,may_prevent,['C0004096'],['Asthma'],Asthma,C0004096,1,1,0.0,0.0
+C0053881,pemirolast,may_prevent,['C0009766'],"['Conjunctivitis, Allergic']","Conjunctivitis, Allergic",C0009766,1,1,0.0,0.0
+C0043491,zinc oxide,may_prevent,"['C0037286', 'C0038814', 'C0221263']","['Skin Neoplasms', 'Sunburn', 'Cafe-au-Lait Spots']",Skin Neoplasms || Sunburn || Cafe-au-Lait Spots,C0037286 || C0038814 || C0221263,3,3,0.0,0.0
+C3265535,"sodium phosphate, dibasic, monohydrate",may_prevent,['C0085682'],['Hypophosphatemia'],Hypophosphatemia,C0085682,1,1,0.0,0.0
+C0017797,glutamine,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0991847,magnesium acetate tetrahydrate,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.39999999520000007
+C0378366,desirudin,may_prevent,"['C0032787', 'C0034065', 'C0042487', 'C1861172']","['Postoperative Complications', 'Pulmonary Embolism', 'Venous Thrombosis', 'Venous Thromboembolism']",Postoperative Complications || Pulmonary Embolism || Venous Thrombosis || Venous Thromboembolism,C0032787 || C0034065 || C0042487 || C1861172,4,4,0.0,0.0
+C0073633,ranolazine,may_prevent,['C0002962'],['Angina Pectoris'],Angina Pectoris,C0002962,1,1,0.0,0.0
+C0133689,octoxynol-9,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C3255909,"chondroitin sulfate, porcine",may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0245519,cefditoren pivoxil,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0056391,cortisone acetate,may_prevent,"['C0003868', 'C0003873']","['Arthritis, Gouty', 'Arthritis, Rheumatoid']","Arthritis, Gouty || Arthritis, Rheumatoid",C0003868 || C0003873,2,2,0.0,0.0
+C2979805,"factor XIII, human",may_prevent,"['C0019080', 'C0079027']","['Hemorrhage', 'Blood Loss, Surgical']","Hemorrhage || Blood Loss, Surgical",C0019080 || C0079027,2,2,0.0,0.0
+C0060240,ferric oxide,may_prevent,['C0162316'],"['Anemia, Iron-Deficiency']","Anemia, Iron-Deficiency",C0162316,1,1,0.0,0.0
+C2746119,Streptococcus pneumoniae serotype 7F capsular antigen diphtheria CRM197 protein conjugate vaccine,may_prevent,['C0038410'],['Streptococcus pneumoniae'],Streptococcus pneumoniae,C0038410,1,1,1.0,0.30769230508875745
+C0282471,dalteparin sodium,may_prevent,"['C0032787', 'C0034065', 'C0040038', 'C0042487', 'C0151744']","['Postoperative Complications', 'Pulmonary Embolism', 'Thromboembolism', 'Venous Thrombosis', 'Myocardial Ischemia']",Postoperative Complications || Pulmonary Embolism || Thromboembolism || Venous Thrombosis || Myocardial Ischemia,C0032787 || C0034065 || C0040038 || C0042487 || C0151744,5,5,0.0,0.0
+C0770964,adenovirus type 7 vaccine live,may_prevent,['C0001486'],['Adenoviridae Infections'],Adenoviridae Infections,C0001486,1,1,0.0,0.0
+C0012203,diethylstilbestrol,may_prevent,['C0000786'],"['Abortion, Spontaneous']","Abortion, Spontaneous",C0000786,1,1,0.0,0.0
+C3537228,Allylamine Antifungal,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0014704,ergonovine,may_prevent,['C0032797'],['Postpartum Hemorrhage'],Postpartum Hemorrhage,C0032797,1,1,0.0,0.0
+C1170744,"drotrecogin alfa (activated), lyophilized",may_prevent,['C0036983'],"['Shock, Septic']","Shock, Septic",C0036983,1,1,0.0,0.0
+C0020740,ibuprofen,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C3852938,letermovir,may_prevent,['C0010823'],['Cytomegalovirus Infections'],Cytomegalovirus Infections,C0010823,1,1,0.0,0.0
+C0007907,cetylpyridinium chloride,may_prevent,['C0011389'],['Dental Plaque'],Dental Plaque,C0011389,1,1,0.0,0.0
+C2720023,pitavastatin calcium,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0982332,"acellular pertussis vaccine, inactivated",may_prevent,['C0043167'],['Whooping Cough'],Whooping Cough,C0043167,1,1,0.0,0.0
+C4020255,Hepatitis C Virus Nucleotide Analog NS5B Polymerase Inhibitor,may_prevent,['C0019196'],['Hepatitis C'],Hepatitis C,C0019196,1,1,1.0,0.39999999680000003
+C0000294,mesna,may_prevent,"['C0010692', 'C0013221', 'C0019080']","['Cystitis', 'Drug Toxicity', 'Hemorrhage']",Cystitis || Drug Toxicity || Hemorrhage,C0010692 || C0013221 || C0019080,3,3,0.0,0.0
+C0085297,"immunoglobulins, intravenous",may_prevent,['C0017160'],['Gastroenteritis'],Gastroenteritis,C0017160,1,1,0.0,0.0
+C0055008,ceforanide,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C4082583,sodium thiosulfate anhydrous,may_prevent,['C0013221'],['Drug Toxicity'],Drug Toxicity,C0013221,1,1,0.0,0.0
+C0031237,pertussis vaccine,may_prevent,['C0043167'],['Whooping Cough'],Whooping Cough,C0043167,1,1,0.0,0.0
+C2724165,"human papillomavirus type 16, L1 capsid protein (residues 2-471) vaccine",may_prevent,"['C0017416', 'C0279637', 'C0343641', 'C0878500']","['Genital Neoplasms, Female', 'Anal Cancer', 'Papillomavirus Infections', 'Neoplasms, Intraepithelial']","Genital Neoplasms, Female || Anal Cancer || Papillomavirus Infections || Neoplasms, Intraepithelial",C0017416 || C0279637 || C0343641 || C0878500,4,4,0.0,0.04166666597222223
+C0700466,ranitidine hydrochloride,may_prevent,"['C0013295', 'C0017181', 'C0038358']","['Duodenal Ulcer', 'Gastrointestinal Hemorrhage', 'Stomach Ulcer']",Duodenal Ulcer || Gastrointestinal Hemorrhage || Stomach Ulcer,C0013295 || C0017181 || C0038358,3,3,0.0,0.0
+C2726767,Crotalus adamanteus antivenin,may_prevent,['C0011065'],['Death'],Death,C0011065,1,1,0.0,0.0
+C0126784,"magnesium phosphate, dibasic",may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.39999999520000007
+C0772043,nicotinic acid propyl ester,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0032950,prednisolone,may_prevent,"['C0003868', 'C0003873']","['Arthritis, Gouty', 'Arthritis, Rheumatoid']","Arthritis, Gouty || Arthritis, Rheumatoid",C0003868 || C0003873,2,2,0.0,0.0
+C0011145,deferoxamine,may_prevent,"['C0022661', 'C0282193']","['Kidney Failure, Chronic', 'Iron Overload']","Kidney Failure, Chronic || Iron Overload",C0022661 || C0282193,2,2,0.0,0.0
+C0282145,diphenoxylate hydrochloride,may_prevent,['C0011991'],['Diarrhea'],Diarrhea,C0011991,1,1,0.0,0.0
+C5241590,influenza B virus B/Washington/02/2019 antigen,may_prevent,['C0029348'],['Influenza B virus'],Influenza B virus,C0029348,1,1,1.0,0.7499999953125
+C0771648,poractant alfa,may_prevent,['C0004144'],['Pulmonary Atelectasis'],Pulmonary Atelectasis,C0004144,1,1,0.0,0.0
+C1869686,cefovecin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C1101751,rosuvastatin calcium,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0011276,demeclocycline,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C0040193,ticarcillin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0873006,"ferrous sulfate,dried",may_prevent,['C0162316'],"['Anemia, Iron-Deficiency']","Anemia, Iron-Deficiency",C0162316,1,1,0.0,0.0
+C2940103,methylcellulose (4000 CPS),may_prevent,['C0009806'],['Constipation'],Constipation,C0009806,1,1,0.0,0.0
+C0772326,clopidogrel bisulfate,may_prevent,"['C0007785', 'C0010072', 'C0027051']","['Cerebral Infarction', 'Coronary Thrombosis', 'Myocardial Infarction']",Cerebral Infarction || Coronary Thrombosis || Myocardial Infarction,C0007785 || C0010072 || C0027051,3,3,0.0,0.0
+C0061673,varicella zoster virus glycoprotein E,may_prevent,['C0019360'],['Herpes Zoster'],Herpes Zoster,C0019360,1,1,0.0,0.2857142816326531
+C0074414,sevoflurane,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C3864824,paritaprevir,may_prevent,['C0019196'],['Hepatitis C'],Hepatitis C,C0019196,1,1,0.0,0.0
+C2344072,Neisseria meningitidis serogroup Y capsular polysaccharide diphtheria toxoid protein conjugate vaccine,may_prevent,['C1136219'],"['Neisseria meningitidis, Serogroup Y']","Neisseria meningitidis, Serogroup Y",C1136219,1,1,0.0,0.3999999960888889
+C0376325,hepatitis A virus,may_prevent,['C0019159'],['Hepatitis A'],Hepatitis A,C0019159,1,1,1.0,0.7999999952000001
+C0072869,quinidine gluconate,may_prevent,"['C0003811', 'C0024535', 'C0039240', 'C0042514']","['Arrhythmias, Cardiac', 'Malaria, Falciparum', 'Tachycardia, Supraventricular', 'Tachycardia, Ventricular']","Arrhythmias, Cardiac || Malaria, Falciparum || Tachycardia, Supraventricular || Tachycardia, Ventricular",C0003811 || C0024535 || C0039240 || C0042514,4,4,0.0,0.0
+C0086620,miconazole nitrate,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0033429,propafenone,may_prevent,['C0003811'],"['Arrhythmias, Cardiac']","Arrhythmias, Cardiac",C0003811,1,1,0.0,0.0
+C0887732,azathioprine sodium,may_prevent,['C0018133'],['Graft vs Host Disease'],Graft vs Host Disease,C0018133,1,1,0.0,0.0
+C0032535,polymyxin B,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0771309,valacyclovir hydrochloride,may_prevent,"['C0019348', 'C0019360']","['Herpes Simplex', 'Herpes Zoster']",Herpes Simplex || Herpes Zoster,C0019348 || C0019360,2,2,0.0,0.0
+C0014027,enalaprilat,may_prevent,"['C0011881', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0149721 || C0242698,3,3,0.0,0.0
+C3500828,risedronate sodium monohydrate,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C0054480,calcium polycarbophil,may_prevent,['C0009806'],['Constipation'],Constipation,C0009806,1,1,0.0,0.0
+C0086140,dextran,may_prevent,"['C0034065', 'C0042487']","['Pulmonary Embolism', 'Venous Thrombosis']",Pulmonary Embolism || Venous Thrombosis,C0034065 || C0042487,2,2,0.0,0.0
+C0051721,ammonium molybdate,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C4550374,copper Cu-64,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C0724570,dibasic sodium phosphate heptahydrate,may_prevent,['C0085682'],['Hypophosphatemia'],Hypophosphatemia,C0085682,1,1,0.0,0.0
+C3490348,empagliflozin,may_prevent,['C0007222'],['Cardiovascular Diseases'],Cardiovascular Diseases,C0007222,1,1,0.0,0.0
+C0071842,prednisolone phosphate,may_prevent,"['C0003868', 'C0003873']","['Arthritis, Gouty', 'Arthritis, Rheumatoid']","Arthritis, Gouty || Arthritis, Rheumatoid",C0003868 || C0003873,2,2,0.0,0.0
+C3273776,omadacycline tosylate,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2713074,calcifediol anhydrous,may_prevent,['C0042870'],['Vitamin D Deficiency'],Vitamin D Deficiency,C0042870,1,1,0.0,0.0
+C0002403,amantadine,may_prevent,['C0021400'],"['Influenza, Human']","Influenza, Human",C0021400,1,1,0.0,0.0
+C5241591,influenza A virus A/South Australia/34/2019 (H3N2) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.5999999958
+C0006400,bupivacaine,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0024706,manganese,may_prevent,['C0011156'],['Deficiency Diseases'],Deficiency Diseases,C0011156,1,1,0.0,0.0
+C3529563,turoctocog alfa,may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C4709331,Cytomegalovirus DNA Terminase Complex Inhibitor,may_prevent,['C0010823'],['Cytomegalovirus Infections'],Cytomegalovirus Infections,C0010823,1,1,0.0,0.2857142816326531
+C3883245,Neisseria meningitidis serogroup B strain NZ98/254 outer membrane vesicle,may_prevent,['C1136217'],"['Neisseria meningitidis, Serogroup B']","Neisseria meningitidis, Serogroup B",C1136217,1,1,0.0,0.4615384572781066
+C2948081,camphor (natural),may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0028356,norethindrone,may_prevent,"['C0029456', 'C0032961']","['Osteoporosis', 'Pregnancy']",Osteoporosis || Pregnancy,C0029456 || C0032961,2,2,0.0,0.0
+C2709740,Streptococcus pneumoniae type 12F capsular polysaccharide antigen,may_prevent,['C0032269'],['Pneumococcal Infections'],Pneumococcal Infections,C0032269,1,1,0.0,0.0
+C0700463,piperacillin sodium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C5432354,ansuvimab-zykl,may_prevent,['C0949896'],"['Ebola Virus, Zaire']","Ebola Virus, Zaire",C0949896,1,1,0.0,0.0
+C0005640,dicumarol,may_prevent,"['C0034065', 'C0040038', 'C0042487']","['Pulmonary Embolism', 'Thromboembolism', 'Venous Thrombosis']",Pulmonary Embolism || Thromboembolism || Venous Thrombosis,C0034065 || C0040038 || C0042487,3,3,0.0,0.0
+C0033497,propranolol,may_prevent,['C0149931'],['Migraine Disorders'],Migraine Disorders,C0149931,1,1,0.0,0.0
+C0073631,ketorolac,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C5188042,aluminum sulfate octadecahydrate,may_prevent,['C0038990'],['Sweating'],Sweating,C0038990,1,1,0.0,0.0
+C0719220,cephalexin monohydrate,may_prevent,"['C0004623', 'C0014121']","['Bacterial Infections', 'Endocarditis, Bacterial']","Bacterial Infections || Endocarditis, Bacterial",C0004623 || C0014121,2,2,0.0,0.0
+C0014809,erythromycin estolate,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C2344275,Streptococcus pneumoniae serotype 6B capsular antigen diphtheria CRM197 protein conjugate vaccine,may_prevent,['C0038410'],['Streptococcus pneumoniae'],Streptococcus pneumoniae,C0038410,1,1,1.0,0.30769230508875745
+C0025573,metaproterenol sulfate,may_prevent,['C0004099'],"['Asthma, Exercise-Induced']","Asthma, Exercise-Induced",C0004099,1,1,0.0,0.0
+C1739768,rivaroxaban,may_prevent,"['C0034065', 'C0038454', 'C0042487']","['Pulmonary Embolism', 'Stroke', 'Venous Thrombosis']",Pulmonary Embolism || Stroke || Venous Thrombosis,C0034065 || C0038454 || C0042487,3,3,0.0,0.0
+C0286079,cidofovir,may_prevent,['C0010823'],['Cytomegalovirus Infections'],Cytomegalovirus Infections,C0010823,1,1,0.0,0.0
+C0039855,thiamylal,may_prevent,['C0036572'],['Seizures'],Seizures,C0036572,1,1,0.0,0.0
+C0076079,temocillin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0038633,sucralfate,may_prevent,['C0013295'],['Duodenal Ulcer'],Duodenal Ulcer,C0013295,1,1,0.0,0.0
+C5135598,"dengue virus live antigen, CYD serotype 2",may_prevent,['C0011311'],['Dengue'],Dengue,C0011311,1,1,1.0,0.24999999781250004
+C0244656,fosphenytoin,may_prevent,['C0036572'],['Seizures'],Seizures,C0036572,1,1,0.0,0.0
+C0001047,acetylcysteine,may_prevent,"['C0022672', 'C0032787']","['Kidney Tubular Necrosis, Acute', 'Postoperative Complications']","Kidney Tubular Necrosis, Acute || Postoperative Complications",C0022672 || C0032787,2,2,0.0,0.0
+C0060228,ferric ammonium citrate,may_prevent,['C0162316'],"['Anemia, Iron-Deficiency']","Anemia, Iron-Deficiency",C0162316,1,1,0.0,0.0
+C0016229,flecainide,may_prevent,['C0003811'],"['Arrhythmias, Cardiac']","Arrhythmias, Cardiac",C0003811,1,1,0.0,0.0
+C0005025,benzalkonium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2697837,kanamycin A sulfate,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C1508750,alvimopan,may_prevent,['C0032787'],['Postoperative Complications'],Postoperative Complications,C0032787,1,1,0.0,0.0
+C0029994,oxamniquine,may_prevent,['C0018889'],['Helminthiasis'],Helminthiasis,C0018889,1,1,0.0,0.0
+C0009968,copper,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C0027680,neostigmine methylsulfate,may_prevent,"['C0005686', 'C0080274']","['Urinary Bladder Diseases', 'Urinary Retention']",Urinary Bladder Diseases || Urinary Retention,C0005686 || C0080274,2,2,0.0,0.0
+C0012133,didanosine,may_prevent,['C0019693'],['HIV Infections'],HIV Infections,C0019693,1,1,0.0,0.0
+C0795575,eptacog alfa activated,may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C0007556,cefotiam,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0007738,cephradine,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0004482,azathioprine,may_prevent,['C0018133'],['Graft vs Host Disease'],Graft vs Host Disease,C0018133,1,1,0.0,0.0
+C0055923,clomocycline,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2266968,Rifamycin Antimycobacterial,may_prevent,['C0026918'],['Mycobacterium Infections'],Mycobacterium Infections,C0026918,1,1,0.0,0.0
+C0117996,fluticasone propionate,may_prevent,"['C0004096', 'C0027430']","['Asthma', 'Nasal Polyps']",Asthma || Nasal Polyps,C0004096 || C0027430,2,2,0.0,0.0
+C0071844,prednisolone tebutate,may_prevent,"['C0003868', 'C0003873']","['Arthritis, Gouty', 'Arthritis, Rheumatoid']","Arthritis, Gouty || Arthritis, Rheumatoid",C0003868 || C0003873,2,2,0.0,0.0
+C0002404,amantadine sulfate,may_prevent,['C0021400'],"['Influenza, Human']","Influenza, Human",C0021400,1,1,0.0,0.0
+C2267074,Hepatitis B Virus Nucleoside Analog Reverse Transcriptase Inhibitor,may_prevent,['C0019163'],['Hepatitis B'],Hepatitis B,C0019163,1,1,1.0,0.39999999680000003
+C0724624,medium chain triglycerides,may_prevent,['C3714509'],['Nutrition Disorders'],Nutrition Disorders,C3714509,1,1,0.0,0.0
+C0051522,aluminum sulfate,may_prevent,['C0038990'],['Sweating'],Sweating,C0038990,1,1,0.0,0.0
+C0074774,sodium thiosulfate,may_prevent,['C0013221'],['Drug Toxicity'],Drug Toxicity,C0013221,1,1,0.0,0.0
+C2744960,crofelemer,may_prevent,['C0011991'],['Diarrhea'],Diarrhea,C0011991,1,1,0.0,0.0
+C2344070,Neisseria meningitidis serogroup W-135 capsular polysaccharide diphtheria toxoid protein conjugate vaccine,may_prevent,['C1136221'],"['Neisseria meningitidis, Serogroup W-135']","Neisseria meningitidis, Serogroup W-135",C1136221,1,1,0.0,0.3999999960888889
+C0770669,methenamine sulfosalicylate,may_prevent,['C0042029'],['Urinary Tract Infections'],Urinary Tract Infections,C0042029,1,1,0.0,0.0
+C3892863,filgrastim-sndz,may_prevent,['C3714514'],['Infections'],Infections,C3714514,1,1,0.0,0.0
+C0302236,North American coral snake antivenin,may_prevent,"['C0011065', 'C0522224']","['Death', 'Paralysis']",Death || Paralysis,C0011065 || C0522224,2,2,0.0,0.0
+C1950816,flunisolide hemihydrate,may_prevent,"['C0004096', 'C0027430']","['Asthma', 'Nasal Polyps']",Asthma || Nasal Polyps,C0004096 || C0027430,2,2,0.0,0.0
+C4694272,eptinezumab,may_prevent,['C0149931'],['Migraine Disorders'],Migraine Disorders,C0149931,1,1,0.0,0.0
+C0982189,Hemophilus B polysaccharide,may_prevent,['C0018482'],['Haemophilus Infections'],Haemophilus Infections,C0018482,1,1,0.0,0.0
+C0013340,dydrogesterone,may_prevent,['C0000786'],"['Abortion, Spontaneous']","Abortion, Spontaneous",C0000786,1,1,0.0,0.0
+C2709742,Streptococcus pneumoniae type 14 capsular polysaccharide antigen,may_prevent,['C0032269'],['Pneumococcal Infections'],Pneumococcal Infections,C0032269,1,1,0.0,0.0
+C0114771,dofetilide,may_prevent,['C0003811'],"['Arrhythmias, Cardiac']","Arrhythmias, Cardiac",C0003811,1,1,0.0,0.0
+C3859493,Neisseria meningitidis serogroup B recombinant LP2086 B01 protein variant antigen,may_prevent,['C1136217'],"['Neisseria meningitidis, Serogroup B']","Neisseria meningitidis, Serogroup B",C1136217,1,1,0.0,0.4285714244897959
+C2976303,sofosbuvir,may_prevent,['C0019196'],['Hepatitis C'],Hepatitis C,C0019196,1,1,0.0,0.0
+C2346970,bazedoxifene,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C0072973,ramipril,may_prevent,"['C0011881', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0149721 || C0242698,3,3,0.0,0.0
+C3859156,levomefolate glucosamine,may_prevent,"['C0016412', 'C0027794']","['Folic Acid Deficiency', 'Neural Tube Defects']",Folic Acid Deficiency || Neural Tube Defects,C0016412 || C0027794,2,2,0.0,0.0
+C0700542,mepivacaine hydrochloride,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0037494,sodium chloride,may_prevent,['C0011175'],['Dehydration'],Dehydration,C0011175,1,1,0.0,0.0
+C0282232,levomethadyl acetate hydrochloride,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0886809,enalaprilat anhydrous,may_prevent,"['C0011881', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0149721 || C0242698,3,3,0.0,0.0
+C1323100,"tocopherol,DL-alpha",may_prevent,"['C0002395', 'C0002878', 'C0006287', 'C0013386', 'C0042875']","['Alzheimer Disease', 'Anemia, Hemolytic', 'Bronchopulmonary Dysplasia', 'Dyskinesia, Drug-Induced', 'Vitamin E Deficiency']","Alzheimer Disease || Anemia, Hemolytic || Bronchopulmonary Dysplasia || Dyskinesia, Drug-Induced || Vitamin E Deficiency",C0002395 || C0002878 || C0006287 || C0013386 || C0042875,5,5,0.0,0.0
+C0606318,pheniramine aminosalicylate,may_prevent,"['C0035457', 'C0042109']","['Rhinitis, Allergic, Perennial', 'Urticaria']","Rhinitis, Allergic, Perennial || Urticaria",C0035457 || C0042109,2,2,0.0,0.0
+C0108101,calcium citrate,may_prevent,['C0029456'],['Osteoporosis'],Osteoporosis,C0029456,1,1,0.0,0.0
+C0048038,apraclonidine,may_prevent,['C0028840'],['Ocular Hypertension'],Ocular Hypertension,C0028840,1,1,0.0,0.0
+C2343849,dabigatran etexilate mesylate,may_prevent,"['C0034065', 'C0038454', 'C0149871']","['Pulmonary Embolism', 'Stroke', 'Deep Vein Thrombosis']",Pulmonary Embolism || Stroke || Deep Vein Thrombosis,C0034065 || C0038454 || C0149871,3,3,0.0,0.0
+C0167626,estradiol 3-benzoate,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C0121772,Haemophilus influenzae type b,may_prevent,['C0018482'],['Haemophilus Infections'],Haemophilus Infections,C0018482,1,1,0.0,0.33333332888888895
+C2917386,Dihydrofolate Reductase Inhibitor Antimicrobial,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C2709734,Streptococcus pneumoniae type 1 capsular polysaccharide antigen,may_prevent,['C0032269'],['Pneumococcal Infections'],Pneumococcal Infections,C0032269,1,1,0.0,0.0
+C0724511,"BCG, live, Tice strain",may_prevent,"['C0007133', 'C0041296']","['Carcinoma, Papillary', 'Tuberculosis']","Carcinoma, Papillary || Tuberculosis",C0007133 || C0041296,2,2,0.0,0.0
+C0304556,malt soup extract,may_prevent,['C0009806'],['Constipation'],Constipation,C0009806,1,1,0.0,0.0
+C0205705,casanthranol,may_prevent,['C0009806'],['Constipation'],Constipation,C0009806,1,1,0.0,0.0
+C0052327,arginine aspartate,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C1879850,bisoctrizole,may_prevent,['C0038814'],['Sunburn'],Sunburn,C0038814,1,1,0.0,0.0
+C0073226,riboflavin tetrabutyrate,may_prevent,['C0035528'],['Riboflavin Deficiency'],Riboflavin Deficiency,C0035528,1,1,0.0,0.4999999950000001
+C4534627,emicizumab-kxwh,may_prevent,['C3494187'],['Factor VIII Deficiency'],Factor VIII Deficiency,C3494187,1,1,0.0,0.0
+C0770920,quinapril hydrochloride,may_prevent,"['C0011881', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0149721 || C0242698,3,3,0.0,0.0
+C0771469,formoterol fumarate,may_prevent,"['C0004099', 'C0006266']","['Asthma, Exercise-Induced', 'Bronchial Spasm']","Asthma, Exercise-Induced || Bronchial Spasm",C0004099 || C0006266,2,2,0.0,0.0
+C0008947,clindamycin,may_prevent,"['C0004623', 'C0014121']","['Bacterial Infections', 'Endocarditis, Bacterial']","Bacterial Infections || Endocarditis, Bacterial",C0004623 || C0014121,2,2,0.0,0.0
+C0795577,recombinant antihemophilic factor VIII,may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C0023413,leucovorin,may_prevent,"['C0013221', 'C0016412']","['Drug Toxicity', 'Folic Acid Deficiency']",Drug Toxicity || Folic Acid Deficiency,C0013221 || C0016412,2,2,0.0,0.0
+C0060231,ferric citrate,may_prevent,['C0162316'],"['Anemia, Iron-Deficiency']","Anemia, Iron-Deficiency",C0162316,1,1,0.0,0.0
+C0024027,lovastatin,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0014025,enalapril,may_prevent,"['C0011881', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0149721 || C0242698,3,3,0.0,0.0
+C0763530,calfactant,may_prevent,['C0035220'],"['Respiratory Distress Syndrome, Newborn']","Respiratory Distress Syndrome, Newborn",C0035220,1,1,0.0,0.0
+C0126774,magnesium citrate,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.4999999950000001
+C0282391,ceftizoxime sodium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0044971,hydroxyprogesterone caproate (USP),may_prevent,['C0000786'],"['Abortion, Spontaneous']","Abortion, Spontaneous",C0000786,1,1,0.0,0.0
+C0887581,benzocaine hydrochloride,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0105523,benazeprilat,may_prevent,"['C0011881', 'C0149721', 'C0242698']","['Diabetic Nephropathies', 'Hypertrophy, Left Ventricular', 'Ventricular Dysfunction, Left']","Diabetic Nephropathies || Hypertrophy, Left Ventricular || Ventricular Dysfunction, Left",C0011881 || C0149721 || C0242698,3,3,0.0,0.0
+C0304631,homosalate,may_prevent,['C0038814'],['Sunburn'],Sunburn,C0038814,1,1,0.0,0.0
+C0087162,vitamin B6,may_prevent,['C0936215'],['Vitamin B 6 Deficiency'],Vitamin B 6 Deficiency,C0936215,1,1,0.0,0.33333332888888895
+C0300205,ulipristal,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C0006674,calcitriol,may_prevent,['C0042870'],['Vitamin D Deficiency'],Vitamin D Deficiency,C0042870,1,1,0.0,0.0
+C0770963,adenovirus type 4 vaccine live,may_prevent,['C0001486'],['Adenoviridae Infections'],Adenoviridae Infections,C0001486,1,1,0.0,0.0
+C0541315,everolimus,may_prevent,['C0018133'],['Graft vs Host Disease'],Graft vs Host Disease,C0018133,1,1,0.0,0.0
+C0012290,dihydroergocryptine,may_prevent,"['C0032797', 'C0149931']","['Postpartum Hemorrhage', 'Migraine Disorders']",Postpartum Hemorrhage || Migraine Disorders,C0032797 || C0149931,2,2,0.0,0.0
+C2586803,"rabies virus vaccine wistar strain PM-1503-3M (human), inactivated",may_prevent,['C0034494'],['Rabies'],Rabies,C0034494,1,1,1.0,0.2222222202469136
+C1692318,docusate,may_prevent,['C0009806'],['Constipation'],Constipation,C0009806,1,1,0.0,0.0
+C0047683,etonogestrel,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C0004499,azlocillin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0079226,dextrothyroxine sodium,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0020352,hetastarch,may_prevent,['C0546884'],['Hypovolemia'],Hypovolemia,C0546884,1,1,0.0,0.0
+C0016293,flumazenil,may_prevent,['C0013221'],['Drug Toxicity'],Drug Toxicity,C0013221,1,1,0.0,0.0
+C2266964,Penem Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0085542,pravastatin,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0771847,butenafine hydrochloride,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0982118,dexrazoxane hydrochloride,may_prevent,['C0013221'],['Drug Toxicity'],Drug Toxicity,C0013221,1,1,0.0,0.0
+C0138037,dibasic potassium phosphate,may_prevent,"['C0020621', 'C0085682']","['Hypokalemia', 'Hypophosphatemia']",Hypokalemia || Hypophosphatemia,C0020621 || C0085682,2,2,0.0,0.0
+C0287573,cefditoren,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2266969,Streptogramin Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0237417,phenytoin sodium,may_prevent,['C0014557'],"['Epilepsy, Post-Traumatic']","Epilepsy, Post-Traumatic",C0014557,1,1,0.0,0.0
+C1145701,amphotericin B liposomal,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0887551,amoxicillin sodium,may_prevent,['C0014121'],"['Endocarditis, Bacterial']","Endocarditis, Bacterial",C0014121,1,1,0.0,0.0
+C2709744,Streptococcus pneumoniae type 15B capsular polysaccharide antigen,may_prevent,['C0032269'],['Pneumococcal Infections'],Pneumococcal Infections,C0032269,1,1,0.0,0.0
+C0107497,butenafine,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0026402,molybdenum,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C3474322,"Japanese encephalitis virus vaccine Nakayama-NIH strain, inactivated",may_prevent,['C0014057'],"['Encephalitis, Japanese']","Encephalitis, Japanese",C0014057,1,1,0.0,0.22222221876543213
+C5244434,Neisseria meningitidis serogroup W-135 capsular polysaccharide tetanus toxoid protein conjugate vaccine,may_prevent,['C1136221'],"['Neisseria meningitidis, Serogroup W-135']","Neisseria meningitidis, Serogroup W-135",C1136221,1,1,0.0,0.3999999960888889
+C0353490,metronidazole benzoate,may_prevent,['C0040921'],['Trichomonas Infections'],Trichomonas Infections,C0040921,1,1,0.0,0.0
+C0055003,cefepime,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0020933,imipenem,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0303760,coal tar extract,may_prevent,['C0032024'],['Pityriasis'],Pityriasis,C0032024,1,1,0.0,0.0
+C0209210,dolasetron,may_prevent,['C0520909'],['Postoperative Nausea and Vomiting'],Postoperative Nausea and Vomiting,C0520909,1,1,0.0,0.0
+C2586798,rabies virus vaccine flury-lep strain,may_prevent,['C0034494'],['Rabies'],Rabies,C0034494,1,1,1.0,0.33333333055555564
+C0772098,azidocillin sodium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0085884,pivampicillin hydrochloride,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0032838,potassium permanganate,may_prevent,['C0162627'],"['Skin Diseases, Bacterial']","Skin Diseases, Bacterial",C0162627,1,1,0.0,0.0
+C0030576,paromomycin,may_prevent,['C0033740'],['Protozoan Infections'],Protozoan Infections,C0033740,1,1,0.0,0.0
+C0546879,tetracycline hydrochloride,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C0771061,bambuterol hydrochloride,may_prevent,['C0006266'],['Bronchial Spasm'],Bronchial Spasm,C0006266,1,1,0.0,0.0
+C0297269,ardeparin,may_prevent,"['C0032787', 'C0034065', 'C0040038', 'C0042487']","['Postoperative Complications', 'Pulmonary Embolism', 'Thromboembolism', 'Venous Thrombosis']",Postoperative Complications || Pulmonary Embolism || Thromboembolism || Venous Thrombosis,C0032787 || C0034065 || C0040038 || C0042487,4,4,0.0,0.0
+C4064080,simoctocog alfa,may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C2266931,Pleuromutilin Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0034266,pyridoxal phosphate,may_prevent,"['C0013221', 'C0936215']","['Drug Toxicity', 'Vitamin B 6 Deficiency']",Drug Toxicity || Vitamin B 6 Deficiency,C0013221 || C0936215,2,2,0.0,0.0
+C0700559,thiamylal sodium,may_prevent,['C0036572'],['Seizures'],Seizures,C0036572,1,1,0.0,0.0
+C0907410,telithromycin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0378466,zafirlukast,may_prevent,['C0004096'],['Asthma'],Asthma,C0004096,1,1,0.0,0.0
+C0304304,buclizine hydrochloride,may_prevent,"['C0026603', 'C0027497', 'C0042963']","['Motion Sickness', 'Nausea', 'Vomiting']",Motion Sickness || Nausea || Vomiting,C0026603 || C0027497 || C0042963,3,3,0.0,0.0
+C3536845,Antiparasitic,may_prevent,['C0030499'],['Parasitic Diseases'],Parasitic Diseases,C0030499,1,1,0.0,0.0
+C0052882,bacitracin A,may_prevent,['C0162627'],"['Skin Diseases, Bacterial']","Skin Diseases, Bacterial",C0162627,1,1,0.0,0.0
+C0043328,lutein,may_prevent,"['C0015397', 'C0086287']","['Eye Diseases', 'Female']",Eye Diseases || Female,C0015397 || C0086287,2,2,0.0,0.0
+C0771204,anhydrous tacrolimus,may_prevent,['C0018133'],['Graft vs Host Disease'],Graft vs Host Disease,C0018133,1,1,0.0,0.0
+C0254215,reviparin,may_prevent,"['C0034065', 'C0042487']","['Pulmonary Embolism', 'Venous Thrombosis']",Pulmonary Embolism || Venous Thrombosis,C0034065 || C0042487,2,2,0.0,0.0
+C0057598,dexamethasone acetate,may_prevent,"['C0004096', 'C0027430', 'C0027497', 'C0042963']","['Asthma', 'Nasal Polyps', 'Nausea', 'Vomiting']",Asthma || Nasal Polyps || Nausea || Vomiting,C0004096 || C0027430 || C0027497 || C0042963,4,4,0.0,0.0
+C0534191,recombinant FVIIa,may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C0110462,colistimethate sodium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C4490497,influenza A virus A/Singapore/GP2050/2015 (H3N2) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C0033979,psyllium,may_prevent,['C0009806'],['Constipation'],Constipation,C0009806,1,1,0.0,0.0
+C0086999,chondroitin sulfate sodium,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0772488,bismuth-formic-iodide,may_prevent,"['C0043241', 'C0162627']","['Wound Infection', 'Skin Diseases, Bacterial']","Wound Infection || Skin Diseases, Bacterial",C0043241 || C0162627,2,2,0.0,0.0
+C0052993,basic aluminum carbonate gel,may_prevent,['C0017181'],['Gastrointestinal Hemorrhage'],Gastrointestinal Hemorrhage,C0017181,1,1,0.0,0.0
+C0282227,meclizine hydrochloride,may_prevent,"['C0026603', 'C0042963']","['Motion Sickness', 'Vomiting']",Motion Sickness || Vomiting,C0026603 || C0042963,2,2,0.0,0.0
+C4282371,"influenza A virus vaccine, A-Texas-50-2012 X-223A (H3N2), inactivated",may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.5454545414876033
+C0030840,penicillin V,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0060405,cefdinir,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0012322,dihydroxyacetone,may_prevent,['C0031762'],['Photosensitivity Disorders'],Photosensitivity Disorders,C0031762,1,1,0.0,0.0
+C0024339,lysine acetate,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0056057,cocoa butter,may_prevent,['C0011603'],['Dermatitis'],Dermatitis,C0011603,1,1,0.0,0.0
+C0009975,copper gluconate,may_prevent,"['C0028715', 'C0032961']","['Nutritional and Metabolic Diseases', 'Pregnancy']",Nutritional and Metabolic Diseases || Pregnancy,C0028715 || C0032961,2,2,0.0,0.0
+C0076110,terbinafine,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0596007,hydroxychloroquine sulfate,may_prevent,"['C0024530', 'C0035435']","['Malaria', 'Rheumatic Diseases']",Malaria || Rheumatic Diseases,C0024530 || C0035435,2,2,0.0,0.0
+C0043443,ketotifen fumarate,may_prevent,['C0035457'],"['Rhinitis, Allergic, Perennial']","Rhinitis, Allergic, Perennial",C0035457,1,1,0.0,0.0
+C3692543,"influenza B virus vaccine, B-Massachusetts-2-2012-like virus, recombinant",may_prevent,['C0029348'],['Influenza B virus'],Influenza B virus,C0029348,1,1,1.0,0.5999999958
+C2927368,"influenza virus vaccine, live attenuated, A-Perth-16-2009 (H3N2) strain",may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,0.0,0.3636363596694215
+C4530095,"varicella zoster virus glycoprotein E, recombinant",may_prevent,['C0019360'],['Herpes Zoster'],Herpes Zoster,C0019360,1,1,0.0,0.24999999625000005
+C0014758,erythrityl tetranitrate,may_prevent,['C0002962'],['Angina Pectoris'],Angina Pectoris,C0002962,1,1,0.0,0.0
+C0011777,dexamethasone,may_prevent,"['C0004096', 'C0027430', 'C0027497', 'C0042963']","['Asthma', 'Nasal Polyps', 'Nausea', 'Vomiting']",Asthma || Nasal Polyps || Nausea || Vomiting,C0004096 || C0027430 || C0027497 || C0042963,4,4,0.0,0.0
+C0025760,methylergonovine,may_prevent,['C0032797'],['Postpartum Hemorrhage'],Postpartum Hemorrhage,C0032797,1,1,0.0,0.0
+C3887607,aluminum chloride anhydrous,may_prevent,['C0011334'],['Dental Caries'],Dental Caries,C0011334,1,1,0.0,0.0
+C2699543,"arginine, D-",may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0355587,pentazocine hydrochloride,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C1579393,formoterol fumarate dihydrate,may_prevent,"['C0004099', 'C0006266']","['Asthma, Exercise-Induced', 'Bronchial Spasm']","Asthma, Exercise-Induced || Bronchial Spasm",C0004099 || C0006266,2,2,0.0,0.0
+C0068980,norethindrone acetate,may_prevent,"['C0029456', 'C0032961']","['Osteoporosis', 'Pregnancy']",Osteoporosis || Pregnancy,C0029456 || C0032961,2,2,0.0,0.0
+C3273754,efinaconazole,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0000473,4-aminobenzoic acid,may_prevent,['C0038814'],['Sunburn'],Sunburn,C0038814,1,1,0.0,0.0
+C0001898,alanine,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0015840,fenoterol,may_prevent,['C0004096'],['Asthma'],Asthma,C0004096,1,1,0.0,0.0
+C0038679,sulfadoxine,may_prevent,['C0024530'],['Malaria'],Malaria,C0024530,1,1,0.0,0.0
+C0028156,nitrofurantoin,may_prevent,"['C0004623', 'C0042029']","['Bacterial Infections', 'Urinary Tract Infections']",Bacterial Infections || Urinary Tract Infections,C0004623 || C0042029,2,2,0.0,0.0
+C0035608,rifampin,may_prevent,"['C0004623', 'C0025294', 'C0041296']","['Bacterial Infections', 'Meningitis, Meningococcal', 'Tuberculosis']","Bacterial Infections || Meningitis, Meningococcal || Tuberculosis",C0004623 || C0025294 || C0041296,3,3,0.0,0.0
+C0113286,dexamethasone sodium phosphate,may_prevent,"['C0004096', 'C0027430', 'C0027497', 'C0042963']","['Asthma', 'Nasal Polyps', 'Nausea', 'Vomiting']",Asthma || Nasal Polyps || Nausea || Vomiting,C0004096 || C0027430 || C0027497 || C0042963,4,4,0.0,0.0
+C2266982,RNA Synthetase Inhibitor Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0724647,"nitrofurantoin, monohydrate",may_prevent,['C0042029'],['Urinary Tract Infections'],Urinary Tract Infections,C0042029,1,1,0.0,0.0
+C2825339,"budesonide (11.beta.,16.alpha.(S))",may_prevent,"['C0004096', 'C0027430']","['Asthma', 'Nasal Polyps']",Asthma || Nasal Polyps,C0004096 || C0027430,2,2,0.0,0.0
+C0081729,beclomethasone 17-monopropionate,may_prevent,"['C0004096', 'C0027430']","['Asthma', 'Nasal Polyps']",Asthma || Nasal Polyps,C0004096 || C0027430,2,2,0.0,0.0
+C4741891,magnesium sulfate dihydrate,may_prevent,"['C0024473', 'C0036572']","['Magnesium Deficiency', 'Seizures']",Magnesium Deficiency || Seizures,C0024473 || C0036572,2,2,0.0,0.19999999760000003
+C0596019,chloride ion,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0286650,atorvastatin calcium,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0086444,dexrazoxane,may_prevent,['C0013221'],['Drug Toxicity'],Drug Toxicity,C0013221,1,1,0.0,0.0
+C0209368,mycophenolate mofetil,may_prevent,['C0018133'],['Graft vs Host Disease'],Graft vs Host Disease,C0018133,1,1,0.0,0.0
+C0037129,silver nitrate,may_prevent,['C0339166'],['Ophthalmia Neonatorum'],Ophthalmia Neonatorum,C0339166,1,1,0.0,0.0
+C2266970,Sulfonamide Antibacterial,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0074757,sodium phosphate,may_prevent,['C0085682'],['Hypophosphatemia'],Hypophosphatemia,C0085682,1,1,0.0,0.0
+C0304520,Digitalis preparation,may_prevent,['C0018801'],['Heart Failure'],Heart Failure,C0018801,1,1,0.0,0.0
+C4256803,influenza A virus A/Hong Kong/4801/2014 (H3N2) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.5999999958
+C0051919,anisindione,may_prevent,"['C0034065', 'C0040038', 'C0042487']","['Pulmonary Embolism', 'Thromboembolism', 'Venous Thrombosis']",Pulmonary Embolism || Thromboembolism || Venous Thrombosis,C0034065 || C0040038 || C0042487,3,3,0.0,0.0
+C3255087,chondroitin sulfate sodium (bovine),may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C3272851,edoxaban tosylate,may_prevent,"['C0038454', 'C0040038', 'C0042487']","['Stroke', 'Thromboembolism', 'Venous Thrombosis']",Stroke || Thromboembolism || Venous Thrombosis,C0038454 || C0040038 || C0042487,3,3,0.0,0.0
+C0048197,parachlorophenol,may_prevent,['C0162627'],"['Skin Diseases, Bacterial']","Skin Diseases, Bacterial",C0162627,1,1,0.0,0.0
+C0701436,azlocillin sodium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0004011,aspartate magnesium hydrochloride,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.39999999520000007
+C2709746,Streptococcus pneumoniae type 17F capsular polysaccharide antigen,may_prevent,['C0032269'],['Pneumococcal Infections'],Pneumococcal Infections,C0032269,1,1,0.0,0.0
+C0210630,filgrastim,may_prevent,['C3714514'],['Infections'],Infections,C3714514,1,1,0.0,0.0
+C0243237,docusate sodium,may_prevent,['C0009806'],['Constipation'],Constipation,C0009806,1,1,0.0,0.0
+C0700540,kanamycin sulfate,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0025842,methysergide,may_prevent,['C0042376'],['Vascular Headaches'],Vascular Headaches,C0042376,1,1,0.0,0.0
+C2917372,Herpes Zoster Virus Nucleoside Analog DNA Polymerase Inhibitor,may_prevent,['C0019360'],['Herpes Zoster'],Herpes Zoster,C0019360,1,1,1.0,0.39999999680000003
+C0700462,penicillin G potassium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0007300,articaine hydrochloride,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C2827111,cetylpyridinium acetate,may_prevent,['C0011389'],['Dental Plaque'],Dental Plaque,C0011389,1,1,0.0,0.0
+C0700553,penicillin V potassium,may_prevent,"['C0004623', 'C0035436']","['Bacterial Infections', 'Rheumatic Fever']",Bacterial Infections || Rheumatic Fever,C0004623 || C0035436,2,2,0.0,0.0
+C0015506,factor VIII,may_prevent,['C0019080'],['Hemorrhage'],Hemorrhage,C0019080,1,1,0.0,0.0
+C3832618,"carnitine hydrochloride, (+)-",may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0063041,leflunomide,may_prevent,['C0035435'],['Rheumatic Diseases'],Rheumatic Diseases,C0035435,1,1,0.0,0.0
+C0015820,nefopam hydrochloride,may_prevent,"['C0008325', 'C0036973']","['Cholecystitis', 'Shivering']",Cholecystitis || Shivering,C0008325 || C0036973,2,2,0.0,0.0
+C0037567,sodium valproate,may_prevent,['C0149931'],['Migraine Disorders'],Migraine Disorders,C0149931,1,1,0.0,0.0
+C2726771,Crotalus scutulatus antivenin,may_prevent,['C0011065'],['Death'],Death,C0011065,1,1,0.0,0.0
+C1101838,pitavastatin,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C0055015,cefuroxime axetil,may_prevent,"['C0004623', 'C0038941']","['Bacterial Infections', 'Surgical Wound Infection']",Bacterial Infections || Surgical Wound Infection,C0004623 || C0038941,2,2,0.0,0.0
+C0771392,dextromethorphan polistirex,may_prevent,['C0010200'],['Cough'],Cough,C0010200,1,1,0.0,0.0
+C0022322,ivermectin,may_prevent,['C0030756'],['Lice Infestations'],Lice Infestations,C0030756,1,1,0.0,0.0
+C5234596,riboflavin 5'-phosphate sodium anhydrous,may_prevent,['C0035528'],['Riboflavin Deficiency'],Riboflavin Deficiency,C0035528,1,1,0.0,0.33333332888888895
+C2605855,simeprevir,may_prevent,['C0019196'],['Hepatitis C'],Hepatitis C,C0019196,1,1,0.0,0.0
+C2266973,Rifamycin Antimicrobial,may_prevent,['C0026918'],['Mycobacterium Infections'],Mycobacterium Infections,C0026918,1,1,0.0,0.0
+C1615665,"hyaluronidase, bovine",may_prevent,['C0015379'],['Extravasation of Diagnostic and Therapeutic Materials'],Extravasation of Diagnostic and Therapeutic Materials,C0015379,1,1,0.0,0.0
+C0731033,leucovorin calcium,may_prevent,"['C0013221', 'C0016412']","['Drug Toxicity', 'Folic Acid Deficiency']",Drug Toxicity || Folic Acid Deficiency,C0013221 || C0016412,2,2,0.0,0.0
+C0038143,stannous fluoride,may_prevent,"['C0011334', 'C0011389', 'C0017574', 'C0080233']","['Dental Caries', 'Dental Plaque', 'Gingivitis', 'Tooth Loss']",Dental Caries || Dental Plaque || Gingivitis || Tooth Loss,C0011334 || C0011389 || C0017574 || C0080233,4,4,0.0,0.0
+C3645239,"influenza B virus vaccine, B-Massachusetts-2-2012-like virus",may_prevent,['C0029348'],['Influenza B virus'],Influenza B virus,C0029348,1,1,1.0,0.7499999953125
+C4083103,human adenovirus B serotype 7 strain 55142,may_prevent,['C0001486'],['Adenoviridae Infections'],Adenoviridae Infections,C0001486,1,1,0.0,0.0
+C0074750,sodium perborate,may_prevent,['C0162627'],"['Skin Diseases, Bacterial']","Skin Diseases, Bacterial",C0162627,1,1,0.0,0.0
+C1310734,palonosetron hydrochloride,may_prevent,['C0520909'],['Postoperative Nausea and Vomiting'],Postoperative Nausea and Vomiting,C0520909,1,1,0.0,0.0
+C0033231,prochlorperazine maleate,may_prevent,"['C0027497', 'C0042963']","['Nausea', 'Vomiting']",Nausea || Vomiting,C0027497 || C0042963,2,2,0.0,0.0
+C2719943,"Haemophilus influenzae type b strain 20752, capsular polysaccharide inactivated tetanus toxoid conjugate vaccine",may_prevent,['C0121772'],['Haemophilus influenzae type b'],Haemophilus influenzae type b,C0121772,1,1,1.0,0.4705882316955018
+C0018880,helium,may_prevent,"['C0011119', 'C0019537']","['Decompression Sickness', 'High Pressure Neurological Syndrome']",Decompression Sickness || High Pressure Neurological Syndrome,C0011119 || C0019537,2,2,0.0,0.0
+C0350817,clomocycline sodium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C4746080,riboflavin sodium,may_prevent,['C0035528'],['Riboflavin Deficiency'],Riboflavin Deficiency,C0035528,1,1,0.0,0.4999999950000001
+C2001521,ceftaroline,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C5244435,Neisseria meningitidis serogroup Y capsular polysaccharide tetanus toxoid protein conjugate vaccine,may_prevent,['C1136219'],"['Neisseria meningitidis, Serogroup Y']","Neisseria meningitidis, Serogroup Y",C1136219,1,1,0.0,0.3999999960888889
+C2266956,Aminoglycoside Antimicrobial,may_prevent,"['C0004623', 'C0033740']","['Bacterial Infections', 'Protozoan Infections']",Bacterial Infections || Protozoan Infections,C0004623 || C0033740,2,2,0.0,0.0
+C0772357,wild yam extract,may_prevent,['C0037384'],['Snoring'],Snoring,C0037384,1,1,0.0,0.0
+C2730005,telavancin hydrochloride,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0055856,clarithromycin,may_prevent,"['C0004623', 'C0014121', 'C0026919', 'C0033740']","['Bacterial Infections', 'Endocarditis, Bacterial', 'Mycobacterium Infections, Nontuberculous', 'Protozoan Infections']","Bacterial Infections || Endocarditis, Bacterial || Mycobacterium Infections, Nontuberculous || Protozoan Infections",C0004623 || C0014121 || C0026919 || C0033740,4,4,0.0,0.0
+C0126948,manganese gluconate,may_prevent,['C0011156'],['Deficiency Diseases'],Deficiency Diseases,C0011156,1,1,0.0,0.0
+C0052796,azithromycin,may_prevent,"['C0004623', 'C0014121', 'C0026919', 'C0033740']","['Bacterial Infections', 'Endocarditis, Bacterial', 'Mycobacterium Infections, Nontuberculous', 'Protozoan Infections']","Bacterial Infections || Endocarditis, Bacterial || Mycobacterium Infections, Nontuberculous || Protozoan Infections",C0004623 || C0014121 || C0026919 || C0033740,4,4,0.0,0.0
+C1657077,calcium gluconate monohydrate,may_prevent,['C0029456'],['Osteoporosis'],Osteoporosis,C0029456,1,1,0.0,0.0
+C0027996,niacin,may_prevent,['C1956346'],['Coronary Artery Disease'],Coronary Artery Disease,C1956346,1,1,0.0,0.0
+C1705480,vasopressin (USP),may_prevent,['C0032787'],['Postoperative Complications'],Postoperative Complications,C0032787,1,1,0.0,0.0
+C0114827,domiphen bromide,may_prevent,['C0040435'],['Tooth Diseases'],Tooth Diseases,C0040435,1,1,0.0,0.0
+C2344271,Streptococcus pneumoniae serotype 23F capsular antigen diphtheria CRM197 protein conjugate vaccine,may_prevent,['C0038410'],['Streptococcus pneumoniae'],Streptococcus pneumoniae,C0038410,1,1,1.0,0.30769230508875745
+C0077376,trolamine salicylate,may_prevent,['C0030193'],['Pain'],Pain,C0030193,1,1,0.0,0.0
+C0034245,pyrethrins,may_prevent,"['C0030756', 'C0036262']","['Lice Infestations', 'Scabies']",Lice Infestations || Scabies,C0030756 || C0036262,2,2,0.0,0.0
+C4490394,influenza A virus A/Michigan/45/2015 (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C0055337,chloramphenicol palmitate,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2266977,Lipid-based Polyene Antifungal,may_prevent,['C0026946'],['Mycoses'],Mycoses,C0026946,1,1,0.0,0.0
+C0282140,docusate calcium,may_prevent,['C0009806'],['Constipation'],Constipation,C0009806,1,1,0.0,0.0
+C4689423,magnesium chloride tetrahydrate,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.39999999520000007
+C0065642,manganese chloride,may_prevent,['C0011156'],['Deficiency Diseases'],Deficiency Diseases,C0011156,1,1,0.0,0.0
+C0015153,eugenol,may_prevent,['C0040460'],['Toothache'],Toothache,C0040460,1,1,0.0,0.0
+C0064165,josamycin propionate,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C1579318,"Japanese encephalitis virus vaccine, inactivated",may_prevent,['C0014057'],"['Encephalitis, Japanese']","Encephalitis, Japanese",C0014057,1,1,0.0,0.2857142816326531
+C0014695,ergocalciferol,may_prevent,['C0029456'],['Osteoporosis'],Osteoporosis,C0029456,1,1,0.0,0.0
+C0028368,norgestrel,may_prevent,['C0032961'],['Pregnancy'],Pregnancy,C0032961,1,1,0.0,0.0
+C0037134,silver sulfadiazine,may_prevent,"['C0004623', 'C0043241']","['Bacterial Infections', 'Wound Infection']",Bacterial Infections || Wound Infection,C0004623 || C0043241,2,2,0.0,0.0
+C0028157,nitrofurazone,may_prevent,"['C0036690', 'C0043241']","['Septicemia', 'Wound Infection']",Septicemia || Wound Infection,C0036690 || C0043241,2,2,0.0,0.0
+C5135599,"dengue virus live antigen, CYD serotype 1",may_prevent,['C0011311'],['Dengue'],Dengue,C0011311,1,1,1.0,0.24999999781250004
+C0040233,timolol,may_prevent,['C0018799'],['Heart Diseases'],Heart Diseases,C0018799,1,1,0.0,0.0
+C0717898,magnesium amino acid chelate,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.33333332888888895
+C0052772,azidocillin,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0097513,avobenzone,may_prevent,['C0038814'],['Sunburn'],Sunburn,C0038814,1,1,0.0,0.0
+C0770565,dexamethasone phosphate,may_prevent,"['C0004096', 'C0027430', 'C0027497', 'C0042963']","['Asthma', 'Nasal Polyps', 'Nausea', 'Vomiting']",Asthma || Nasal Polyps || Nausea || Vomiting,C0004096 || C0027430 || C0027497 || C0042963,4,4,0.0,0.0
+C0982111,D-biotin,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0
+C0717537,calcium acetate,may_prevent,['C0029456'],['Osteoporosis'],Osteoporosis,C0029456,1,1,0.0,0.0
+C0282261,neostigmine bromide,may_prevent,"['C0005686', 'C0080274']","['Urinary Bladder Diseases', 'Urinary Retention']",Urinary Bladder Diseases || Urinary Retention,C0005686 || C0080274,2,2,0.0,0.0
+C0016157,fish oils,may_prevent,"['C0003811', 'C0010068']","['Arrhythmias, Cardiac', 'Coronary Disease']","Arrhythmias, Cardiac || Coronary Disease",C0003811 || C0010068,2,2,0.0,0.0
+C3528678,influenza A virus A/Brisbane/10/2010 (H1N1) antigen,may_prevent,['C0029347'],['Influenza A virus'],Influenza A virus,C0029347,1,1,1.0,0.6666666622222223
+C2917326,Cytomegalovirus Pyrophosphate Analog DNA Polymerase Inhibitor,may_prevent,['C0010823'],['Cytomegalovirus Infections'],Cytomegalovirus Infections,C0010823,1,1,0.0,0.24999999625000005
+C0018988,hemin,may_prevent,['C0162565'],"['Porphyria, Acute Intermittent']","Porphyria, Acute Intermittent",C0162565,1,1,0.0,0.0
+C0286382,polaprezinc,may_prevent,['C0030920'],['Peptic Ulcer'],Peptic Ulcer,C0030920,1,1,0.0,0.0
+C0733367,cefoperazone sodium,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C0024477,magnesium oxide,may_prevent,['C0024473'],['Magnesium Deficiency'],Magnesium Deficiency,C0024473,1,1,0.0,0.4999999950000001
+C0543495,albuterol sulfate,may_prevent,"['C0004099', 'C0006266']","['Asthma, Exercise-Induced', 'Bronchial Spasm']","Asthma, Exercise-Induced || Bronchial Spasm",C0004099 || C0006266,2,2,0.0,0.0
+C0074758,tribasic sodium phosphate,may_prevent,['C0085682'],['Hypophosphatemia'],Hypophosphatemia,C0085682,1,1,0.0,0.0
+C0014942,estrone,may_prevent,['C0029458'],"['Osteoporosis, Postmenopausal']","Osteoporosis, Postmenopausal",C0029458,1,1,0.0,0.0
+C0061863,granisetron,may_prevent,['C0520909'],['Postoperative Nausea and Vomiting'],Postoperative Nausea and Vomiting,C0520909,1,1,0.0,0.0
+C0770491,pirbuterol HCl,may_prevent,['C0006266'],['Bronchial Spasm'],Bronchial Spasm,C0006266,1,1,0.0,0.0
+C0085149,tacrolimus,may_prevent,['C0018133'],['Graft vs Host Disease'],Graft vs Host Disease,C0018133,1,1,0.0,0.0
+C0000665,oxyquinoline,may_prevent,['C0037278'],"['Skin Diseases, Infectious']","Skin Diseases, Infectious",C0037278,1,1,0.0,0.0
+C0055007,cefodizime,may_prevent,['C0004623'],['Bacterial Infections'],Bacterial Infections,C0004623,1,1,0.0,0.0
+C2709738,Streptococcus pneumoniae type 11A capsular polysaccharide antigen,may_prevent,['C0032269'],['Pneumococcal Infections'],Pneumococcal Infections,C0032269,1,1,0.0,0.0
+C0060276,ferrous fumarate,may_prevent,['C0162316'],"['Anemia, Iron-Deficiency']","Anemia, Iron-Deficiency",C0162316,1,1,0.0,0.0
+C0007258,carnitine,may_prevent,['C0028715'],['Nutritional and Metabolic Diseases'],Nutritional and Metabolic Diseases,C0028715,1,1,0.0,0.0

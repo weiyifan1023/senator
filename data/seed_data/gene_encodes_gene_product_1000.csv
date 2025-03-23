@@ -1,0 +1,1001 @@
+head_cui,head_name,rel,tail_cuis_list,tail_names_list,tail_names,tail_cuis,tail_cuis_len,tail_names_len,avg_match,avg_rouge_l
+C1427959,CENPS Gene,gene_encodes_gene_product,['C1528983'],['Centromere Protein S'],Centromere Protein S,C1528983,1,1,0.0,0.0
+C1537847,MIR211 Gene,gene_encodes_gene_product,['C3273861'],['MIR211 Pre-miRNA'],MIR211 Pre-miRNA,C3273861,1,1,0.0,0.4999999950000001
+C1537922,MRTFB Gene,gene_encodes_gene_product,['C1312353'],['Myocardin-Related Transcription Factor B'],Myocardin-Related Transcription Factor B,C1312353,1,1,0.0,0.0
+C1334868,NCOA3 Gene,gene_encodes_gene_product,['C0663204'],['Nuclear Receptor Coactivator 3'],Nuclear Receptor Coactivator 3,C0663204,1,1,0.0,0.0
+C1423063,SIRT3 Gene,gene_encodes_gene_product,['C2709268'],"['NAD-Dependent Deacetylase Sirtuin-3, Mitochondrial']","NAD-Dependent Deacetylase Sirtuin-3, Mitochondrial",C2709268,1,1,0.0,0.0
+C1428688,CHCHD7 Gene,gene_encodes_gene_product,['C3275274'],['Coiled-Coil-Helix-Coiled-Coil-Helix Domain-Containing Protein 7'],Coiled-Coil-Helix-Coiled-Coil-Helix Domain-Containing Protein 7,C3275274,1,1,0.0,0.0
+C1415362,GUCY1B1 Gene,gene_encodes_gene_product,['C1519420'],['Guanylate Cyclase Soluble Subunit Beta-1'],Guanylate Cyclase Soluble Subunit Beta-1,C1519420,1,1,0.0,0.0
+C1864332,HMGA2/RAD51B Fusion Gene,gene_encodes_gene_product,['C3274812'],['HMGA2/RAD51B Fusion Protein'],HMGA2/RAD51B Fusion Protein,C3274812,1,1,0.0,0.6666666616666668
+C1419945,SEMA3D Gene,gene_encodes_gene_product,['C3883862'],['Semaphorin-3D'],Semaphorin-3D,C3883862,1,1,0.0,0.0
+C1413869,CYP2A7 Gene,gene_encodes_gene_product,['C3711338'],['Cytochrome P450 2A7'],Cytochrome P450 2A7,C3711338,1,1,0.0,0.0
+C1367469,HPSE Gene,gene_encodes_gene_product,['C0062505'],['Heparanase'],Heparanase,C0062505,1,1,0.0,0.0
+C1420172,SLC2A2 Gene,gene_encodes_gene_product,['C0174599'],"['Solute Carrier Family 2, Facilitated Glucose Transporter Member 2']","Solute Carrier Family 2, Facilitated Glucose Transporter Member 2",C0174599,1,1,0.0,0.0
+C1413896,CCN1 Gene,gene_encodes_gene_product,['C1137456'],['CCN Family Member 1'],CCN Family Member 1,C1137456,1,1,0.0,0.0
+C3274713,SS18/SSX4 Fusion Gene,gene_encodes_gene_product,['C3274714'],['SS18/SSX4 Fusion Protein'],SS18/SSX4 Fusion Protein,C3274714,1,1,0.0,0.6666666616666668
+C1425495,SCGB1D2 Gene,gene_encodes_gene_product,['C1434618'],['Secretoglobin Family 1D Member 2'],Secretoglobin Family 1D Member 2,C1434618,1,1,0.0,0.0
+C1332074,AKT3 Gene,gene_encodes_gene_product,['C1454182'],['RAC-Gamma Serine/Threonine Kinase'],RAC-Gamma Serine/Threonine Kinase,C1454182,1,1,0.0,0.0
+C1825790,LARP4B Gene,gene_encodes_gene_product,['C4554237'],['La-Related Protein 4B'],La-Related Protein 4B,C4554237,1,1,0.0,0.0
+C1334348,VWA5A Gene,gene_encodes_gene_product,['C1332406'],['von Willebrand Factor A Domain-Containing Protein 5A'],von Willebrand Factor A Domain-Containing Protein 5A,C1332406,1,1,0.0,0.0
+C1417820,NR0B1 Gene,gene_encodes_gene_product,['C1610185'],['Nuclear Receptor Subfamily 0 Group B Member 1'],Nuclear Receptor Subfamily 0 Group B Member 1,C1610185,1,1,0.0,0.0
+C1420122,SLC1A4 Gene,gene_encodes_gene_product,['C3641923'],['Neutral Amino Acid Transporter A'],Neutral Amino Acid Transporter A,C3641923,1,1,0.0,0.0
+C1335624,RIPK2 Gene,gene_encodes_gene_product,['C1447644'],['Receptor-Interacting Serine/Threonine-Protein Kinase 2'],Receptor-Interacting Serine/Threonine-Protein Kinase 2,C1447644,1,1,0.0,0.0
+C1332792,CSF3R Gene,gene_encodes_gene_product,['C0080090'],['Granulocyte Colony-Stimulating Factor Receptor'],Granulocyte Colony-Stimulating Factor Receptor,C0080090,1,1,0.0,0.0
+C2680426,SNRNP25 Gene,gene_encodes_gene_product,['C4521272'],['U11/U12 Small Nuclear Ribonucleoprotein 25 kDa Protein'],U11/U12 Small Nuclear Ribonucleoprotein 25 kDa Protein,C4521272,1,1,0.0,0.0
+C1422073,BRD4 Gene,gene_encodes_gene_product,['C1448198'],['Bromodomain-Containing Protein 4'],Bromodomain-Containing Protein 4,C1448198,1,1,0.0,0.0
+C1423043,NIN Gene,gene_encodes_gene_product,['C3275248'],['Ninein'],Ninein,C3275248,1,1,0.0,0.0
+C1419150,PXN Gene,gene_encodes_gene_product,['C1565440'],['Paxillin'],Paxillin,C1565440,1,1,0.0,0.0
+C0879468,CSF1R Gene,gene_encodes_gene_product,['C4082532'],['Macrophage Colony-Stimulating Factor 1 Receptor'],Macrophage Colony-Stimulating Factor 1 Receptor,C4082532,1,1,0.0,0.0
+C1413430,CITED2 Gene,gene_encodes_gene_product,['C1436100'],['Cbp/p300-Interacting Transactivator 2'],Cbp/p300-Interacting Transactivator 2,C1436100,1,1,0.0,0.0
+C1415406,H2AX Gene,gene_encodes_gene_product,['C1172465'],['Histone H2AX'],Histone H2AX,C1172465,1,1,0.0,0.4999999950000001
+C1413405,CHRNA5 Gene,gene_encodes_gene_product,['C2698454'],['Neuronal Acetylcholine Receptor Subunit Alpha-5'],Neuronal Acetylcholine Receptor Subunit Alpha-5,C2698454,1,1,0.0,0.0
+C1412457,APBA2 Gene,gene_encodes_gene_product,['C3538960'],['Amyloid Beta A4 Precursor Protein-Binding Family A Member 2'],Amyloid Beta A4 Precursor Protein-Binding Family A Member 2,C3538960,1,1,0.0,0.0
+C1335276,PTK7 Gene,gene_encodes_gene_product,['C0384197'],['Inactive Tyrosine-Protein Kinase 7'],Inactive Tyrosine-Protein Kinase 7,C0384197,1,1,0.0,0.0
+C1418946,PROM1 Gene,gene_encodes_gene_product,['C0673026'],['Prominin-1'],Prominin-1,C0673026,1,1,0.0,0.0
+C1334119,IL4 Gene,gene_encodes_gene_product,['C1701589'],['Interleukin-4'],Interleukin-4,C1701589,1,1,0.0,0.0
+C1414258,S1PR4 Gene,gene_encodes_gene_product,['C3541911'],['Sphingosine 1-Phosphate Receptor 4'],Sphingosine 1-Phosphate Receptor 4,C3541911,1,1,0.0,0.0
+C1421540,XPC Gene,gene_encodes_gene_product,['C3273670'],['DNA Repair Protein Complementing XP-C Cells'],DNA Repair Protein Complementing XP-C Cells,C3273670,1,1,0.0,0.0
+C3471356,PCAT1 Gene,gene_encodes_gene_product,['C4320086'],['Prostate Cancer Associated Transcript 1'],Prostate Cancer Associated Transcript 1,C4320086,1,1,0.0,0.0
+C1423613,ARHGEF7 Gene,gene_encodes_gene_product,['C3275251'],['Rho Guanine Nucleotide Exchange Factor 7'],Rho Guanine Nucleotide Exchange Factor 7,C3275251,1,1,0.0,0.0
+C1425241,IL17RB Gene,gene_encodes_gene_product,['C1706285'],['Interleukin-17 Receptor B'],Interleukin-17 Receptor B,C1706285,1,1,0.0,0.0
+C1335225,PLCB3 Gene,gene_encodes_gene_product,['C1377871'],"['1-Phosphatidylinositol 4,5-Bisphosphate Phosphodiesterase Beta-3']","1-Phosphatidylinositol 4,5-Bisphosphate Phosphodiesterase Beta-3",C1377871,1,1,0.0,0.0
+C1423088,RBM15 Gene,gene_encodes_gene_product,['C0968086'],['Putative RNA-Binding Protein 15'],Putative RNA-Binding Protein 15,C0968086,1,1,0.0,0.0
+C1826022,MIR429 Gene,gene_encodes_gene_product,['C2826524'],['MIR429 Pre-miRNA'],MIR429 Pre-miRNA,C2826524,1,1,0.0,0.4999999950000001
+C1415194,GPC2 Gene,gene_encodes_gene_product,['C4085631'],['Glypican-2'],Glypican-2,C4085631,1,1,0.0,0.0
+C1425827,CREB3L1 Gene,gene_encodes_gene_product,['C1436650'],['Cyclic AMP-Responsive Element-Binding Protein 3-Like Protein 1'],Cyclic AMP-Responsive Element-Binding Protein 3-Like Protein 1,C1436650,1,1,0.0,0.0
+C1421500,WEE1 Gene,gene_encodes_gene_product,['C1506818'],['Wee1-Like Protein Kinase'],Wee1-Like Protein Kinase,C1506818,1,1,0.0,0.0
+C1332795,CSNK1A1 Gene,gene_encodes_gene_product,['C1332857'],['Casein Kinase I Isoform Alpha'],Casein Kinase I Isoform Alpha,C1332857,1,1,0.0,0.0
+C1416786,LAMC2 Gene,gene_encodes_gene_product,['C0910226'],['Laminin Subunit Gamma-2'],Laminin Subunit Gamma-2,C0910226,1,1,0.0,0.0
+C1416790,LAMP2 Gene,gene_encodes_gene_product,['C1563373'],['Lysosome-Associated Membrane Glycoprotein 2'],Lysosome-Associated Membrane Glycoprotein 2,C1563373,1,1,0.0,0.0
+C1420076,SIX5 Gene,gene_encodes_gene_product,['C3816455'],['Homeobox Protein SIX5'],Homeobox Protein SIX5,C3816455,1,1,0.0,0.39999999520000007
+C1413788,CTAG2 Gene,gene_encodes_gene_product,"['C3537341', 'C4722882', 'C4727837']","['Cancer/Testis Antigen 2', 'Cancer/Testis Antigen 2 Isoform LAGE-1A', 'CTAG2 Gene Product']",Cancer/Testis Antigen 2 || Cancer/Testis Antigen 2 Isoform LAGE-1A || CTAG2 Gene Product,C3537341 || C4722882 || C4727837,3,3,0.0,0.2666666650666667
+C3469643,BOD1L1 Gene,gene_encodes_gene_product,['C4724738'],['Biorientation of Chromosomes in Cell Division Protein 1-Like 1'],Biorientation of Chromosomes in Cell Division Protein 1-Like 1,C4724738,1,1,0.0,0.0
+C1413697,CRABP1 Gene,gene_encodes_gene_product,['C0219578'],['Cellular Retinoic Acid-Binding Protein 1'],Cellular Retinoic Acid-Binding Protein 1,C0219578,1,1,0.0,0.0
+C1421641,ZBTB17 Gene,gene_encodes_gene_product,['C0665379'],['Zinc Finger and BTB Domain-Containing Protein 17'],Zinc Finger and BTB Domain-Containing Protein 17,C0665379,1,1,0.0,0.0
+C1417659,NEDD4 Gene,gene_encodes_gene_product,['C2348357'],['E3 Ubiquitin-Protein Ligase NEDD4'],E3 Ubiquitin-Protein Ligase NEDD4,C2348357,1,1,0.0,0.33333332888888895
+C1423836,SALL4 Gene,gene_encodes_gene_product,['C3828270'],['Sal-Like Protein 4'],Sal-Like Protein 4,C3828270,1,1,0.0,0.0
+C1415276,GPX2 Gene,gene_encodes_gene_product,['C1449233'],['Glutathione Peroxidase 2'],Glutathione Peroxidase 2,C1449233,1,1,0.0,0.0
+C1332421,CXCR5 Gene,gene_encodes_gene_product,['C0300729'],['C-X-C Chemokine Receptor Type 5'],C-X-C Chemokine Receptor Type 5,C0300729,1,1,0.0,0.0
+C0919455,RRAD Gene,gene_encodes_gene_product,['C1505125'],['GTP-Binding Protein RAD'],GTP-Binding Protein RAD,C1505125,1,1,0.0,0.0
+C1412373,ALX4 Gene,gene_encodes_gene_product,['C2697614'],['Homeobox Protein Aristaless-Like 4'],Homeobox Protein Aristaless-Like 4,C2697614,1,1,0.0,0.0
+C1421227,TUBA3C Gene,gene_encodes_gene_product,['C3539816'],['Tubulin Alpha-3C/D Chain'],Tubulin Alpha-3C/D Chain,C3539816,1,1,0.0,0.0
+C1419746,RPS6KA5 Gene,gene_encodes_gene_product,['C0913240'],['Ribosomal Protein S6 Kinase Alpha-5'],Ribosomal Protein S6 Kinase Alpha-5,C0913240,1,1,0.0,0.0
+C1418734,POLI Gene,gene_encodes_gene_product,['C0961834'],['DNA Polymerase Iota'],DNA Polymerase Iota,C0961834,1,1,0.0,0.0
+C1366557,TGFB1 Gene,gene_encodes_gene_product,['C0080222'],['Transforming Growth Factor Beta-1'],Transforming Growth Factor Beta-1,C0080222,1,1,0.0,0.0
+C1415170,GNRH2 Gene,gene_encodes_gene_product,"['C1531431', 'C4521280', 'C4526982']","['Progonadoliberin-2', 'Gonadoliberin-2', 'GNRH2 Gene Product']",Progonadoliberin-2 || Gonadoliberin-2 || GNRH2 Gene Product,C1531431 || C4521280 || C4526982,3,3,0.0,0.2666666650666667
+C1425094,AMOT Gene,gene_encodes_gene_product,['C1309859'],['Angiomotin'],Angiomotin,C1309859,1,1,0.0,0.0
+C1415331,GSTA4 Gene,gene_encodes_gene_product,['C0752939'],['Glutathione S-Transferase A4'],Glutathione S-Transferase A4,C0752939,1,1,0.0,0.0
+C1418799,PPIF Gene,gene_encodes_gene_product,['C3890436'],"['Peptidyl-Prolyl Cis-Trans Isomerase F, Mitochondrial']","Peptidyl-Prolyl Cis-Trans Isomerase F, Mitochondrial",C3890436,1,1,0.0,0.0
+C1446659,MAPT Gene,gene_encodes_gene_product,['C1454489'],['Microtubule-Associated Protein Tau'],Microtubule-Associated Protein Tau,C1454489,1,1,0.0,0.0
+C1415529,HJV Gene,gene_encodes_gene_product,['C1434369'],['Hemojuvelin'],Hemojuvelin,C1434369,1,1,0.0,0.0
+C1424963,RAPGEFL1 Gene,gene_encodes_gene_product,['C1334401'],['Rap Guanine Nucleotide Exchange Factor-Like 1'],Rap Guanine Nucleotide Exchange Factor-Like 1,C1334401,1,1,0.0,0.0
+C1413763,VCAN Gene,gene_encodes_gene_product,['C0078193'],['Versican Core Protein'],Versican Core Protein,C0078193,1,1,0.0,0.0
+C3151474,CLTC/ALK Fusion Gene,gene_encodes_gene_product,['C3275011'],['CLTC/ALK Fusion Protein'],CLTC/ALK Fusion Protein,C3275011,1,1,0.0,0.6666666616666668
+C1708616,AFF3 Gene,gene_encodes_gene_product,['C0386006'],['AF4/FMR2 Family Member 3'],AF4/FMR2 Family Member 3,C0386006,1,1,0.0,0.0
+C1420326,SOX3 Gene,gene_encodes_gene_product,['C2350534'],['Transcription Factor SOX-3'],Transcription Factor SOX-3,C2350534,1,1,0.0,0.0
+C1426910,ZIC4 Gene,gene_encodes_gene_product,['C1545715'],['Zinc Finger Protein ZIC 4'],Zinc Finger Protein ZIC 4,C1545715,1,1,0.0,0.0
+C0162508,JUN Gene,gene_encodes_gene_product,['C3536909'],['Transcription Factor AP-1'],Transcription Factor AP-1,C3536909,1,1,0.0,0.0
+C1824763,CNBP Gene,gene_encodes_gene_product,['C3273678'],['Cellular Nucleic Acid-Binding Protein'],Cellular Nucleic Acid-Binding Protein,C3273678,1,1,0.0,0.0
+C1427805,PREX2 Gene,gene_encodes_gene_product,['C3538772'],"['Phosphatidylinositol 3,4,5-Trisphosphate-Dependent Rac Exchanger 2 Protein']","Phosphatidylinositol 3,4,5-Trisphosphate-Dependent Rac Exchanger 2 Protein",C3538772,1,1,0.0,0.0
+C1420072,SIX1 Gene,gene_encodes_gene_product,['C2827438'],['Homeobox Protein SIX1'],Homeobox Protein SIX1,C2827438,1,1,0.0,0.39999999520000007
+C2239498,CPTP Gene,gene_encodes_gene_product,['C3710858'],['Ceramide-1-Phosphate Transfer Protein'],Ceramide-1-Phosphate Transfer Protein,C3710858,1,1,0.0,0.0
+C0694894,TSC1 Gene,gene_encodes_gene_product,['C0663937'],['Hamartin'],Hamartin,C0663937,1,1,0.0,0.0
+C1537892,MIR371A Gene,gene_encodes_gene_product,['C5203906'],['MIR371A Pre-miRNA'],MIR371A Pre-miRNA,C5203906,1,1,0.0,0.4999999950000001
+C1332814,CX3CL1 Gene,gene_encodes_gene_product,['C1741764'],['Fractalkine'],Fractalkine,C1741764,1,1,0.0,0.0
+C1422475,ARHGEF12 Gene,gene_encodes_gene_product,['C3275242'],['Rho Guanine Nucleotide Exchange Factor 12'],Rho Guanine Nucleotide Exchange Factor 12,C3275242,1,1,0.0,0.0
+C1335230,POLB Gene,gene_encodes_gene_product,['C3853653'],['DNA Polymerase Beta'],DNA Polymerase Beta,C3853653,1,1,0.0,0.0
+C1334347,MUCL1 Gene,gene_encodes_gene_product,['C1335977'],['Mucin-Like Protein 1'],Mucin-Like Protein 1,C1335977,1,1,0.0,0.0
+C1416161,JCHAIN Gene,gene_encodes_gene_product,['C3853632'],['Immunoglobulin J Chain'],Immunoglobulin J Chain,C3853632,1,1,0.0,0.0
+C1420364,SPN Gene,gene_encodes_gene_product,['C1434437'],['Leukosialin'],Leukosialin,C1434437,1,1,0.0,0.0
+C1334094,IGFBP3 Gene,gene_encodes_gene_product,['C1872103'],['Insulin-Like Growth Factor-Binding Protein 3'],Insulin-Like Growth Factor-Binding Protein 3,C1872103,1,1,0.0,0.0
+C1334133,INSR Gene,gene_encodes_gene_product,['C1448132'],['Insulin Receptor'],Insulin Receptor,C1448132,1,1,0.0,0.0
+C1414228,E2F5 Gene,gene_encodes_gene_product,['C5202701'],['Transcription Factor E2F5'],Transcription Factor E2F5,C5202701,1,1,0.0,0.39999999520000007
+C1414402,ENO1 Gene,gene_encodes_gene_product,['C2364020'],['Alpha-Enolase'],Alpha-Enolase,C2364020,1,1,0.0,0.0
+C1420887,TRAF1 Gene,gene_encodes_gene_product,['C4281730'],['TNF Receptor-Associated Factor 1'],TNF Receptor-Associated Factor 1,C4281730,1,1,0.0,0.0
+C1429015,ZNF532 Gene,gene_encodes_gene_product,['C5238418'],['Zinc Finger Protein 532'],Zinc Finger Protein 532,C5238418,1,1,0.0,0.0
+C1336560,TAF10 Gene,gene_encodes_gene_product,['C0289408'],['Transcription Initiation Factor TFIID Subunit 10'],Transcription Initiation Factor TFIID Subunit 10,C0289408,1,1,0.0,0.0
+C1826025,MIR433 Gene,gene_encodes_gene_product,['C2826526'],['MIR433 Pre-miRNA'],MIR433 Pre-miRNA,C2826526,1,1,0.0,0.4999999950000001
+C1416035,IGHV3-21 Gene,gene_encodes_gene_product,['C4285649'],['Immunoglobulin Heavy Variable 3-21'],Immunoglobulin Heavy Variable 3-21,C4285649,1,1,0.0,0.0
+C0812257,DDX6 Gene,gene_encodes_gene_product,['C0674363'],['Probable ATP-Dependent RNA Helicase DDX6'],Probable ATP-Dependent RNA Helicase DDX6,C0674363,1,1,0.0,0.2857142816326531
+C1412426,ANXA6 Gene,gene_encodes_gene_product,['C3889626'],['Annexin A6'],Annexin A6,C3889626,1,1,0.0,0.0
+C1366649,CRYBG1 Gene,gene_encodes_gene_product,['C1366838'],['Beta/Gamma Crystallin Domain-Containing Protein 1'],Beta/Gamma Crystallin Domain-Containing Protein 1,C1366838,1,1,0.0,0.0
+C1428884,MLPH Gene,gene_encodes_gene_product,['C1097406'],['Melanophilin'],Melanophilin,C1097406,1,1,0.0,0.0
+C1420324,SOX21 Gene,gene_encodes_gene_product,['C1436201'],['Transcription Factor SOX-21'],Transcription Factor SOX-21,C1436201,1,1,0.0,0.0
+C1419742,RPS6KA1 Gene,gene_encodes_gene_product,['C3539803'],['Ribosomal Protein S6 Kinase Alpha-1'],Ribosomal Protein S6 Kinase Alpha-1,C3539803,1,1,0.0,0.0
+C0919463,GLI Family Gene,gene_encodes_gene_product,['C0219804'],['GLI Family Protein'],GLI Family Protein,C0219804,1,1,0.0,0.6666666616666668
+C1334499,MED6 Gene,gene_encodes_gene_product,['C1334500'],['Mediator of RNA Polymerase II Transcription Subunit 6'],Mediator of RNA Polymerase II Transcription Subunit 6,C1334500,1,1,0.0,0.0
+C1367459,TIMP1 Gene,gene_encodes_gene_product,['C1522552'],['Metalloproteinase Inhibitor 1'],Metalloproteinase Inhibitor 1,C1522552,1,1,0.0,0.0
+C1418285,PBX1 Gene,gene_encodes_gene_product,['C0220528'],['Pre-B-Cell Leukemia Transcription Factor 1'],Pre-B-Cell Leukemia Transcription Factor 1,C0220528,1,1,0.0,0.0
+C1538581,PARP3 Gene,gene_encodes_gene_product,['C1434346'],['Poly [ADP-Ribose] Polymerase 3'],Poly [ADP-Ribose] Polymerase 3,C1434346,1,1,0.0,0.0
+C1412314,AKAP2 Gene,gene_encodes_gene_product,['C4761332'],['A-Kinase Anchor Protein 2'],A-Kinase Anchor Protein 2,C4761332,1,1,0.0,0.0
+C1412131,ACP1 Gene,gene_encodes_gene_product,['C0755322'],['Low Molecular Weight Phosphotyrosine Protein Phosphatase'],Low Molecular Weight Phosphotyrosine Protein Phosphatase,C0755322,1,1,0.0,0.0
+C1416724,KRT16 Gene,gene_encodes_gene_product,['C1672521'],"['Keratin, Type I Cytoskeletal 16']","Keratin, Type I Cytoskeletal 16",C1672521,1,1,0.0,0.0
+C0812379,Oncogene SKI,gene_encodes_gene_product,['C1335830'],['SKI Oncoprotein'],SKI Oncoprotein,C1335830,1,1,0.0,0.4999999950000001
+C3274991,BRD4/NUTM1 Fusion Gene,gene_encodes_gene_product,['C3274992'],['BRD4/NUTM1 Fusion Protein'],BRD4/NUTM1 Fusion Protein,C3274992,1,1,0.0,0.6666666616666668
+C1416661,KLF5 Gene,gene_encodes_gene_product,['C3538966'],['Krueppel-Like Factor 5'],Krueppel-Like Factor 5,C3538966,1,1,0.0,0.0
+C1334874,NEO1 Gene,gene_encodes_gene_product,['C1334933'],['Neogenin'],Neogenin,C1334933,1,1,0.0,0.0
+C1366496,CYP19A1 Gene,gene_encodes_gene_product,['C3254086'],['Cytochrome P450 19A1'],Cytochrome P450 19A1,C3254086,1,1,0.0,0.0
+C1332811,CUL3 Gene,gene_encodes_gene_product,['C0909608'],['Cullin-3'],Cullin-3,C0909608,1,1,0.0,0.0
+C1416380,IKBKG Gene,gene_encodes_gene_product,['C2698408'],['NF-Kappa-B Essential Modulator'],NF-Kappa-B Essential Modulator,C2698408,1,1,0.0,0.0
+C1425629,NEK9 Gene,gene_encodes_gene_product,['C1138216'],['Serine/Threonine-Protein Kinase Nek9'],Serine/Threonine-Protein Kinase Nek9,C1138216,1,1,0.0,0.39999999520000007
+C1422104,KDM2B Gene,gene_encodes_gene_product,['C2000996'],['Lysine-Specific Demethylase 2B'],Lysine-Specific Demethylase 2B,C2000996,1,1,0.0,0.0
+C1336594,TBPL1 Gene,gene_encodes_gene_product,['C1336592'],['TATA Box-Binding Protein-Like Protein 1'],TATA Box-Binding Protein-Like Protein 1,C1336592,1,1,0.0,0.0
+C1415546,HIP1 Gene,gene_encodes_gene_product,['C0121811'],['Huntingtin-Interacting Protein 1'],Huntingtin-Interacting Protein 1,C0121811,1,1,0.0,0.0
+C1540033,TNK2 Gene,gene_encodes_gene_product,['C1449330'],['Activated CDC42 Kinase 1'],Activated CDC42 Kinase 1,C1449330,1,1,0.0,0.0
+C1427500,PDHX Gene,gene_encodes_gene_product,['C4722665'],"['Pyruvate Dehydrogenase Protein X Component, Mitochondrial']","Pyruvate Dehydrogenase Protein X Component, Mitochondrial",C4722665,1,1,0.0,0.0
+C1413234,CD68 Gene,gene_encodes_gene_product,['C0108799'],['Macrosialin'],Macrosialin,C0108799,1,1,0.0,0.0
+C1332125,AXIN1 Gene,gene_encodes_gene_product,['C1332359'],['Axin-1'],Axin-1,C1332359,1,1,0.0,0.0
+C1417245,MPO Gene,gene_encodes_gene_product,['C0027021'],['Myeloperoxidase'],Myeloperoxidase,C0027021,1,1,0.0,0.0
+C0812229,WNT5A Gene,gene_encodes_gene_product,['C0250963'],['Protein Wnt-5a'],Protein Wnt-5a,C0250963,1,1,0.0,0.0
+C1367551,CALCA Gene,gene_encodes_gene_product,"['C0770558', 'C4520796', 'C4526632', 'C5400995']","['Calcitonin', 'Calcitonin Precursor', 'CALCA Gene Product', 'Procalcitonin']",Calcitonin || Calcitonin Precursor || CALCA Gene Product || Procalcitonin,C0770558 || C4520796 || C4526632 || C5400995,4,4,0.0,0.19999999880000002
+C1425623,MSI2 Gene,gene_encodes_gene_product,['C2984187'],['RNA-Binding Protein Musashi Homolog 2'],RNA-Binding Protein Musashi Homolog 2,C2984187,1,1,0.0,0.0
+C4724742,ALKATI Allele,gene_encodes_gene_product,['C4724741'],['ALKATI Protein'],ALKATI Protein,C4724741,1,1,0.0,0.4999999950000001
+C1418599,PKD1 Gene,gene_encodes_gene_product,['C0256073'],['Polycystin-1'],Polycystin-1,C0256073,1,1,0.0,0.0
+C1367657,ADRB2 Gene,gene_encodes_gene_product,['C0001643'],['Beta-2 Adrenergic Receptor'],Beta-2 Adrenergic Receptor,C0001643,1,1,0.0,0.0
+C1426228,ZMYND10 Gene,gene_encodes_gene_product,['C3815198'],['Zinc Finger MYND Domain-Containing Protein 10'],Zinc Finger MYND Domain-Containing Protein 10,C3815198,1,1,0.0,0.0
+C1538696,POLR3B Gene,gene_encodes_gene_product,['C1172354'],['DNA-Directed RNA Polymerase III Subunit RPC2'],DNA-Directed RNA Polymerase III Subunit RPC2,C1172354,1,1,0.0,0.0
+C5203008,H2BC4 Gene,gene_encodes_gene_product,['C5202735'],['Histone H2B Type 1-C/E/F/G/I'],Histone H2B Type 1-C/E/F/G/I,C5202735,1,1,0.0,0.0
+C1851466,RUNX1/RUNX1T1 Fusion Gene,gene_encodes_gene_product,['C1332085'],['RUNX1/RUNX1T1 Fusion Protein'],RUNX1/RUNX1T1 Fusion Protein,C1332085,1,1,0.0,0.6666666616666668
+C1425420,RAB40B Gene,gene_encodes_gene_product,['C3539752'],['Ras-Related Protein Rab-40B'],Ras-Related Protein Rab-40B,C3539752,1,1,0.0,0.0
+C1537422,IRF8 Gene,gene_encodes_gene_product,['C0082978'],['Interferon Regulatory Factor 8'],Interferon Regulatory Factor 8,C0082978,1,1,0.0,0.0
+C1417146,MGST2 Gene,gene_encodes_gene_product,['C1701621'],['Microsomal Glutathione S-Transferase 2'],Microsomal Glutathione S-Transferase 2,C1701621,1,1,0.0,0.0
+C1334096,IGFBP5 Gene,gene_encodes_gene_product,['C4082568'],['Insulin-Like Growth Factor-Binding Protein 5'],Insulin-Like Growth Factor-Binding Protein 5,C4082568,1,1,0.0,0.0
+C3274605,EWSR1/FLI1 Fusion Gene Type 2,gene_encodes_gene_product,['C3274608'],['EWSR1/FLI1 Fusion Protein Type 2'],EWSR1/FLI1 Fusion Protein Type 2,C3274608,1,1,0.0,0.7999999950000002
+C1417049,MBD1 Gene,gene_encodes_gene_product,['C0911529'],['Methyl-CpG-Binding Domain Protein 1'],Methyl-CpG-Binding Domain Protein 1,C0911529,1,1,0.0,0.0
+C0812372,MAS1 Gene,gene_encodes_gene_product,['C1622222'],['Proto-Oncogene Mas'],Proto-Oncogene Mas,C1622222,1,1,0.0,0.0
+C1970418,MIR376A1 Gene,gene_encodes_gene_product,['C2826521'],['MIR376A1 Pre-miRNA'],MIR376A1 Pre-miRNA,C2826521,1,1,0.0,0.4999999950000001
+C1824715,CEP76 Gene,gene_encodes_gene_product,['C2716207'],['Centrosomal Protein of 76 kDa'],Centrosomal Protein of 76 kDa,C2716207,1,1,0.0,0.0
+C1417822,NR1D2 Gene,gene_encodes_gene_product,['C3537391'],['Nuclear Receptor Subfamily 1 Group D Member 2'],Nuclear Receptor Subfamily 1 Group D Member 2,C3537391,1,1,0.0,0.0
+C1335589,RANGAP1 Gene,gene_encodes_gene_product,['C0294869'],['Ran GTPase-Activating Protein 1'],Ran GTPase-Activating Protein 1,C0294869,1,1,0.0,0.0
+C1413289,CDK8 Gene,gene_encodes_gene_product,['C1384564'],['Cyclin-Dependent Kinase 8'],Cyclin-Dependent Kinase 8,C1384564,1,1,0.0,0.0
+C1421451,VIM Gene,gene_encodes_gene_product,['C0042666'],['Vimentin'],Vimentin,C0042666,1,1,0.0,0.0
+C1412108,ACADS Gene,gene_encodes_gene_product,['C2826550'],"['Short-Chain Specific Acyl-CoA Dehydrogenase, Mitochondrial']","Short-Chain Specific Acyl-CoA Dehydrogenase, Mitochondrial",C2826550,1,1,0.0,0.0
+C1333908,HMGB1 Gene,gene_encodes_gene_product,['C0019796'],['High Mobility Group Protein B1'],High Mobility Group Protein B1,C0019796,1,1,0.0,0.0
+C1415638,HNRNPD Gene,gene_encodes_gene_product,['C0377278'],['Heterogeneous Nuclear Ribonucleoprotein D0'],Heterogeneous Nuclear Ribonucleoprotein D0,C0377278,1,1,0.0,0.0
+C1420276,SNCA Gene,gene_encodes_gene_product,['C0285890'],['Alpha-Synuclein'],Alpha-Synuclein,C0285890,1,1,0.0,0.0
+C1537513,KSR2 Gene,gene_encodes_gene_product,['C3180621'],['Kinase Suppressor of Ras 2'],Kinase Suppressor of Ras 2,C3180621,1,1,0.0,0.0
+C1537844,MIR206 Gene,gene_encodes_gene_product,['C2826499'],['MIR206 Pre-miRNA'],MIR206 Pre-miRNA,C2826499,1,1,0.0,0.4999999950000001
+C1333702,GPS1 Gene,gene_encodes_gene_product,['C0753882'],['COP9 Signalosome Complex Subunit 1'],COP9 Signalosome Complex Subunit 1,C0753882,1,1,0.0,0.0
+C1332704,ACKR4 Gene,gene_encodes_gene_product,['C1438953'],['Atypical Chemokine Receptor 4'],Atypical Chemokine Receptor 4,C1438953,1,1,0.0,0.0
+C0812261,CTTN Gene,gene_encodes_gene_product,['C1533647'],['SRC Substrate Cortactin'],SRC Substrate Cortactin,C1533647,1,1,0.0,0.0
+C1999257,ZGLP1 Gene,gene_encodes_gene_product,['C3539624'],['GATA-Type Zinc Finger Protein 1'],GATA-Type Zinc Finger Protein 1,C3539624,1,1,0.0,0.0
+C1420514,SULT1A1 Gene,gene_encodes_gene_product,['C3827899'],['Sulfotransferase 1A1'],Sulfotransferase 1A1,C3827899,1,1,0.0,0.0
+C1426208,SOCS1 Gene,gene_encodes_gene_product,['C3275256'],['Suppressor of Cytokine Signaling 1'],Suppressor of Cytokine Signaling 1,C3275256,1,1,0.0,0.0
+C1418448,PDZK1 Gene,gene_encodes_gene_product,['C3810600'],['Na(+)/H(+) Exchange Regulatory Cofactor NHE-RF3'],Na(+)/H(+) Exchange Regulatory Cofactor NHE-RF3,C3810600,1,1,0.0,0.0
+C1825022,EBF1 Gene,gene_encodes_gene_product,['C2699988'],['Transcription Factor COE1'],Transcription Factor COE1,C2699988,1,1,0.0,0.0
+C1420341,SPANXA1 Gene,gene_encodes_gene_product,['C2985371'],['Sperm Protein Associated With the Nucleus on the X Chromosome A'],Sperm Protein Associated With the Nucleus on the X Chromosome A,C2985371,1,1,0.0,0.0
+C1424135,YAP1 Gene,gene_encodes_gene_product,['C1318127'],['Transcriptional Coactivator YAP1'],Transcriptional Coactivator YAP1,C1318127,1,1,0.0,0.39999999520000007
+C1427947,UNC13D Gene,gene_encodes_gene_product,['C1702052'],['Protein Unc-13 Homolog D'],Protein Unc-13 Homolog D,C1702052,1,1,0.0,0.0
+C1366550,GNAS Gene,gene_encodes_gene_product,"['C2703069', 'C4284636', 'C4285065', 'C4288356', 'C4289049']","['Guanine Nucleotide-Binding Protein G(s) Subunit Alpha Isoforms XLas', 'Neuroendocrine Secretory Protein 55', 'Guanine Nucleotide-Binding Protein G(s) Subunit Alpha Isoforms Short', 'Protein ALEX', 'GNAS Gene Product']",Guanine Nucleotide-Binding Protein G(s) Subunit Alpha Isoforms XLas || Neuroendocrine Secretory Protein 55 || Guanine Nucleotide-Binding Protein G(s) Subunit Alpha Isoforms Short || Protein ALEX || GNAS Gene Product,C2703069 || C4284636 || C4285065 || C4288356 || C4289049,5,5,0.0,0.15999999904
+C3541708,IFNL4 Gene,gene_encodes_gene_product,['C3657783'],['Interferon Lambda-4'],Interferon Lambda-4,C3657783,1,1,0.0,0.0
+C1419019,PSMB9 Gene,gene_encodes_gene_product,['C2347702'],['Proteasome Subunit Beta Type-9'],Proteasome Subunit Beta Type-9,C2347702,1,1,0.0,0.0
+C1414477,ETV5 Gene,gene_encodes_gene_product,['C3273435'],['ETS Translocation Variant 5'],ETS Translocation Variant 5,C3273435,1,1,0.0,0.0
+C1414604,FGF22 Gene,gene_encodes_gene_product,['C4049603'],['Fibroblast Growth Factor 22'],Fibroblast Growth Factor 22,C4049603,1,1,0.0,0.0
+C1335608,RECQL5 Gene,gene_encodes_gene_product,['C1335670'],['ATP-Dependent DNA Helicase Q5'],ATP-Dependent DNA Helicase Q5,C1335670,1,1,0.0,0.0
+C1825059,ERC1 Gene,gene_encodes_gene_product,['C1172542'],['ELKS/Rab6-Interacting/CAST Family Member 1'],ELKS/Rab6-Interacting/CAST Family Member 1,C1172542,1,1,0.0,0.0
+C1420470,PLK4 Gene,gene_encodes_gene_product,['C1452494'],['Serine/Threonine-Protein Kinase PLK4'],Serine/Threonine-Protein Kinase PLK4,C1452494,1,1,0.0,0.39999999520000007
+C1334132,INHBB Gene,gene_encodes_gene_product,['C1447906'],['Inhibin Beta B Chain'],Inhibin Beta B Chain,C1447906,1,1,0.0,0.0
+C1418848,PPP3R1 Gene,gene_encodes_gene_product,['C1511479'],['Calcineurin Subunit B Type 1'],Calcineurin Subunit B Type 1,C1511479,1,1,0.0,0.0
+C3639966,MLL/ELL Fusion Gene,gene_encodes_gene_product,['C3639967'],['MLL/ELL Fusion Protein'],MLL/ELL Fusion Protein,C3639967,1,1,0.0,0.6666666616666668
+C1825320,FRYL Gene,gene_encodes_gene_product,['C4288355'],['Protein Furry Homolog-Like'],Protein Furry Homolog-Like,C4288355,1,1,0.0,0.0
+C1415754,DNAJA1 Gene,gene_encodes_gene_product,['C0664319'],['DnaJ Homolog Subfamily A Member 1'],DnaJ Homolog Subfamily A Member 1,C0664319,1,1,0.0,0.0
+C1335239,PPBP Gene,gene_encodes_gene_product,"['C0132309', 'C1442493', 'C1447076', 'C1622669', 'C3828496']","['Neutrophil-Activating Peptide 2', 'Connective Tissue-Activating Peptide III', 'Beta-Thromboglobulin', 'Platelet Basic Protein', 'PPBP Gene Product']",Neutrophil-Activating Peptide 2 || Connective Tissue-Activating Peptide III || Beta-Thromboglobulin || Platelet Basic Protein || PPBP Gene Product,C0132309 || C1442493 || C1447076 || C1622669 || C3828496,5,5,0.0,0.15999999904
+C1418797,PPID Gene,gene_encodes_gene_product,['C1431473'],['Peptidyl-Prolyl Cis-Trans Isomerase D'],Peptidyl-Prolyl Cis-Trans Isomerase D,C1431473,1,1,0.0,0.0
+C0380093,LMO2 Gene,gene_encodes_gene_product,['C0250437'],['Rhombotin-2'],Rhombotin-2,C0250437,1,1,0.0,0.0
+C1419245,RAD9A Gene,gene_encodes_gene_product,['C1448657'],['Cell Cycle Checkpoint Control Protein RAD9A'],Cell Cycle Checkpoint Control Protein RAD9A,C1448657,1,1,0.0,0.24999999625000005
+C1419275,PLAAT4 Gene,gene_encodes_gene_product,['C1098323'],['Phospholipase A and Acyltransferase 4'],Phospholipase A and Acyltransferase 4,C1098323,1,1,0.0,0.0
+C1418849,PPP3R2 Gene,gene_encodes_gene_product,['C1511480'],['Calcineurin Subunit B Type 2'],Calcineurin Subunit B Type 2,C1511480,1,1,0.0,0.0
+C1422134,MACF1 Gene,gene_encodes_gene_product,['C5401011'],"['Microtubule-Actin Cross-Linking Factor 1, Isoforms 1/2/3/5']","Microtubule-Actin Cross-Linking Factor 1, Isoforms 1/2/3/5",C5401011,1,1,0.0,0.0
+C1539453,FAM49B Gene,gene_encodes_gene_product,['C3827334'],['Protein FAM49B'],Protein FAM49B,C3827334,1,1,0.0,0.4999999950000001
+C1443145,BPI Gene,gene_encodes_gene_product,['C1453589'],['Bactericidal Permeability-Increasing Protein'],Bactericidal Permeability-Increasing Protein,C1453589,1,1,0.0,0.0
+C1537560,LEFTY1 Gene,gene_encodes_gene_product,['C1334381'],['Left-Right Determination Factor 1'],Left-Right Determination Factor 1,C1334381,1,1,0.0,0.0
+C1417205,MMP16 Gene,gene_encodes_gene_product,['C1568288'],['Matrix Metalloproteinase-16'],Matrix Metalloproteinase-16,C1568288,1,1,0.0,0.0
+C1428215,ZNF496 Gene,gene_encodes_gene_product,['C2976473'],['Zinc Finger Protein 496'],Zinc Finger Protein 496,C2976473,1,1,0.0,0.0
+C1332455,BUB1 Gene,gene_encodes_gene_product,['C3710678'],['Mitotic Checkpoint Serine/Threonine-Protein Kinase BUB1'],Mitotic Checkpoint Serine/Threonine-Protein Kinase BUB1,C3710678,1,1,0.0,0.2857142816326531
+C1415740,HSD17B4 Gene,gene_encodes_gene_product,['C0536221'],['Peroxisomal Multifunctional Enzyme Type 2'],Peroxisomal Multifunctional Enzyme Type 2,C0536221,1,1,0.0,0.0
+C1336567,TAF4 Gene,gene_encodes_gene_product,['C1336585'],['Transcription Initiation Factor TFIID Subunit 4'],Transcription Initiation Factor TFIID Subunit 4,C1336585,1,1,0.0,0.0
+C1418193,OTC Gene,gene_encodes_gene_product,['C3887649'],"['Ornithine Carbamoyltransferase, Mitochondrial']","Ornithine Carbamoyltransferase, Mitochondrial",C3887649,1,1,0.0,0.0
+C1825621,ISG15 Gene,gene_encodes_gene_product,['C3641846'],['Ubiquitin-Like Protein ISG15'],Ubiquitin-Like Protein ISG15,C3641846,1,1,0.0,0.39999999520000007
+C1332656,C3 Gene,gene_encodes_gene_product,"['C0009515', 'C1571455', 'C4727464']","['Complement C3d', 'Complement C3', 'C3 Gene Product']",Complement C3d || Complement C3 || C3 Gene Product,C0009515 || C1571455 || C4727464,3,3,0.0,0.4333333300666667
+C1415326,GSR Gene,gene_encodes_gene_product,['C4721873'],"['Glutathione Reductase, Mitochondrial']","Glutathione Reductase, Mitochondrial",C4721873,1,1,0.0,0.0
+C1425417,RNF130 Gene,gene_encodes_gene_product,['C1723424'],['E3 Ubiquitin-Protein Ligase RNF130'],E3 Ubiquitin-Protein Ligase RNF130,C1723424,1,1,0.0,0.33333332888888895
+C1427201,PLXDC1 Gene,gene_encodes_gene_product,['C3537381'],['Plexin Domain-Containing Protein 1'],Plexin Domain-Containing Protein 1,C3537381,1,1,0.0,0.0
+C1421376,USF1 Gene,gene_encodes_gene_product,['C1451716'],['Upstream Stimulatory Factor 1'],Upstream Stimulatory Factor 1,C1451716,1,1,0.0,0.0
+C1418276,PAX6 Gene,gene_encodes_gene_product,['C2698705'],['Paired Box Protein Pax-6'],Paired Box Protein Pax-6,C2698705,1,1,0.0,0.0
+C1334890,NOVA1 Gene,gene_encodes_gene_product,['C0911154'],['RNA-Binding Protein Nova-1'],RNA-Binding Protein Nova-1,C0911154,1,1,0.0,0.0
+C1425218,ROBO4 Gene,gene_encodes_gene_product,['C2699116'],['Roundabout Homolog 4'],Roundabout Homolog 4,C2699116,1,1,0.0,0.0
+C1537913,MIRLET7B Gene,gene_encodes_gene_product,['C2826434'],['MIRLET7B Pre-miRNA'],MIRLET7B Pre-miRNA,C2826434,1,1,0.0,0.4999999950000001
+C1423571,ARID4B Gene,gene_encodes_gene_product,['C1337094'],['AT-Rich Interactive Domain-Containing Protein 4B'],AT-Rich Interactive Domain-Containing Protein 4B,C1337094,1,1,0.0,0.0
+C1414332,AGO1 Gene,gene_encodes_gene_product,['C2827476'],['Protein Argonaute-1'],Protein Argonaute-1,C2827476,1,1,0.0,0.0
+C1333887,H19 Gene,gene_encodes_gene_product,['C1333888'],['H19 Imprinted Maternal Untranslated mRNA'],H19 Imprinted Maternal Untranslated mRNA,C1333888,1,1,0.0,0.2857142816326531
+C1419782,S100A10 Gene,gene_encodes_gene_product,['C0966870'],['Protein S100-A10'],Protein S100-A10,C0966870,1,1,0.0,0.0
+C3811542,C15orf65 Gene,gene_encodes_gene_product,['C3273818'],['Uncharacterized Protein C15orf65'],Uncharacterized Protein C15orf65,C3273818,1,1,0.0,0.39999999520000007
+C1414075,DLX1 Gene,gene_encodes_gene_product,['C4522156'],['Homeobox Protein DLX-1'],Homeobox Protein DLX-1,C4522156,1,1,0.0,0.0
+C1539871,ST6GALNAC5 Gene,gene_encodes_gene_product,['C2827576'],"['Alpha-N-Acetylgalactosaminide Alpha-2,6-Sialyltransferase 5 Protein']","Alpha-N-Acetylgalactosaminide Alpha-2,6-Sialyltransferase 5 Protein",C2827576,1,1,0.0,0.0
+C1415171,GNRHR Gene,gene_encodes_gene_product,['C1451074'],['Gonadotropin-Releasing Hormone Receptor'],Gonadotropin-Releasing Hormone Receptor,C1451074,1,1,0.0,0.0
+C2748553,ARHGEF28 Gene,gene_encodes_gene_product,['C2935655'],['Rho Guanine Nucleotide Exchange Factor 28'],Rho Guanine Nucleotide Exchange Factor 28,C2935655,1,1,0.0,0.0
+C1419819,SART1 Gene,gene_encodes_gene_product,['C4285076'],['U4/U6.U5 Tri-SnRNP-Associated Protein 1'],U4/U6.U5 Tri-SnRNP-Associated Protein 1,C4285076,1,1,0.0,0.0
+C1427407,PBXIP1 Gene,gene_encodes_gene_product,['C3538852'],['Pre-B-Cell Leukemia Transcription Factor-Interacting Protein 1'],Pre-B-Cell Leukemia Transcription Factor-Interacting Protein 1,C3538852,1,1,0.0,0.0
+C1412723,B4GALT5 Gene,gene_encodes_gene_product,['C0963798'],"['Beta-1,4-Galactosyltransferase 5']","Beta-1,4-Galactosyltransferase 5",C0963798,1,1,0.0,0.0
+C1424933,LRIG1 Gene,gene_encodes_gene_product,['C2697911'],['Leucine-Rich Repeats and Immunoglobulin-Like Domains Protein 1'],Leucine-Rich Repeats and Immunoglobulin-Like Domains Protein 1,C2697911,1,1,0.0,0.0
+C1332667,CASP8 Gene,gene_encodes_gene_product,['C1144061'],['Caspase-8'],Caspase-8,C1144061,1,1,0.0,0.0
+C1422672,NDRG4 Gene,gene_encodes_gene_product,['C1448047'],['Protein NDRG4'],Protein NDRG4,C1448047,1,1,0.0,0.4999999950000001
+C1412356,ALOX12 Gene,gene_encodes_gene_product,['C3538937'],"['Arachidonate 12-Lipoxygenase, 12S-Type']","Arachidonate 12-Lipoxygenase, 12S-Type",C3538937,1,1,0.0,0.0
+C3639975,PAX3/FOXO4 Fusion Gene,gene_encodes_gene_product,['C3639976'],['PAX3/FOXO4 Fusion Protein'],PAX3/FOXO4 Fusion Protein,C3639976,1,1,0.0,0.6666666616666668
+C1333686,GNAZ Gene,gene_encodes_gene_product,['C1505153'],['Guanine Nucleotide-Binding Protein G(z) Subunit Alpha'],Guanine Nucleotide-Binding Protein G(z) Subunit Alpha,C1505153,1,1,0.0,0.0
+C1335243,PPP2R1B Gene,gene_encodes_gene_product,['C1448071'],['Serine/Threonine-Protein Phosphatase 2A 65 kDa Regulatory Subunit A Beta Isoform'],Serine/Threonine-Protein Phosphatase 2A 65 kDa Regulatory Subunit A Beta Isoform,C1448071,1,1,0.0,0.0
+C1416536,ANOS1 Gene,gene_encodes_gene_product,['C2700447'],['Anosmin-1'],Anosmin-1,C2700447,1,1,0.0,0.0
+C1332822,CXCR3 Gene,gene_encodes_gene_product,['C1741914'],['C-X-C Chemokine Receptor Type 3'],C-X-C Chemokine Receptor Type 3,C1741914,1,1,0.0,0.0
+C0677907,MAGEA3 Gene,gene_encodes_gene_product,['C0962473'],['Melanoma-Associated Antigen 3'],Melanoma-Associated Antigen 3,C0962473,1,1,0.0,0.0
+C3828997,MNX1/ETV6 Fusion Gene,gene_encodes_gene_product,['C3827381'],['MNX1/ETV6 Fusion Protein'],MNX1/ETV6 Fusion Protein,C3827381,1,1,0.0,0.6666666616666668
+C1415669,HOXB6 Gene,gene_encodes_gene_product,['C3538965'],['Homeobox Protein Hox-B6'],Homeobox Protein Hox-B6,C3538965,1,1,0.0,0.0
+C1424240,HSPBAP1 Gene,gene_encodes_gene_product,['C3273799'],['HSPB1-Associated Protein 1'],HSPB1-Associated Protein 1,C3273799,1,1,0.0,0.0
+C0812291,MYBL2 Gene,gene_encodes_gene_product,['C1505106'],['Myb-Related Protein B'],Myb-Related Protein B,C1505106,1,1,0.0,0.0
+C1333694,GPR39 Gene,gene_encodes_gene_product,['C1333733'],['G-Protein Coupled Receptor 39'],G-Protein Coupled Receptor 39,C1333733,1,1,0.0,0.0
+C1538830,COP1 Gene,gene_encodes_gene_product,['C1174826'],['E3 Ubiquitin-Protein Ligase COP1'],E3 Ubiquitin-Protein Ligase COP1,C1174826,1,1,0.0,0.33333332888888895
+C1413000,C4B Gene,gene_encodes_gene_product,['C4283922'],['Complement C4-B'],Complement C4-B,C4283922,1,1,0.0,0.0
+C1424571,SCARF1 Gene,gene_encodes_gene_product,['C1434616'],['Scavenger Receptor Class F Member 1'],Scavenger Receptor Class F Member 1,C1434616,1,1,0.0,0.0
+C1420038,SHMT1 Gene,gene_encodes_gene_product,['C3538858'],"['Serine Hydroxymethyltransferase, Cytosolic']","Serine Hydroxymethyltransferase, Cytosolic",C3538858,1,1,0.0,0.0
+C1413416,CHST3 Gene,gene_encodes_gene_product,['C2000665'],['Carbohydrate Sulfotransferase 3'],Carbohydrate Sulfotransferase 3,C2000665,1,1,0.0,0.0
+C1418270,PRKN Gene,gene_encodes_gene_product,['C1311470'],['E3 Ubiquitin-Protein Ligase Parkin'],E3 Ubiquitin-Protein Ligase Parkin,C1311470,1,1,0.0,0.0
+C1332695,CCNB1 Gene,gene_encodes_gene_product,['C0385333'],['G2/Mitotic-Specific Cyclin-B1'],G2/Mitotic-Specific Cyclin-B1,C0385333,1,1,0.0,0.0
+C3639965,FUS/CREB3L1 Fusion Gene,gene_encodes_gene_product,['C3540640'],['FUS/CREB3L1 Fusion Protein'],FUS/CREB3L1 Fusion Protein,C3540640,1,1,0.0,0.6666666616666668
+C1420574,TAF7L Gene,gene_encodes_gene_product,['C1336587'],['Transcription Initiation Factor TFIID Subunit 7-Like'],Transcription Initiation Factor TFIID Subunit 7-Like,C1336587,1,1,0.0,0.0
+C1847791,PAX3/FOXO1 Fusion Gene,gene_encodes_gene_product,['C1709387'],['PAX3/FOXO1 Fusion Protein'],PAX3/FOXO1 Fusion Protein,C1709387,1,1,0.0,0.6666666616666668
+C1334895,NPR2 Gene,gene_encodes_gene_product,['C1529727'],['Atrial Natriuretic Peptide Receptor 2'],Atrial Natriuretic Peptide Receptor 2,C1529727,1,1,0.0,0.0
+C1366837,PCNA Gene,gene_encodes_gene_product,['C0072108'],['Proliferating Cell Nuclear Antigen'],Proliferating Cell Nuclear Antigen,C0072108,1,1,0.0,0.0
+C1833235,AIMP2 Gene,gene_encodes_gene_product,['C3273302'],['Aminoacyl tRNA Synthase Complex-Interacting Multifunctional Protein 2'],Aminoacyl tRNA Synthase Complex-Interacting Multifunctional Protein 2,C3273302,1,1,0.0,0.0
+C1417240,KIF20B Gene,gene_encodes_gene_product,['C1310246'],['Kinesin-Like Protein KIF20B'],Kinesin-Like Protein KIF20B,C1310246,1,1,0.0,0.39999999520000007
+C1420439,SS18 Gene,gene_encodes_gene_product,['C3273634'],['Protein SSXT'],Protein SSXT,C3273634,1,1,0.0,0.0
+C1417771,NOX4 Gene,gene_encodes_gene_product,['C1454287'],['NADPH Oxidase 4'],NADPH Oxidase 4,C1454287,1,1,0.0,0.0
+C1427378,MDC1 Gene,gene_encodes_gene_product,['C3537382'],['Mediator of DNA Damage Checkpoint Protein 1'],Mediator of DNA Damage Checkpoint Protein 1,C3537382,1,1,0.0,0.0
+C1420169,SLC28A1 Gene,gene_encodes_gene_product,['C3272518'],['Sodium/Nucleoside Cotransporter 1'],Sodium/Nucleoside Cotransporter 1,C3272518,1,1,0.0,0.0
+C1418727,POLD1 Gene,gene_encodes_gene_product,['C1310127'],['DNA Polymerase Delta Catalytic Subunit'],DNA Polymerase Delta Catalytic Subunit,C1310127,1,1,0.0,0.0
+C1333710,GRIA3 Gene,gene_encodes_gene_product,['C0912261'],['Glutamate Receptor 3'],Glutamate Receptor 3,C0912261,1,1,0.0,0.0
+C0796355,TAL1 Gene,gene_encodes_gene_product,['C0378781'],['T-Cell Acute Lymphocytic Leukemia Protein 1'],T-Cell Acute Lymphocytic Leukemia Protein 1,C0378781,1,1,0.0,0.0
+C1335871,SST Gene,gene_encodes_gene_product,['C0037659'],['Somatostatin'],Somatostatin,C0037659,1,1,0.0,0.0
+C1412072,ABCB5 Gene,gene_encodes_gene_product,['C2346565'],['ATP-Binding Cassette Sub-Family B Member 5'],ATP-Binding Cassette Sub-Family B Member 5,C2346565,1,1,0.0,0.0
+C1539900,KMT5B Gene,gene_encodes_gene_product,['C3713834'],['Histone-Lysine N-Methyltransferase KMT5B'],Histone-Lysine N-Methyltransferase KMT5B,C3713834,1,1,0.0,0.39999999520000007
+C1424146,TRIM5 Gene,gene_encodes_gene_product,['C1311669'],['Tripartite Motif-Containing Protein 5'],Tripartite Motif-Containing Protein 5,C1311669,1,1,0.0,0.0
+C1412815,FOXL2 Gene,gene_encodes_gene_product,['C2700208'],['Forkhead Box Protein L2'],Forkhead Box Protein L2,C2700208,1,1,0.0,0.0
+C1335877,STAT6 Gene,gene_encodes_gene_product,['C0297890'],['Signal Transducer and Activator of Transcription 6'],Signal Transducer and Activator of Transcription 6,C0297890,1,1,0.0,0.0
+C1417707,NFIX Gene,gene_encodes_gene_product,['C1522145'],['Nuclear Factor 1 X-Type'],Nuclear Factor 1 X-Type,C1522145,1,1,0.0,0.0
+C1364113,CCL26 Gene,gene_encodes_gene_product,['C0907797'],['C-C Motif Chemokine 26'],C-C Motif Chemokine 26,C0907797,1,1,0.0,0.0
+C3152216,KAT6A/NCOA2 Fusion Gene,gene_encodes_gene_product,['C3274771'],['KAT6A/NCOA2 Fusion Protein'],KAT6A/NCOA2 Fusion Protein,C3274771,1,1,0.0,0.6666666616666668
+C1427703,RAD9B Gene,gene_encodes_gene_product,['C3815185'],['Cell Cycle Checkpoint Control Protein RAD9B'],Cell Cycle Checkpoint Control Protein RAD9B,C3815185,1,1,0.0,0.24999999625000005
+C1413248,CDAN1 Gene,gene_encodes_gene_product,['C3273707'],['Codanin-1'],Codanin-1,C3273707,1,1,0.0,0.0
+C1424127,STK35 Gene,gene_encodes_gene_product,['C1173517'],['Serine/Threonine-Protein Kinase 35'],Serine/Threonine-Protein Kinase 35,C1173517,1,1,0.0,0.0
+C1332379,BAK1 Gene,gene_encodes_gene_product,['C0296517'],['Bcl-2 Homologous Antagonist/Killer'],Bcl-2 Homologous Antagonist/Killer,C0296517,1,1,0.0,0.0
+C1826024,MIR432 Gene,gene_encodes_gene_product,['C2826525'],['MIR432 Pre-miRNA'],MIR432 Pre-miRNA,C2826525,1,1,0.0,0.4999999950000001
+C1864496,MLL/SEPT5 Fusion Gene,gene_encodes_gene_product,['C3274686'],['MLL/SEPT5 Fusion Protein'],MLL/SEPT5 Fusion Protein,C3274686,1,1,0.0,0.6666666616666668
+C1422186,CYFIP1 Gene,gene_encodes_gene_product,['C4521266'],['Cytoplasmic FMR1-Interacting Protein 1'],Cytoplasmic FMR1-Interacting Protein 1,C4521266,1,1,0.0,0.0
+C1332802,CTLA4 Gene,gene_encodes_gene_product,['C2350360'],['Cytotoxic T-Lymphocyte Protein 4'],Cytotoxic T-Lymphocyte Protein 4,C2350360,1,1,0.0,0.0
+C1823405,ORAI1 Gene,gene_encodes_gene_product,['C1722208'],['Calcium Release-Activated Calcium Channel Protein 1'],Calcium Release-Activated Calcium Channel Protein 1,C1722208,1,1,0.0,0.0
+C1422243,SH3KBP1 Gene,gene_encodes_gene_product,['C1432707'],['SH3 Domain-Containing Kinase-Binding Protein 1'],SH3 Domain-Containing Kinase-Binding Protein 1,C1432707,1,1,0.0,0.0
+C1421319,UGCG Gene,gene_encodes_gene_product,['C4283742'],['Ceramide Glucosyltransferase'],Ceramide Glucosyltransferase,C4283742,1,1,0.0,0.0
+C1539627,H2AB2 Gene,gene_encodes_gene_product,['C4722642'],['Histone H2A-Bbd Type 2/3'],Histone H2A-Bbd Type 2/3,C4722642,1,1,0.0,0.0
+C1424302,SUFU Gene,gene_encodes_gene_product,['C3273645'],['Suppressor of Fused Homolog'],Suppressor of Fused Homolog,C3273645,1,1,0.0,0.0
+C1537827,MIR194-1 Gene,gene_encodes_gene_product,['C2986864'],['MIR194-1 pre-miRNA'],MIR194-1 pre-miRNA,C2986864,1,1,0.0,0.4999999950000001
+C1412849,BTNL2 Gene,gene_encodes_gene_product,['C3812664'],['Butyrophilin-Like Protein 2'],Butyrophilin-Like Protein 2,C3812664,1,1,0.0,0.0
+C1367675,MAP3K1 Gene,gene_encodes_gene_product,['C1367798'],['Mitogen-Activated Protein Kinase Kinase Kinase 1'],Mitogen-Activated Protein Kinase Kinase Kinase 1,C1367798,1,1,0.0,0.0
+C1442756,SP3 Gene,gene_encodes_gene_product,['C1528909'],['Transcription Factor Sp3'],Transcription Factor Sp3,C1528909,1,1,0.0,0.39999999520000007
+C1442760,TDG Gene,gene_encodes_gene_product,['C4316851'],['G/T Mismatch-Specific Thymine DNA Glycosylase'],G/T Mismatch-Specific Thymine DNA Glycosylase,C4316851,1,1,0.0,0.0
+C2239427,FAM135B Gene,gene_encodes_gene_product,['C4553730'],['Protein FAM135B'],Protein FAM135B,C4553730,1,1,0.0,0.4999999950000001
+C1332034,AGR2 Gene,gene_encodes_gene_product,['C1332035'],['Anterior Gradient Protein 2 Homolog'],Anterior Gradient Protein 2 Homolog,C1332035,1,1,0.0,0.0
+C1413247,CDA Gene,gene_encodes_gene_product,['C0010723'],['Cytidine Deaminase'],Cytidine Deaminase,C0010723,1,1,0.0,0.0
+C1539512,FCRL2 Gene,gene_encodes_gene_product,['C0971458'],['Fc Receptor-Like Protein 2'],Fc Receptor-Like Protein 2,C0971458,1,1,0.0,0.0
+C1538771,RAB44 Gene,gene_encodes_gene_product,['C5202997'],['Ras-Related Protein Rab-44'],Ras-Related Protein Rab-44,C5202997,1,1,0.0,0.0
+C1421450,EZR Gene,gene_encodes_gene_product,['C0059973'],['Ezrin'],Ezrin,C0059973,1,1,0.0,0.0
+C1428772,KDM6B Gene,gene_encodes_gene_product,['C2001242'],['Lysine-Specific Demethylase 6B'],Lysine-Specific Demethylase 6B,C2001242,1,1,0.0,0.0
+C1413775,CST6 Gene,gene_encodes_gene_product,['C0534343'],['Cystatin-M'],Cystatin-M,C0534343,1,1,0.0,0.0
+C1416809,LDB1 Gene,gene_encodes_gene_product,['C3640998'],['LIM Domain-Binding Protein 1'],LIM Domain-Binding Protein 1,C3640998,1,1,0.0,0.0
+C1366524,CCL20 Gene,gene_encodes_gene_product,['C1308247'],['C-C Motif Chemokine 20'],C-C Motif Chemokine 20,C1308247,1,1,0.0,0.0
+C1428822,ARRDC3 Gene,gene_encodes_gene_product,['C1701014'],['Arrestin Domain-Containing Protein 3'],Arrestin Domain-Containing Protein 3,C1701014,1,1,0.0,0.0
+C1412330,ALAS1 Gene,gene_encodes_gene_product,['C3815531'],"['5-Aminolevulinate Synthase, Nonspecific, Mitochondrial']","5-Aminolevulinate Synthase, Nonspecific, Mitochondrial",C3815531,1,1,0.0,0.0
+C1419375,RGS5 Gene,gene_encodes_gene_product,['C2699023'],['Regulator of G-Protein Signaling 5'],Regulator of G-Protein Signaling 5,C2699023,1,1,0.0,0.0
+C1426502,GALNT12 Gene,gene_encodes_gene_product,['C4723706'],['Polypeptide N-Acetylgalactosaminyltransferase 12'],Polypeptide N-Acetylgalactosaminyltransferase 12,C4723706,1,1,0.0,0.0
+C1826741,PVRIG Gene,gene_encodes_gene_product,['C4723729'],['Transmembrane Protein PVRIG'],Transmembrane Protein PVRIG,C4723729,1,1,0.0,0.39999999520000007
+C1333337,EPHA2 Gene,gene_encodes_gene_product,['C1333410'],['Ephrin Type-A Receptor 2'],Ephrin Type-A Receptor 2,C1333410,1,1,0.0,0.0
+C1539598,GPRC5A Gene,gene_encodes_gene_product,['C0762318'],['Retinoic Acid-Induced Protein 3'],Retinoic Acid-Induced Protein 3,C0762318,1,1,0.0,0.0
+C1415615,HMGCR Gene,gene_encodes_gene_product,['C2975999'],['3-Hydroxy-3-Methylglutaryl-Coenzyme A Reductase'],3-Hydroxy-3-Methylglutaryl-Coenzyme A Reductase,C2975999,1,1,0.0,0.0
+C1539901,KMT5C Gene,gene_encodes_gene_product,['C2743825'],['Histone-Lysine N-Methyltransferase KMT5C'],Histone-Lysine N-Methyltransferase KMT5C,C2743825,1,1,0.0,0.39999999520000007
+C1332671,CBFB Gene,gene_encodes_gene_product,['C0526211'],['Core-Binding Factor Subunit Beta'],Core-Binding Factor Subunit Beta,C0526211,1,1,0.0,0.0
+C1333678,GLMN Gene,gene_encodes_gene_product,"['C0533002', 'C4318411', 'C4330028']","['Glomulin', 'FKBP-Associated Protein 48 kDa', 'GLMN Gene Product']",Glomulin || FKBP-Associated Protein 48 kDa || GLMN Gene Product,C0533002 || C4318411 || C4330028,3,3,0.0,0.2666666650666667
+C1538134,YTHDF2 Gene,gene_encodes_gene_product,['C3273756'],['YTH Domain Family Protein 2'],YTH Domain Family Protein 2,C3273756,1,1,0.0,0.0
+C1414172,DSP Gene,gene_encodes_gene_product,['C1531217'],['Desmoplakin'],Desmoplakin,C1531217,1,1,0.0,0.0
+C1425289,WIF1 Gene,gene_encodes_gene_product,['C3275255'],['Wnt Inhibitory Factor 1'],Wnt Inhibitory Factor 1,C3275255,1,1,0.0,0.0
+C1418625,PLA2G7 Gene,gene_encodes_gene_product,['C2351517'],['Platelet-Activating Factor Acetylhydrolase'],Platelet-Activating Factor Acetylhydrolase,C2351517,1,1,0.0,0.0
+C1538505,MBOAT2 Gene,gene_encodes_gene_product,['C2742256'],['Lysophospholipid Acyltransferase 2'],Lysophospholipid Acyltransferase 2,C2742256,1,1,0.0,0.0
+C3146638,ATG13 Gene,gene_encodes_gene_product,['C4284300'],['Autophagy-Related Protein 13'],Autophagy-Related Protein 13,C4284300,1,1,0.0,0.0
+C1851030,FGFR1OP2/FGFR1 Fusion Gene,gene_encodes_gene_product,['C3274994'],['FGFR1OP2/FGFR1 Fusion Protein'],FGFR1OP2/FGFR1 Fusion Protein,C3274994,1,1,0.0,0.6666666616666668
+C1332121,AUH Gene,gene_encodes_gene_product,['C0295398'],"['Methylglutaconyl-CoA Hydratase, Mitochondrial']","Methylglutaconyl-CoA Hydratase, Mitochondrial",C0295398,1,1,0.0,0.0
+C4289661,EBF1/PDGFRB Fusion Gene,gene_encodes_gene_product,['C4289660'],['EBF1/PDGFRB Fusion Protein'],EBF1/PDGFRB Fusion Protein,C4289660,1,1,0.0,0.6666666616666668
+C1412931,C1QA Gene,gene_encodes_gene_product,['C3539862'],['Complement C1q Subcomponent Subunit A'],Complement C1q Subcomponent Subunit A,C3539862,1,1,0.0,0.0
+C5202793,H2BC12 Gene,gene_encodes_gene_product,['C5202792'],['Histone H2B Type 1-K'],Histone H2B Type 1-K,C5202792,1,1,0.0,0.0
+C1421146,TRIP11 Gene,gene_encodes_gene_product,['C3273666'],['Thyroid Receptor-Interacting Protein 11'],Thyroid Receptor-Interacting Protein 11,C3273666,1,1,0.0,0.0
+C1332712,CD44 Gene,gene_encodes_gene_product,['C1097299'],['CD44 Antigen'],CD44 Antigen,C1097299,1,1,0.0,0.4999999950000001
+C1419950,SEMA4D Gene,gene_encodes_gene_product,['C1506356'],['Semaphorin-4D'],Semaphorin-4D,C1506356,1,1,0.0,0.0
+C1412129,ACOX2 Gene,gene_encodes_gene_product,['C0084861'],['Peroxisomal Acyl-Coenzyme A Oxidase 2'],Peroxisomal Acyl-Coenzyme A Oxidase 2,C0084861,1,1,0.0,0.0
+C1415182,GOT2 Gene,gene_encodes_gene_product,['C0684153'],"['Aspartate Aminotransferase, Mitochondrial']","Aspartate Aminotransferase, Mitochondrial",C0684153,1,1,0.0,0.0
+C1413396,CHN1 Gene,gene_encodes_gene_product,['C4721672'],['N-Chimaerin'],N-Chimaerin,C4721672,1,1,0.0,0.0
+C1413240,CD81 Gene,gene_encodes_gene_product,['C0084715'],['CD81 Antigen'],CD81 Antigen,C0084715,1,1,0.0,0.4999999950000001
+C1539106,CLEC12A Gene,gene_encodes_gene_product,['C5202607'],['C-Type Lectin Domain Family 12 Member A'],C-Type Lectin Domain Family 12 Member A,C5202607,1,1,0.0,0.0
+C2829990,PALM2/AKAP2 Fusion Gene,gene_encodes_gene_product,['C4764252'],['PALM2/AKAP2 Fusion Protein'],PALM2/AKAP2 Fusion Protein,C4764252,1,1,0.0,0.6666666616666668
+C1413258,CDC25B Gene,gene_encodes_gene_product,['C1563402'],['M-Phase Inducer Phosphatase 2'],M-Phase Inducer Phosphatase 2,C1563402,1,1,0.0,0.0
+C1332665,CASP6 Gene,gene_encodes_gene_product,['C0538091'],['Caspase-6'],Caspase-6,C0538091,1,1,0.0,0.0
+C1423641,UGGT2 Gene,gene_encodes_gene_product,['C4723714'],['UDP-Glucose:Glycoprotein Glucosyltransferase 2'],UDP-Glucose:Glycoprotein Glucosyltransferase 2,C4723714,1,1,0.0,0.0
+C1538901,ACD Gene,gene_encodes_gene_product,['C1565285'],['Adrenocortical Dysplasia Protein Homolog'],Adrenocortical Dysplasia Protein Homolog,C1565285,1,1,0.0,0.0
+C1332422,BMP10 Gene,gene_encodes_gene_product,['C1332588'],['Bone Morphogenetic Protein 10'],Bone Morphogenetic Protein 10,C1332588,1,1,0.0,0.0
+C1413379,CHD1 Gene,gene_encodes_gene_product,['C1448753'],['Chromodomain-Helicase-DNA-Binding Protein 1'],Chromodomain-Helicase-DNA-Binding Protein 1,C1448753,1,1,0.0,0.0
+C1332816,CXCL11 Gene,gene_encodes_gene_product,['C1335987'],['C-X-C Motif Chemokine 11'],C-X-C Motif Chemokine 11,C1335987,1,1,0.0,0.0
+C0812258,E2F1 Gene,gene_encodes_gene_product,['C1506928'],['Transcription Factor E2F1'],Transcription Factor E2F1,C1506928,1,1,0.0,0.39999999520000007
+C1427178,GTF3C6 Gene,gene_encodes_gene_product,['C2983094'],['General Transcription Factor 3C Polypeptide 6'],General Transcription Factor 3C Polypeptide 6,C2983094,1,1,0.0,0.0
+C1335222,GDF15 Gene,gene_encodes_gene_product,['C1431343'],['Growth/Differentiation Factor 15'],Growth/Differentiation Factor 15,C1431343,1,1,0.0,0.0
+C1423286,OR51E2 Gene,gene_encodes_gene_product,['C1447835'],['Olfactory Receptor 51E2'],Olfactory Receptor 51E2,C1447835,1,1,0.0,0.0
+C1384538,TFDP1 Gene,gene_encodes_gene_product,['C0534164'],['Transcription Factor Dp-1'],Transcription Factor Dp-1,C0534164,1,1,0.0,0.0
+C1539478,FASLG Gene,gene_encodes_gene_product,['C1675724'],['Tumor Necrosis Factor Ligand Superfamily Member 6'],Tumor Necrosis Factor Ligand Superfamily Member 6,C1675724,1,1,0.0,0.0
+C1414555,FCGR3A Gene,gene_encodes_gene_product,['C1521898'],['Low Affinity Immunoglobulin Gamma Fc Region Receptor III-A'],Low Affinity Immunoglobulin Gamma Fc Region Receptor III-A,C1521898,1,1,0.0,0.0
+C1414086,DMRT1 Gene,gene_encodes_gene_product,['C1563403'],['Doublesex- and Mab-3-Related Transcription Factor 1'],Doublesex- and Mab-3-Related Transcription Factor 1,C1563403,1,1,0.0,0.0
+C1416683,KLRC2 Gene,gene_encodes_gene_product,['C2757037'],['NKG2-C Type II Integral Membrane Protein'],NKG2-C Type II Integral Membrane Protein,C2757037,1,1,0.0,0.0
+C1537630,LYST Gene,gene_encodes_gene_product,['C0531296'],['Lysosomal-Trafficking Regulator'],Lysosomal-Trafficking Regulator,C0531296,1,1,0.0,0.0
+C1334339,LIFR Gene,gene_encodes_gene_product,['C1506606'],['Leukemia Inhibitory Factor Receptor'],Leukemia Inhibitory Factor Receptor,C1506606,1,1,0.0,0.0
+C1418450,SERPINF1 Gene,gene_encodes_gene_product,['C0213321'],['Pigment Epithelium-Derived Factor'],Pigment Epithelium-Derived Factor,C0213321,1,1,0.0,0.0
+C1424628,NDC80 Gene,gene_encodes_gene_product,['C1438393'],['Kinetochore Protein NDC80 Homolog'],Kinetochore Protein NDC80 Homolog,C1438393,1,1,0.0,0.33333332888888895
+C1423950,ACER3 Gene,gene_encodes_gene_product,['C3539590'],['Alkaline Ceramidase 3'],Alkaline Ceramidase 3,C3539590,1,1,0.0,0.0
+C1969088,CISD2 Gene,gene_encodes_gene_product,['C3889404'],['CDGSH Iron-Sulfur Domain-Containing Protein 2'],CDGSH Iron-Sulfur Domain-Containing Protein 2,C3889404,1,1,0.0,0.0
+C0919516,MAX Gene,gene_encodes_gene_product,['C0127092'],['Protein Max'],Protein Max,C0127092,1,1,0.0,0.4999999950000001
+C1422249,FOXP2 Gene,gene_encodes_gene_product,['C2700209'],['Forkhead Box Protein P2'],Forkhead Box Protein P2,C2700209,1,1,0.0,0.0
+C1418729,POLE Gene,gene_encodes_gene_product,['C3811771'],['DNA Polymerase Epsilon Catalytic Subunit A'],DNA Polymerase Epsilon Catalytic Subunit A,C3811771,1,1,0.0,0.0
+C2239932,SLC38A9 Gene,gene_encodes_gene_product,['C3884687'],['Sodium-Coupled Neutral Amino Acid Transporter 9'],Sodium-Coupled Neutral Amino Acid Transporter 9,C3884687,1,1,0.0,0.0
+C1335649,RRM2 Gene,gene_encodes_gene_product,['C0297817'],['Ribonucleoside-Diphosphate Reductase M2'],Ribonucleoside-Diphosphate Reductase M2,C0297817,1,1,0.0,0.0
+C1420182,SLC31A1 Gene,gene_encodes_gene_product,['C0962796'],['High Affinity Copper Uptake Protein 1'],High Affinity Copper Uptake Protein 1,C0962796,1,1,0.0,0.0
+C1425790,CAMTA1 Gene,gene_encodes_gene_product,['C3537303'],['Calmodulin-Binding Transcription Activator 1'],Calmodulin-Binding Transcription Activator 1,C3537303,1,1,0.0,0.0
+C1414072,DLL4 Gene,gene_encodes_gene_product,['C2983553'],['Delta-Like Protein 4'],Delta-Like Protein 4,C2983553,1,1,0.0,0.0
+C1425993,NCR3 Gene,gene_encodes_gene_product,['C1432202'],['Natural Cytotoxicity Triggering Receptor 3'],Natural Cytotoxicity Triggering Receptor 3,C1432202,1,1,0.0,0.0
+C1418910,PRKAR2A Gene,gene_encodes_gene_product,['C1870778'],['cAMP-Dependent Protein Kinase Type II-Alpha Regulatory Subunit'],cAMP-Dependent Protein Kinase Type II-Alpha Regulatory Subunit,C1870778,1,1,0.0,0.0
+C1415320,GSK3A Gene,gene_encodes_gene_product,['C3853562'],['Glycogen Synthase Kinase-3 Alpha'],Glycogen Synthase Kinase-3 Alpha,C3853562,1,1,0.0,0.0
+C3274604,EWSR1/FLI1 Fusion Gene Type 1,gene_encodes_gene_product,['C3274607'],['EWSR1/FLI1 Fusion Protein Type 1'],EWSR1/FLI1 Fusion Protein Type 1,C3274607,1,1,0.0,0.7999999950000002
+C1834585,MLL/AFF3 Fusion Gene,gene_encodes_gene_product,['C3274689'],['MLL/AFF3 Fusion Protein'],MLL/AFF3 Fusion Protein,C3274689,1,1,0.0,0.6666666616666668
+C1416974,MAGEA2 Gene,gene_encodes_gene_product,['C3539826'],['Melanoma-Associated Antigen 2'],Melanoma-Associated Antigen 2,C3539826,1,1,0.0,0.0
+C1423519,DIAPH3 Gene,gene_encodes_gene_product,['C1450901'],['Protein Diaphanous Homolog 3'],Protein Diaphanous Homolog 3,C1450901,1,1,0.0,0.0
+C1336660,TOPBP1 Gene,gene_encodes_gene_product,['C0671110'],['DNA Topoisomerase 2-Binding Protein 1'],DNA Topoisomerase 2-Binding Protein 1,C0671110,1,1,0.0,0.0
+C1416652,KIR3DL1 Gene,gene_encodes_gene_product,['C1430234'],['Killer Cell Immunoglobulin-Like Receptor 3DL1'],Killer Cell Immunoglobulin-Like Receptor 3DL1,C1430234,1,1,0.0,0.0
+C1868262,HIP1/PDGFRB Fusion Gene,gene_encodes_gene_product,['C3274773'],['HIP1/PDGFRB Fusion Protein'],HIP1/PDGFRB Fusion Protein,C3274773,1,1,0.0,0.6666666616666668
+C1426840,SLITRK1 Gene,gene_encodes_gene_product,['C2983389'],['SLIT and NTRK-Like Protein 1'],SLIT and NTRK-Like Protein 1,C2983389,1,1,0.0,0.0
+C1414083,DMD Gene,gene_encodes_gene_product,['C0079259'],['Dystrophin'],Dystrophin,C0079259,1,1,0.0,0.0
+C1332824,CXCR6 Gene,gene_encodes_gene_product,['C1332653'],['C-X-C Chemokine Receptor Type 6'],C-X-C Chemokine Receptor Type 6,C1332653,1,1,0.0,0.0
+C1538407,CABCOCO1 Gene,gene_encodes_gene_product,['C3889635'],['Ciliary-Associated Calcium-Binding Coiled-Coil Protein 1'],Ciliary-Associated Calcium-Binding Coiled-Coil Protein 1,C3889635,1,1,0.0,0.0
+C1413709,CRHR1 Gene,gene_encodes_gene_product,['C0529997'],['Corticotropin-Releasing Factor Receptor 1'],Corticotropin-Releasing Factor Receptor 1,C0529997,1,1,0.0,0.0
+C1423056,PLAAT1 Gene,gene_encodes_gene_product,['C4723708'],['Phospholipase A and Acyltransferase 1'],Phospholipase A and Acyltransferase 1,C4723708,1,1,0.0,0.0
+C1425473,IFNL1 Gene,gene_encodes_gene_product,['C3541295'],['Interferon Lambda-1'],Interferon Lambda-1,C3541295,1,1,0.0,0.0
+C1539667,HES4 Gene,gene_encodes_gene_product,['C3539876'],['Transcription Factor HES-4'],Transcription Factor HES-4,C3539876,1,1,0.0,0.0
+C1708000,FANCM Gene,gene_encodes_gene_product,['C1708001'],['Fanconi Anemia Group M Protein'],Fanconi Anemia Group M Protein,C1708001,1,1,0.0,0.0
+C1540194,AGPAT5 Gene,gene_encodes_gene_product,['C3888276'],['1-Acyl-Sn-Glycerol-3-Phosphate Acyltransferase Epsilon'],1-Acyl-Sn-Glycerol-3-Phosphate Acyltransferase Epsilon,C3888276,1,1,0.0,0.0
+C1825858,B4GALNT1 Gene,gene_encodes_gene_product,['C4283926'],"['Beta-1,4 N-Acetylgalactosaminyltransferase 1']","Beta-1,4 N-Acetylgalactosaminyltransferase 1",C4283926,1,1,0.0,0.0
+C1417815,NPY Gene,gene_encodes_gene_product,"['C4521303', 'C4526918', 'C4721533']","['Pro-Neuropeptide Y', 'NPY Gene Product', 'Neuropeptide Y']",Pro-Neuropeptide Y || NPY Gene Product || Neuropeptide Y,C4521303 || C4526918 || C4721533,3,3,0.0,0.2666666650666667
+C1333685,GNAQ Gene,gene_encodes_gene_product,['C1333650'],['Guanine Nucleotide-Binding Protein G(q) Subunit Alpha'],Guanine Nucleotide-Binding Protein G(q) Subunit Alpha,C1333650,1,1,0.0,0.0
+C1335844,SMARCA5 Gene,gene_encodes_gene_product,['C1449387'],['SWI/SNF-Related Matrix-Associated Actin-Dependent Regulator of Chromatin Subfamily A Member 5'],SWI/SNF-Related Matrix-Associated Actin-Dependent Regulator of Chromatin Subfamily A Member 5,C1449387,1,1,0.0,0.0
+C1366499,MME Gene,gene_encodes_gene_product,['C3887624'],['Neprilysin'],Neprilysin,C3887624,1,1,0.0,0.0
+C1416970,MAGEA1 Gene,gene_encodes_gene_product,['C1456426'],['Melanoma-Associated Antigen 1'],Melanoma-Associated Antigen 1,C1456426,1,1,0.0,0.0
+C1328053,NOS3 Gene,gene_encodes_gene_product,['C0669365'],"['Nitric Oxide Synthase, Endothelial']","Nitric Oxide Synthase, Endothelial",C0669365,1,1,0.0,0.0
+C1427804,DEPDC1 Gene,gene_encodes_gene_product,['C4287858'],['DEP Domain-Containing Protein 1A'],DEP Domain-Containing Protein 1A,C4287858,1,1,0.0,0.0
+C1417387,MSX1 Gene,gene_encodes_gene_product,['C1435681'],['Homeobox Protein MSX-1'],Homeobox Protein MSX-1,C1435681,1,1,0.0,0.0
+C1425643,SLC39A6 Gene,gene_encodes_gene_product,['C1432030'],['Zinc Transporter ZIP6'],Zinc Transporter ZIP6,C1432030,1,1,0.0,0.0
+C1421244,TWIST1 Gene,gene_encodes_gene_product,['C0533325'],['Twist-Related Protein 1'],Twist-Related Protein 1,C0533325,1,1,0.0,0.0
+C1416841,LGTN Gene,gene_encodes_gene_product,['C0064969'],['Ligatin'],Ligatin,C0064969,1,1,0.0,0.0
+C2239866,PWWP2A Gene,gene_encodes_gene_product,['C4054263'],['PWWP Domain-Containing Protein 2A'],PWWP Domain-Containing Protein 2A,C4054263,1,1,0.0,0.0
+C0812296,FGF6 Gene,gene_encodes_gene_product,['C1448584'],['Fibroblast Growth Factor 6'],Fibroblast Growth Factor 6,C1448584,1,1,0.0,0.0
+C1332118,DBF4 Gene,gene_encodes_gene_product,['C1172410'],['Protein DBF4 homolog A'],Protein DBF4 homolog A,C1172410,1,1,0.0,0.33333332888888895
+C1413702,CREB1 Gene,gene_encodes_gene_product,['C1447703'],['Cyclic AMP-Responsive Element-Binding Protein 1'],Cyclic AMP-Responsive Element-Binding Protein 1,C1447703,1,1,0.0,0.0
+C2240202,B9D2 Gene,gene_encodes_gene_product,['C3812226'],['B9 Domain-Containing Protein 2'],B9 Domain-Containing Protein 2,C3812226,1,1,0.0,0.0
+C1332755,CHGB Gene,gene_encodes_gene_product,['C0055635'],['Secretogranin-1'],Secretogranin-1,C0055635,1,1,0.0,0.0
+C1332751,CELSR1 Gene,gene_encodes_gene_product,['C1122325'],['Cadherin EGF LAG Seven-Pass G-Type Receptor 1'],Cadherin EGF LAG Seven-Pass G-Type Receptor 1,C1122325,1,1,0.0,0.0
+C1423524,NCKIPSD Gene,gene_encodes_gene_product,['C3273412'],['NCK-Interacting Protein with SH3 Domain'],NCK-Interacting Protein with SH3 Domain,C3273412,1,1,0.0,0.0
+C1414369,ELANE Gene,gene_encodes_gene_product,['C4551701'],['Neutrophil Elastase'],Neutrophil Elastase,C4551701,1,1,0.0,0.0
+C1428267,DND1 Gene,gene_encodes_gene_product,['C3641876'],['Dead End Protein Homolog 1'],Dead End Protein Homolog 1,C3641876,1,1,0.0,0.0
+C1825996,MIR18A Gene,gene_encodes_gene_product,['C2826403'],['MIR18A Pre-miRNA'],MIR18A Pre-miRNA,C2826403,1,1,0.0,0.4999999950000001
+C1419064,PTGER4 Gene,gene_encodes_gene_product,['C4288359'],['Prostaglandin E2 Receptor EP4 Subtype'],Prostaglandin E2 Receptor EP4 Subtype,C4288359,1,1,0.0,0.0
+C1334076,ICAM3 Gene,gene_encodes_gene_product,['C1450173'],['Intercellular Adhesion Molecule 3'],Intercellular Adhesion Molecule 3,C1450173,1,1,0.0,0.0
+C1412719,B4GALT1 Gene,gene_encodes_gene_product,['C3539528'],"['Beta-1,4-Galactosyltransferase 1']","Beta-1,4-Galactosyltransferase 1",C3539528,1,1,0.0,0.0
+C1537730,MIR27B Gene,gene_encodes_gene_product,['C4745302'],['MIR27B Pre-miRNA'],MIR27B Pre-miRNA,C4745302,1,1,0.0,0.4999999950000001
+C3812024,NPIPB8 Gene,gene_encodes_gene_product,['C4553973'],['Nuclear Pore Complex-Interacting Protein Family Member B8'],Nuclear Pore Complex-Interacting Protein Family Member B8,C4553973,1,1,0.0,0.0
+C1420257,SMN1 Gene,gene_encodes_gene_product,['C4283935'],['Survival Motor Neuron Protein'],Survival Motor Neuron Protein,C4283935,1,1,0.0,0.0
+C1424705,NIPA1 Gene,gene_encodes_gene_product,['C2698484'],['Non-Imprinted In Prader-Willi/Angelman Syndrome Region Protein 1'],Non-Imprinted In Prader-Willi/Angelman Syndrome Region Protein 1,C2698484,1,1,0.0,0.0
+C1336607,TFDP2 Gene,gene_encodes_gene_product,['C0528328'],['Transcription Factor Dp-2'],Transcription Factor Dp-2,C0528328,1,1,0.0,0.0
+C5202938,H1-9 Gene,gene_encodes_gene_product,['C2606661'],['Spermatid-Specific Linker Histone H1-Like Protein'],Spermatid-Specific Linker Histone H1-Like Protein,C2606661,1,1,0.0,0.0
+C3550814,BCOR/CCNB3 Fusion Gene,gene_encodes_gene_product,['C4682439'],['BCOR/CCNB3 Fusion Protein'],BCOR/CCNB3 Fusion Protein,C4682439,1,1,0.0,0.6666666616666668
+C5202822,H2AW Gene,gene_encodes_gene_product,['C5202603'],['Histone H2A Type 3'],Histone H2A Type 3,C5202603,1,1,0.0,0.0
+C3274671,BCR/ABL1 Fusion Gene p190,gene_encodes_gene_product,['C0029006'],['BCR/ABL1 Fusion Protein p190'],BCR/ABL1 Fusion Protein p190,C0029006,1,1,0.0,0.749999995
+C1413274,CDH17 Gene,gene_encodes_gene_product,['C0246443'],['Cadherin-17'],Cadherin-17,C0246443,1,1,0.0,0.0
+C1416705,KPNB1 Gene,gene_encodes_gene_product,['C1448901'],['Importin Subunit Beta-1'],Importin Subunit Beta-1,C1448901,1,1,0.0,0.0
+C1537891,MIR370 Gene,gene_encodes_gene_product,['C2826518'],['MIR370 Pre-miRNA'],MIR370 Pre-miRNA,C2826518,1,1,0.0,0.4999999950000001
+C0537026,UGT1A1 Gene,gene_encodes_gene_product,['C1567723'],['UDP-Glucuronosyltransferase 1-1'],UDP-Glucuronosyltransferase 1-1,C1567723,1,1,0.0,0.0
+C1332765,CLC Gene,gene_encodes_gene_product,['C1615557'],['Eosinophil Lysophospholipase'],Eosinophil Lysophospholipase,C1615557,1,1,0.0,0.0
+C0812268,SUPT5H Gene,gene_encodes_gene_product,['C1096755'],['Transcription Elongation Factor SPT5'],Transcription Elongation Factor SPT5,C1096755,1,1,0.0,0.0
+C1420644,TCF7L2 Gene,gene_encodes_gene_product,['C0537423'],['Transcription Factor 7-Like 2'],Transcription Factor 7-Like 2,C0537423,1,1,0.0,0.0
+C1537896,MIR375 Gene,gene_encodes_gene_product,['C3640154'],['MIR375 Pre-miRNA'],MIR375 Pre-miRNA,C3640154,1,1,0.0,0.4999999950000001
+C1419377,RGS7 Gene,gene_encodes_gene_product,['C1505333'],['Regulator of G-Protein Signaling 7'],Regulator of G-Protein Signaling 7,C1505333,1,1,0.0,0.0
+C1427334,ECT2L Gene,gene_encodes_gene_product,['C3542418'],['Epithelial Cell-Transforming Sequence 2 Oncogene-Like'],Epithelial Cell-Transforming Sequence 2 Oncogene-Like,C3542418,1,1,0.0,0.0
+C1424328,ACSL6 Gene,gene_encodes_gene_product,['C0911848'],['Long-Chain-Fatty-Acid-CoA Ligase 6'],Long-Chain-Fatty-Acid-CoA Ligase 6,C0911848,1,1,0.0,0.0
+C1825027,UBR5 Gene,gene_encodes_gene_product,['C0965793'],['E3 Ubiquitin-Protein Ligase UBR5'],E3 Ubiquitin-Protein Ligase UBR5,C0965793,1,1,0.0,0.33333332888888895
+C1425534,ZDHHC2 Gene,gene_encodes_gene_product,['C2606415'],['Palmitoyltransferase ZDHHC2'],Palmitoyltransferase ZDHHC2,C2606415,1,1,0.0,0.4999999950000001
+C1442485,IDUA Gene,gene_encodes_gene_product,['C0020818'],['Alpha-L-Iduronidase'],Alpha-L-Iduronidase,C0020818,1,1,0.0,0.0
+C1332002,ABCG2 Gene,gene_encodes_gene_product,['C0761993'],['ATP-Binding Cassette Sub-Family G Member 2'],ATP-Binding Cassette Sub-Family G Member 2,C0761993,1,1,0.0,0.0
+C1427865,MAGI1 Gene,gene_encodes_gene_product,['C0755031'],"['Membrane-Associated Guanylate Kinase, WW and PDZ Domain-Containing Protein 1']","Membrane-Associated Guanylate Kinase, WW and PDZ Domain-Containing Protein 1",C0755031,1,1,0.0,0.0
+C1418951,PROX1 Gene,gene_encodes_gene_product,['C2697613'],['Homeobox Prospero-Like Protein PROX1'],Homeobox Prospero-Like Protein PROX1,C2697613,1,1,0.0,0.33333332888888895
+C1424466,MRPL45 Gene,gene_encodes_gene_product,['C3538740'],"['39S Ribosomal Protein L45, Mitochondrial']","39S Ribosomal Protein L45, Mitochondrial",C3538740,1,1,0.0,0.0
+C0812298,FLT1 Gene,gene_encodes_gene_product,['C1568520'],['Vascular Endothelial Growth Factor Receptor 1'],Vascular Endothelial Growth Factor Receptor 1,C1568520,1,1,0.0,0.0
+C1419229,RAC3 Gene,gene_encodes_gene_product,['C3538822'],['Ras-Related C3 Botulinum Toxin Substrate 3'],Ras-Related C3 Botulinum Toxin Substrate 3,C3538822,1,1,0.0,0.0
+C1334910,NTRK3 Gene,gene_encodes_gene_product,['C3853696'],['NT-3 Growth Factor Receptor'],NT-3 Growth Factor Receptor,C3853696,1,1,0.0,0.0
+C1424509,FBXO32 Gene,gene_encodes_gene_product,['C3539871'],['F-Box Only Protein 32'],F-Box Only Protein 32,C3539871,1,1,0.0,0.0
+C1420259,SMPD1 Gene,gene_encodes_gene_product,['C0037903'],['Sphingomyelin Phosphodiesterase'],Sphingomyelin Phosphodiesterase,C0037903,1,1,0.0,0.0
+C1366555,DPYD Gene,gene_encodes_gene_product,['C0058126'],['Dihydropyrimidine Dehydrogenase [NADP(+)]'],Dihydropyrimidine Dehydrogenase [NADP(+)],C0058126,1,1,0.0,0.0
+C1412768,BCL7C Gene,gene_encodes_gene_product,['C4761466'],['B-Cell CLL/Lymphoma 7 Protein Family Member C'],B-Cell CLL/Lymphoma 7 Protein Family Member C,C4761466,1,1,0.0,0.0
+C1414306,EFNB2 Gene,gene_encodes_gene_product,['C3810534'],['Ephrin-B2'],Ephrin-B2,C3810534,1,1,0.0,0.0
+C1414855,FUBP1 Gene,gene_encodes_gene_product,['C1452621'],['Far Upstream Element-Binding Protein 1'],Far Upstream Element-Binding Protein 1,C1452621,1,1,0.0,0.0
+C1332766,CLIC4 Gene,gene_encodes_gene_product,['C1142877'],['Chloride Intracellular Channel Protein 4'],Chloride Intracellular Channel Protein 4,C1142877,1,1,0.0,0.0
+C1334310,KLRB1 Gene,gene_encodes_gene_product,['C1689853'],['Killer Cell Lectin-Like Receptor Subfamily B Member 1'],Killer Cell Lectin-Like Receptor Subfamily B Member 1,C1689853,1,1,0.0,0.0
+C1333583,KDSR Gene,gene_encodes_gene_product,['C0609830'],['3-Ketodihydrosphingosine Reductase'],3-Ketodihydrosphingosine Reductase,C0609830,1,1,0.0,0.0
+C1425779,UBD Gene,gene_encodes_gene_product,['C1431046'],['Ubiquitin D'],Ubiquitin D,C1431046,1,1,0.0,0.0
+C1413376,CHAT Gene,gene_encodes_gene_product,['C4082365'],['Choline O-Acetyltransferase'],Choline O-Acetyltransferase,C4082365,1,1,0.0,0.0
+C2681403,ACER1 Gene,gene_encodes_gene_product,['C2000892'],['Alkaline Ceramidase 1'],Alkaline Ceramidase 1,C2000892,1,1,0.0,0.0
+C1456392,RXRA Gene,gene_encodes_gene_product,['C3887580'],['Retinoic Acid Receptor RXR-Alpha'],Retinoic Acid Receptor RXR-Alpha,C3887580,1,1,0.0,0.0
+C1422210,BCO1 Gene,gene_encodes_gene_product,['C1313655'],"[""Beta,Beta-Carotene 15,15'-Dioxygenase""]","Beta,Beta-Carotene 15,15'-Dioxygenase",C1313655,1,1,0.0,0.0
+C1336680,TSKS Gene,gene_encodes_gene_product,['C0968477'],['Testis-Specific Serine Kinase Substrate'],Testis-Specific Serine Kinase Substrate,C0968477,1,1,0.0,0.0
+C1413963,DDX5 Gene,gene_encodes_gene_product,['C1570710'],['Probable ATP-Dependent RNA Helicase DDX5'],Probable ATP-Dependent RNA Helicase DDX5,C1570710,1,1,0.0,0.2857142816326531
+C2240048,SSX2B Gene,gene_encodes_gene_product,['C3273640'],['Protein SSX2'],Protein SSX2,C3273640,1,1,0.0,0.0
+C0812443,THPO Gene,gene_encodes_gene_product,['C3887665'],['Thrombopoietin'],Thrombopoietin,C3887665,1,1,0.0,0.0
+C1419295,RBL1 Gene,gene_encodes_gene_product,['C0599575'],['Retinoblastoma-Like Protein 1'],Retinoblastoma-Like Protein 1,C0599575,1,1,0.0,0.0
+C1824746,CLIP1 Gene,gene_encodes_gene_product,['C2827464'],['CAP-Gly Domain-Containing Linker Protein 1'],CAP-Gly Domain-Containing Linker Protein 1,C2827464,1,1,0.0,0.0
+C1368803,PTPN12 Gene,gene_encodes_gene_product,['C1869547'],['Tyrosine-Protein Phosphatase Non-Receptor Type 12'],Tyrosine-Protein Phosphatase Non-Receptor Type 12,C1869547,1,1,0.0,0.0
+C1423717,OGFR Gene,gene_encodes_gene_product,['C3812731'],['Opioid Growth Factor Receptor'],Opioid Growth Factor Receptor,C3812731,1,1,0.0,0.0
+C1420213,SLC6A3 Gene,gene_encodes_gene_product,['C1439340'],['Sodium-Dependent Dopamine Transporter'],Sodium-Dependent Dopamine Transporter,C1439340,1,1,0.0,0.0
+C1825540,HSP90AB1 Gene,gene_encodes_gene_product,"['C1609942', 'C3273510']","['Endoplasmin', 'Heat Shock Protein HSP 90-Beta']",Endoplasmin || Heat Shock Protein HSP 90-Beta,C1609942 || C3273510,2,2,0.0,0.0
+C1419906,SDHA Gene,gene_encodes_gene_product,['C3541238'],"['Succinate Dehydrogenase [Ubiquinone] Flavoprotein Subunit, Mitochondrial']","Succinate Dehydrogenase [Ubiquinone] Flavoprotein Subunit, Mitochondrial",C3541238,1,1,0.0,0.0
+C1427739,COPS6 Gene,gene_encodes_gene_product,['C1173741'],['COP9 Signalosome Complex Subunit 6'],COP9 Signalosome Complex Subunit 6,C1173741,1,1,0.0,0.0
+C1864633,RUNX1/ZNF687 Fusion Gene,gene_encodes_gene_product,['C3274670'],['RUNX1/ZNF687 Fusion Protein'],RUNX1/ZNF687 Fusion Protein,C3274670,1,1,0.0,0.6666666616666668
+C1416670,KLK10 Gene,gene_encodes_gene_product,['C1449006'],['Kallikrein-10'],Kallikrein-10,C1449006,1,1,0.0,0.0
+C1415090,GLB1 Gene,gene_encodes_gene_product,['C1256865'],['Beta-Galactosidase'],Beta-Galactosidase,C1256865,1,1,0.0,0.0
+C1421409,USP9X Gene,gene_encodes_gene_product,['C1665663'],['Probable Ubiquitin Carboxyl-Terminal Hydrolase FAF-X'],Probable Ubiquitin Carboxyl-Terminal Hydrolase FAF-X,C1665663,1,1,0.0,0.0
+C1823922,ZC3H11A Gene,gene_encodes_gene_product,['C3889403'],['Zinc Finger CCCH Domain-Containing Protein 11A'],Zinc Finger CCCH Domain-Containing Protein 11A,C3889403,1,1,0.0,0.0
+C1417760,NOS2 Gene,gene_encodes_gene_product,['C0669372'],"['Nitric Oxide Synthase, Inducible']","Nitric Oxide Synthase, Inducible",C0669372,1,1,0.0,0.0
+C1333923,HOXC6 Gene,gene_encodes_gene_product,['C1334039'],['Homeobox Protein Hox-C6'],Homeobox Protein Hox-C6,C1334039,1,1,0.0,0.0
+C1416897,LOR Gene,gene_encodes_gene_product,['C0083258'],['Loricrin'],Loricrin,C0083258,1,1,0.0,0.0
+C5202866,H2BW1 Gene,gene_encodes_gene_product,['C5202865'],['Histone H2B Type W-T'],Histone H2B Type W-T,C5202865,1,1,0.0,0.0
+C1420022,SH3BP2 Gene,gene_encodes_gene_product,['C3537390'],['SH3 Domain-Binding Protein 2'],SH3 Domain-Binding Protein 2,C3537390,1,1,0.0,0.0
+C1335204,PDPK1 Gene,gene_encodes_gene_product,['C3711686'],['3-Phosphoinositide-Dependent Protein Kinase 1'],3-Phosphoinositide-Dependent Protein Kinase 1,C3711686,1,1,0.0,0.0
+C1422190,SOST Gene,gene_encodes_gene_product,['C3542926'],['Sclerostin'],Sclerostin,C3542926,1,1,0.0,0.0
+C1823228,TASP1 Gene,gene_encodes_gene_product,['C3541322'],['Threonine Aspartase 1'],Threonine Aspartase 1,C3541322,1,1,0.0,0.0
+C1415855,ID1 Gene,gene_encodes_gene_product,['C1142674'],['DNA-Binding Protein Inhibitor ID-1'],DNA-Binding Protein Inhibitor ID-1,C1142674,1,1,0.0,0.0
+C1423507,GPHN Gene,gene_encodes_gene_product,['C0119082'],['Gephyrin'],Gephyrin,C0119082,1,1,0.0,0.0
+C1334893,NOVA Family Gene,gene_encodes_gene_product,['C1334892'],['NOVA Family'],NOVA Family,C1334892,1,1,1.0,0.7999999952000001
+C1424629,MYCNOS Gene,gene_encodes_gene_product,['C1333228'],['N-cym Protein'],N-cym Protein,C1333228,1,1,0.0,0.0
+C1419608,RP2 Gene,gene_encodes_gene_product,['C2698904'],['Protein XRP2'],Protein XRP2,C2698904,1,1,0.0,0.0
+C1835841,MIR29A Gene,gene_encodes_gene_product,['C2826418'],['MIR29A Pre-miRNA'],MIR29A Pre-miRNA,C2826418,1,1,0.0,0.4999999950000001
+C1332702,CCR8 Gene,gene_encodes_gene_product,['C1307911'],['C-C Chemokine Receptor Type 8'],C-C Chemokine Receptor Type 8,C1307911,1,1,0.0,0.0
+C1413796,CTNNA2 Gene,gene_encodes_gene_product,['C0657307'],['Catenin Alpha-2'],Catenin Alpha-2,C0657307,1,1,0.0,0.0
+C1419620,RPA3 Gene,gene_encodes_gene_product,['C3897719'],['Replication Protein A 14 kDa'],Replication Protein A 14 kDa,C3897719,1,1,0.0,0.0
+C1413212,CD24 Gene,gene_encodes_gene_product,['C2348202'],['Signal Transducer CD24'],Signal Transducer CD24,C2348202,1,1,0.0,0.39999999520000007
+C1335287,PTPRG Gene,gene_encodes_gene_product,['C1335555'],['Receptor-Type Tyrosine-Protein Phosphatase Gamma'],Receptor-Type Tyrosine-Protein Phosphatase Gamma,C1335555,1,1,0.0,0.0
+C1424690,PRICKLE1 Gene,gene_encodes_gene_product,['C4284142'],['Prickle-Like Protein 1'],Prickle-Like Protein 1,C4284142,1,1,0.0,0.0
+C1413181,CCNH Gene,gene_encodes_gene_product,['C1611473'],['Cyclin-H'],Cyclin-H,C1611473,1,1,0.0,0.0
+C1419630,RPL13A Gene,gene_encodes_gene_product,['C3641868'],['60S Ribosomal Protein L13a'],60S Ribosomal Protein L13a,C3641868,1,1,0.0,0.0
+C4727568,Histone H3 Gene,gene_encodes_gene_product,"['C0019647', 'C0086412', 'C3640207', 'C4688347', 'C4722636', 'C4723738', 'C4723822', 'C4724753']","['Histone H3', 'Histone H3.3', 'Histone H3.1', 'Histone H3.2', 'Histone H3.1t', 'Histone H3.3C', 'Histone H3.Y', 'Histone H3-Like Centromeric Protein A']",Histone H3 || Histone H3.3 || Histone H3.1 || Histone H3.2 || Histone H3.1t || Histone H3.3C || Histone H3.Y || Histone H3-Like Centromeric Protein A,C0019647 || C0086412 || C3640207 || C4688347 || C4722636 || C4723738 || C4723822 || C4724753,8,8,0.125,0.6312499950640624
+C1334084,IFNGR2 Gene,gene_encodes_gene_product,['C0252549'],['Interferon Gamma Receptor 2'],Interferon Gamma Receptor 2,C0252549,1,1,0.0,0.0
+C1413391,CHIT1 Gene,gene_encodes_gene_product,['C3502322'],['Chitotriosidase-1'],Chitotriosidase-1,C3502322,1,1,0.0,0.0
+C1426334,EIF2AK4 Gene,gene_encodes_gene_product,['C2354171'],['Eukaryotic Translation Initiation Factor 2-Alpha Kinase 4'],Eukaryotic Translation Initiation Factor 2-Alpha Kinase 4,C2354171,1,1,0.0,0.0
+C1420191,SLC3A1 Gene,gene_encodes_gene_product,['C2986631'],['Neutral and Basic Amino Acid Transport Protein rBAT'],Neutral and Basic Amino Acid Transport Protein rBAT,C2986631,1,1,0.0,0.0
+C1826088,MIR518E Gene,gene_encodes_gene_product,['C3642147'],['MIR518E Pre-miRNA'],MIR518E Pre-miRNA,C3642147,1,1,0.0,0.4999999950000001
+C1538110,WNK1 Gene,gene_encodes_gene_product,['C1453853'],['Serine/Threonine-Protein Kinase WNK1'],Serine/Threonine-Protein Kinase WNK1,C1453853,1,1,0.0,0.39999999520000007
+C1415575,HLA-DRA Gene,gene_encodes_gene_product,['C0019763'],"['HLA Class II Histocompatibility Antigen, DR Alpha Chain']","HLA Class II Histocompatibility Antigen, DR Alpha Chain",C0019763,1,1,0.0,0.0
+C1539327,EDA Gene,gene_encodes_gene_product,"['C5202872', 'C5202873', 'C5204381']","['Ectodysplasin-A2', 'Ectodysplasin-A1', 'EDA Gene Product']",Ectodysplasin-A2 || Ectodysplasin-A1 || EDA Gene Product,C5202872 || C5202873 || C5204381,3,3,0.0,0.2666666650666667
+C1332661,CASP10 Gene,gene_encodes_gene_product,['C1667078'],['Caspase-10'],Caspase-10,C1667078,1,1,0.0,0.0
+C1418948,PROS1 Gene,gene_encodes_gene_product,['C2002622'],['Vitamin K-Dependent Protein S'],Vitamin K-Dependent Protein S,C2002622,1,1,0.0,0.0
+C1334090,IGF2R Gene,gene_encodes_gene_product,['C1334189'],['Cation-Independent Mannose-6 Phosphate Receptor'],Cation-Independent Mannose-6 Phosphate Receptor,C1334189,1,1,0.0,0.0
+C1412286,AGRP Gene,gene_encodes_gene_product,['C1741739'],['Agouti-Related Protein'],Agouti-Related Protein,C1741739,1,1,0.0,0.0
+C1419090,PTP4A3 Gene,gene_encodes_gene_product,['C4723120'],['Protein Tyrosine Phosphatase Type IVA 3'],Protein Tyrosine Phosphatase Type IVA 3,C4723120,1,1,0.0,0.0
+C1420743,TIMP4 Gene,gene_encodes_gene_product,['C1744090'],['Metalloproteinase Inhibitor 4'],Metalloproteinase Inhibitor 4,C1744090,1,1,0.0,0.0
+C1425224,TRPM7 Gene,gene_encodes_gene_product,['C1435009'],['Transient Receptor Potential Cation Channel Subfamily M Member 7'],Transient Receptor Potential Cation Channel Subfamily M Member 7,C1435009,1,1,0.0,0.0
+C1419894,SDC4 Gene,gene_encodes_gene_product,['C1609393'],['Syndecan-4'],Syndecan-4,C1609393,1,1,0.0,0.0
+C1423091,GPR101 Gene,gene_encodes_gene_product,['C3883897'],['Probable G-Protein Coupled Receptor 101'],Probable G-Protein Coupled Receptor 101,C3883897,1,1,0.0,0.0
+C1332101,APEH Gene,gene_encodes_gene_product,['C0207890'],['Acylamino-Acid-Releasing Enzyme'],Acylamino-Acid-Releasing Enzyme,C0207890,1,1,0.0,0.0
+C1418435,PDE9A Gene,gene_encodes_gene_product,['C0760980'],"[""High Affinity cGMP-Specific 3',5'-Cyclic Phosphodiesterase 9A""]","High Affinity cGMP-Specific 3',5'-Cyclic Phosphodiesterase 9A",C0760980,1,1,0.0,0.0
+C1415483,HBD Gene,gene_encodes_gene_product,['C0011244'],['Hemoglobin Subunit Delta'],Hemoglobin Subunit Delta,C0011244,1,1,0.0,0.0
+C1424346,KLF3 Gene,gene_encodes_gene_product,['C5202567'],['Krueppel-Like Factor 3'],Krueppel-Like Factor 3,C5202567,1,1,0.0,0.0
+C1367714,CXCL10 Gene,gene_encodes_gene_product,['C1308752'],['C-X-C Motif Chemokine 10'],C-X-C Motif Chemokine 10,C1308752,1,1,0.0,0.0
+C1837551,RUNX1/SH3D19 Fusion Gene,gene_encodes_gene_product,['C3274669'],['RUNX1/SH3D19 Fusion Protein'],RUNX1/SH3D19 Fusion Protein,C3274669,1,1,0.0,0.6666666616666668
+C1334693,Membrane Protein Gene,gene_encodes_gene_product,"['C0021699', 'C0025252', 'C1180069']","['Transmembrane Protein', 'Membrane Protein', 'Mitochondrial Membrane Protein']",Transmembrane Protein || Membrane Protein || Mitochondrial Membrane Protein,C0021699 || C0025252 || C1180069,3,3,0.0,0.6222222173555557
+C1416502,ITGB6 Gene,gene_encodes_gene_product,['C4085553'],['Integrin Beta-6'],Integrin Beta-6,C4085553,1,1,0.0,0.0
+C1422793,TES Gene,gene_encodes_gene_product,['C2348755'],['Testin'],Testin,C2348755,1,1,0.0,0.0
+C1416526,JAG2 Gene,gene_encodes_gene_product,['C1455531'],['Protein Jagged-2'],Protein Jagged-2,C1455531,1,1,0.0,0.0
+C1822692,KMT5A Gene,gene_encodes_gene_product,['C1173804'],['N-Lysine Methyltransferase KMT5A'],N-Lysine Methyltransferase KMT5A,C1173804,1,1,0.0,0.39999999520000007
+C1413222,CD3D Gene,gene_encodes_gene_product,['C1515132'],['T-Cell Surface Glycoprotein CD3 Delta Chain'],T-Cell Surface Glycoprotein CD3 Delta Chain,C1515132,1,1,0.0,0.0
+C3274636,EWSR1/CREB1 Fusion Gene,gene_encodes_gene_product,['C3274637'],['EWSR1/CREB1 Fusion Protein'],EWSR1/CREB1 Fusion Protein,C3274637,1,1,0.0,0.6666666616666668
+C1416657,KLF1 Gene,gene_encodes_gene_product,['C1569967'],['Krueppel-Like Factor 1'],Krueppel-Like Factor 1,C1569967,1,1,0.0,0.0
+C1537920,MIRLET7I Gene,gene_encodes_gene_product,['C2826442'],['MIRLET7I Pre-miRNA'],MIRLET7I Pre-miRNA,C2826442,1,1,0.0,0.4999999950000001
+C1857782,USP17L2 Gene,gene_encodes_gene_product,['C1451084'],['Ubiquitin Carboxyl-Terminal Hydrolase 17'],Ubiquitin Carboxyl-Terminal Hydrolase 17,C1451084,1,1,0.0,0.0
+C1337030,XPA Gene,gene_encodes_gene_product,['C1506533'],['DNA Repair Protein Complementing XP-A Cells'],DNA Repair Protein Complementing XP-A Cells,C1506533,1,1,0.0,0.0
+C1413630,COX11 Gene,gene_encodes_gene_product,['C2983395'],"['Cytochrome C Oxidase Assembly Protein COX11, Mitochondrial']","Cytochrome C Oxidase Assembly Protein COX11, Mitochondrial",C2983395,1,1,0.0,0.0
+C1366503,HOXA10 Gene,gene_encodes_gene_product,['C1334038'],['Homeobox Protein Hox-A10'],Homeobox Protein Hox-A10,C1334038,1,1,0.0,0.0
+C1427038,CHD7 Gene,gene_encodes_gene_product,['C2699197'],['Chromodomain-Helicase-DNA-Binding Protein 7'],Chromodomain-Helicase-DNA-Binding Protein 7,C2699197,1,1,0.0,0.0
+C1335190,PARD6A Gene,gene_encodes_gene_product,['C1335190'],['Partitioning Defective 6 Homolog Alpha'],Partitioning Defective 6 Homolog Alpha,C1335190,1,1,0.0,0.0
+C1538646,PIK3AP1 Gene,gene_encodes_gene_product,['C1454387'],['Phosphoinositide 3-Kinase Adapter Protein 1'],Phosphoinositide 3-Kinase Adapter Protein 1,C1454387,1,1,0.0,0.0
+C1439352,HRH2 Gene,gene_encodes_gene_product,['C1531432'],['Histamine H2 Receptor'],Histamine H2 Receptor,C1531432,1,1,0.0,0.0
+C1538647,PIK3R5 Gene,gene_encodes_gene_product,['C4084844'],['Phosphoinositide 3-Kinase Regulatory Subunit 5'],Phosphoinositide 3-Kinase Regulatory Subunit 5,C4084844,1,1,0.0,0.0
+C1413323,CEBPB Gene,gene_encodes_gene_product,['C2743373'],['CCAAT/Enhancer Binding Protein Beta'],CCAAT/Enhancer Binding Protein Beta,C2743373,1,1,0.0,0.0
+C1419255,RAMP2 Gene,gene_encodes_gene_product,['C1570781'],['Receptor Activity-Modifying Protein 2'],Receptor Activity-Modifying Protein 2,C1570781,1,1,0.0,0.0
+C1413725,CRY2 Gene,gene_encodes_gene_product,['C3813555'],['Cryptochrome-2'],Cryptochrome-2,C3813555,1,1,0.0,0.0
+C0080298,SRC Gene,gene_encodes_gene_product,['C3853644'],['Proto-Oncogene Tyrosine-Protein Kinase Src'],Proto-Oncogene Tyrosine-Protein Kinase Src,C3853644,1,1,0.0,0.33333332888888895
+C1412291,AHCY Gene,gene_encodes_gene_product,['C3887563'],['Adenosylhomocysteinase'],Adenosylhomocysteinase,C3887563,1,1,0.0,0.0
+C3274726,HMGA2/LPP Short Fusion Gene,gene_encodes_gene_product,['C3274728'],['HMGA2/LPP Short Fusion Protein'],HMGA2/LPP Short Fusion Protein,C3274728,1,1,0.0,0.749999995
+C1420466,AURKA Gene,gene_encodes_gene_product,['C3711557'],['Aurora Kinase A'],Aurora Kinase A,C3711557,1,1,0.0,0.0
+C1333586,FZD4 Gene,gene_encodes_gene_product,['C1333639'],['Frizzled-4'],Frizzled-4,C1333639,1,1,0.0,0.0
+C0017347,Homeobox Gene,gene_encodes_gene_product,['C0242617'],['Homeobox Family Protein'],Homeobox Family Protein,C0242617,1,1,0.0,0.39999999520000007
+C1332089,ANGPT2 Gene,gene_encodes_gene_product,['C3849511'],['Angiopoietin-2'],Angiopoietin-2,C3849511,1,1,0.0,0.0
+C1537607,LRRC32 Gene,gene_encodes_gene_product,['C1430019'],['Leucine-Rich Repeat-Containing Protein 32'],Leucine-Rich Repeat-Containing Protein 32,C1430019,1,1,0.0,0.0
+C1332678,CCL14 Gene,gene_encodes_gene_product,['C1335984'],['C-C Motif Chemokine 14'],C-C Motif Chemokine 14,C1335984,1,1,0.0,0.0
+C1861000,COL1A1/PDGFB Fusion Gene,gene_encodes_gene_product,['C3274601'],['COL1A1/PDGFB Fusion Protein'],COL1A1/PDGFB Fusion Protein,C3274601,1,1,0.0,0.6666666616666668
+C2829556,H3-5 Gene,gene_encodes_gene_product,['C4723738'],['Histone H3.3C'],Histone H3.3C,C4723738,1,1,0.0,0.0
+C0812273,SMARCB1 Gene,gene_encodes_gene_product,['C0292369'],['SWI/SNF-Related Matrix-Associated Actin-Dependent Regulator of Chromatin Subfamily B Member 1'],SWI/SNF-Related Matrix-Associated Actin-Dependent Regulator of Chromatin Subfamily B Member 1,C0292369,1,1,0.0,0.0
+C0079419,TP53 Gene,gene_encodes_gene_product,['C0146283'],['Cellular Tumor Antigen p53'],Cellular Tumor Antigen p53,C0146283,1,1,0.0,0.0
+C1420818,TNFSF18 Gene,gene_encodes_gene_product,['C1313262'],['Tumor Necrosis Factor Ligand Superfamily Member 18'],Tumor Necrosis Factor Ligand Superfamily Member 18,C1313262,1,1,0.0,0.0
+C1425583,NUSAP1 Gene,gene_encodes_gene_product,['C4284185'],['Nucleolar and Spindle-Associated Protein 1'],Nucleolar and Spindle-Associated Protein 1,C4284185,1,1,0.0,0.0
+C1423768,PALM2 Gene,gene_encodes_gene_product,['C4761644'],['Paralemmin-2'],Paralemmin-2,C4761644,1,1,0.0,0.0
+C1332371,BAG1 Gene,gene_encodes_gene_product,['C0379646'],['BAG Family Molecular Chaperone Regulator 1'],BAG Family Molecular Chaperone Regulator 1,C0379646,1,1,0.0,0.0
+C1333242,DNMT3B Gene,gene_encodes_gene_product,['C1452577'],['DNA (Cytosine-5)-Methyltransferase 3B'],DNA (Cytosine-5)-Methyltransferase 3B,C1452577,1,1,0.0,0.0
+C1419420,RNF20 Gene,gene_encodes_gene_product,['C1680604'],['E3 Ubiquitin-Protein Ligase BRE1A'],E3 Ubiquitin-Protein Ligase BRE1A,C1680604,1,1,0.0,0.0
+C1428101,ECHDC3 Gene,gene_encodes_gene_product,['C5202990'],"['Enoyl-CoA Hydratase Domain-Containing Protein 3, Mitochondrial']","Enoyl-CoA Hydratase Domain-Containing Protein 3, Mitochondrial",C5202990,1,1,0.0,0.0
+C1419011,PSMB10 Gene,gene_encodes_gene_product,['C0388576'],['Proteasome Subunit Beta Type-10'],Proteasome Subunit Beta Type-10,C0388576,1,1,0.0,0.0
+C1412096,ABCG1 Gene,gene_encodes_gene_product,['C0963751'],['ATP-Binding Cassette Sub-Family G Member 1'],ATP-Binding Cassette Sub-Family G Member 1,C0963751,1,1,0.0,0.0
+C5202821,H2BU1 Gene,gene_encodes_gene_product,['C5202867'],['Histone H2B Type 3-B'],Histone H2B Type 3-B,C5202867,1,1,0.0,0.0
+C1332790,CSF2RB Gene,gene_encodes_gene_product,['C1449195'],['Cytokine Receptor Common Subunit Beta'],Cytokine Receptor Common Subunit Beta,C1449195,1,1,0.0,0.0
+C1425348,TNFRSF12A Gene,gene_encodes_gene_product,['C1438619'],['Tumor Necrosis Factor Receptor Superfamily Member 12A'],Tumor Necrosis Factor Receptor Superfamily Member 12A,C1438619,1,1,0.0,0.0
+C1420708,TFRC Gene,gene_encodes_gene_product,['C0108801'],['Transferrin Receptor Protein 1'],Transferrin Receptor Protein 1,C0108801,1,1,0.0,0.0
+C1539388,BRINP3 Gene,gene_encodes_gene_product,['C2353785'],['BMP/Retinoic Acid-Inducible Neural-Specific Protein 3'],BMP/Retinoic Acid-Inducible Neural-Specific Protein 3,C2353785,1,1,0.0,0.0
+C1824669,CD46 Gene,gene_encodes_gene_product,['C1505678'],['Membrane Cofactor Protein'],Membrane Cofactor Protein,C1505678,1,1,0.0,0.0
+C1335236,PLPP1 Gene,gene_encodes_gene_product,['C1335404'],['Phospholipid Phosphatase 1'],Phospholipid Phosphatase 1,C1335404,1,1,0.0,0.0
+C1414029,DGKA Gene,gene_encodes_gene_product,['C3815868'],['Diacylglycerol Kinase Alpha'],Diacylglycerol Kinase Alpha,C3815868,1,1,0.0,0.0
+C1539856,SSH2 Gene,gene_encodes_gene_product,['C1999624'],['Protein Phosphatase Slingshot Homolog 2'],Protein Phosphatase Slingshot Homolog 2,C1999624,1,1,0.0,0.0
+C1416977,MAGEA6 Gene,gene_encodes_gene_product,['C3538967'],['Melanoma-Associated Antigen 6'],Melanoma-Associated Antigen 6,C3538967,1,1,0.0,0.0
+C4329396,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.742C>G Mutation,gene_encodes_gene_product,['C4329422'],['BCR/ABL1 Fusion Protein with ABL1 NP_005148.2:p.L248V'],BCR/ABL1 Fusion Protein with ABL1 NP_005148.2:p.L248V,C4329422,1,1,0.0,0.4705882303114187
+C1334086,IFNW1 Gene,gene_encodes_gene_product,['C4281722'],['Interferon Omega-1'],Interferon Omega-1,C4281722,1,1,0.0,0.0
+C0017346,GAG Gene,gene_encodes_gene_product,"['C0017279', 'C0085219', 'C4288019']","['GAG Protein', 'HIV p24 Antigen', 'Viral Protease p15']",GAG Protein || HIV p24 Antigen || Viral Protease p15,C0017279 || C0085219 || C4288019,3,3,0.0,0.16666666500000002
+C1335620,GRK1 Gene,gene_encodes_gene_product,['C1384522'],['Rhodopsin Kinase'],Rhodopsin Kinase,C1384522,1,1,0.0,0.0
+C1336637,TLR5 Gene,gene_encodes_gene_product,['C1308398'],['Toll-Like Receptor 5'],Toll-Like Receptor 5,C1308398,1,1,0.0,0.0
+C1334527,MPP3 Gene,gene_encodes_gene_product,['C0762540'],['MAGUK p55 Subfamily Member 3'],MAGUK p55 Subfamily Member 3,C0762540,1,1,0.0,0.0
+C1539630,HBEGF Gene,gene_encodes_gene_product,"['C3884528', 'C3888283', 'C3899001']","['Heparin-Binding EGF-Like Growth Factor', 'Proheparin-Binding EGF-Like Growth Factor', 'HBEGF Gene Product']",Heparin-Binding EGF-Like Growth Factor || Proheparin-Binding EGF-Like Growth Factor || HBEGF Gene Product,C3884528 || C3888283 || C3899001,3,3,0.0,0.2666666650666667
+C1861917,DEK/NUP214 Fusion Gene,gene_encodes_gene_product,['C3274602'],['DEK/NUP214 Fusion Protein'],DEK/NUP214 Fusion Protein,C3274602,1,1,0.0,0.6666666616666668
+C1414645,FMO3 Gene,gene_encodes_gene_product,['C3888280'],['Dimethylaniline Monooxygenase [N-Oxide-Forming] 3'],Dimethylaniline Monooxygenase [N-Oxide-Forming] 3,C3888280,1,1,0.0,0.0
+C3275261,MYO18A/PDGFRB Fusion Gene,gene_encodes_gene_product,['C3274995'],['MYO18A/PDGFRB Fusion Protein'],MYO18A/PDGFRB Fusion Protein,C3274995,1,1,0.0,0.6666666616666668
+C1413467,CLDN18 Gene,gene_encodes_gene_product,"['C4724725', 'C4725709', 'C4725710']","['Claudin-18', 'CLDN18 Gene Product', 'Claudin-18 Isoform A2']",Claudin-18 || CLDN18 Gene Product || Claudin-18 Isoform A2,C4724725 || C4725709 || C4725710,3,3,0.0,0.2666666650666667
+C0314619,Immunoglobulin Lambda Locus,gene_encodes_gene_product,['C0021037'],"['Immunoglobulin Light Chain, Lambda']","Immunoglobulin Light Chain, Lambda",C0021037,1,1,0.0,0.5714285665306124
+C1415034,GDF3 Gene,gene_encodes_gene_product,['C0657189'],['Growth/Differentiation Factor 3'],Growth/Differentiation Factor 3,C0657189,1,1,0.0,0.0
+C1415653,HOXA1 Gene,gene_encodes_gene_product,['C1741313'],['Homeobox Protein Hox-A1'],Homeobox Protein Hox-A1,C1741313,1,1,0.0,0.0
+C1412179,ADA Gene,gene_encodes_gene_product,['C0001457'],['Adenosine Deaminase'],Adenosine Deaminase,C0001457,1,1,0.0,0.0
+C0919432,SMAD3 Gene,gene_encodes_gene_product,['C0529119'],['Mothers Against Decapentaplegic Homolog 3'],Mothers Against Decapentaplegic Homolog 3,C0529119,1,1,0.0,0.0
+C1538637,PHLDB3 Gene,gene_encodes_gene_product,['C4318406'],['Pleckstrin Homology-Like Domain Family B Member 3'],Pleckstrin Homology-Like Domain Family B Member 3,C4318406,1,1,0.0,0.0
+C0812309,LTB Gene,gene_encodes_gene_product,['C1664181'],['Lymphotoxin-Beta'],Lymphotoxin-Beta,C1664181,1,1,0.0,0.0
+C1416788,LAMP1 Gene,gene_encodes_gene_product,['C3539735'],['Lysosome-Associated Membrane Glycoprotein 1'],Lysosome-Associated Membrane Glycoprotein 1,C3539735,1,1,0.0,0.0
+C1337106,TBP Gene,gene_encodes_gene_product,['C0144555'],['TATA-Box-Binding Protein'],TATA-Box-Binding Protein,C0144555,1,1,0.0,0.0
+C2828720,SPATS2L Gene,gene_encodes_gene_product,['C3814474'],['SPATS2-Like Protein'],SPATS2-Like Protein,C3814474,1,1,0.0,0.0
+C1332126,AXIN2 Gene,gene_encodes_gene_product,['C1454580'],['Axin-2'],Axin-2,C1454580,1,1,0.0,0.0
+C1415655,HOXA13 Gene,gene_encodes_gene_product,['C0390662'],['Homeobox Protein Hox-A13'],Homeobox Protein Hox-A13,C0390662,1,1,0.0,0.0
+C1413713,CRLF1 Gene,gene_encodes_gene_product,['C3539575'],['Cytokine Receptor-Like Factor 1'],Cytokine Receptor-Like Factor 1,C3539575,1,1,0.0,0.0
+C1442752,SLC7A2 Gene,gene_encodes_gene_product,['C1609650'],['Cationic Amino Acid Transporter 2'],Cationic Amino Acid Transporter 2,C1609650,1,1,0.0,0.0
+C1822731,SKAP2 Gene,gene_encodes_gene_product,['C1740186'],['Src Kinase-Associated Phosphoprotein 2'],Src Kinase-Associated Phosphoprotein 2,C1740186,1,1,0.0,0.0
+C1825625,ISX Gene,gene_encodes_gene_product,['C3657794'],['Intestine-Specific Homeobox'],Intestine-Specific Homeobox,C3657794,1,1,0.0,0.0
+C1418274,PAX2 Gene,gene_encodes_gene_product,['C0135572'],['Paired Box Protein Pax-2'],Paired Box Protein Pax-2,C0135572,1,1,0.0,0.0
+C1332758,CHRM1 Gene,gene_encodes_gene_product,['C1318050'],['Muscarinic Acetylcholine Receptor M1'],Muscarinic Acetylcholine Receptor M1,C1318050,1,1,0.0,0.0
+C1420291,SNRPD3 Gene,gene_encodes_gene_product,['C4319959'],['Small Nuclear Ribonucleoprotein Sm D3'],Small Nuclear Ribonucleoprotein Sm D3,C4319959,1,1,0.0,0.0
+C1420131,SLCO1B1 Gene,gene_encodes_gene_product,['C0752582'],['Solute Carrier Organic Anion Transporter Family Member 1B1'],Solute Carrier Organic Anion Transporter Family Member 1B1,C0752582,1,1,0.0,0.0
+C1427147,ZNF429 Gene,gene_encodes_gene_product,['C4553928'],['Zinc Finger Protein 429'],Zinc Finger Protein 429,C4553928,1,1,0.0,0.0
+C1413952,DDX10 Gene,gene_encodes_gene_product,['C1567650'],['Probable ATP-Dependent RNA Helicase DDX10'],Probable ATP-Dependent RNA Helicase DDX10,C1567650,1,1,0.0,0.2857142816326531
+C1416487,ITGA4 Gene,gene_encodes_gene_product,['C4721500'],['Integrin Alpha-4'],Integrin Alpha-4,C4721500,1,1,0.0,0.0
+C1366645,CD36 Gene,gene_encodes_gene_product,['C3887682'],['Platelet Glycoprotein 4'],Platelet Glycoprotein 4,C3887682,1,1,0.0,0.0
+C1415274,GPT Gene,gene_encodes_gene_product,['C3887708'],['Alanine Aminotransferase 1'],Alanine Aminotransferase 1,C3887708,1,1,0.0,0.0
+C1333257,DUSP1 Gene,gene_encodes_gene_product,['C0287531'],['Dual Specificity Protein Phosphatase 1'],Dual Specificity Protein Phosphatase 1,C0287531,1,1,0.0,0.0
+C1413868,CYP2A6 Gene,gene_encodes_gene_product,['C3884187'],['Cytochrome P450 2A6'],Cytochrome P450 2A6,C3884187,1,1,0.0,0.0
+C3642280,MLL/MLLT11 Fusion Gene,gene_encodes_gene_product,['C3642281'],['MLL/MLLT11 Fusion Protein'],MLL/MLLT11 Fusion Protein,C3642281,1,1,0.0,0.6666666616666668
+C1427489,RTN4RL1 Gene,gene_encodes_gene_product,['C1258610'],['Reticulon-4 Receptor-Like 1'],Reticulon-4 Receptor-Like 1,C1258610,1,1,0.0,0.0
+C1425411,TRERF1 Gene,gene_encodes_gene_product,['C1448137'],['Transcriptional-Regulating Factor 1'],Transcriptional-Regulating Factor 1,C1448137,1,1,0.0,0.0
+C1420312,SORL1 Gene,gene_encodes_gene_product,['C1307867'],['Sortilin-Related Receptor'],Sortilin-Related Receptor,C1307867,1,1,0.0,0.0
+C1417106,MEIS2 Gene,gene_encodes_gene_product,['C3542427'],['Homeobox Protein Meis2'],Homeobox Protein Meis2,C3542427,1,1,0.0,0.39999999520000007
+C1422227,ADGRG6 Gene,gene_encodes_gene_product,['C4723808'],['Adhesion G-Protein Coupled Receptor G6'],Adhesion G-Protein Coupled Receptor G6,C4723808,1,1,0.0,0.0
+C1418676,PMP2 Gene,gene_encodes_gene_product,['C3178426'],['Myelin P2 Protein'],Myelin P2 Protein,C3178426,1,1,0.0,0.0
+C0812267,ERBB4 Gene,gene_encodes_gene_product,['C3853568'],['Receptor Tyrosine-Protein Kinase ErbB-4'],Receptor Tyrosine-Protein Kinase ErbB-4,C3853568,1,1,0.0,0.0
+C4744600,CREB3L2/PPARG Fusion Gene,gene_encodes_gene_product,['C4744601'],['CREB3L2/PPARG Fusion Protein'],CREB3L2/PPARG Fusion Protein,C4744601,1,1,0.0,0.6666666616666668
+C1366586,SNW1 Gene,gene_encodes_gene_product,['C0755123'],['SNW Domain-Containing Protein 1'],SNW Domain-Containing Protein 1,C0755123,1,1,0.0,0.0
+C1425505,SPANXF1 Gene,gene_encodes_gene_product,['C2985372'],['Sperm Protein Associated With the Nucleus on the X Chromosome B/F'],Sperm Protein Associated With the Nucleus on the X Chromosome B/F,C2985372,1,1,0.0,0.0
+C1335636,RPL13 Gene,gene_encodes_gene_product,['C0245587'],['60S Ribosomal Protein L13'],60S Ribosomal Protein L13,C0245587,1,1,0.0,0.0
+C1417089,MDM4 Gene,gene_encodes_gene_product,['C2981746'],['Protein Mdm4'],Protein Mdm4,C2981746,1,1,0.0,0.4999999950000001
+C1420267,SNAI1 Gene,gene_encodes_gene_product,['C2984122'],['Zinc Finger Protein SNAI1'],Zinc Finger Protein SNAI1,C2984122,1,1,0.0,0.33333332888888895
+C1826814,RGPD3 Gene,gene_encodes_gene_product,['C4552659'],['RanBP2-Like and GRIP Domain-Containing Protein 3'],RanBP2-Like and GRIP Domain-Containing Protein 3,C4552659,1,1,0.0,0.0
+C1538557,OXCT1 Gene,gene_encodes_gene_product,['C4761432'],"['Succinyl-CoA:3-Ketoacid Coenzyme A Transferase 1, Mitochondrial']","Succinyl-CoA:3-Ketoacid Coenzyme A Transferase 1, Mitochondrial",C4761432,1,1,0.0,0.0
+C1424917,APOBEC3A Gene,gene_encodes_gene_product,['C1611017'],['DNA dC to dU-Editing Enzyme APOBEC-3A'],DNA dC to dU-Editing Enzyme APOBEC-3A,C1611017,1,1,0.0,0.0
+C1421705,ZNF217 Gene,gene_encodes_gene_product,['C1447657'],['Zinc Finger Protein 217'],Zinc Finger Protein 217,C1447657,1,1,0.0,0.0
+C0812250,FOXN3 Gene,gene_encodes_gene_product,['C0539380'],['Forkhead Box Protein N3'],Forkhead Box Protein N3,C0539380,1,1,0.0,0.0
+C1413947,DDIT3 Gene,gene_encodes_gene_product,['C0170521'],['DNA Damage-Inducible Transcript 3 Protein'],DNA Damage-Inducible Transcript 3 Protein,C0170521,1,1,0.0,0.0
+C1332771,COL18A1 Gene,gene_encodes_gene_product,"['C3887702', 'C4082596', 'C4086100']","['Endostatin', 'Collagen Alpha-1(XVIII) Chain', 'COL18A1 Gene Product']",Endostatin || Collagen Alpha-1(XVIII) Chain || COL18A1 Gene Product,C3887702 || C4082596 || C4086100,3,3,0.0,0.2666666650666667
+C1537845,MIR208A Gene,gene_encodes_gene_product,['C2826500'],['MIR208A Pre-miRNA'],MIR208A Pre-miRNA,C2826500,1,1,0.0,0.4999999950000001
+C5202975,H2AC6 Gene,gene_encodes_gene_product,['C5202974'],['Histone H2A Type 1-C'],Histone H2A Type 1-C,C5202974,1,1,0.0,0.0
+C1419758,RREB1 Gene,gene_encodes_gene_product,['C0530438'],['Ras-Responsive Element-Binding Protein 1'],Ras-Responsive Element-Binding Protein 1,C0530438,1,1,0.0,0.0
+C1335798,S100A9 Gene,gene_encodes_gene_product,['C4281724'],['Protein S100-A9'],Protein S100-A9,C4281724,1,1,0.0,0.0
+C1417052,MBD4 Gene,gene_encodes_gene_product,['C0766421'],['Methyl-CpG-Binding Domain Protein 4'],Methyl-CpG-Binding Domain Protein 4,C0766421,1,1,0.0,0.0
+C1366561,CD80 Gene,gene_encodes_gene_product,['C4048302'],['T-Lymphocyte Activation Antigen CD80'],T-Lymphocyte Activation Antigen CD80,C4048302,1,1,0.0,0.33333332888888895
+C1333352,ERBIN Gene,gene_encodes_gene_product,['C1447765'],['Protein LAP2'],Protein LAP2,C1447765,1,1,0.0,0.0
+C1428860,ANKRD24 Gene,gene_encodes_gene_product,['C4723806'],['Ankyrin Repeat Domain-Containing Protein 24'],Ankyrin Repeat Domain-Containing Protein 24,C4723806,1,1,0.0,0.0
+C1425351,TXNRD2 Gene,gene_encodes_gene_product,['C3815867'],"['Thioredoxin Reductase 2, Mitochondrial']","Thioredoxin Reductase 2, Mitochondrial",C3815867,1,1,0.0,0.0
+C1332093,ANP32D Gene,gene_encodes_gene_product,['C1332094'],['Acidic Leucine-Rich Nuclear Phosphoprotein 32 Family Member D'],Acidic Leucine-Rich Nuclear Phosphoprotein 32 Family Member D,C1332094,1,1,0.0,0.0
+C1539511,FCRL1 Gene,gene_encodes_gene_product,['C2975217'],['Fc Receptor-Like Protein 1'],Fc Receptor-Like Protein 1,C2975217,1,1,0.0,0.0
+C1412470,APOA4 Gene,gene_encodes_gene_product,['C2930630'],['Apolipoprotein A-IV'],Apolipoprotein A-IV,C2930630,1,1,0.0,0.0
+C1537399,IFIH1 Gene,gene_encodes_gene_product,['C1310463'],['Interferon-Induced Helicase C Domain-Containing Protein 1'],Interferon-Induced Helicase C Domain-Containing Protein 1,C1310463,1,1,0.0,0.0
+C1414141,DPP4 Gene,gene_encodes_gene_product,['C1447020'],['Dipeptidyl Peptidase 4'],Dipeptidyl Peptidase 4,C1447020,1,1,0.0,0.0
+C1334864,NCK2 Gene,gene_encodes_gene_product,['C1334865'],['Cytoplasmic Protein NCK2'],Cytoplasmic Protein NCK2,C1334865,1,1,0.0,0.39999999520000007
+C1412079,ABCC4 Gene,gene_encodes_gene_product,['C3538745'],['Multidrug Resistance-Associated Protein 4'],Multidrug Resistance-Associated Protein 4,C3538745,1,1,0.0,0.0
+C1540016,TMEM43 Gene,gene_encodes_gene_product,['C5400887'],['Transmembrane Protein 43'],Transmembrane Protein 43,C5400887,1,1,0.0,0.0
+C1421237,TUBG2 Gene,gene_encodes_gene_product,['C1517436'],['Tubulin Gamma-2 Chain'],Tubulin Gamma-2 Chain,C1517436,1,1,0.0,0.0
+C1420400,SRF Gene,gene_encodes_gene_product,['C0074398'],['Serum Response Factor'],Serum Response Factor,C0074398,1,1,0.0,0.0
+C1425508,AGO3 Gene,gene_encodes_gene_product,['C2827478'],['Protein Argonaute-3'],Protein Argonaute-3,C2827478,1,1,0.0,0.0
+C1414991,GAS6 Gene,gene_encodes_gene_product,['C0218352'],['Growth Arrest-Specific Protein 6'],Growth Arrest-Specific Protein 6,C0218352,1,1,0.0,0.0
+C1414609,FGL2 Gene,gene_encodes_gene_product,['C1451210'],['Fibroleukin'],Fibroleukin,C1451210,1,1,0.0,0.0
+C1420830,TNP1 Gene,gene_encodes_gene_product,['C0146524'],['Spermatid Nuclear Transition Protein 1'],Spermatid Nuclear Transition Protein 1,C0146524,1,1,0.0,0.0
+C1822705,SH2B3 Gene,gene_encodes_gene_product,['C1453749'],['SH2B Adapter Protein 3'],SH2B Adapter Protein 3,C1453749,1,1,0.0,0.0
+C1425697,CDK5RAP3 Gene,gene_encodes_gene_product,['C2347276'],['CDK5 Regulatory Subunit-Associated Protein 3'],CDK5 Regulatory Subunit-Associated Protein 3,C2347276,1,1,0.0,0.0
+C1421564,YWHAZ Gene,gene_encodes_gene_product,['C3492243'],['14-3-3 Protein Zeta/Delta'],14-3-3 Protein Zeta/Delta,C3492243,1,1,0.0,0.0
+C1412244,ADM Gene,gene_encodes_gene_product,['C0215825'],['ADM'],ADM,C0215825,1,1,1.0,0.6666666622222223
+C1623430,JUN Family Gene,gene_encodes_gene_product,['C0085296'],['JUN Family Protein'],JUN Family Protein,C0085296,1,1,0.0,0.6666666616666668
+C1539368,ETNK1 Gene,gene_encodes_gene_product,['C1565603'],['Ethanolamine Kinase 1'],Ethanolamine Kinase 1,C1565603,1,1,0.0,0.0
+C1826831,RINT1 Gene,gene_encodes_gene_product,['C0965122'],['RAD50-Interacting Protein 1'],RAD50-Interacting Protein 1,C0965122,1,1,0.0,0.0
+C1419413,RNASEL Gene,gene_encodes_gene_product,['C0071795'],['2-5A-Dependent Ribonuclease'],2-5A-Dependent Ribonuclease,C0071795,1,1,0.0,0.0
+C1332776,COX6C Gene,gene_encodes_gene_product,['C1333194'],['Cytochrome C Oxidase Subunit 6C'],Cytochrome C Oxidase Subunit 6C,C1333194,1,1,0.0,0.0
+C1332407,BDKRB2 Gene,gene_encodes_gene_product,['C4048586'],['B2 Bradykinin Receptor'],B2 Bradykinin Receptor,C4048586,1,1,0.0,0.0
+C1366512,GRB10 Gene,gene_encodes_gene_product,['C1430275'],['Growth Factor Receptor-Bound Protein 10'],Growth Factor Receptor-Bound Protein 10,C1430275,1,1,0.0,0.0
+C1823486,TRIAP1 Gene,gene_encodes_gene_product,['C1567287'],['TP53-Regulated Inhibitor of Apoptosis 1'],TP53-Regulated Inhibitor of Apoptosis 1,C1567287,1,1,0.0,0.0
+C1419254,RAMP1 Gene,gene_encodes_gene_product,['C1570780'],['Receptor Activity-Modifying Protein 1'],Receptor Activity-Modifying Protein 1,C1570780,1,1,0.0,0.0
+C1414463,ESRRA Gene,gene_encodes_gene_product,['C3539837'],['Steroid Hormone Receptor ERR1'],Steroid Hormone Receptor ERR1,C3539837,1,1,0.0,0.0
+C1414935,GAGE6 Gene,gene_encodes_gene_product,['C3541251'],['G Antigen 6'],G Antigen 6,C3541251,1,1,0.0,0.0
+C1420074,SIX3 Gene,gene_encodes_gene_product,['C0386556'],['Homeobox Protein SIX3'],Homeobox Protein SIX3,C0386556,1,1,0.0,0.39999999520000007
+C1426225,PGBD5 Gene,gene_encodes_gene_product,['C3815180'],['PiggyBac Transposable Element-Derived Protein 5'],PiggyBac Transposable Element-Derived Protein 5,C3815180,1,1,0.0,0.0
+C0812231,WNT2 Gene,gene_encodes_gene_product,['C0123987'],['Protein Wnt-2'],Protein Wnt-2,C0123987,1,1,0.0,0.0
+C1416851,LIG1 Gene,gene_encodes_gene_product,['C0114615'],['DNA Ligase 1'],DNA Ligase 1,C0114615,1,1,0.0,0.0
+C1706636,ACVR2A Gene,gene_encodes_gene_product,['C2003673'],['Activin Receptor Type-2A'],Activin Receptor Type-2A,C2003673,1,1,0.0,0.0
+C1418381,PCNX2 Gene,gene_encodes_gene_product,['C4723811'],['Pecanex-Like Protein 2'],Pecanex-Like Protein 2,C4723811,1,1,0.0,0.0
+C1421339,UGT2B17 Gene,gene_encodes_gene_product,['C3537397'],['UDP-Glucuronosyltransferase 2B17'],UDP-Glucuronosyltransferase 2B17,C3537397,1,1,0.0,0.0
+C1538117,WWTR1 Gene,gene_encodes_gene_product,['C2973330'],['WW Domain-Containing Transcription Regulator Protein 1'],WW Domain-Containing Transcription Regulator Protein 1,C2973330,1,1,0.0,0.0
+C1417732,NIT1 Gene,gene_encodes_gene_product,['C4288605'],['Nitrilase Homolog 1'],Nitrilase Homolog 1,C4288605,1,1,0.0,0.0
+C3275004,TPR/NTRK1 Fusion Gene TRKT1,gene_encodes_gene_product,['C3275006'],['TPR/NTRK1 Fusion Protein TRKT1'],TPR/NTRK1 Fusion Protein TRKT1,C3275006,1,1,0.0,0.749999995
+C1414431,EPHB4 Gene,gene_encodes_gene_product,['C3810533'],['Ephrin Type-B Receptor 4'],Ephrin Type-B Receptor 4,C3810533,1,1,0.0,0.0
+C1421267,UBC Gene,gene_encodes_gene_product,['C1523983'],['Polyubiquitin-C'],Polyubiquitin-C,C1523983,1,1,0.0,0.0
+C1420877,TPR Gene,gene_encodes_gene_product,['C1098484'],['Nucleoprotein TPR'],Nucleoprotein TPR,C1098484,1,1,0.0,0.4999999950000001
+C1413204,CD163 Gene,gene_encodes_gene_product,['C1570089'],['Scavenger Receptor Cysteine-Rich Type 1 Protein M130'],Scavenger Receptor Cysteine-Rich Type 1 Protein M130,C1570089,1,1,0.0,0.0
+C1826005,MIR181A2 Gene,gene_encodes_gene_product,['C2826477'],['MIR181A2 Pre-miRNA'],MIR181A2 Pre-miRNA,C2826477,1,1,0.0,0.4999999950000001
+C1417239,MPG Gene,gene_encodes_gene_product,['C0171196'],['DNA-3-Methyladenine Glycosylase'],DNA-3-Methyladenine Glycosylase,C0171196,1,1,0.0,0.0
+C1420645,ZEB1 Gene,gene_encodes_gene_product,['C4083254'],['Zinc Finger E-Box-Binding Homeobox 1'],Zinc Finger E-Box-Binding Homeobox 1,C4083254,1,1,0.0,0.0
+C1427910,SLC16A11 Gene,gene_encodes_gene_product,['C3851417'],['Monocarboxylate Transporter 11'],Monocarboxylate Transporter 11,C3851417,1,1,0.0,0.0
+C1425323,KHDRBS3 Gene,gene_encodes_gene_product,['C5202839'],"['KH Domain-Containing, RNA-Binding, Signal Transduction-Associated Protein 3']","KH Domain-Containing, RNA-Binding, Signal Transduction-Associated Protein 3",C5202839,1,1,0.0,0.0
+C1424880,IL27RA Gene,gene_encodes_gene_product,['C1431316'],['Interleukin-27 Receptor Subunit Alpha'],Interleukin-27 Receptor Subunit Alpha,C1431316,1,1,0.0,0.0
+C1336681,TSLP Gene,gene_encodes_gene_product,['C3853698'],['Thymic Stromal Lymphopoietin'],Thymic Stromal Lymphopoietin,C3853698,1,1,0.0,0.0
+C1425021,GOPC Gene,gene_encodes_gene_product,['C3273483'],['Golgi-Associated PDZ and Coiled-Coil Motif-Containing Protein'],Golgi-Associated PDZ and Coiled-Coil Motif-Containing Protein,C3273483,1,1,0.0,0.0
+C1824950,DNAJC19 Gene,gene_encodes_gene_product,['C5401222'],['Mitochondrial Import Inner Membrane Translocase Subunit TIM14'],Mitochondrial Import Inner Membrane Translocase Subunit TIM14,C5401222,1,1,0.0,0.0
+C2240326,BABAM1 Gene,gene_encodes_gene_product,['C2715587'],['BRISC and BRCA1-A Complex Member 1'],BRISC and BRCA1-A Complex Member 1,C2715587,1,1,0.0,0.0
+C1332028,ADRA2A Gene,gene_encodes_gene_product,['C0391398'],['Alpha-2A Adrenergic Receptor'],Alpha-2A Adrenergic Receptor,C0391398,1,1,0.0,0.0
+C1537491,KLHL42 Gene,gene_encodes_gene_product,['C2716215'],['Kelch-Like Protein 42'],Kelch-Like Protein 42,C2716215,1,1,0.0,0.0
+C1414197,DUX4 Gene,gene_encodes_gene_product,['C1317909'],['Double Homeobox Protein 4'],Double Homeobox Protein 4,C1317909,1,1,0.0,0.0
+C1414152,DRG2 Gene,gene_encodes_gene_product,['C0915111'],['Developmentally-Regulated GTP-Binding Protein 2'],Developmentally-Regulated GTP-Binding Protein 2,C0915111,1,1,0.0,0.0
+C1333535,FGF10 Gene,gene_encodes_gene_product,['C1432620'],['Fibroblast Growth Factor 10'],Fibroblast Growth Factor 10,C1432620,1,1,0.0,0.0
+C1420744,TJP1 Gene,gene_encodes_gene_product,['C1451683'],['Tight Junction Protein ZO-1'],Tight Junction Protein ZO-1,C1451683,1,1,0.0,0.0
+C1868260,CCDC6/PDGFRB Fusion Gene,gene_encodes_gene_product,['C3274781'],['CCDC6/PDGFRB Fusion Protein'],CCDC6/PDGFRB Fusion Protein,C3274781,1,1,0.0,0.6666666616666668
+C1413064,CACNA1S Gene,gene_encodes_gene_product,['C1439118'],['Voltage-Dependent L-Type Calcium Channel Subunit Alpha-1S'],Voltage-Dependent L-Type Calcium Channel Subunit Alpha-1S,C1439118,1,1,0.0,0.0
+C1418374,PCM1 Gene,gene_encodes_gene_product,['C3273685'],['Pericentriolar Material 1 Protein'],Pericentriolar Material 1 Protein,C3273685,1,1,0.0,0.0
+C1332323,Apoptosis Promoter Gene,gene_encodes_gene_product,['C1332322'],['Apoptosis Promoter'],Apoptosis Promoter,C1332322,1,1,1.0,0.7999999952000001
+C1334145,ITGAX Gene,gene_encodes_gene_product,['C4082262'],['Integrin Alpha-X'],Integrin Alpha-X,C4082262,1,1,0.0,0.0
+C5202976,H2AC7 Gene,gene_encodes_gene_product,['C5202977'],['Histone H2A Type 1-D'],Histone H2A Type 1-D,C5202977,1,1,0.0,0.0
+C1334517,MLLT6 Gene,gene_encodes_gene_product,['C1307583'],['Protein AF-17'],Protein AF-17,C1307583,1,1,0.0,0.0
+C1414318,EHD1 Gene,gene_encodes_gene_product,['C4284914'],['EH Domain-Containing Protein 1'],EH Domain-Containing Protein 1,C4284914,1,1,0.0,0.0
+C1334311,KLRD1 Gene,gene_encodes_gene_product,['C1506359'],['Natural Killer Cells Antigen CD94'],Natural Killer Cells Antigen CD94,C1506359,1,1,0.0,0.0
+C2675457,EWSR1/POU5F1 Fusion Gene,gene_encodes_gene_product,['C3274640'],['EWSR1/POU5F1 Fusion Protein'],EWSR1/POU5F1 Fusion Protein,C3274640,1,1,0.0,0.6666666616666668
+C1412398,ANGPT4 Gene,gene_encodes_gene_product,['C0765152'],['Angiopoietin-4'],Angiopoietin-4,C0765152,1,1,0.0,0.0
+C1335829,SKIV2L Gene,gene_encodes_gene_product,['C1333948'],['Helicase SKI2W'],Helicase SKI2W,C1333948,1,1,0.0,0.0
+C1332018,ADAMTS1 Gene,gene_encodes_gene_product,['C1307941'],['A Disintegrin and Metalloprotease with Thrombospondin Motifs 1'],A Disintegrin and Metalloprotease with Thrombospondin Motifs 1,C1307941,1,1,0.0,0.0
+C1826336,MYSM1 Gene,gene_encodes_gene_product,['C1958029'],['Histone H2A Deubiquitinase MYSM1'],Histone H2A Deubiquitinase MYSM1,C1958029,1,1,0.0,0.33333332888888895
+C1416406,IL21 Gene,gene_encodes_gene_product,['C0962190'],['Interleukin-21'],Interleukin-21,C0962190,1,1,0.0,0.0
+C1538907,ACTL6A Gene,gene_encodes_gene_product,['C4761495'],['Actin-Like Protein 6A'],Actin-Like Protein 6A,C4761495,1,1,0.0,0.0
+C1413239,CD79B Gene,gene_encodes_gene_product,['C1506376'],['B-Cell Antigen Receptor Complex-Associated Protein Beta Chain'],B-Cell Antigen Receptor Complex-Associated Protein Beta Chain,C1506376,1,1,0.0,0.0
+C1333541,FGFR1OP Gene,gene_encodes_gene_product,['C0764082'],['FGFR1 Oncogene Partner'],FGFR1 Oncogene Partner,C0764082,1,1,0.0,0.0
+C1419227,RAC1 Gene,gene_encodes_gene_product,['C1430928'],['Ras-Related C3 Botulinum Toxin Substrate 1'],Ras-Related C3 Botulinum Toxin Substrate 1,C1430928,1,1,0.0,0.0
+C1537846,MIR210 Gene,gene_encodes_gene_product,['C2826502'],['MIR210 Pre-miRNA'],MIR210 Pre-miRNA,C2826502,1,1,0.0,0.4999999950000001
+C1414289,EEF1B2 Gene,gene_encodes_gene_product,['C1516806'],['Elongation Factor 1-Beta'],Elongation Factor 1-Beta,C1516806,1,1,0.0,0.0
+C1540293,CD276 Gene,gene_encodes_gene_product,['C2985420'],['CD276 Antigen'],CD276 Antigen,C2985420,1,1,0.0,0.4999999950000001
+C1417768,NOTCH3 Gene,gene_encodes_gene_product,['C1452875'],['Neurogenic Locus Notch Homolog Protein 3'],Neurogenic Locus Notch Homolog Protein 3,C1452875,1,1,0.0,0.0
+C1418492,PFKM Gene,gene_encodes_gene_product,['C1448495'],"['6-Phosphofructokinase, Muscle Type']","6-Phosphofructokinase, Muscle Type",C1448495,1,1,0.0,0.0
+C1824302,VSIR Gene,gene_encodes_gene_product,['C4049985'],['V-Type Immunoglobulin Domain-Containing Suppressor of T-Cell Activation'],V-Type Immunoglobulin Domain-Containing Suppressor of T-Cell Activation,C4049985,1,1,0.0,0.0
+C1366618,CDKN1C Gene,gene_encodes_gene_product,['C0906558'],['Cyclin-Dependent Kinase Inhibitor 1C'],Cyclin-Dependent Kinase Inhibitor 1C,C0906558,1,1,0.0,0.0
+C1417744,NME5 Gene,gene_encodes_gene_product,['C2985147'],['Nucleoside Diphosphate Kinase Homolog 5'],Nucleoside Diphosphate Kinase Homolog 5,C2985147,1,1,0.0,0.0
+C1538879,ROBO3 Gene,gene_encodes_gene_product,['C1567879'],['Roundabout Homolog 3'],Roundabout Homolog 3,C1567879,1,1,0.0,0.0
+C1420613,TBX3 Gene,gene_encodes_gene_product,['C3640152'],['T-Box Transcription Factor TBX3'],T-Box Transcription Factor TBX3,C3640152,1,1,0.0,0.33333332888888895
+C3147813,MIR210HG Gene,gene_encodes_gene_product,['C4761370'],['MIR210 Host Gene Long Noncoding RNA'],MIR210 Host Gene Long Noncoding RNA,C4761370,1,1,0.0,0.24999999625000005
+C0812245,TP53BP2 Gene,gene_encodes_gene_product,['C0290923'],['Apoptosis-Stimulating of p53 Protein 2'],Apoptosis-Stimulating of p53 Protein 2,C0290923,1,1,0.0,0.0
+C1336933,VEGFC Gene,gene_encodes_gene_product,['C0388911'],['Vascular Endothelial Growth Factor C'],Vascular Endothelial Growth Factor C,C0388911,1,1,0.0,0.0
+C1416942,NCR2 Gene,gene_encodes_gene_product,['C2350724'],['Natural Cytotoxicity Triggering Receptor 2'],Natural Cytotoxicity Triggering Receptor 2,C2350724,1,1,0.0,0.0
+C1333342,EPOR Gene,gene_encodes_gene_product,['C0059570'],['Erythropoietin Receptor'],Erythropoietin Receptor,C0059570,1,1,0.0,0.0
+C1426808,AJUBA Gene,gene_encodes_gene_product,['C1433250'],['LIM Domain-Containing Protein Ajuba'],LIM Domain-Containing Protein Ajuba,C1433250,1,1,0.0,0.33333332888888895
+C1333693,GPR32 Gene,gene_encodes_gene_product,['C0757496'],['Probable G-Protein Coupled Receptor GPR32'],Probable G-Protein Coupled Receptor GPR32,C0757496,1,1,0.0,0.2857142816326531
+C1366448,TERC Gene,gene_encodes_gene_product,['C0935992'],['Telomerase RNA Component'],Telomerase RNA Component,C0935992,1,1,0.0,0.0
+C1413259,CDC25C Gene,gene_encodes_gene_product,['C1528280'],['M-Phase Inducer Phosphatase 3'],M-Phase Inducer Phosphatase 3,C1528280,1,1,0.0,0.0
+C1425969,MAST2 Gene,gene_encodes_gene_product,['C1610407'],['Microtubule-Associated Serine/Threonine-Protein Kinase 2'],Microtubule-Associated Serine/Threonine-Protein Kinase 2,C1610407,1,1,0.0,0.0
+C1414910,GABRA3 Gene,gene_encodes_gene_product,['C4285611'],['Gamma-Aminobutyric Acid Receptor Subunit Alpha-3'],Gamma-Aminobutyric Acid Receptor Subunit Alpha-3,C4285611,1,1,0.0,0.0
+C1337098,BLM Gene,gene_encodes_gene_product,['C1741784'],['Bloom Syndrome Protein'],Bloom Syndrome Protein,C1741784,1,1,0.0,0.0
+C1420389,SPTBN2 Gene,gene_encodes_gene_product,['C1531080'],"['Spectrin Beta Chain, Non-Erythrocytic 2']","Spectrin Beta Chain, Non-Erythrocytic 2",C1531080,1,1,0.0,0.0
+C1333722,GTF2F2 Gene,gene_encodes_gene_product,['C1336787'],['General Transcription Factor IIF Subunit 2'],General Transcription Factor IIF Subunit 2,C1336787,1,1,0.0,0.0
+C1415340,GSTT2 Gene,gene_encodes_gene_product,['C4761359'],['Glutathione S-Transferase Theta-2'],Glutathione S-Transferase Theta-2,C4761359,1,1,0.0,0.0
+C3537364,TFG/ALK Long Form Fusion Gene,gene_encodes_gene_product,['C3537363'],['TFG/ALK Long Form Fusion Protein'],TFG/ALK Long Form Fusion Protein,C3537363,1,1,0.0,0.7999999950000002
+C1420114,SLC18A1 Gene,gene_encodes_gene_product,['C0656393'],['Chromaffin Granule Amine Transporter'],Chromaffin Granule Amine Transporter,C0656393,1,1,0.0,0.0
+C1421224,TTR Gene,gene_encodes_gene_product,['C0032923'],['Transthyretin'],Transthyretin,C0032923,1,1,0.0,0.0
+C1420703,TFG/NTRK1 Fusion Gene,gene_encodes_gene_product,['C3274808'],['TFG/NTRK1 Fusion Protein'],TFG/NTRK1 Fusion Protein,C3274808,1,1,0.0,0.6666666616666668
+C1424266,SOX6 Gene,gene_encodes_gene_product,['C2350547'],['Transcription Factor SOX-6'],Transcription Factor SOX-6,C2350547,1,1,0.0,0.0
+C1539223,DCHS1 Gene,gene_encodes_gene_product,['C1310306'],['Protocadherin-16'],Protocadherin-16,C1310306,1,1,0.0,0.0
+C5202826,H2BC17 Gene,gene_encodes_gene_product,['C5202783'],['Histone H2B Type 1-O'],Histone H2B Type 1-O,C5202783,1,1,0.0,0.0
+C1415310,GRM8 Gene,gene_encodes_gene_product,['C3889624'],['Metabotropic Glutamate Receptor 8'],Metabotropic Glutamate Receptor 8,C3889624,1,1,0.0,0.0
+C1420642,TCF7 Gene,gene_encodes_gene_product,['C0286910'],['Transcription Factor 7'],Transcription Factor 7,C0286910,1,1,0.0,0.0
+C1417817,NPY2R Gene,gene_encodes_gene_product,['C3642155'],['Neuropeptide Y Receptor Type 2'],Neuropeptide Y Receptor Type 2,C3642155,1,1,0.0,0.0
+C1367457,TYRO3 Gene,gene_encodes_gene_product,['C0252032'],['Tyrosine-Protein Kinase Receptor TYRO3'],Tyrosine-Protein Kinase Receptor TYRO3,C0252032,1,1,0.0,0.33333332888888895
+C1364082,MST1R Gene,gene_encodes_gene_product,['C0215510'],['Macrophage-Stimulating Protein Receptor'],Macrophage-Stimulating Protein Receptor,C0215510,1,1,0.0,0.0
+C1417494,MUC2 Gene,gene_encodes_gene_product,['C1528289'],['Mucin-2'],Mucin-2,C1528289,1,1,0.0,0.0
+C1332823,CXCR4 Gene,gene_encodes_gene_product,['C2352110'],['C-X-C Chemokine Receptor Type 4'],C-X-C Chemokine Receptor Type 4,C2352110,1,1,0.0,0.0
+C1413223,CD3G Gene,gene_encodes_gene_product,['C1515134'],['T-Cell Surface Glycoprotein CD3 Gamma Chain'],T-Cell Surface Glycoprotein CD3 Gamma Chain,C1515134,1,1,0.0,0.0
+C1420464,AURKB Gene,gene_encodes_gene_product,['C3711547'],['Aurora Kinase B'],Aurora Kinase B,C3711547,1,1,0.0,0.0
+C0812445,CXCL1 Gene,gene_encodes_gene_product,['C0131875'],['Growth-Regulated Alpha Protein'],Growth-Regulated Alpha Protein,C0131875,1,1,0.0,0.0
+C1417808,NPPB Gene,gene_encodes_gene_product,"['C0054015', 'C0754710', 'C1317554', 'C3827225']","['Brain Natriuretic Peptide 32', 'N-Terminal Fragment Brain Natriuretic Protein', 'Natriuretic Peptides B', 'NPPB Gene Product']",Brain Natriuretic Peptide 32 || N-Terminal Fragment Brain Natriuretic Protein || Natriuretic Peptides B || NPPB Gene Product,C0054015 || C0754710 || C1317554 || C3827225,4,4,0.0,0.19999999880000002
+C1332830,CYP2D6 Gene,gene_encodes_gene_product,['C3887685'],['Cytochrome P450 2D6'],Cytochrome P450 2D6,C3887685,1,1,0.0,0.0
+C1422452,TMEM204 Gene,gene_encodes_gene_product,['C3538881'],['Transmembrane Protein 204'],Transmembrane Protein 204,C3538881,1,1,0.0,0.0
+C1419333,REG1A Gene,gene_encodes_gene_product,['C0208940'],['Lithostathine-1-Alpha'],Lithostathine-1-Alpha,C0208940,1,1,0.0,0.0
+C1335259,PRIM1 Gene,gene_encodes_gene_product,['C1335494'],['DNA Primase Small Subunit'],DNA Primase Small Subunit,C1335494,1,1,0.0,0.0
+C1428197,GPR160 Gene,gene_encodes_gene_product,['C2975123'],['Probable G-Protein Coupled Receptor 160'],Probable G-Protein Coupled Receptor 160,C2975123,1,1,0.0,0.0
+C1538440,CFH Gene,gene_encodes_gene_product,['C0122577'],['Complement Factor H'],Complement Factor H,C0122577,1,1,0.0,0.0
+C1334523,MMP9 Gene,gene_encodes_gene_product,['C0165519'],['Matrix Metalloproteinase-9'],Matrix Metalloproteinase-9,C0165519,1,1,0.0,0.0
+C1413933,DCT Gene,gene_encodes_gene_product,['C1455430'],['L-Dopachrome Tautomerase'],L-Dopachrome Tautomerase,C1455430,1,1,0.0,0.0
+C1412925,EGLN1 Gene,gene_encodes_gene_product,['C3540623'],['Egl Nine Homolog 1'],Egl Nine Homolog 1,C3540623,1,1,0.0,0.0
+C1415846,ICOS Gene,gene_encodes_gene_product,['C1570399'],['Inducible T-Cell Costimulator'],Inducible T-Cell Costimulator,C1570399,1,1,0.0,0.0
+C1412475,APOC1 Gene,gene_encodes_gene_product,['C0608460'],['Apolipoprotein C-I'],Apolipoprotein C-I,C0608460,1,1,0.0,0.0
+C1335629,RNF11 Gene,gene_encodes_gene_product,['C1312851'],['RING Finger Protein 11'],RING Finger Protein 11,C1312851,1,1,0.0,0.0
+C1334345,LMNB1 Gene,gene_encodes_gene_product,['C0377299'],['Lamin-B1'],Lamin-B1,C0377299,1,1,0.0,0.0
+C1335238,PPARG Gene,gene_encodes_gene_product,['C3887582'],['Peroxisome Proliferator-Activated Receptor Gamma'],Peroxisome Proliferator-Activated Receptor Gamma,C3887582,1,1,0.0,0.0
+C1366565,SLPI Gene,gene_encodes_gene_product,['C0663932'],['Antileukoproteinase'],Antileukoproteinase,C0663932,1,1,0.0,0.0
+C1417948,OMD Gene,gene_encodes_gene_product,['C0755085'],['Osteomodulin'],Osteomodulin,C0755085,1,1,0.0,0.0
+C1825588,IKZF1 Gene,gene_encodes_gene_product,['C2348047'],['DNA-Binding Protein Ikaros'],DNA-Binding Protein Ikaros,C2348047,1,1,0.0,0.0
+C2674774,MLL/AFF1 Fusion Gene,gene_encodes_gene_product,['C3274678'],['MLL/AFF1 Fusion Protein'],MLL/AFF1 Fusion Protein,C3274678,1,1,0.0,0.6666666616666668
+C1424244,CARD11 Gene,gene_encodes_gene_product,['C1948055'],['Caspase Recruitment Domain-Containing Protein 11'],Caspase Recruitment Domain-Containing Protein 11,C1948055,1,1,0.0,0.0
+C2681352,CDKN2B-AS1 Gene,gene_encodes_gene_product,['C4552606'],['CDKN2B Antisense RNA 1'],CDKN2B Antisense RNA 1,C4552606,1,1,0.0,0.0
+C0812295,MPL Gene,gene_encodes_gene_product,['C0218227'],['Thrombopoietin Receptor'],Thrombopoietin Receptor,C0218227,1,1,0.0,0.0
+C1332804,CTSB Gene,gene_encodes_gene_product,['C0699919'],['Cathepsin B'],Cathepsin B,C0699919,1,1,0.0,0.0
+C1428960,ARHGAP22 Gene,gene_encodes_gene_product,['C3660488'],['Rho GTPase-Activating Protein 22'],Rho GTPase-Activating Protein 22,C3660488,1,1,0.0,0.0
+C1419856,SCN1A Gene,gene_encodes_gene_product,['C3537394'],['Sodium Channel Protein Type 1 Subunit Alpha'],Sodium Channel Protein Type 1 Subunit Alpha,C3537394,1,1,0.0,0.0
+C0812270,ETV3 Gene,gene_encodes_gene_product,['C0256645'],['ETS Translocation Variant 3'],ETS Translocation Variant 3,C0256645,1,1,0.0,0.0
+C1416387,IL15RA Gene,gene_encodes_gene_product,['C4283909'],['Interleukin-15 Receptor Subunit Alpha'],Interleukin-15 Receptor Subunit Alpha,C4283909,1,1,0.0,0.0
+C1418652,PLOD2 Gene,gene_encodes_gene_product,['C5202768'],"['Procollagen-Lysine,2-Oxoglutarate 5-Dioxygenase 2']","Procollagen-Lysine,2-Oxoglutarate 5-Dioxygenase 2",C5202768,1,1,0.0,0.0
+C1412938,C2 Gene,gene_encodes_gene_product,['C4284454'],['Complement C2'],Complement C2,C4284454,1,1,0.0,0.4999999950000001
+C1824798,CRTC1 Gene,gene_encodes_gene_product,['C2987157'],['CREB-Regulated Transcription Coactivator 1'],CREB-Regulated Transcription Coactivator 1,C2987157,1,1,0.0,0.0
+C1424885,TAF8 Gene,gene_encodes_gene_product,['C1336696'],['Transcription Initiation Factor TFIID Subunit 8'],Transcription Initiation Factor TFIID Subunit 8,C1336696,1,1,0.0,0.0
+C1422360,CSMD1 Gene,gene_encodes_gene_product,['C1312178'],['CUB and Sushi Domain-Containing Protein 1'],CUB and Sushi Domain-Containing Protein 1,C1312178,1,1,0.0,0.0
+C1333548,FIBP Gene,gene_encodes_gene_product,['C1308850'],['Acidic Fibroblast Growth Factor Intracellular-Binding Protein'],Acidic Fibroblast Growth Factor Intracellular-Binding Protein,C1308850,1,1,0.0,0.0
+C1336636,TLR4 Gene,gene_encodes_gene_product,['C1321919'],['Toll-Like Receptor 4'],Toll-Like Receptor 4,C1321919,1,1,0.0,0.0
+C1416877,LMNA Gene,gene_encodes_gene_product,"['C3272784', 'C4520807', 'C4527150']","['Prelamin-A/C', 'Lamin-A/C', 'LMNA Gene Product']",Prelamin-A/C || Lamin-A/C || LMNA Gene Product,C3272784 || C4520807 || C4527150,3,3,0.0,0.2666666650666667
+C1412165,ACTN1 Gene,gene_encodes_gene_product,['C2351743'],['Alpha-Actinin-1'],Alpha-Actinin-1,C2351743,1,1,0.0,0.0
+C1336631,TINF2 Gene,gene_encodes_gene_product,['C1456460'],['TERF1-Interacting Nuclear Factor 2'],TERF1-Interacting Nuclear Factor 2,C1456460,1,1,0.0,0.0
+C1421584,ZIM2 Gene,gene_encodes_gene_product,['C3827392'],['Zinc Finger Imprinted 2'],Zinc Finger Imprinted 2,C3827392,1,1,0.0,0.0
+C1415663,HOXB1 Gene,gene_encodes_gene_product,['C5202694'],['Homeobox Protein Hox-B1'],Homeobox Protein Hox-B1,C5202694,1,1,0.0,0.0
+C1428338,INHBE Gene,gene_encodes_gene_product,['C1608817'],['Inhibin Beta E Chain'],Inhibin Beta E Chain,C1608817,1,1,0.0,0.0
+C1335635,RPL10 Gene,gene_encodes_gene_product,['C0218544'],['60S Ribosomal Protein L10'],60S Ribosomal Protein L10,C0218544,1,1,0.0,0.0
+C1425991,THOC5 Gene,gene_encodes_gene_product,['C1334876'],['THO Complex Subunit 5 Homolog'],THO Complex Subunit 5 Homolog,C1334876,1,1,0.0,0.0
+C1422519,CD2AP Gene,gene_encodes_gene_product,['C1431893'],['CD2-Associated Protein'],CD2-Associated Protein,C1431893,1,1,0.0,0.0
+C1421452,VIPR2 Gene,gene_encodes_gene_product,['C1527495'],['Vasoactive Intestinal Polypeptide Receptor 2'],Vasoactive Intestinal Polypeptide Receptor 2,C1527495,1,1,0.0,0.0
+C1413770,CST1 Gene,gene_encodes_gene_product,['C0111696'],['Cystatin-SN'],Cystatin-SN,C0111696,1,1,0.0,0.0
+C5202829,H2BC19P Gene,gene_encodes_gene_product,['C5202784'],['Putative Histone H2B Type 2-D'],Putative Histone H2B Type 2-D,C5202784,1,1,0.0,0.0
+C1537729,MIR27A Gene,gene_encodes_gene_product,['C2826417'],['MIR27A Pre-miRNA'],MIR27A Pre-miRNA,C2826417,1,1,0.0,0.4999999950000001
+C1335289,PTPRT Gene,gene_encodes_gene_product,['C0761615'],['Receptor-Type Tyrosine-Protein Phosphatase T'],Receptor-Type Tyrosine-Protein Phosphatase T,C0761615,1,1,0.0,0.0
+C1425409,ENAH Gene,gene_encodes_gene_product,['C2347704'],['Protein Enabled Homolog'],Protein Enabled Homolog,C2347704,1,1,0.0,0.0
+C1420025,SH3GL1 Gene,gene_encodes_gene_product,['C3273628'],['Endophilin-A2'],Endophilin-A2,C3273628,1,1,0.0,0.0
+C1539893,SUMF1 Gene,gene_encodes_gene_product,['C1433596'],['Sulfatase-Modifying Factor 1'],Sulfatase-Modifying Factor 1,C1433596,1,1,0.0,0.0
+C1421356,UNC13B Gene,gene_encodes_gene_product,['C1436571'],['Protein Unc-13 Homolog B'],Protein Unc-13 Homolog B,C1436571,1,1,0.0,0.0
+C1418489,PFKFB3 Gene,gene_encodes_gene_product,['C3539535'],"['6-Phosphofructo-2-Kinase/Fructose-2,6-Biphosphatase 3']","6-Phosphofructo-2-Kinase/Fructose-2,6-Biphosphatase 3",C3539535,1,1,0.0,0.0
+C1420811,TNFRSF19 Gene,gene_encodes_gene_product,['C5202846'],['Tumor Necrosis Factor Receptor Superfamily Member 19'],Tumor Necrosis Factor Receptor Superfamily Member 19,C5202846,1,1,0.0,0.0
+C1332100,APC2 Gene,gene_encodes_gene_product,['C1431561'],['Adenomatous Polyposis Coli Protein 2'],Adenomatous Polyposis Coli Protein 2,C1431561,1,1,0.0,0.0
+C0694888,PTEN Gene,gene_encodes_gene_product,['C1430988'],"['Phosphatidylinositol 3,4,5-Trisphosphate 3-Phosphatase and Dual-Specificity Protein Phosphatase PTEN']","Phosphatidylinositol 3,4,5-Trisphosphate 3-Phosphatase and Dual-Specificity Protein Phosphatase PTEN",C1430988,1,1,0.0,0.19999999680000002
+C1539224,DCHS2 Gene,gene_encodes_gene_product,['C4085187'],['Protocadherin-23'],Protocadherin-23,C4085187,1,1,0.0,0.0
+C1412732,BAGE Gene,gene_encodes_gene_product,['C3539527'],['B Melanoma Antigen 1'],B Melanoma Antigen 1,C3539527,1,1,0.0,0.0
+C1422004,TCL6 Gene,gene_encodes_gene_product,['C3273651'],['T-Cell Leukemia/Lymphoma 6 Long Non-Coding RNA'],T-Cell Leukemia/Lymphoma 6 Long Non-Coding RNA,C3273651,1,1,0.0,0.0
+C1336621,TGFB2 Gene,gene_encodes_gene_product,['C0079441'],['Transforming Growth Factor Beta-2'],Transforming Growth Factor Beta-2,C0079441,1,1,0.0,0.0
+C1413036,ADAMTS13 Gene,gene_encodes_gene_product,['C0389918'],['A Disintegrin and Metalloproteinase With Thrombospondin Motifs 13'],A Disintegrin and Metalloproteinase With Thrombospondin Motifs 13,C0389918,1,1,0.0,0.0
+C1418326,PCDHAC2 Gene,gene_encodes_gene_product,['C4724755'],['Protocadherin Alpha-C2'],Protocadherin Alpha-C2,C4724755,1,1,0.0,0.0
+C1413371,CH25H Gene,gene_encodes_gene_product,['C1621780'],['Cholesterol 25-Hydroxylase'],Cholesterol 25-Hydroxylase,C1621780,1,1,0.0,0.0
+C1333584,FZD2 Gene,gene_encodes_gene_product,['C1333637'],['Frizzled-2'],Frizzled-2,C1333637,1,1,0.0,0.0
+C0812230,AKT2 Gene,gene_encodes_gene_product,['C1312419'],['RAC-Beta Serine/Threonine Kinase'],RAC-Beta Serine/Threonine Kinase,C1312419,1,1,0.0,0.0
+C1418621,PLA2G4B Gene,gene_encodes_gene_product,['C0768657'],['Cytosolic Phospholipase A2 Beta'],Cytosolic Phospholipase A2 Beta,C0768657,1,1,0.0,0.0
+C1418730,POLE2 Gene,gene_encodes_gene_product,['C4318395'],['DNA Polymerase Epsilon Subunit 2'],DNA Polymerase Epsilon Subunit 2,C4318395,1,1,0.0,0.0
+C1422044,ATP8B2 Gene,gene_encodes_gene_product,['C3897854'],['Phospholipid-Transporting ATPase ID'],Phospholipid-Transporting ATPase ID,C3897854,1,1,0.0,0.0
+C2680482,TMEM216 Gene,gene_encodes_gene_product,['C3537386'],['Transmembrane Protein 216'],Transmembrane Protein 216,C3537386,1,1,0.0,0.0
+C1413900,DAD1 Gene,gene_encodes_gene_product,['C0220374'],['Dolichyl-Diphosphooligosaccharide-Protein Glycosyltransferase Subunit DAD1'],Dolichyl-Diphosphooligosaccharide-Protein Glycosyltransferase Subunit DAD1,C0220374,1,1,0.0,0.33333332888888895
+C1364012,FGFRL1 Gene,gene_encodes_gene_product,['C0962882'],['Fibroblast Growth Factor Receptor-Like 1'],Fibroblast Growth Factor Receptor-Like 1,C0962882,1,1,0.0,0.0
+C1334118,IL4R Gene,gene_encodes_gene_product,['C1620077'],['Interleukin-4 Receptor Subunit Alpha'],Interleukin-4 Receptor Subunit Alpha,C1620077,1,1,0.0,0.0
+C1333253,DRD2 Gene,gene_encodes_gene_product,['C3659270'],['D(2) Dopamine Receptor'],D(2) Dopamine Receptor,C3659270,1,1,0.0,0.0
+C1824066,ZNF793 Gene,gene_encodes_gene_product,['C4050521'],['Zinc Finger Protein 793'],Zinc Finger Protein 793,C4050521,1,1,0.0,0.0
+C1334511,MLH3 Gene,gene_encodes_gene_product,['C1333233'],['DNA Mismatch Repair Protein Mlh3'],DNA Mismatch Repair Protein Mlh3,C1333233,1,1,0.0,0.2857142816326531
+C1414262,EDNRA Gene,gene_encodes_gene_product,['C3853729'],['Endothelin-1 Receptor'],Endothelin-1 Receptor,C3853729,1,1,0.0,0.0
+C2680470,TET3 Gene,gene_encodes_gene_product,['C5202769'],['Methylcytosine Dioxygenase TET3'],Methylcytosine Dioxygenase TET3,C5202769,1,1,0.0,0.39999999520000007
+C1539614,GREM1 Gene,gene_encodes_gene_product,['C1438932'],['Gremlin-1'],Gremlin-1,C1438932,1,1,0.0,0.0
+C1367485,PTGS2 Gene,gene_encodes_gene_product,['C1565860'],['Prostaglandin G/H Synthase 2'],Prostaglandin G/H Synthase 2,C1565860,1,1,0.0,0.0
+C1422661,MACROH2A2 Gene,gene_encodes_gene_product,['C4722635'],['Core Histone Macro-H2A.2'],Core Histone Macro-H2A.2,C4722635,1,1,0.0,0.0
+C1419300,RBM4 Gene,gene_encodes_gene_product,['C3815596'],['RNA-Binding Protein 4'],RNA-Binding Protein 4,C3815596,1,1,0.0,0.0
+C1826078,MIR516B2 Gene,gene_encodes_gene_product,['C2826532'],['MIR516B2 Pre-miRNA'],MIR516B2 Pre-miRNA,C2826532,1,1,0.0,0.4999999950000001
+C1413210,CD1D Gene,gene_encodes_gene_product,['C2351710'],['Antigen-Presenting Glycoprotein CD1d'],Antigen-Presenting Glycoprotein CD1d,C2351710,1,1,0.0,0.39999999520000007
+C1335201,PDGFRA Gene,gene_encodes_gene_product,['C3853694'],['Platelet-Derived Growth Factor Receptor Alpha'],Platelet-Derived Growth Factor Receptor Alpha,C3853694,1,1,0.0,0.0
+C1421963,MS4A7 Gene,gene_encodes_gene_product,['C4761410'],['Membrane-Spanning 4-Domains Subfamily A Member 7'],Membrane-Spanning 4-Domains Subfamily A Member 7,C4761410,1,1,0.0,0.0
+C1538716,PRKD1 Gene,gene_encodes_gene_product,['C2987025'],['Serine/Threonine-Protein Kinase D1'],Serine/Threonine-Protein Kinase D1,C2987025,1,1,0.0,0.0
+C1367475,CD2 Gene,gene_encodes_gene_product,['C0108773'],['T-Cell Surface Antigen CD2'],T-Cell Surface Antigen CD2,C0108773,1,1,0.0,0.33333332888888895
+C1537805,MIR150 Gene,gene_encodes_gene_product,['C3829010'],['MIR150 Pre-miRNA'],MIR150 Pre-miRNA,C3829010,1,1,0.0,0.4999999950000001
+C1826538,PALLD Gene,gene_encodes_gene_product,['C2703161'],['Palladin'],Palladin,C2703161,1,1,0.0,0.0
+C1416863,LIMK2 Gene,gene_encodes_gene_product,['C1430543'],['LIM Domain Kinase 2'],LIM Domain Kinase 2,C1430543,1,1,0.0,0.0
+C1418938,PRL Gene,gene_encodes_gene_product,['C0033371'],['Prolactin'],Prolactin,C0033371,1,1,0.0,0.0
+C1336655,TOLLIP Gene,gene_encodes_gene_product,['C0915585'],['Toll-Interacting Protein'],Toll-Interacting Protein,C0915585,1,1,0.0,0.0
+C1413160,CBX5 Gene,gene_encodes_gene_product,['C2347769'],['Chromobox Protein Homolog 5'],Chromobox Protein Homolog 5,C2347769,1,1,0.0,0.0
+C1425360,CD244 Gene,gene_encodes_gene_product,['C1432728'],['Natural Killer Cell Receptor 2B4'],Natural Killer Cell Receptor 2B4,C1432728,1,1,0.0,0.0
+C1413355,CFL1 Gene,gene_encodes_gene_product,['C1565230'],['Cofilin-1'],Cofilin-1,C1565230,1,1,0.0,0.0
+C1825597,IMP3 Gene,gene_encodes_gene_product,['C3889627'],['U3 Small Nucleolar Ribonucleoprotein Protein IMP3'],U3 Small Nucleolar Ribonucleoprotein Protein IMP3,C3889627,1,1,0.0,0.24999999625000005
+C1427193,BCOR Gene,gene_encodes_gene_product,['C3543414'],['BCL-6 Corepressor'],BCL-6 Corepressor,C3543414,1,1,0.0,0.0
+C1428895,MUS81 Gene,gene_encodes_gene_product,['C1505591'],['Crossover Junction Endonuclease MUS81'],Crossover Junction Endonuclease MUS81,C1505591,1,1,0.0,0.33333332888888895
+C1336674,TRIO Gene,gene_encodes_gene_product,['C1448979'],['Triple Functional Domain Protein'],Triple Functional Domain Protein,C1448979,1,1,0.0,0.0
+C1414316,EGR3 Gene,gene_encodes_gene_product,['C1437576'],['Early Growth Response Protein 3'],Early Growth Response Protein 3,C1437576,1,1,0.0,0.0
+C3469945,SWI5 Gene,gene_encodes_gene_product,['C3640150'],['DNA Repair Protein SWI5 Homolog'],DNA Repair Protein SWI5 Homolog,C3640150,1,1,0.0,0.2857142816326531
+C1826780,RBM38 Gene,gene_encodes_gene_product,['C3274846'],['RNA-Binding Protein 38'],RNA-Binding Protein 38,C3274846,1,1,0.0,0.0
+C1418405,PDCD5 Gene,gene_encodes_gene_product,['C1431691'],['Programmed Cell Death Protein 5'],Programmed Cell Death Protein 5,C1431691,1,1,0.0,0.0
+C1425187,KAT8 Gene,gene_encodes_gene_product,['C0890491'],['Histone Acetyltransferase KAT8'],Histone Acetyltransferase KAT8,C0890491,1,1,0.0,0.39999999520000007
+C1332381,BARD1 Gene,gene_encodes_gene_product,['C1332437'],['BRCA1-Associated RING Domain Protein 1'],BRCA1-Associated RING Domain Protein 1,C1332437,1,1,0.0,0.0
+C1334506,MGP Gene,gene_encodes_gene_product,['C0065752'],['Matrix Gla Protein'],Matrix Gla Protein,C0065752,1,1,0.0,0.0
+C1333707,GRB2 Gene,gene_encodes_gene_product,['C1436247'],['Growth Factor Receptor-Bound Protein 2'],Growth Factor Receptor-Bound Protein 2,C1436247,1,1,0.0,0.0
+C1425698,DDX41 Gene,gene_encodes_gene_product,['C4723705'],['Probable ATP-Dependent RNA Helicase DDX41'],Probable ATP-Dependent RNA Helicase DDX41,C4723705,1,1,0.0,0.2857142816326531
+C1834587,MLL/CASC5 Fusion Gene,gene_encodes_gene_product,['C3274693'],['MLL/CASC5 Fusion Protein'],MLL/CASC5 Fusion Protein,C3274693,1,1,0.0,0.6666666616666668
+C1332692,CCL7 Gene,gene_encodes_gene_product,['C0214733'],['C-C Motif Chemokine 7'],C-C Motif Chemokine 7,C0214733,1,1,0.0,0.0
+C1538592,PASD1 Gene,gene_encodes_gene_product,['C1869249'],['Circadian Clock Protein PASD1'],Circadian Clock Protein PASD1,C1869249,1,1,0.0,0.33333332888888895
+C1416383,IL12RB1 Gene,gene_encodes_gene_product,['C1700851'],['Interleukin-12 Receptor Subunit Beta-1'],Interleukin-12 Receptor Subunit Beta-1,C1700851,1,1,0.0,0.0
+C1416098,IGHV4-34 Gene,gene_encodes_gene_product,['C4724770'],['Immunoglobulin Heavy Variable 4-34'],Immunoglobulin Heavy Variable 4-34,C4724770,1,1,0.0,0.0
+C1426195,FAM13A Gene,gene_encodes_gene_product,['C2983547'],['Protein FAM13A'],Protein FAM13A,C2983547,1,1,0.0,0.4999999950000001
+C1419253,RALBP1 Gene,gene_encodes_gene_product,['C0141185'],['RalA-Binding Protein 1'],RalA-Binding Protein 1,C0141185,1,1,0.0,0.0
+C1825853,LPCAT1 Gene,gene_encodes_gene_product,['C4723707'],['Lysophosphatidylcholine Acyltransferase 1'],Lysophosphatidylcholine Acyltransferase 1,C4723707,1,1,0.0,0.0
+C1423625,SIGLEC10 Gene,gene_encodes_gene_product,['C1309902'],['Sialic Acid-Binding Ig-Like Lectin 10'],Sialic Acid-Binding Ig-Like Lectin 10,C1309902,1,1,0.0,0.0
+C1439335,LPA Gene,gene_encodes_gene_product,['C4553379'],['Apolipoprotein(a)'],Apolipoprotein(a),C4553379,1,1,0.0,0.0
+C1417001,MAOA Gene,gene_encodes_gene_product,['C3657721'],['Amine Oxidase [Flavin-Containing] A'],Amine Oxidase [Flavin-Containing] A,C3657721,1,1,0.0,0.0
+C1424726,CTDSP2 Gene,gene_encodes_gene_product,['C1335071'],['Carboxy-Terminal Domain RNA Polymerase II Polypeptide A Small Phosphatase 2'],Carboxy-Terminal Domain RNA Polymerase II Polypeptide A Small Phosphatase 2,C1335071,1,1,0.0,0.0
+C1333577,FRK Gene,gene_encodes_gene_product,['C1384553'],['Tyrosine-Protein Kinase FRK'],Tyrosine-Protein Kinase FRK,C1384553,1,1,0.0,0.39999999520000007
+C1335807,SECTM1 Gene,gene_encodes_gene_product,['C0672634'],['Secreted and Transmembrane Protein 1'],Secreted and Transmembrane Protein 1,C0672634,1,1,0.0,0.0
+C1427754,NANOS3 Gene,gene_encodes_gene_product,['C3641870'],['Nanos Homolog 3'],Nanos Homolog 3,C3641870,1,1,0.0,0.0
+C1824787,CPXM1 Gene,gene_encodes_gene_product,['C4318405'],['Probable Carboxypeptidase X1'],Probable Carboxypeptidase X1,C4318405,1,1,0.0,0.0
+C1333203,DAXX Gene,gene_encodes_gene_product,['C0541030'],['Death Domain-Associated Protein 6'],Death Domain-Associated Protein 6,C0541030,1,1,0.0,0.0
+C2239486,GEN1 Gene,gene_encodes_gene_product,['C2606719'],['Flap Endonuclease GEN Homolog 1'],Flap Endonuclease GEN Homolog 1,C2606719,1,1,0.0,0.0
+C1416925,LSP1 Gene,gene_encodes_gene_product,['C1416925'],['Lymphocyte-Specific Protein 1'],Lymphocyte-Specific Protein 1,C1416925,1,1,0.0,0.0
+C1853553,MLL/FNBP1 Fusion Gene,gene_encodes_gene_product,['C3274684'],['MLL/FNBP1 Fusion Protein'],MLL/FNBP1 Fusion Protein,C3274684,1,1,0.0,0.6666666616666668
+C1332782,MED23 Gene,gene_encodes_gene_product,['C1313004'],['Mediator of RNA Polymerase II Transcription Subunit 23'],Mediator of RNA Polymerase II Transcription Subunit 23,C1313004,1,1,0.0,0.0
+C1414430,EPHA7 Gene,gene_encodes_gene_product,['C3810532'],['Ephrin Type-A Receptor 7'],Ephrin Type-A Receptor 7,C3810532,1,1,0.0,0.0
+C1415205,GPNMB Gene,gene_encodes_gene_product,['C3813203'],['Transmembrane Glycoprotein NMB'],Transmembrane Glycoprotein NMB,C3813203,1,1,0.0,0.0
+C1424589,CREB5 Gene,gene_encodes_gene_product,['C1432869'],['Cyclic AMP-Responsive Element-Binding Protein 5'],Cyclic AMP-Responsive Element-Binding Protein 5,C1432869,1,1,0.0,0.0
+C1414685,FOXM1 Gene,gene_encodes_gene_product,['C1430904'],['Forkhead Box Protein M1'],Forkhead Box Protein M1,C1430904,1,1,0.0,0.0
+C1332749,HERC5 Gene,gene_encodes_gene_product,['C1438632'],['E3 ISG15-Protein Ligase HERC5'],E3 ISG15-Protein Ligase HERC5,C1438632,1,1,0.0,0.33333332888888895
+C1334891,NOVA2 Gene,gene_encodes_gene_product,['C0753802'],['RNA-Binding Protein Nova-2'],RNA-Binding Protein Nova-2,C0753802,1,1,0.0,0.0
+C1822614,SAT1 Gene,gene_encodes_gene_product,['C2744672'],['Diamine Acetyltransferase 1'],Diamine Acetyltransferase 1,C2744672,1,1,0.0,0.0
+C1412642,ATP2B3 Gene,gene_encodes_gene_product,['C0754182'],['Plasma Membrane Calcium-Transporting ATPase 3'],Plasma Membrane Calcium-Transporting ATPase 3,C0754182,1,1,0.0,0.0
+C1709313,Oncogene E1A,gene_encodes_gene_product,['C0101583'],['Early E1A Protein'],Early E1A Protein,C0101583,1,1,0.0,0.39999999520000007
+C1334885,NMI Gene,gene_encodes_gene_product,['C1334888'],['N-Myc-Interactor'],N-Myc-Interactor,C1334888,1,1,0.0,0.0
+C1420102,SLC16A1 Gene,gene_encodes_gene_product,['C3812715'],['Monocarboxylate Transporter 1'],Monocarboxylate Transporter 1,C3812715,1,1,0.0,0.0
+C1834584,MLL/GPHN Fusion Gene,gene_encodes_gene_product,['C3274685'],['MLL/GPHN Fusion Protein'],MLL/GPHN Fusion Protein,C3274685,1,1,0.0,0.6666666616666668
+C1335892,SYK Gene,gene_encodes_gene_product,['C0134982'],['Tyrosine-Protein Kinase SYK'],Tyrosine-Protein Kinase SYK,C0134982,1,1,0.0,0.39999999520000007
+C1418779,PPARGC1A Gene,gene_encodes_gene_product,"['C1452082', 'C4054191', 'C4054269']","['Peroxisome Proliferator-Activated Receptor Gamma Coactivator 1-Alpha', 'Peroxisome Proliferator-Activated Receptor Gamma Coactivator 1-Alpha Isoform 4', 'PPARGC1A Gene Product']",Peroxisome Proliferator-Activated Receptor Gamma Coactivator 1-Alpha || Peroxisome Proliferator-Activated Receptor Gamma Coactivator 1-Alpha Isoform 4 || PPARGC1A Gene Product,C1452082 || C4054191 || C4054269,3,3,0.0,0.2666666650666667
+C1420075,SIX4 Gene,gene_encodes_gene_product,['C3829673'],['Homeobox Protein SIX4'],Homeobox Protein SIX4,C3829673,1,1,0.0,0.39999999520000007
+C1367673,MAP3K14 Gene,gene_encodes_gene_product,['C1335946'],['Mitogen-Activated Protein Kinase Kinase Kinase 14'],Mitogen-Activated Protein Kinase Kinase Kinase 14,C1335946,1,1,0.0,0.0
+C1413724,CRY1 Gene,gene_encodes_gene_product,['C0288450'],['Cryptochrome-1'],Cryptochrome-1,C0288450,1,1,0.0,0.0
+C1538823,REG3A Gene,gene_encodes_gene_product,['C2714958'],['Regenerating Islet-Derived Protein 3-Alpha'],Regenerating Islet-Derived Protein 3-Alpha,C2714958,1,1,0.0,0.0
+C5202825,H2BC15 Gene,gene_encodes_gene_product,['C5202740'],['Histone H2B Type 1-N'],Histone H2B Type 1-N,C5202740,1,1,0.0,0.0
+C1333677,GIT2 Gene,gene_encodes_gene_product,['C1333737'],['ARF GTPase-Activating Protein GIT2'],ARF GTPase-Activating Protein GIT2,C1333737,1,1,0.0,0.33333332888888895
+C1416825,LEP Gene,gene_encodes_gene_product,['C0299583'],['Leptin'],Leptin,C0299583,1,1,0.0,0.0
+C1426048,IL27 Gene,gene_encodes_gene_product,['C3890355'],['Interleukin-27 Subunit Alpha'],Interleukin-27 Subunit Alpha,C3890355,1,1,0.0,0.0
+C1418917,CAVIN3 Gene,gene_encodes_gene_product,['C1622797'],['Caveolae-Associated Protein 3'],Caveolae-Associated Protein 3,C1622797,1,1,0.0,0.0
+C1335865,SSPN Gene,gene_encodes_gene_product,['C0669134'],['Sarcospan'],Sarcospan,C0669134,1,1,0.0,0.0
+C1412688,ATP7A Gene,gene_encodes_gene_product,['C0216162'],['Copper-Transporting ATPase 1'],Copper-Transporting ATPase 1,C0216162,1,1,0.0,0.0
+C1333255,DRD5 Gene,gene_encodes_gene_product,['C0114836'],['D(1B) Dopamine Receptor'],D(1B) Dopamine Receptor,C0114836,1,1,0.0,0.0
+C1421482,WASL Gene,gene_encodes_gene_product,['C1565159'],['Neural Wiskott-Aldrich Syndrome Protein'],Neural Wiskott-Aldrich Syndrome Protein,C1565159,1,1,0.0,0.0
+C1537435,KCNK18 Gene,gene_encodes_gene_product,['C2986623'],['Potassium Channel Subfamily K Member 18'],Potassium Channel Subfamily K Member 18,C2986623,1,1,0.0,0.0
+C1333547,FHL2 Gene,gene_encodes_gene_product,['C1333635'],['Four and a Half LIM Domains Protein 2'],Four and a Half LIM Domains Protein 2,C1333635,1,1,0.0,0.0
+C1418845,PPP3CA Gene,gene_encodes_gene_product,['C1511476'],['Serine/Threonine Protein Phosphatase 2B Catalytic Subunit Alpha Isoform'],Serine/Threonine Protein Phosphatase 2B Catalytic Subunit Alpha Isoform,C1511476,1,1,0.0,0.0
+C1823437,STING1 Gene,gene_encodes_gene_product,['C3539068'],['Stimulator of Interferon Genes Protein'],Stimulator of Interferon Genes Protein,C3539068,1,1,0.0,0.0
+C5202978,H2AC8 Gene,gene_encodes_gene_product,['C5202681'],['Histone H2A Type 1-B/E'],Histone H2A Type 1-B/E,C5202681,1,1,0.0,0.0
+C1414351,EIF4E Gene,gene_encodes_gene_product,['C3539642'],['Eukaryotic Translation Initiation Factor 4E'],Eukaryotic Translation Initiation Factor 4E,C3539642,1,1,0.0,0.0
+C1418626,PLA2R1 Gene,gene_encodes_gene_product,['C1670125'],['Secretory Phospholipase A2 Receptor'],Secretory Phospholipase A2 Receptor,C1670125,1,1,0.0,0.0
+C2239698,MIR509-2 Gene,gene_encodes_gene_product,"['C4684814', 'C4684815']","['MIR509-2 Pre-miRNA', 'MicroRNA 509-5p']",MIR509-2 Pre-miRNA || MicroRNA 509-5p,C4684814 || C4684815,2,2,0.0,0.24999999750000004
+C1417154,MIA Gene,gene_encodes_gene_product,['C0290022'],['Melanoma-Derived Growth Regulatory Protein'],Melanoma-Derived Growth Regulatory Protein,C0290022,1,1,0.0,0.0
+C3889258,HHV8 ORF59 Gene,gene_encodes_gene_product,['C0670710'],['DNA Polymerase Processivity Factor'],DNA Polymerase Processivity Factor,C0670710,1,1,0.0,0.0
+C1442753,SLC7A5 Gene,gene_encodes_gene_product,['C3853720'],['Large Neutral Amino Acids Transporter Small Subunit 1'],Large Neutral Amino Acids Transporter Small Subunit 1,C3853720,1,1,0.0,0.0
+C1540204,ACER2 Gene,gene_encodes_gene_product,['C2000893'],['Alkaline Ceramidase 2'],Alkaline Ceramidase 2,C2000893,1,1,0.0,0.0
+C2677452,EWSR1/ETV1 Fusion Gene,gene_encodes_gene_product,['C3274642'],['EWSR1/ETV1 Fusion Protein'],EWSR1/ETV1 Fusion Protein,C3274642,1,1,0.0,0.6666666616666668
+C1424960,CHST11 Gene,gene_encodes_gene_product,['C1439074'],['Carbohydrate Sulfotransferase 11'],Carbohydrate Sulfotransferase 11,C1439074,1,1,0.0,0.0
+C1336676,TRPM5 Gene,gene_encodes_gene_product,['C1334521'],['Transient Receptor Potential Cation Channel Subfamily M Member 5'],Transient Receptor Potential Cation Channel Subfamily M Member 5,C1334521,1,1,0.0,0.0
+C1836945,RICTOR Gene,gene_encodes_gene_product,['C3537313'],['Rapamycin-Insensitive Companion of mTOR'],Rapamycin-Insensitive Companion of mTOR,C3537313,1,1,0.0,0.0
+C1423033,ULBP2 Gene,gene_encodes_gene_product,['C3540617'],['NKG2D Ligand 2'],NKG2D Ligand 2,C3540617,1,1,0.0,0.0
+C1332378,BAIAP2 Gene,gene_encodes_gene_product,['C0768288'],['Brain-Specific Angiogenesis Inhibitor 1-Associated Protein 2'],Brain-Specific Angiogenesis Inhibitor 1-Associated Protein 2,C0768288,1,1,0.0,0.0
+C1417498,MUC5B Gene,gene_encodes_gene_product,['C0537987'],['Mucin-5B'],Mucin-5B,C0537987,1,1,0.0,0.0
+C1334477,MAP3K7 Gene,gene_encodes_gene_product,['C1435846'],['Mitogen-Activated Protein Kinase Kinase Kinase 7'],Mitogen-Activated Protein Kinase Kinase Kinase 7,C1435846,1,1,0.0,0.0
+C1415438,H3C10 Gene,gene_encodes_gene_product,['C3640207'],['Histone H3.1'],Histone H3.1,C3640207,1,1,0.0,0.0
+C1417167,MID1 Gene,gene_encodes_gene_product,['C2698218'],['E3 Ubiquitin-Protein Ligase Midline-1'],E3 Ubiquitin-Protein Ligase Midline-1,C2698218,1,1,0.0,0.0
+C1415882,IDS Gene,gene_encodes_gene_product,['C1429223'],['Iduronate 2-Sulfatase'],Iduronate 2-Sulfatase,C1429223,1,1,0.0,0.0
+C1412409,ANPEP Gene,gene_encodes_gene_product,['C3887680'],['Aminopeptidase N'],Aminopeptidase N,C3887680,1,1,0.0,0.0
+C1538116,WWP2 Gene,gene_encodes_gene_product,['C1143404'],['NEDD4-Like E3 Ubiquitin-Protein Ligase WWP2'],NEDD4-Like E3 Ubiquitin-Protein Ligase WWP2,C1143404,1,1,0.0,0.2857142816326531
+C1367148,IGFBP6 Gene,gene_encodes_gene_product,['C1442822'],['Insulin-Like Growth Factor-Binding Protein 6'],Insulin-Like Growth Factor-Binding Protein 6,C1442822,1,1,0.0,0.0
+C1413592,COL7A1 Gene,gene_encodes_gene_product,['C3812182'],['Collagen Alpha-1(VII) Chain'],Collagen Alpha-1(VII) Chain,C3812182,1,1,0.0,0.0
+C1412099,ABO Gene,gene_encodes_gene_product,['C3888277'],['Histo-Blood Group ABO System Transferase'],Histo-Blood Group ABO System Transferase,C3888277,1,1,0.0,0.2857142816326531
+C1426807,SPRED1 Gene,gene_encodes_gene_product,['C3537369'],"['Sprouty-Related, EVH1 Domain-Containing Protein 1']","Sprouty-Related, EVH1 Domain-Containing Protein 1",C3537369,1,1,0.0,0.0
+C1540057,TRIM23 Gene,gene_encodes_gene_product,['C1314904'],['E3 Ubiquitin-Protein Ligase TRIM23'],E3 Ubiquitin-Protein Ligase TRIM23,C1314904,1,1,0.0,0.33333332888888895
+C1332773,COL1A2 Gene,gene_encodes_gene_product,['C0766823'],['Collagen Alpha-2(I) Chain'],Collagen Alpha-2(I) Chain,C0766823,1,1,0.0,0.0
+C1425984,FFAR4 Gene,gene_encodes_gene_product,['C1957129'],['Free Fatty Acid Receptor 4'],Free Fatty Acid Receptor 4,C1957129,1,1,0.0,0.0
+C1538563,PACS1 Gene,gene_encodes_gene_product,['C1452329'],['Phosphofurin Acidic Cluster Sorting Protein 1'],Phosphofurin Acidic Cluster Sorting Protein 1,C1452329,1,1,0.0,0.0
+C1420730,TIAF1 Gene,gene_encodes_gene_product,['C3537281'],['TGFB1-Induced Anti-Apoptotic Factor 1'],TGFB1-Induced Anti-Apoptotic Factor 1,C3537281,1,1,0.0,0.0
+C1425978,ASPM Gene,gene_encodes_gene_product,['C1171771'],['Abnormal Spindle-Like Microcephaly-Associated Protein'],Abnormal Spindle-Like Microcephaly-Associated Protein,C1171771,1,1,0.0,0.0
+C1334130,INHA Gene,gene_encodes_gene_product,['C0299209'],['Inhibin Alpha Chain'],Inhibin Alpha Chain,C0299209,1,1,0.0,0.0
+C1332744,CEACAM5 Gene,gene_encodes_gene_product,['C2352715'],['Carcinoembryonic Antigen-Related Cell Adhesion Molecule 5'],Carcinoembryonic Antigen-Related Cell Adhesion Molecule 5,C2352715,1,1,0.0,0.0
+C1333530,FADD Gene,gene_encodes_gene_product,['C1527783'],['FAS-Associated Death Domain Protein'],FAS-Associated Death Domain Protein,C1527783,1,1,0.0,0.0
+C1424139,WNT16 Gene,gene_encodes_gene_product,['C3538906'],['Protein Wnt-16'],Protein Wnt-16,C3538906,1,1,0.0,0.0
+C1366525,RGS1 Gene,gene_encodes_gene_product,['C1448758'],['Regulator of G-Protein Signaling 1'],Regulator of G-Protein Signaling 1,C1448758,1,1,0.0,0.0
+C1421395,USP18 Gene,gene_encodes_gene_product,['C1436576'],['Ubl Carboxyl-Terminal Hydrolase 18'],Ubl Carboxyl-Terminal Hydrolase 18,C1436576,1,1,0.0,0.0
+C1367455,GYPA Gene,gene_encodes_gene_product,['C1309526'],['Glycophorin-A'],Glycophorin-A,C1309526,1,1,0.0,0.0
+C1426788,DPF1 Gene,gene_encodes_gene_product,['C4761473'],['Zinc Finger Protein Neuro-D4'],Zinc Finger Protein Neuro-D4,C4761473,1,1,0.0,0.0
+C1420445,ST7 Gene,gene_encodes_gene_product,['C0916548'],['Suppressor of Tumorigenicity 7 Protein'],Suppressor of Tumorigenicity 7 Protein,C0916548,1,1,0.0,0.0
+C1422567,SPANXB1 Gene,gene_encodes_gene_product,['C2985372'],['Sperm Protein Associated With the Nucleus on the X Chromosome B/F'],Sperm Protein Associated With the Nucleus on the X Chromosome B/F,C2985372,1,1,0.0,0.0
+C1367710,C5 Gene,gene_encodes_gene_product,"['C0009519', 'C3890045']","['Complement C5', 'C5a Anaphylatoxin']",Complement C5 || C5a Anaphylatoxin,C0009519 || C3890045,2,2,0.0,0.24999999750000004
+C1420225,SLC7A6 Gene,gene_encodes_gene_product,['C1173147'],['Y+L Amino Acid Transporter 2'],Y+L Amino Acid Transporter 2,C1173147,1,1,0.0,0.0
+C1415389,H1-5 Gene,gene_encodes_gene_product,['C5202968'],['Histone H1.5'],Histone H1.5,C5202968,1,1,0.0,0.0
+C1420578,TAGLN Gene,gene_encodes_gene_product,['C1429758'],['Transgelin'],Transgelin,C1429758,1,1,0.0,0.0
+C1335872,STAT1 Gene,gene_encodes_gene_product,['C1432814'],['Signal Transducer and Activator of Transcription 1-Alpha/Beta'],Signal Transducer and Activator of Transcription 1-Alpha/Beta,C1432814,1,1,0.0,0.0
+C1423032,ULBP1 Gene,gene_encodes_gene_product,['C3642258'],['NKG2D Ligand 1'],NKG2D Ligand 1,C3642258,1,1,0.0,0.0
+C1537814,MIR181B2 Gene,gene_encodes_gene_product,"['C2826479', 'C4319735']","['MIR181B2 Pre-miRNA', 'MicroRNA 181b']",MIR181B2 Pre-miRNA || MicroRNA 181b,C2826479 || C4319735,2,2,0.0,0.24999999750000004
+C1822685,SETD1B Gene,gene_encodes_gene_product,['C4549927'],['Histone-Lysine N-Methyltransferase SETD1B'],Histone-Lysine N-Methyltransferase SETD1B,C4549927,1,1,0.0,0.39999999520000007
+C1332030,GRK3 Gene,gene_encodes_gene_product,['C0285499'],['Beta-Adrenergic Receptor Kinase 2'],Beta-Adrenergic Receptor Kinase 2,C0285499,1,1,0.0,0.0
+C1334148,ITPR1 Gene,gene_encodes_gene_product,['C0626645'],"['Inositol 1,4,5-Trisphosphate Receptor Type 1']","Inositol 1,4,5-Trisphosphate Receptor Type 1",C0626645,1,1,0.0,0.0
+C1416731,KRT18 Gene,gene_encodes_gene_product,['C1455201'],"['Keratin, Type I Cytoskeletal 18']","Keratin, Type I Cytoskeletal 18",C1455201,1,1,0.0,0.0
+C1420024,SH3BP5 Gene,gene_encodes_gene_product,['C3538855'],['SH3 Domain-Binding Protein 5'],SH3 Domain-Binding Protein 5,C3538855,1,1,0.0,0.0
+C0079471,HRAS Gene,gene_encodes_gene_product,['C1569842'],['GTPase HRas'],GTPase HRas,C1569842,1,1,0.0,0.4999999950000001
+C1415537,HHEX Gene,gene_encodes_gene_product,['C1684365'],['Hematopoietically-Expressed Homeobox Protein HHEX'],Hematopoietically-Expressed Homeobox Protein HHEX,C1684365,1,1,0.0,0.33333332888888895
+C1335609,RECQL Gene,gene_encodes_gene_product,['C1506962'],['ATP-Dependent DNA Helicase Q1'],ATP-Dependent DNA Helicase Q1,C1506962,1,1,0.0,0.0
+C1512213,GPT2 Gene,gene_encodes_gene_product,['C2364022'],['Alanine Aminotransferase 2'],Alanine Aminotransferase 2,C2364022,1,1,0.0,0.0
+C1412206,ADAM8 Gene,gene_encodes_gene_product,['C1314771'],['Disintegrin and Metalloproteinase Domain-Containing Protein 8'],Disintegrin and Metalloproteinase Domain-Containing Protein 8,C1314771,1,1,0.0,0.0
+C1825016,DYNLRB1 Gene,gene_encodes_gene_product,['C3273859'],['Dynein Light Chain Roadblock-Type 1'],Dynein Light Chain Roadblock-Type 1,C3273859,1,1,0.0,0.0
+C1539733,SCUBE2 Gene,gene_encodes_gene_product,['C3827208'],"['Signal Peptide, CUB and EGF-Like Domain-Containing Protein 2']","Signal Peptide, CUB and EGF-Like Domain-Containing Protein 2",C3827208,1,1,0.0,0.0
+C1424631,LRRN2 Gene,gene_encodes_gene_product,['C1308623'],['Leucine-Rich Repeat Neuronal Protein 2'],Leucine-Rich Repeat Neuronal Protein 2,C1308623,1,1,0.0,0.0
+C1416831,LGALS3 Gene,gene_encodes_gene_product,['C3710772'],['Galectin-3'],Galectin-3,C3710772,1,1,0.0,0.0
+C1826267,MORC3 Gene,gene_encodes_gene_product,['C3812252'],['MORC Family CW-Type Zinc Finger Protein 3'],MORC Family CW-Type Zinc Finger Protein 3,C3812252,1,1,0.0,0.0
+C1366897,MAPK12 Gene,gene_encodes_gene_product,['C1458133'],['Mitogen-Activated Protein Kinase 12'],Mitogen-Activated Protein Kinase 12,C1458133,1,1,0.0,0.0
+C1424525,ZNF423 Gene,gene_encodes_gene_product,['C3540499'],['Zinc Finger Protein 423'],Zinc Finger Protein 423,C3540499,1,1,0.0,0.0
+C1423108,PAPOLA Gene,gene_encodes_gene_product,['C1522039'],['Poly(A) Polymerase Alpha'],Poly(A) Polymerase Alpha,C1522039,1,1,0.0,0.0
+C1333697,GPRC5C Gene,gene_encodes_gene_product,['C0963060'],['G-Protein Coupled Receptor Family C Group 5 Member C'],G-Protein Coupled Receptor Family C Group 5 Member C,C0963060,1,1,0.0,0.0
+C1335240,PPP1CA Gene,gene_encodes_gene_product,['C1335536'],['Serine/Threonine-Protein Phosphatase PP1-Alpha Catalytic Subunit'],Serine/Threonine-Protein Phosphatase PP1-Alpha Catalytic Subunit,C1335536,1,1,0.0,0.0
+C1364142,SMO Gene,gene_encodes_gene_product,['C1311076'],['Smoothened Homolog'],Smoothened Homolog,C1311076,1,1,0.0,0.0
+C0376571,BRCA1 Gene,gene_encodes_gene_product,['C1528558'],['Breast Cancer Type 1 Susceptibility Protein'],Breast Cancer Type 1 Susceptibility Protein,C1528558,1,1,0.0,0.0
+C1421350,ULK1 Gene,gene_encodes_gene_product,['C1313678'],['Serine/Threonine-Protein Kinase ULK1'],Serine/Threonine-Protein Kinase ULK1,C1313678,1,1,0.0,0.39999999520000007
+C1333245,DOCK1 Gene,gene_encodes_gene_product,['C1333263'],['Dedicator of Cytokinesis Protein 1'],Dedicator of Cytokinesis Protein 1,C1333263,1,1,0.0,0.0
+C1970174,MFSD8 Gene,gene_encodes_gene_product,['C2001954'],['Major Facilitator Superfamily Domain-Containing Protein 8'],Major Facilitator Superfamily Domain-Containing Protein 8,C2001954,1,1,0.0,0.0
+C1333581,FSTL3 Gene,gene_encodes_gene_product,['C4048256'],['Follistatin-Related Protein 3'],Follistatin-Related Protein 3,C4048256,1,1,0.0,0.0
+C1333544,FGFR4 Gene,gene_encodes_gene_product,['C1565716'],['Fibroblast Growth Factor Receptor 4'],Fibroblast Growth Factor Receptor 4,C1565716,1,1,0.0,0.0
+C1416913,LRP1B Gene,gene_encodes_gene_product,['C3816181'],['Low-Density Lipoprotein Receptor-Related Protein 1B'],Low-Density Lipoprotein Receptor-Related Protein 1B,C3816181,1,1,0.0,0.0
+C1332115,ARNT2 Gene,gene_encodes_gene_product,['C1332336'],['Aryl Hydrocarbon Receptor Nuclear Translocator 2'],Aryl Hydrocarbon Receptor Nuclear Translocator 2,C1332336,1,1,0.0,0.0
+C1539340,EIF2AK1 Gene,gene_encodes_gene_product,['C3275244'],['Eukaryotic Translation Initiation Factor 2-Alpha Kinase 1'],Eukaryotic Translation Initiation Factor 2-Alpha Kinase 1,C3275244,1,1,0.0,0.0
+C0812200,ETS Family Gene,gene_encodes_gene_product,['C0919488'],['ETS Family Protein'],ETS Family Protein,C0919488,1,1,0.0,0.6666666616666668
+C1415311,GRN Gene,gene_encodes_gene_product,['C1453193'],['Granulins'],Granulins,C1453193,1,1,0.0,0.0
+C1420357,SPHK1 Gene,gene_encodes_gene_product,['C4282039'],['Sphingosine Kinase 1'],Sphingosine Kinase 1,C4282039,1,1,0.0,0.0
+C4329401,BCR/ABL1 Fusion Gene with ABL1 NM_005157.4:c.763G>A Mutation,gene_encodes_gene_product,['C4329412'],['BCR/ABL1 Fusion Protein with ABL1 NP_005148.2:p.E255K'],BCR/ABL1 Fusion Protein with ABL1 NP_005148.2:p.E255K,C4329412,1,1,0.0,0.4705882303114187
+C1334510,MLANA Gene,gene_encodes_gene_product,['C1522481'],['Melanoma Antigen Recognized by T-Cells 1'],Melanoma Antigen Recognized by T-Cells 1,C1522481,1,1,0.0,0.0
+C1416494,ITGAV Gene,gene_encodes_gene_product,['C4082291'],['Integrin Alpha-V'],Integrin Alpha-V,C4082291,1,1,0.0,0.0
+C1417407,MTAP Gene,gene_encodes_gene_product,['C3538784'],"[""S-Methyl-5'-Thioadenosine Phosphorylase""]",S-Methyl-5'-Thioadenosine Phosphorylase,C3538784,1,1,0.0,0.0
+C1415579,HLA-DRB4 Gene,gene_encodes_gene_product,['C0062872'],['HLA-DR53 Antigen'],HLA-DR53 Antigen,C0062872,1,1,0.0,0.0
+C1415345,GTF2H3 Gene,gene_encodes_gene_product,['C2983125'],['General Transcription Factor IIH Subunit 3'],General Transcription Factor IIH Subunit 3,C2983125,1,1,0.0,0.0
+C1412993,EML4 Gene,gene_encodes_gene_product,['C2348375'],['Echinoderm Microtubule-Associated Protein-Like 4'],Echinoderm Microtubule-Associated Protein-Like 4,C2348375,1,1,0.0,0.0
+C0812214,PIM1 Gene,gene_encodes_gene_product,['C1453707'],['Serine/Threonine-Protein Kinase Pim-1'],Serine/Threonine-Protein Kinase Pim-1,C1453707,1,1,0.0,0.0
+C1426948,CHFR Gene,gene_encodes_gene_product,['C2699835'],['E3 Ubiquitin-Protein Ligase CHFR'],E3 Ubiquitin-Protein Ligase CHFR,C2699835,1,1,0.0,0.33333332888888895
+C1537831,MIR196A2 Gene,gene_encodes_gene_product,['C2826487'],['MIR196A2 Pre-miRNA'],MIR196A2 Pre-miRNA,C2826487,1,1,0.0,0.4999999950000001
+C1176140,CYP3A4 Gene,gene_encodes_gene_product,['C1142644'],['Cytochrome P450 3A4'],Cytochrome P450 3A4,C1142644,1,1,0.0,0.0
+C1826129,MIR551A Gene,gene_encodes_gene_product,['C4287863'],['MIR551A Pre-miRNA'],MIR551A Pre-miRNA,C4287863,1,1,0.0,0.4999999950000001
+C1416681,KLKB1 Gene,gene_encodes_gene_product,['C0313532'],['Plasma Kallikrein'],Plasma Kallikrein,C0313532,1,1,0.0,0.0

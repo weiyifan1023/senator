@@ -1,0 +1,1001 @@
+head_cui,head_name,rel,tail_cuis_list,tail_names_list,tail_names,tail_cuis,tail_cuis_len,tail_names_len,avg_match,avg_rouge_l
+C1336455,Ann Arbor Stage I Follicular Lymphoma,disease_mapped_to_gene,['C0376515'],['BCL2 Gene'],BCL2 Gene,C0376515,1,1,0.0,0.0
+C1333836,Grade 2 Cutaneous Follicular Lymphoma,disease_mapped_to_gene,['C0376515'],['BCL2 Gene'],BCL2 Gene,C0376515,1,1,0.0,0.0
+C1370659,Plexiform Schwannoma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C0278852,Stage I Thyroid Gland Follicular Carcinoma AJCC v7,disease_mapped_to_gene,"['C1833640', 'C4744600']","['PAX8/PPARG Fusion Gene', 'CREB3L2/PPARG Fusion Gene']",PAX8/PPARG Fusion Gene || CREB3L2/PPARG Fusion Gene,C1833640 || C4744600,2,2,0.0,0.0
+C5239499,Refractory Thyroid Gland Hurthle Cell Carcinoma,disease_mapped_to_gene,"['C1833640', 'C4744600']","['PAX8/PPARG Fusion Gene', 'CREB3L2/PPARG Fusion Gene']",PAX8/PPARG Fusion Gene || CREB3L2/PPARG Fusion Gene,C1833640 || C4744600,2,2,0.0,0.0
+C4683429,Stage I Thyroid Gland Follicular Carcinoma 55 Years and Older AJCC v8,disease_mapped_to_gene,"['C1833640', 'C4744600']","['PAX8/PPARG Fusion Gene', 'CREB3L2/PPARG Fusion Gene']",PAX8/PPARG Fusion Gene || CREB3L2/PPARG Fusion Gene,C1833640 || C4744600,2,2,0.0,0.0
+C1707438,Colorectal Medullary Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0280330,Subglottic Verrucous Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1336482,Stage I Lung Small Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0555191,Skin Sclerosing/Morphoeic Basal Cell Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C4521747,Pathologic Stage IIIB Esophageal Squamous Cell Carcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2187547,Retroperitoneal Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C1336400,Stage IVC Nasopharyngeal Keratinizing Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C5204269,Kidney Schwannoma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C1367861,Skin Micronodular Basal Cell Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C4551973,Miyoshi Muscular Dystrophy 1,disease_mapped_to_gene,['C1414209'],['DYSF Gene'],DYSF Gene,C1414209,1,1,0.0,0.0
+C4744398,Recurrent Endometrial Clear Cell Adenocarcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1332900,Cerebellar Hemangioblastoma,disease_mapped_to_gene,['C0694897'],['VHL Gene'],VHL Gene,C0694897,1,1,0.0,0.0
+C1334660,Mediastinal Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C5420042,Sinonasal Pleomorphic Adenoma,disease_mapped_to_gene,"['C1333906', 'C1418629', 'C3148729']","['HMGA2 Gene', 'PLAG1 Gene', 'CTNNB1/PLAG1 Fusion Gene']",HMGA2 Gene || PLAG1 Gene || CTNNB1/PLAG1 Fusion Gene,C1333906 || C1418629 || C3148729,3,3,0.0,0.0
+C5203866,Prostate Adenocarcinoma with Paneth Cell-Like Neuroendocrine Differentiation,disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C0403445,Fechtner Syndrome,disease_mapped_to_gene,['C1417544'],['MYH9 Gene'],MYH9 Gene,C1417544,1,1,0.0,0.0
+C0854981,Stage III Lung Large Cell Carcinoma AJCC v7,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C3282876,Aleukemic Chronic Lymphocytic Leukemia,disease_mapped_to_gene,['C0812238'],['BCL3 Gene'],BCL3 Gene,C0812238,1,1,0.0,0.0
+C4283859,Cutaneous Malignant Melanoma 2,disease_mapped_to_gene,['C0525037'],['CDKN2A Gene'],CDKN2A Gene,C0525037,1,1,0.0,0.0
+C3273113,"Gallbladder Adenocarcinoma, Biliary Type",disease_mapped_to_gene,"['C0079419', 'C0242957', 'C0525037', 'C1537502']","['TP53 Gene', 'ERBB2 Gene', 'CDKN2A Gene', 'KRAS Gene']",TP53 Gene || ERBB2 Gene || CDKN2A Gene || KRAS Gene,C0079419 || C0242957 || C0525037 || C1537502,4,4,0.0,0.0
+C1514836,Renal Cell Carcinoma Associated with inv(X)(p11;q12),disease_mapped_to_gene,"['C1336608', 'C3279505']","['TFE3 Gene', 'NONO/TFE3 Fusion Gene']",TFE3 Gene || NONO/TFE3 Fusion Gene,C1336608 || C3279505,2,2,0.0,0.0
+C1334408,Localized Peripheral Primitive Neuroectodermal Tumor,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C0279687,Spindle Cell Uveal Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C4524732,Pathologic Stage IIA Gastroesophageal Junction Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0334600,Differentiated Retinoblastoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C4721661,Stage IV Lung Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4683497,Refractory Lung Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5207072,Refractory Colorectal Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0280303,Lower Gingival Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4521642,Clinical Stage III Esophageal Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1851402,Exudative Vitreoretinopathy 1,disease_mapped_to_gene,['C1333586'],['FZD4 Gene'],FZD4 Gene,C1333586,1,1,0.0,0.0
+C3897506,Stage IVC Thyroid Gland Papillary Carcinoma AJCC v7,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C4764208,Refractory Endometrial Clear Cell Adenocarcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0340116,Skin Lymphangioleiomyomatosis,disease_mapped_to_gene,['C0694895'],['TSC2 Gene'],TSC2 Gene,C0694895,1,1,0.0,0.0
+C2981236,Stage III Rectosigmoid Cancer AJCC v6,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0862402,Stage II Bladder Urothelial Carcinoma AJCC v6 and v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5418782,Recurrent Superficial Bladder Urothelial Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1510961,Atypical Neurofibroma,disease_mapped_to_gene,['C0085113'],['NF1 Gene'],NF1 Gene,C0085113,1,1,0.0,0.0
+C4521713,Pathologic Stage IVA Esophageal Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4524747,Postneoadjuvant Therapy Stage IIIA Gastroesophageal Junction Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1332345,Atypical Adenomatous Lung Hyperplasia,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C5419073,Recurrent Lung Non-Small Cell Squamous Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C2983706,Colon Cancer by AJCC v6 Stage,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4526725,Stage IV Lung Cancer AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0175697,Van der Woude Syndrome,disease_mapped_to_gene,['C1416474'],['IRF6 Gene'],IRF6 Gene,C1416474,1,1,0.0,0.0
+C1333162,Cranial Nodular Fasciitis,disease_mapped_to_gene,"['C1421407', 'C4054585']","['USP6 Gene', 'MYH9/USP6 Fusion Gene']",USP6 Gene || MYH9/USP6 Fusion Gene,C1421407 || C4054585,2,2,0.0,0.0
+C0280329,Glottis Verrucous Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0039743,Thanatophoric Dysplasia,disease_mapped_to_gene,['C1333543'],['FGFR3 Gene'],FGFR3 Gene,C1333543,1,1,0.0,0.0
+C5421291,Sinonasal Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C0346019,Mucoepidermoid Skin Carcinoma,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C0861556,Recurrent Oral Cavity Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1519855,Uterine Corpus Diffuse Leiomyomatosis,disease_mapped_to_gene,"['C1333903', 'C1333906']","['HMGA1 Gene', 'HMGA2 Gene']",HMGA1 Gene || HMGA2 Gene,C1333903 || C1333906,2,2,0.0,0.0
+C0280372,Stage III Oropharyngeal Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0007124,Ductal Breast Carcinoma In Situ,disease_mapped_to_gene,"['C0242957', 'C1413172']","['ERBB2 Gene', 'CCND1 Gene']",ERBB2 Gene || CCND1 Gene,C0242957 || C1413172,2,2,0.0,0.0
+C1334053,Human Papillomavirus-Related Endocervical Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C1708767,Lung Biphasic Synovial Sarcoma,disease_mapped_to_gene,"['C1420439', 'C1839329', 'C1846243', 'C3274713']","['SS18 Gene', 'SS18/SSX1 Fusion Gene', 'SS18/SSX2 Fusion Gene', 'SS18/SSX4 Fusion Gene']",SS18 Gene || SS18/SSX1 Fusion Gene || SS18/SSX2 Fusion Gene || SS18/SSX4 Fusion Gene,C1420439 || C1839329 || C1846243 || C3274713,4,4,0.0,0.0
+C1333508,Extrahepatic Bile Duct Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C0278717,Intraocular Retinoblastoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C5205727,Prostate Synovial Sarcoma,disease_mapped_to_gene,"['C1420439', 'C1839329', 'C1846243', 'C3274713']","['SS18 Gene', 'SS18/SSX1 Fusion Gene', 'SS18/SSX2 Fusion Gene', 'SS18/SSX4 Fusion Gene']",SS18 Gene || SS18/SSX1 Fusion Gene || SS18/SSX2 Fusion Gene || SS18/SSX4 Fusion Gene,C1420439 || C1839329 || C1846243 || C3274713,4,4,0.0,0.0
+C0677687,Ann Arbor Stage II Grade 1 Contiguous Follicular Lymphoma,disease_mapped_to_gene,['C0376515'],['BCL2 Gene'],BCL2 Gene,C0376515,1,1,0.0,0.0
+C1707332,Cellular Myxoma,disease_mapped_to_gene,['C1366550'],['GNAS Gene'],GNAS Gene,C1366550,1,1,0.0,0.0
+C2827496,Connexin 26 Gene Anomaly,disease_mapped_to_gene,['C1415077'],['GJB2 Gene'],GJB2 Gene,C1415077,1,1,0.0,0.33333332888888895
+C4682554,Uterine Corpus Leiomyosarcoma by AJCC v8 Stage,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C4551951,Inclusion Body Myopathy with Early-Onset Paget Disease with or without Frontotemporal Dementia 1,disease_mapped_to_gene,['C1421437'],['VCP Gene'],VCP Gene,C1421437,1,1,0.0,0.0
+C5239373,Metastatic Choroid Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C4524727,Pathologic Stage IB Gastroesophageal Junction Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4526726,Stage IVA Lung Cancer AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0278506,Stage III Lung Non-Small Cell Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C4524642,Esophageal Adenocarcinoma by AJCC v8 Postneoadjuvant Therapy Stage,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1720008,AIDS-Related Burkitt Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C5420647,Unresectable Vulvar Squamous Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0694888']","['TP53 Gene', 'PTEN Gene']",TP53 Gene || PTEN Gene,C0079419 || C0694888,2,2,0.0,0.0
+C0278681,Metastatic Parathyroid Gland Carcinoma,disease_mapped_to_gene,['C1708291'],['CDC73 Gene'],CDC73 Gene,C1708291,1,1,0.0,0.0
+C0279654,Rectal Signet Ring Cell Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C2987139,Pancreatic Well Differentiated Ductal Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0242957', 'C0525037', 'C0598034', 'C0694891', 'C1537502']","['TP53 Gene', 'ERBB2 Gene', 'CDKN2A Gene', 'BRCA2 Gene', 'SMAD4 Gene', 'KRAS Gene']",TP53 Gene || ERBB2 Gene || CDKN2A Gene || BRCA2 Gene || SMAD4 Gene || KRAS Gene,C0079419 || C0242957 || C0525037 || C0598034 || C0694891 || C1537502,6,6,0.0,0.0
+C1848411,"Xeroderma Pigmentosum, Complementation Group E",disease_mapped_to_gene,['C1413942'],['DDB2 Gene'],DDB2 Gene,C1413942,1,1,0.0,0.0
+C1519857,Uterine Corpus Low Grade Endometrial Stromal Sarcoma,disease_mapped_to_gene,['C2676350'],['JAZF1/SUZ12 Fusion Gene'],JAZF1/SUZ12 Fusion Gene,C2676350,1,1,0.0,0.0
+C5239401,Myelodysplastic Syndrome with Somatic Mutations,disease_mapped_to_gene,"['C0079419', 'C0796520', 'C1333368', 'C1335654', 'C1425445']","['TP53 Gene', 'ETV6 Gene', 'EZH2 Gene', 'RUNX1 Gene', 'ASXL1 Gene']",TP53 Gene || ETV6 Gene || EZH2 Gene || RUNX1 Gene || ASXL1 Gene,C0079419 || C0796520 || C1333368 || C1335654 || C1425445,5,5,0.0,0.0
+C1334801,Monophasic Synovial Sarcoma,disease_mapped_to_gene,"['C1420439', 'C1839329', 'C1846243', 'C3274713']","['SS18 Gene', 'SS18/SSX1 Fusion Gene', 'SS18/SSX2 Fusion Gene', 'SS18/SSX4 Fusion Gene']",SS18 Gene || SS18/SSX1 Fusion Gene || SS18/SSX2 Fusion Gene || SS18/SSX4 Fusion Gene,C1420439 || C1839329 || C1846243 || C3274713,4,4,0.0,0.0
+C4553877,Stage IVB Thyroid Gland Papillary Carcinoma AJCC v8,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C0278680,Localized Parathyroid Gland Carcinoma,disease_mapped_to_gene,['C1708291'],['CDC73 Gene'],CDC73 Gene,C1708291,1,1,0.0,0.0
+C1514921,Retroperitoneal Inflammatory Myofibroblastic Tumor,disease_mapped_to_gene,"['C1332080', 'C1333906', 'C3151474', 'C3639982', 'C3639984']","['ALK Gene', 'HMGA2 Gene', 'CLTC/ALK Fusion Gene', 'TPM3/ALK Fusion Gene', 'TPM4/ALK Fusion Gene']",ALK Gene || HMGA2 Gene || CLTC/ALK Fusion Gene || TPM3/ALK Fusion Gene || TPM4/ALK Fusion Gene,C1332080 || C1333906 || C3151474 || C3639982 || C3639984,5,5,0.0,0.0
+C0278578,Stage IV Cervical Cancer AJCC v6 and v7,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C1708716,Pericardial Solitary Fibrous Tumor,disease_mapped_to_gene,['C1417589'],['NAB2/STAT6 Fusion Gene'],NAB2/STAT6 Fusion Gene,C1417589,1,1,0.0,0.0
+C2939465,Glucose-6-Phosphate Dehydrogenase Deficiency,disease_mapped_to_gene,['C1333652'],['G6PD Gene'],G6PD Gene,C1333652,1,1,0.0,0.0
+C1332329,Appendix Villous Adenoma,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C1334711,Metastasizing Pleomorphic Adenoma of the Salivary Gland,disease_mapped_to_gene,"['C1333906', 'C1418629', 'C3148729']","['HMGA2 Gene', 'PLAG1 Gene', 'CTNNB1/PLAG1 Fusion Gene']",HMGA2 Gene || PLAG1 Gene || CTNNB1/PLAG1 Fusion Gene,C1333906 || C1418629 || C3148729,3,3,0.0,0.0
+C0280382,Stage III Nasopharyngeal Keratinizing Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C5420812,Iris Epithelioid Cell Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C5206439,Stage IB Cervical Cancer FIGO 2018,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C1266057,"Endometrial Endometrioid Adenocarcinoma, Secretory Variant",disease_mapped_to_gene,['C0694888'],['PTEN Gene'],PTEN Gene,C0694888,1,1,0.0,0.0
+C0025267,Multiple Endocrine Neoplasia Type 1,disease_mapped_to_gene,['C0694884'],['MEN1 Gene'],MEN1 Gene,C0694884,1,1,0.0,0.0
+C1518872,Pancreatic Mucinous-Cystic Neoplasm,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C4049867,Giant Cell Lesion of Small Bones,disease_mapped_to_gene,['C1421407'],['USP6 Gene'],USP6 Gene,C1421407,1,1,0.0,0.0
+C0006413,Burkitt Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C1336450,Stage I Bladder Urothelial Carcinoma AJCC v6 and v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4288806,Low Grade Fallopian Tube Serous Adenocarcinoma,disease_mapped_to_gene,"['C0812241', 'C1537502']","['BRAF Gene', 'KRAS Gene']",BRAF Gene || KRAS Gene,C0812241 || C1537502,2,2,0.0,0.0
+C0017551,Gilbert Syndrome,disease_mapped_to_gene,['C0537026'],['UGT1A1 Gene'],UGT1A1 Gene,C0537026,1,1,0.0,0.0
+C1333481,Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor of Bone,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C1332905,Cerebellopontine Angle Schwannoma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C1855498,Combined Lipase Deficiency,disease_mapped_to_gene,['C1823374'],['LMF1 Gene'],LMF1 Gene,C1823374,1,1,0.0,0.0
+C1879347,Skin Nodular Solid Basal Cell Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C0872218,Mitochondrial Neurogastrointestinal Encephalopathy,disease_mapped_to_gene,['C1333327'],['TYMP Gene'],TYMP Gene,C1333327,1,1,0.0,0.0
+C5204113,Metastatic Pancreatic Ductal Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0242957', 'C0525037', 'C0598034', 'C0694891', 'C1537502']","['TP53 Gene', 'ERBB2 Gene', 'CDKN2A Gene', 'BRCA2 Gene', 'SMAD4 Gene', 'KRAS Gene']",TP53 Gene || ERBB2 Gene || CDKN2A Gene || BRCA2 Gene || SMAD4 Gene || KRAS Gene,C0079419 || C0242957 || C0525037 || C0598034 || C0694891 || C1537502,6,6,0.0,0.0
+C1333321,Duodenal Gastrin-Producing Neuroendocrine Tumor,disease_mapped_to_gene,['C0694884'],['MEN1 Gene'],MEN1 Gene,C0694884,1,1,0.0,0.0
+C5206681,Unresectable Colorectal Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4744439,Unresectable Lung Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1334280,Invasive Papillary Breast Carcinoma,disease_mapped_to_gene,"['C0242957', 'C1413172']","['ERBB2 Gene', 'CCND1 Gene']",ERBB2 Gene || CCND1 Gene,C0242957 || C1413172,2,2,0.0,0.0
+C0334330,Diffuse Sclerosing Variant Thyroid Gland Papillary Carcinoma,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C0265309,Leri-Weill Dyschondrosteosis,disease_mapped_to_gene,['C1420041'],['SHOX Gene'],SHOX Gene,C1420041,1,1,0.0,0.0
+C1333463,Esophageal Neurofibroma,disease_mapped_to_gene,['C0085113'],['NF1 Gene'],NF1 Gene,C0085113,1,1,0.0,0.0
+C3714651,Follicular Variant Thyroid Gland Papillary Carcinoma,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C4726552,Myeloid Neoplasms with Germline ETV6 Mutation,disease_mapped_to_gene,['C0796520'],['ETV6 Gene'],ETV6 Gene,C0796520,1,1,0.0,0.24999999625000005
+C0259785,Anaplastic (Malignant) Meningioma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C4525130,Stage IVB Colon Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C5203858,Usual Prostate Adenocarcinoma with Neuroendocrine Differentiation,disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C0279178,Stage III Thyroid Gland Follicular Carcinoma AJCC v7,disease_mapped_to_gene,"['C1833640', 'C4744600']","['PAX8/PPARG Fusion Gene', 'CREB3L2/PPARG Fusion Gene']",PAX8/PPARG Fusion Gene || CREB3L2/PPARG Fusion Gene,C1833640 || C4744600,2,2,0.0,0.0
+C1516423,"Cervical Mucinous Adenocarcinoma, Minimal Deviation Type",disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C3899641,Childhood Lung Small Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0346388,Choroid Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C1335719,Recurrent Peripheral Primitive Neuroectodermal Tumor,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C1336211,Stage IIIA Lung Cancer AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0280169,Ann Arbor Stage IV Grade 1 Follicular Lymphoma,disease_mapped_to_gene,['C0376515'],['BCL2 Gene'],BCL2 Gene,C0376515,1,1,0.0,0.0
+C0268120,Adenine Phosphoribosyltransferase Deficiency,disease_mapped_to_gene,['C1366623'],['APRT Gene'],APRT Gene,C1366623,1,1,0.0,0.0
+C0238052,Cerebrotendinous Xanthomatosis,disease_mapped_to_gene,['C1413864'],['CYP27A1 Gene'],CYP27A1 Gene,C1413864,1,1,0.0,0.0
+C4744530,Spindle Cell Variant Thyroid Gland Papillary Carcinoma,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C5206582,Advanced Colorectal Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C5418789,Advanced Rectal Squamous Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C5238405,Refractory Prostate Adenocarcinoma,disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C1336356,Stage IVA Oropharyngeal Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5420863,Recurrent Thyroid Gland Hurthle Cell Carcinoma,disease_mapped_to_gene,"['C1833640', 'C4744600']","['PAX8/PPARG Fusion Gene', 'CREB3L2/PPARG Fusion Gene']",PAX8/PPARG Fusion Gene || CREB3L2/PPARG Fusion Gene,C1833640 || C4744600,2,2,0.0,0.0
+C2981352,Stage IV Lung Cancer AJCC v6,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4725002,MCD Diffuse Large B-Cell Lymphoma,disease_mapped_to_gene,"['C1413239', 'C1417530']","['CD79B Gene', 'MYD88 Gene']",CD79B Gene || MYD88 Gene,C1413239 || C1417530,2,2,0.0,0.0
+C1709153,Nasopharyngeal Differentiated Carcinoma,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C1368275,Skin Pigmented Basal Cell Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C1839259,"Spinal and Bulbar Muscular Atrophy, X-linked 1",disease_mapped_to_gene,['C1367578'],['AR Gene'],AR Gene,C1367578,1,1,0.0,0.0
+C5202613,Polymerase Proofreading Associated Polyposis,disease_mapped_to_gene,"['C1418727', 'C1418729']","['POLD1 Gene', 'POLE Gene']",POLD1 Gene || POLE Gene,C1418727 || C1418729,2,2,0.0,0.0
+C4721648,Stage I Esophageal Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1334713,Metastatic Bone Ewing Sarcoma,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C0280370,Stage II Oropharyngeal Squamous Cell Carcinoma AJCC v6 and v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4744373,Sellar Schwannoma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C0268689,Vitamin D 1 Alpha-Hydroxylase Deficiency,disease_mapped_to_gene,['C1413865'],['CYP27B1 Gene'],CYP27B1 Gene,C1413865,1,1,0.0,0.0
+C2982916,Stage II Lung Cancer AJCC v6,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4721646,Stage I Esophageal Adenocarcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5420649,Metastatic Vulvar Squamous Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0694888']","['TP53 Gene', 'PTEN Gene']",TP53 Gene || PTEN Gene,C0079419 || C0694888,2,2,0.0,0.0
+C0278725,Limited Stage Lung Small Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4688318,Refractory Colorectal Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C2981399,Stage IIB Colorectal Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0345960,Lung Giant Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C4525129,Stage IVA Colon Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C3897513,Stage IVB Rectal Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C5206452,Stage IIIC1 Cervical Cancer FIGO 2018,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C1336361,Stage IVB Basal Cell Lip Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C1335991,Small Intestinal Burkitt Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C0862417,Stage III Bladder Urothelial Carcinoma AJCC v6 and v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1333454,Esophageal Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C4329636,Central Nervous System Mesenchymal Chondrosarcoma,disease_mapped_to_gene,['C4054881'],['HEY1/NCOA2 Fusion Gene'],HEY1/NCOA2 Fusion Gene,C4054881,1,1,0.0,0.0
+C0334599,Pacinian Neurofibroma,disease_mapped_to_gene,['C0085113'],['NF1 Gene'],NF1 Gene,C0085113,1,1,0.0,0.0
+C0334475,Lipoblastomatosis,disease_mapped_to_gene,"['C1418629', 'C3639963', 'C3639964']","['PLAG1 Gene', 'COL1A2/PLAG1 Fusion Gene', 'HAS2/PLAG1 Fusion Gene']",PLAG1 Gene || COL1A2/PLAG1 Fusion Gene || HAS2/PLAG1 Fusion Gene,C1418629 || C3639963 || C3639964,3,3,0.0,0.0
+C0403814,Congenital Bilateral Aplasia of the Vas Deferens,disease_mapped_to_gene,['C1413365'],['CFTR Gene'],CFTR Gene,C1413365,1,1,0.0,0.0
+C1275236,Tendon Sheath Fibroma,disease_mapped_to_gene,['C1421407'],['USP6 Gene'],USP6 Gene,C1421407,1,1,0.0,0.0
+C0278554,Recurrent Rectal Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0031269,Peutz-Jeghers Syndrome,disease_mapped_to_gene,['C0694883'],['STK11 Gene'],STK11 Gene,C0694883,1,1,0.0,0.0
+C1332490,Cutaneous Schwannoma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C1334977,Non-Functioning Pancreatic Neuroendocrine Tumor,disease_mapped_to_gene,"['C0694884', 'C0694897']","['MEN1 Gene', 'VHL Gene']",MEN1 Gene || VHL Gene,C0694884 || C0694897,2,2,0.0,0.0
+C1520102,Vulvar Warty Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0694888']","['TP53 Gene', 'PTEN Gene']",TP53 Gene || PTEN Gene,C0079419 || C0694888,2,2,0.0,0.0
+C0015306,Hereditary Multiple Exostoses,disease_mapped_to_gene,"['C0694878', 'C0694879']","['EXT1 Gene', 'EXT2 Gene']",EXT1 Gene || EXT2 Gene,C0694878 || C0694879,2,2,0.0,0.0
+C1333830,Grade 1 Cutaneous Follicular Lymphoma,disease_mapped_to_gene,['C0376515'],['BCL2 Gene'],BCL2 Gene,C0376515,1,1,0.0,0.0
+C4330265,"High Grade B-Cell Lymphoma with MYC, BCL2, and BCL6 Rearrangements",disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C1336380,Stage IVB Nasopharyngeal Keratinizing Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C1370890,Inflammatory Liposarcoma,disease_mapped_to_gene,['C0812222'],['MDM2 Gene'],MDM2 Gene,C0812222,1,1,0.0,0.0
+C3146257,Stage II Colon Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0334106,Bowenoid Papulosis,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0677714,Ann Arbor Stage III Mantle Cell Lymphoma,disease_mapped_to_gene,['C1413172'],['CCND1 Gene'],CCND1 Gene,C1413172,1,1,0.0,0.0
+C4054729,Infant Acute Lymphoblastic Leukemia with MLL Rearrangement,disease_mapped_to_gene,['C0919528'],['KMT2A Gene'],KMT2A Gene,C0919528,1,1,0.0,0.0
+C0016037,Fibrodysplasia Ossificans Progressiva,disease_mapped_to_gene,['C1332012'],['ACVR1 Gene'],ACVR1 Gene,C1332012,1,1,0.0,0.0
+C1839130,X-Linked Dystonia Parkinsonism,disease_mapped_to_gene,['C1336564'],['TAF1 Gene'],TAF1 Gene,C1336564,1,1,0.0,0.0
+C0278764,Adult Burkitt Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C1333027,Choroid Spindle Cell Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C3272835,Colorectal Schwannoma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C3151055,Cholesterol Side-Chain Cleavage Deficiency,disease_mapped_to_gene,['C1413855'],['CYP11A1 Gene'],CYP11A1 Gene,C1413855,1,1,0.0,0.0
+C1334668,Mediastinal Melanotic Schwannoma,disease_mapped_to_gene,['C1418907'],['PRKAR1A Gene'],PRKAR1A Gene,C1418907,1,1,0.0,0.0
+C2985524,Rhabdoid Tumor Predisposition Syndrome,disease_mapped_to_gene,['C0812273'],['SMARCB1 Gene'],SMARCB1 Gene,C0812273,1,1,0.0,0.0
+C1333869,Pancreatic Intraepithelial Neoplasia-1,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C1306214,Corticotroph Adenoma,disease_mapped_to_gene,['C1336848'],['USP8 Gene'],USP8 Gene,C1336848,1,1,0.0,0.0
+C1517894,Lipid-Rich Breast Carcinoma,disease_mapped_to_gene,"['C0242957', 'C1413172']","['ERBB2 Gene', 'CCND1 Gene']",ERBB2 Gene || CCND1 Gene,C0242957 || C1413172,2,2,0.0,0.0
+C5237442,Resectable Lung Non-Small Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C0854915,Unilateral Retinoblastoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C2347540,Adult Acute Myeloid Leukemia with t(8;21); (q22; q22.1); RUNX1-RUNX1T1,disease_mapped_to_gene,"['C1539715', 'C1851466']","['RUNX1T1 Gene', 'RUNX1/RUNX1T1 Fusion Gene']",RUNX1T1 Gene || RUNX1/RUNX1T1 Fusion Gene,C1539715 || C1851466,2,2,0.0,0.0
+C2987165,Pancreatic Hepatoid Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0242957', 'C0525037', 'C0598034', 'C0694891', 'C1537502']","['TP53 Gene', 'ERBB2 Gene', 'CDKN2A Gene', 'BRCA2 Gene', 'SMAD4 Gene', 'KRAS Gene']",TP53 Gene || ERBB2 Gene || CDKN2A Gene || BRCA2 Gene || SMAD4 Gene || KRAS Gene,C0079419 || C0242957 || C0525037 || C0598034 || C0694891 || C1537502,6,6,0.0,0.0
+C0349566,Tongue Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4528641,Stage IV Low-CSD Melanoma AJCC v7,disease_mapped_to_gene,['C0812241'],['BRAF Gene'],BRAF Gene,C0812241,1,1,0.0,0.0
+C1860707,Tuberous Sclerosis 2,disease_mapped_to_gene,['C0694895'],['TSC2 Gene'],TSC2 Gene,C0694895,1,1,0.0,0.0
+C4329273,Acute Myeloid Leukemia with t(11;15)(p15;q35); NUP98-JARID1A,disease_mapped_to_gene,['C1334913'],['NUP98 Gene'],NUP98 Gene,C1334913,1,1,0.0,0.0
+C4725952,Locally Advanced Gastrointestinal Stromal Tumor,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C4744430,Recurrent Desmoid-Type Fibromatosis,disease_mapped_to_gene,['C0162832'],['APC Gene'],APC Gene,C0162832,1,1,0.0,0.0
+C4683147,Stage I Choroidal and Ciliary Body Melanoma AJCC v8,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C0280366,Recurrent Oral Cavity Mucoepidermoid Carcinoma,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C2217038,Stage IIIB Colon Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C2981375,Stage IIIA Esophageal Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5205123,Unresectable NUT Carcinoma,disease_mapped_to_gene,['C3274991'],['BRD4/NUTM1 Fusion Gene'],BRD4/NUTM1 Fusion Gene,C3274991,1,1,0.0,0.0
+C4687514,Metastatic Epithelioid Hemangioendothelioma,disease_mapped_to_gene,['C4053854'],['WWTR1/CAMTA1 Fusion Gene'],WWTR1/CAMTA1 Fusion Gene,C4053854,1,1,0.0,0.0
+C1846790,Joubert Syndrome Type 4,disease_mapped_to_gene,['C1417782'],['NPHP1 Gene'],NPHP1 Gene,C1417782,1,1,0.0,0.0
+C2981398,Stage IIA Colorectal Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1336182,Stage IIB Esophageal Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4724993,Refractory Oropharyngeal Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0016667,Fragile X Syndrome,disease_mapped_to_gene,['C1414649'],['FMR1 Gene'],FMR1 Gene,C1414649,1,1,0.0,0.0
+C0279744,High Grade Salivary Gland Mucoepidermoid Carcinoma,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C3897528,Stage IIIB Rectal Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C2826778,Lobular Neoplasia Type B,disease_mapped_to_gene,['C0694872'],['CDH1 Gene'],CDH1 Gene,C0694872,1,1,0.0,0.0
+C2987254,Esophageal Well Differentiated Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1336137,Stage IB Lung Adenocarcinoma AJCC v7,disease_mapped_to_gene,"['C0079419', 'C1332080', 'C1412993', 'C1414313', 'C1537502']","['TP53 Gene', 'ALK Gene', 'EML4/ALK Fusion Gene', 'EGFR Gene', 'KRAS Gene']",TP53 Gene || ALK Gene || EML4/ALK Fusion Gene || EGFR Gene || KRAS Gene,C0079419 || C1332080 || C1412993 || C1414313 || C1537502,5,5,0.0,0.0
+C1511063,Cervical Basaloid Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C1335486,Primary Intraosseous Squamous Cell Carcinoma-Solid Type,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4554065,Childhood Brain Glioblastoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5206778,Recurrent Rhabdoid Tumor of the Kidney,disease_mapped_to_gene,['C0812273'],['SMARCB1 Gene'],SMARCB1 Gene,C0812273,1,1,0.0,0.0
+C3272425,Gastric Schwannoma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C5235949,Locally Advanced Alveolar Soft Part Sarcoma,disease_mapped_to_gene,['C3888091'],['ASPSCR1/TFE3 Fusion Gene'],ASPSCR1/TFE3 Fusion Gene,C3888091,1,1,0.0,0.0
+C4725003,BN2 Diffuse Large B-Cell Lymphoma,disease_mapped_to_gene,"['C1332399', 'C1417767']","['BCL6 Gene', 'NOTCH2 Gene']",BCL6 Gene || NOTCH2 Gene,C1332399 || C1417767,2,2,0.0,0.0
+C0265354,CHARGE Syndrome,disease_mapped_to_gene,['C1427038'],['CHD7 Gene'],CHD7 Gene,C1427038,1,1,0.0,0.0
+C4552013,Stage IIA Cervical Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C4687702,Pericardial Synovial Sarcoma,disease_mapped_to_gene,"['C1420439', 'C1839329', 'C1846243', 'C3274713']","['SS18 Gene', 'SS18/SSX1 Fusion Gene', 'SS18/SSX2 Fusion Gene', 'SS18/SSX4 Fusion Gene']",SS18 Gene || SS18/SSX1 Fusion Gene || SS18/SSX2 Fusion Gene || SS18/SSX4 Fusion Gene,C1420439 || C1839329 || C1846243 || C3274713,4,4,0.0,0.0
+C0279557,Lung Adenosquamous Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C1335100,Occult Lung Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C3899659,Childhood Giant Cell Glioblastoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C1333123,Combined Lung Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1518873,"Pancreatic Intraductal Papillary-Mucinous Neoplasm, High Grade",disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C4524718,Clinical Stage IVA Gastroesophageal Junction Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1333093,Colon Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C1518723,Ovarian Mucinous Adenofibroma,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C0039445,Hereditary Hemorrhagic Telangiectasia,disease_mapped_to_gene,"['C1366583', 'C1366767']","['ENG Gene', 'ACVRL1 Gene']",ENG Gene || ACVRL1 Gene,C1366583 || C1366767,2,2,0.0,0.0
+C0334683,Skin Basal Cell Carcinoma with Sebaceous Differentiation,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C5206377,Refractory Rectal Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4721747,Stage IV Esophageal Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C3146254,Stage III Colon Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4744476,Thyroid Gland Black Follicular Adenoma,disease_mapped_to_gene,['C1833640'],['PAX8/PPARG Fusion Gene'],PAX8/PPARG Fusion Gene,C1833640,1,1,0.0,0.0
+C5237826,Advanced Colorectal Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0393929,Presynaptic Congenital Myasthenic Syndrome 6,disease_mapped_to_gene,['C1413376'],['CHAT Gene'],CHAT Gene,C1413376,1,1,0.0,0.0
+C1334176,Inferior Vena Cava Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C0085280,Alagille Syndrome,disease_mapped_to_gene,['C1416525'],['JAG1 Gene'],JAG1 Gene,C1416525,1,1,0.0,0.0
+C4525091,Stage IIIA Colorectal Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0279740,Low Grade Salivary Gland Mucoepidermoid Carcinoma,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C1833661,Paroxysmal Extreme Pain Disorder,disease_mapped_to_gene,['C1419867'],['SCN9A Gene'],SCN9A Gene,C1419867,1,1,0.0,0.0
+C3554690,Ataxia-Oculomotor Apraxia Type 3,disease_mapped_to_gene,['C1538647'],['PIK3R5 Gene'],PIK3R5 Gene,C1538647,1,1,0.0,0.0
+C0206646,Abdominal (Mesenteric) Fibromatosis,disease_mapped_to_gene,['C0162832'],['APC Gene'],APC Gene,C0162832,1,1,0.0,0.0
+C2987191,"Pancreatic Intraductal Papillary Mucinous Neoplasm, Gastric-Type",disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C0242292,McCune-Albright Syndrome,disease_mapped_to_gene,['C1366550'],['GNAS Gene'],GNAS Gene,C1366550,1,1,0.0,0.0
+C2981412,Stage IIIA Gastric Gastrointestinal Stromal Tumor,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C1336118,Stage IA Lung Cancer AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4526724,Stage IIIC Lung Cancer AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1710174,"Lung Squamous Cell Carcinoma, Clear Cell Variant",disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C0010273,Craniofacial Dysostosis,disease_mapped_to_gene,['C1333542'],['FGFR2 Gene'],FGFR2 Gene,C1333542,1,1,0.0,0.0
+C5420198,Oropharyngeal Human Papillomavirus-Negative Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5420050,Sinonasal Synovial Sarcoma,disease_mapped_to_gene,"['C1420439', 'C1839329', 'C1846243', 'C3274713']","['SS18 Gene', 'SS18/SSX1 Fusion Gene', 'SS18/SSX2 Fusion Gene', 'SS18/SSX4 Fusion Gene']",SS18 Gene || SS18/SSX1 Fusion Gene || SS18/SSX2 Fusion Gene || SS18/SSX4 Fusion Gene,C1420439 || C1839329 || C1846243 || C3274713,4,4,0.0,0.0
+C0751383,Neuronal Ceroid Lipofuscinosis Type 3,disease_mapped_to_gene,['C1413495'],['CLN3 Gene'],CLN3 Gene,C1413495,1,1,0.0,0.0
+C4744535,Hobnail Variant Thyroid Gland Papillary Carcinoma,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C1301034,Pancreatic Intraepithelial Neoplasia,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C1336278,Stage III Uveal Melanoma AJCC v7,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C0280309,Oral Cavity Mucoepidermoid Carcinoma,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C1368771,Atypical Burkitt/Burkitt-Like Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C4521644,Clinical Stage IVA Esophageal Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4288304,Recurrent Lung Non-Squamous Non-Small Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C4525137,Stage IIC Rectal Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4725091,Metastatic Uveal Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C1864827,Holoprosencephaly Type 5,disease_mapped_to_gene,['C1421581'],['ZIC1 Gene'],ZIC1 Gene,C1421581,1,1,0.0,0.0
+C4524633,Esophageal Adenocarcinoma by AJCC v8 Clinical Stage,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0014805,Primary Erythromelalgia,disease_mapped_to_gene,['C1419867'],['SCN9A Gene'],SCN9A Gene,C1419867,1,1,0.0,0.0
+C1336396,Stage IVC Laryngeal Verrucous Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2698306,B Acute Lymphoblastic Leukemia with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1),disease_mapped_to_gene,"['C1336596', 'C1418285', 'C1867800']","['TCF3 Gene', 'PBX1 Gene', 'TCF3/PBX1 Fusion Gene']",TCF3 Gene || PBX1 Gene || TCF3/PBX1 Fusion Gene,C1336596 || C1418285 || C1867800,3,3,0.0,0.0
+C5419873,Pancreatic Undifferentiated Carcinoma with Rhabdoid Cells,disease_mapped_to_gene,"['C0079419', 'C0242957', 'C0525037', 'C0598034', 'C0694891', 'C1537502']","['TP53 Gene', 'ERBB2 Gene', 'CDKN2A Gene', 'BRCA2 Gene', 'SMAD4 Gene', 'KRAS Gene']",TP53 Gene || ERBB2 Gene || CDKN2A Gene || BRCA2 Gene || SMAD4 Gene || KRAS Gene,C0079419 || C0242957 || C0525037 || C0598034 || C0694891 || C1537502,6,6,0.0,0.0
+C4688308,Advanced Lung Non-Squamous Non-Small Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C4744725,Locally Advanced Cervical Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C0334506,Epithelial Synovial Sarcoma,disease_mapped_to_gene,"['C1420439', 'C1839329', 'C1846243', 'C3274713']","['SS18 Gene', 'SS18/SSX1 Fusion Gene', 'SS18/SSX2 Fusion Gene', 'SS18/SSX4 Fusion Gene']",SS18 Gene || SS18/SSX1 Fusion Gene || SS18/SSX2 Fusion Gene || SS18/SSX4 Fusion Gene,C1420439 || C1839329 || C1846243 || C3274713,4,4,0.0,0.0
+C0206641,Multiple Osteochondromas,disease_mapped_to_gene,"['C0694878', 'C0694879']","['EXT1 Gene', 'EXT2 Gene']",EXT1 Gene || EXT2 Gene,C0694878 || C0694879,2,2,0.0,0.0
+C4553879,Stage IVB Thyroid Gland Follicular Carcinoma AJCC v8,disease_mapped_to_gene,"['C1833640', 'C4744600']","['PAX8/PPARG Fusion Gene', 'CREB3L2/PPARG Fusion Gene']",PAX8/PPARG Fusion Gene || CREB3L2/PPARG Fusion Gene,C1833640 || C4744600,2,2,0.0,0.0
+C0039292,Tangier Disease,disease_mapped_to_gene,['C1412058'],['ABCA1 Gene'],ABCA1 Gene,C1412058,1,1,0.0,0.0
+C2981376,Stage IIIB Esophageal Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0272203,Indolent Systemic Mastocytosis,disease_mapped_to_gene,['C0920288'],['KIT Gene'],KIT Gene,C0920288,1,1,0.0,0.0
+C5206968,Metastatic NUT Carcinoma,disease_mapped_to_gene,['C3274991'],['BRD4/NUTM1 Fusion Gene'],BRD4/NUTM1 Fusion Gene,C3274991,1,1,0.0,0.0
+C1517579,"Infiltrating Bladder Urothelial Carcinoma, Micropapillary Variant",disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0585474,Ewing Sarcoma of Bone,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C2349148,Well Differentiated Adrenal Cortex Carcinoma,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C5205936,Extrarenal Rhabdoid Tumor of the Prostate,disease_mapped_to_gene,['C0812273'],['SMARCB1 Gene'],SMARCB1 Gene,C0812273,1,1,0.0,0.0
+C1335934,Scrotal Basal Cell Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C1335575,Pulmonary Vein Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C1336331,Stage IVA Basal Cell Lip Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C4744550,Metastatic Nasopharyngeal Keratinizing Squamous Cell Carcinoma,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C1336128,Stage IB1 Cervical Cancer AJCC v6 and v7,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C1710176,"Lung Squamous Cell Carcinoma, Small Cell Variant",disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4526720,Stage IIB Lung Cancer AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0040028,Essential Thrombocythemia,disease_mapped_to_gene,['C1334291'],['JAK2 Gene'],JAK2 Gene,C1334291,1,1,0.0,0.0
+C4526973,Stage IV Gastric and Omental Gastrointestinal Stromal Tumor AJCC v8,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C1333264,Dedifferentiated Dermatofibrosarcoma Protuberans,disease_mapped_to_gene,['C1861000'],['COL1A1/PDGFB Fusion Gene'],COL1A1/PDGFB Fusion Gene,C1861000,1,1,0.0,0.0
+C1332165,Combined Lung Small Cell Carcinoma and Lung Adenocarcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4331917,Nasopharyngeal Carcinoma by AJCC v8 Stage,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C4553693,Stage IV Cervical Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C0854983,Recurrent Lung Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C1332080', 'C1412993', 'C1414313', 'C1537502']","['TP53 Gene', 'ALK Gene', 'EML4/ALK Fusion Gene', 'EGFR Gene', 'KRAS Gene']",TP53 Gene || ALK Gene || EML4/ALK Fusion Gene || EGFR Gene || KRAS Gene,C0079419 || C1332080 || C1412993 || C1414313 || C1537502,5,5,0.0,0.0
+C0861461,Stage IV Colon Cancer AJCC v6,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4761423,Histiocytoid Breast Carcinoma,disease_mapped_to_gene,['C0694872'],['CDH1 Gene'],CDH1 Gene,C0694872,1,1,0.0,0.0
+C4682564,Stage IVA Uterine Corpus Leiomyosarcoma AJCC v8,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C1306247,Melanotic Schwannoma,disease_mapped_to_gene,['C1418907'],['PRKAR1A Gene'],PRKAR1A Gene,C1418907,1,1,0.0,0.0
+C4553844,Stage IV Thyroid Gland Follicular Carcinoma AJCC v8,disease_mapped_to_gene,"['C1833640', 'C4744600']","['PAX8/PPARG Fusion Gene', 'CREB3L2/PPARG Fusion Gene']",PAX8/PPARG Fusion Gene || CREB3L2/PPARG Fusion Gene,C1833640 || C4744600,2,2,0.0,0.0
+C5420271,Oropharyngeal Pleomorphic Adenoma,disease_mapped_to_gene,"['C1333906', 'C1418629', 'C3148729']","['HMGA2 Gene', 'PLAG1 Gene', 'CTNNB1/PLAG1 Fusion Gene']",HMGA2 Gene || PLAG1 Gene || CTNNB1/PLAG1 Fusion Gene,C1333906 || C1418629 || C3148729,3,3,0.0,0.0
+C2981410,Stage IB Gastric Gastrointestinal Stromal Tumor,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C1518233,Malignant Ovarian Mucinous Tumor,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C4744761,Thyroid Gland Solitary Fibrous Tumor,disease_mapped_to_gene,['C1417589'],['NAB2/STAT6 Fusion Gene'],NAB2/STAT6 Fusion Gene,C1417589,1,1,0.0,0.0
+C1336224,Stage IIIB Lung Large Cell Carcinoma AJCC v7,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C1711169,Appendix Traditional Serrated Adenoma,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C1335340,Paranasal Sinus Mucoepidermoid Carcinoma,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C1848947,Crisponi/Cold-Induced Sweating Syndrome-1,disease_mapped_to_gene,['C1413713'],['CRLF1 Gene'],CRLF1 Gene,C1413713,1,1,0.0,0.0
+C0205710,Alper Syndrome,disease_mapped_to_gene,['C1418731'],['POLG Gene'],POLG Gene,C1418731,1,1,0.0,0.0
+C4331475,Unresectable Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C1334272,Invasive Apocrine Breast Carcinoma,disease_mapped_to_gene,"['C0242957', 'C1413172']","['ERBB2 Gene', 'CCND1 Gene']",ERBB2 Gene || CCND1 Gene,C0242957 || C1413172,2,2,0.0,0.0
+C4524750,Postneoadjuvant Therapy Stage IVA Gastroesophageal Junction Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C3272817,Rectal Micropapillary Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0855042,Metastatic Extraskeletal Ewing Sarcoma,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C1802395,X-Linked Cornelia De Lange Syndrome,disease_mapped_to_gene,['C1822777'],['SMC1A Gene'],SMC1A Gene,C1822777,1,1,0.0,0.0
+C1704981,Hyperparathyroidism-Jaw Tumor Syndrome,disease_mapped_to_gene,['C1708291'],['CDC73 Gene'],CDC73 Gene,C1708291,1,1,0.0,0.0
+C0280192,Recurrent Adult Burkitt Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C0862641,Stage II Prostate Adenocarcinoma AJCC v7,disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C5206632,Refractory Gastroesophageal Junction Adenocarcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0278849,Stage I Thyroid Gland Papillary Carcinoma AJCC v7,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C3898764,Infiltrating Bladder Urothelial Carcinoma Associated with Urethral Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1332244,"Ampulla of Vater Adenoma, Intestinal-Type",disease_mapped_to_gene,"['C0162832', 'C1537502']","['APC Gene', 'KRAS Gene']",APC Gene || KRAS Gene,C0162832 || C1537502,2,2,0.0,0.0
+C4521001,Stage III Nasopharyngeal Carcinoma AJCC v7,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C4525587,Stage III Gastric Neuroendocrine Tumor AJCC v8,disease_mapped_to_gene,['C0694884'],['MEN1 Gene'],MEN1 Gene,C0694884,1,1,0.0,0.0
+C5418788,Metastatic Rectal Squamous Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C2983695,Cervical Cancer by AJCC v6 Stage,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C1879790,Skin Basal Cell Carcinoma with Adnexal Differentiation,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C5237355,CIC-DUX4L Sarcoma,disease_mapped_to_gene,"['C1422489', 'C5237358']","['CIC Gene', 'CIC/DUX4L Fusion Gene']",CIC Gene || CIC/DUX4L Fusion Gene,C1422489 || C5237358,2,2,0.0,0.0
+C3272813,Colon Cribriform Comedo-Type Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C3899671,Childhood Cerebellar Anaplastic Astrocytoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1332644,Burkitt Lymphoma with Plasmacytoid Differentiation,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C1302530,Prostate Squamous Cell Carcinoma,disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C1513146,Mesenteric Gastrointestinal Stromal Tumor,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C4525139,Stage IIIB Rectal Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1336503,Sternal Intraosseous Schwannoma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C1518366,Cervical Non-Keratinizing Squamous Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C3273102,Gallbladder Mucinous Cystic Neoplasm with an Associated Invasive Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0242957', 'C0525037', 'C1537502']","['TP53 Gene', 'ERBB2 Gene', 'CDKN2A Gene', 'KRAS Gene']",TP53 Gene || ERBB2 Gene || CDKN2A Gene || KRAS Gene,C0079419 || C0242957 || C0525037 || C1537502,4,4,0.0,0.0
+C4521735,Postneoadjuvant Therapy Stage IV Esophageal Squamous Cell Carcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1300257,Type 2 Thanatophoric Dysplasia,disease_mapped_to_gene,['C1333543'],['FGFR3 Gene'],FGFR3 Gene,C1333543,1,1,0.0,0.0
+C0278579,Recurrent Cervical Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C4520895,Stage 0 Lung Large Cell Carcinoma AJCC v6 and v7,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C0854803,Stage II Chronic Lymphocytic Leukemia,disease_mapped_to_gene,['C0812238'],['BCL3 Gene'],BCL3 Gene,C0812238,1,1,0.0,0.0
+C4725616,Refractory Ovarian Endometrioid Adenocarcinoma,disease_mapped_to_gene,"['C0694888', 'C1332803']","['PTEN Gene', 'CTNNB1 Gene']",PTEN Gene || CTNNB1 Gene,C0694888 || C1332803,2,2,0.0,0.0
+C4553576,Stage III Thyroid Gland Follicular Carcinoma AJCC v8,disease_mapped_to_gene,"['C1833640', 'C4744600']","['PAX8/PPARG Fusion Gene', 'CREB3L2/PPARG Fusion Gene']",PAX8/PPARG Fusion Gene || CREB3L2/PPARG Fusion Gene,C1833640 || C4744600,2,2,0.0,0.0
+C1334210,Intermediate Cell Type Iris Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C3642347,Basal-Like Breast Carcinoma,disease_mapped_to_gene,"['C1414313', 'C1416728', 'C1416742']","['EGFR Gene', 'KRT17 Gene', 'KRT5 Gene']",EGFR Gene || KRT17 Gene || KRT5 Gene,C1414313 || C1416728 || C1416742,3,3,0.0,0.0
+C4521716,Postneoadjuvant Therapy Stage II Esophageal Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1541332,Adult Acute Myeloid Leukemia with t(16;16)(p13.1;q22); CBFB-MYH11,disease_mapped_to_gene,"['C1332671', 'C1334538', 'C3276534']","['CBFB Gene', 'MYH11 Gene', 'CBFB/MYH11 Fusion Gene']",CBFB Gene || MYH11 Gene || CBFB/MYH11 Fusion Gene,C1332671 || C1334538 || C3276534,3,3,0.0,0.0
+C5239091,SAMD9L-Associated Familial Myelodysplastic Syndrome,disease_mapped_to_gene,['C1826970'],['SAMD9L Gene'],SAMD9L Gene,C1826970,1,1,0.0,0.0
+C1333939,Hard Palate Pleomorphic Adenoma,disease_mapped_to_gene,"['C1333906', 'C1418629', 'C3148729']","['HMGA2 Gene', 'PLAG1 Gene', 'CTNNB1/PLAG1 Fusion Gene']",HMGA2 Gene || PLAG1 Gene || CTNNB1/PLAG1 Fusion Gene,C1333906 || C1418629 || C3148729,3,3,0.0,0.0
+C5237353,CIC-DUX4 Sarcoma,disease_mapped_to_gene,"['C1422489', 'C4682434']","['CIC Gene', 'CIC/DUX4 Fusion Gene']",CIC Gene || CIC/DUX4 Fusion Gene,C1422489 || C4682434,2,2,0.0,0.0
+C5206453,Stage IIIC2 Cervical Cancer FIGO 2018,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C3272407,Gastric Neuroendocrine Tumor G2,disease_mapped_to_gene,['C0694884'],['MEN1 Gene'],MEN1 Gene,C0694884,1,1,0.0,0.0
+C0586364,Pancreatic Intraepithelial Neoplasia-2,disease_mapped_to_gene,"['C0525037', 'C1537502']","['CDKN2A Gene', 'KRAS Gene']",CDKN2A Gene || KRAS Gene,C0525037 || C1537502,2,2,0.0,0.0
+C4526963,Gastric and Omental Gastrointestinal Stromal Tumor by AJCC v8 Stage,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C1370889,Well Differentiated Liposarcoma,disease_mapped_to_gene,['C0812222'],['MDM2 Gene'],MDM2 Gene,C0812222,1,1,0.0,0.0
+C1336344,Stage IVA Laryngeal Verrucous Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1304295,Skin Adamantinoid Basal Cell Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C0432233,Trichorhinophalangeal Syndrome Type I,disease_mapped_to_gene,['C1421175'],['TRPS1 Gene'],TRPS1 Gene,C1421175,1,1,0.0,0.0
+C1334445,Lung Hilum Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1336092,Stage 0 Lip Basal Cell Carcinoma AJCC v6 and v7,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C4725617,Recurrent Endometrial Endometrioid Adenocarcinoma,disease_mapped_to_gene,['C0694888'],['PTEN Gene'],PTEN Gene,C0694888,1,1,0.0,0.0
+C4727358,Recurrent Prostate Acinar Adenocarcinoma,disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C4521640,Clinical Stage IIA Esophageal Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1335301,Pancreatic Delta Cell Neuroendocrine Tumor,disease_mapped_to_gene,"['C0694884', 'C0694897']","['MEN1 Gene', 'VHL Gene']",MEN1 Gene || VHL Gene,C0694884 || C0694897,2,2,0.0,0.0
+C0270724,Infantile Neuroaxonal Dystrophy,disease_mapped_to_gene,['C1418624'],['PLA2G6 Gene'],PLA2G6 Gene,C1418624,1,1,0.0,0.0
+C4524730,Pathologic Stage II Gastroesophageal Junction Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1334681,Mediastinal Synovial Sarcoma,disease_mapped_to_gene,"['C1420439', 'C1839329', 'C1846243', 'C3274713']","['SS18 Gene', 'SS18/SSX1 Fusion Gene', 'SS18/SSX2 Fusion Gene', 'SS18/SSX4 Fusion Gene']",SS18 Gene || SS18/SSX1 Fusion Gene || SS18/SSX2 Fusion Gene || SS18/SSX4 Fusion Gene,C1420439 || C1839329 || C1846243 || C3274713,4,4,0.0,0.0
+C4521647,Pathologic Stage I Esophageal Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1336190,Stage IIB Lung Non-Small Cell Carcinoma AJCC v7,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C1536526,Penile Bowenoid Papulosis,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2018777,Splenic Mantle Cell Lymphoma,disease_mapped_to_gene,['C1413172'],['CCND1 Gene'],CCND1 Gene,C1413172,1,1,0.0,0.0
+C5419605,Locally Advanced Esophageal Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1706834,Appendix Tubular Adenoma,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C0278787,"Recurrent Chronic Myelogenous Leukemia, BCR-ABL1 Positive",disease_mapped_to_gene,"['C1412097', 'C1835417']","['ABL1 Gene', 'BCR/ABL1 Fusion Gene']",ABL1 Gene || BCR/ABL1 Fusion Gene,C1412097 || C1835417,2,2,0.0,0.0
+C4763829,"Metastatic Infiltrating Bladder Urothelial Carcinoma, Plasmacytoid Variant",disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2825560,S-Beta Thalassemia,disease_mapped_to_gene,['C1415481'],['HBB Gene'],HBB Gene,C1415481,1,1,0.0,0.0
+C4528639,Stage I Low-CSD Melanoma AJCC v7,disease_mapped_to_gene,['C0812241'],['BRAF Gene'],BRAF Gene,C0812241,1,1,0.0,0.0
+C0854860,Stage I T Lymphoblastic Leukemia/Lymphoma,disease_mapped_to_gene,['C1334889'],['NOTCH1 Gene'],NOTCH1 Gene,C1334889,1,1,0.0,0.0
+C4764225,Recurrent Desmoplastic Small Round Cell Tumor,disease_mapped_to_gene,['C3274610'],['EWSR1/WT1 Fusion Gene'],EWSR1/WT1 Fusion Gene,C3274610,1,1,0.0,0.0
+C3641709,ENSAT Stage I Adrenal Cortex Carcinoma,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C2981416,Stage II Small Intestinal Gastrointestinal Stromal Tumor,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C3900102,Adult Fibrolamellar Carcinoma,disease_mapped_to_gene,['C3807366'],['DNAJB1/PRKACA Fusion Gene'],DNAJB1/PRKACA Fusion Gene,C3807366,1,1,0.0,0.0
+C4724968,Refractory Myxoid Liposarcoma,disease_mapped_to_gene,"['C1413947', 'C1852061', 'C3149096']","['DDIT3 Gene', 'FUS/DDIT3 Fusion Gene', 'EWSR1/DDIT3 Fusion Gene']",DDIT3 Gene || FUS/DDIT3 Fusion Gene || EWSR1/DDIT3 Fusion Gene,C1413947 || C1852061 || C3149096,3,3,0.0,0.0
+C1332947,Childhood Brain Anaplastic Astrocytoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1842342,"Deafness, Autosomal Recessive 39",disease_mapped_to_gene,['C1442521'],['HGF Gene'],HGF Gene,C1442521,1,1,0.0,0.0
+C4727591,Sparsely Granulated Corticotroph Adenoma,disease_mapped_to_gene,['C1336848'],['USP8 Gene'],USP8 Gene,C1336848,1,1,0.0,0.0
+C1327709,Rectosigmoid Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1260965,Lipoblastoma,disease_mapped_to_gene,"['C1418629', 'C3639963', 'C3639964']","['PLAG1 Gene', 'COL1A2/PLAG1 Fusion Gene', 'HAS2/PLAG1 Fusion Gene']",PLAG1 Gene || COL1A2/PLAG1 Fusion Gene || HAS2/PLAG1 Fusion Gene,C1418629 || C3639963 || C3639964,3,3,0.0,0.0
+C2825128,Acute Myeloid Leukemia with a Variant RARA Translocation,disease_mapped_to_gene,['C1366536'],['RARA Gene'],RARA Gene,C1366536,1,1,0.0,0.19999999680000002
+C5236044,Prostate Adenocarcinoma by AJCC v7 Stage,disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C4684877,Metastatic Microsatellite Stable Colorectal Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4551869,Stage I Nasopharyngeal Carcinoma AJCC v7,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C3272797,Colon Serrated Polyposis,disease_mapped_to_gene,"['C0812241', 'C1537502']","['BRAF Gene', 'KRAS Gene']",BRAF Gene || KRAS Gene,C0812241 || C1537502,2,2,0.0,0.0
+C0854750,Recurrent Colorectal Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C2985234,"Meningeal Solitary Fibrous Tumor/Hemangiopericytoma, Grade 3",disease_mapped_to_gene,['C1417589'],['NAB2/STAT6 Fusion Gene'],NAB2/STAT6 Fusion Gene,C1417589,1,1,0.0,0.0
+C0280308,Lower Gingival Verrucous Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0206629,Pulmonary Blastoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C4727220,Metastatic Cervical Adenosquamous Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C4725629,Uveal Melanoma Metastatic in the Liver,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C4526730,Lung Adenocarcinoma by AJCC v7 Stage,disease_mapped_to_gene,"['C0079419', 'C1332080', 'C1412993', 'C1414313', 'C1537502']","['TP53 Gene', 'ALK Gene', 'EML4/ALK Fusion Gene', 'EGFR Gene', 'KRAS Gene']",TP53 Gene || ALK Gene || EML4/ALK Fusion Gene || EGFR Gene || KRAS Gene,C0079419 || C1332080 || C1412993 || C1414313 || C1537502,5,5,0.0,0.0
+C1336173,Stage IIA Lung Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1861922,Campomelic Dysplasia,disease_mapped_to_gene,['C1420331'],['SOX9 Gene'],SOX9 Gene,C1420331,1,1,0.0,0.0
+C3272795,Colorectal Filiform Serrated Adenoma,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C4553417,Stage III Adrenal Cortex Carcinoma AJCC v8,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C0280361,Stage IV Oral Cavity Mucoepidermoid Carcinoma AJCC v6 and v7,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C1710126,Solitary Osteochondroma,disease_mapped_to_gene,['C0694878'],['EXT1 Gene'],EXT1 Gene,C0694878,1,1,0.0,0.0
+C0854862,Stage III T Lymphoblastic Leukemia/Lymphoma,disease_mapped_to_gene,['C1334889'],['NOTCH1 Gene'],NOTCH1 Gene,C1334889,1,1,0.0,0.0
+C0854798,Recurrent Hepatoblastoma,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C1518768,Oxyphilic Endometrial Endometrioid Adenocarcinoma,disease_mapped_to_gene,['C0694888'],['PTEN Gene'],PTEN Gene,C0694888,1,1,0.0,0.0
+C0854769,Recurrent Esophageal Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1541840,Malignant Mastocytosis,disease_mapped_to_gene,['C0920288'],['KIT Gene'],KIT Gene,C0920288,1,1,0.0,0.0
+C4526732,Lung Adenosquamous Carcinoma by AJCC v7 Stage,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C4525895,Stage IV Pancreatic Neuroendocrine Tumor AJCC v8,disease_mapped_to_gene,"['C0694884', 'C0694897']","['MEN1 Gene', 'VHL Gene']",MEN1 Gene || VHL Gene,C0694884 || C0694897,2,2,0.0,0.0
+C1332643,Burkitt Lymphoma Post-Transplant Lymphoproliferative Disorder,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C1707434,Colon Intramucosal Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C5237210,Locally Advanced Laryngeal Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1333050,Ciliary Body Epithelioid Cell Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C0280301,Hard Palate Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0392784,Dermatofibrosarcoma Protuberans,disease_mapped_to_gene,['C1861000'],['COL1A1/PDGFB Fusion Gene'],COL1A1/PDGFB Fusion Gene,C1861000,1,1,0.0,0.0
+C0086652,Mucopolysaccharidosis Type IVB,disease_mapped_to_gene,['C1415090'],['GLB1 Gene'],GLB1 Gene,C1415090,1,1,0.0,0.0
+C0334485,Endometrial Stromal Nodule,disease_mapped_to_gene,['C2676350'],['JAZF1/SUZ12 Fusion Gene'],JAZF1/SUZ12 Fusion Gene,C2676350,1,1,0.0,0.0
+C1333965,Liver Solitary Fibrous Tumor,disease_mapped_to_gene,['C1417589'],['NAB2/STAT6 Fusion Gene'],NAB2/STAT6 Fusion Gene,C1417589,1,1,0.0,0.0
+C0854924,Endometrial Serous Adenocarcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4526723,Stage IIIB Lung Cancer AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2987182,Non-Invasive Pancreatic Mucinous-Cystic Neoplasm,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C2347507,Childhood B Acute Lymphoblastic Leukemia with t(9;22)(q34.1;q11.2); BCR-ABL1,disease_mapped_to_gene,"['C0812385', 'C1412097', 'C1835417']","['BCR Gene', 'ABL1 Gene', 'BCR/ABL1 Fusion Gene']",BCR Gene || ABL1 Gene || BCR/ABL1 Fusion Gene,C0812385 || C1412097 || C1835417,3,3,0.0,0.0
+C2983716,Lung Cancer by AJCC v6 Stage,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2981374,Stage IIIC Esophageal Adenocarcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2826177,Acute Myeloid Leukemia with Mutated NPM1,disease_mapped_to_gene,['C1334894'],['NPM1 Gene'],NPM1 Gene,C1334894,1,1,0.0,0.24999999625000005
+C0268141,"Xeroderma Pigmentosum, Complementation Group G",disease_mapped_to_gene,['C1333359'],['ERCC5 Gene'],ERCC5 Gene,C1333359,1,1,0.0,0.0
+C4520718,Stage I Rectal Cancer AJCC v6 and v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C5206604,Paratesticular Schwannoma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C2981417,Stage IIIA Small Intestinal Gastrointestinal Stromal Tumor,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C0033847,Pseudoxanthoma Elasticum,disease_mapped_to_gene,['C1412081'],['ABCC6 Gene'],ABCC6 Gene,C1412081,1,1,0.0,0.0
+C2987242,Non-Functioning Pancreatic Neuroendocrine Tumor G1,disease_mapped_to_gene,"['C0694884', 'C0694897']","['MEN1 Gene', 'VHL Gene']",MEN1 Gene || VHL Gene,C0694884 || C0694897,2,2,0.0,0.0
+C4055495,"Acute Myeloid Leukemia with t(3;3) (q21.3;q26.2); GATA2, MECOM",disease_mapped_to_gene,['C0812271'],['MECOM Gene'],MECOM Gene,C0812271,1,1,0.0,0.16666666388888893
+C4525125,Stage IIIA Colon Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4552686,Stage IA Cervical Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C5420531,"Unresectable Cervical Squamous Cell Carcinoma, Not Otherwise Specified",disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C3647834,Grade 3a Follicular Lymphoma,disease_mapped_to_gene,['C0376515'],['BCL2 Gene'],BCL2 Gene,C0376515,1,1,0.0,0.0
+C4330658,Salivary Gland Secretory Carcinoma,disease_mapped_to_gene,['C3275265'],['ETV6/NTRK3 Fusion Gene'],ETV6/NTRK3 Fusion Gene,C3275265,1,1,0.0,0.0
+C1335097,Occult Lung Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0020071,"Neuropathy, Hereditary Sensory and Autonomic, Type I",disease_mapped_to_gene,['C1420390'],['SPTLC1 Gene'],SPTLC1 Gene,C1420390,1,1,0.0,0.0
+C1332184,Adult Atypical Meningioma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C3900106,Adult B Acute Lymphoblastic Leukemia with t(9;22)(q34.1;q11.2); BCR-ABL1,disease_mapped_to_gene,"['C0812385', 'C1412097', 'C1835417']","['BCR Gene', 'ABL1 Gene', 'BCR/ABL1 Fusion Gene']",BCR Gene || ABL1 Gene || BCR/ABL1 Fusion Gene,C0812385 || C1412097 || C1835417,3,3,0.0,0.0
+C1334158,Immunodeficiency-Related Burkitt Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C4520989,"Stage 0 Laryngeal Squamous Cell Carcinoma AJCC v6, v7, and v8",disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5418595,Refractory Cervical Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C5206455,Stage IVA Cervical Cancer FIGO 2018,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C0855043,Non-Metastatic Extraskeletal Ewing Sarcoma,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C5206373,Advanced Colon Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1335990,Small Intestinal Atypical Burkitt/Burkitt-Like Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C1515863,"Prostate Acinar Adenocarcinoma, Foamy Gland Variant",disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C1704399,Gastrointestinal Stromal Tumor of Uncertain Malignant Potential,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C1517658,Cervical Keratinizing Squamous Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C4744705,Orbital Alveolar Soft Part Sarcoma,disease_mapped_to_gene,['C3888091'],['ASPSCR1/TFE3 Fusion Gene'],ASPSCR1/TFE3 Fusion Gene,C3888091,1,1,0.0,0.0
+C4524709,Gastroesophageal Junction Adenocarcinoma by AJCC v8 Clinical Stage,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0338106,Colon Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C2825131,Acute Myeloid Leukemia with t(11;17)(q13;q21),disease_mapped_to_gene,"['C1366536', 'C1834115']","['RARA Gene', 'NUMA1/RARA Fusion Gene']",RARA Gene || NUMA1/RARA Fusion Gene,C1366536 || C1834115,2,2,0.0,0.0
+C2981404,Stage IVA Colorectal Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1516552,Overt Primary Myelofibrosis,disease_mapped_to_gene,['C1334291'],['JAK2 Gene'],JAK2 Gene,C1334291,1,1,0.0,0.0
+C4055248,Childhood Acute Myeloid Leukemia with NUP98 Rearrangement,disease_mapped_to_gene,['C1334913'],['NUP98 Gene'],NUP98 Gene,C1334913,1,1,0.0,0.22222221876543213
+C4553244,Stage II Thyroid Gland Medullary Carcinoma AJCC v8,disease_mapped_to_gene,['C0694890'],['RET Gene'],RET Gene,C0694890,1,1,0.0,0.0
+C1519702,Turcot Syndrome Type 1,disease_mapped_to_gene,"['C0879290', 'C0879389', 'C0879391']","['MSH2 Gene', 'MLH1 Gene', 'PMS2 Gene']",MSH2 Gene || MLH1 Gene || PMS2 Gene,C0879290 || C0879389 || C0879391,3,3,0.0,0.0
+C3711382,Acute Myeloid Leukemia with Germline CEBPA Mutation,disease_mapped_to_gene,['C1413322'],['CEBPA Gene'],CEBPA Gene,C1413322,1,1,0.0,0.22222221876543213
+C4743571,Non-Functioning Corticotroph Adenoma,disease_mapped_to_gene,['C1336848'],['USP8 Gene'],USP8 Gene,C1336848,1,1,0.0,0.0
+C1334052,Human Papillomavirus-Related Cervical Squamous Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C1336136,Stage IB Lung Large Cell Carcinoma AJCC v7,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C1335435,Pleural Schwannoma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C0854861,Stage II T Lymphoblastic Leukemia/Lymphoma,disease_mapped_to_gene,['C1334889'],['NOTCH1 Gene'],NOTCH1 Gene,C1334889,1,1,0.0,0.0
+C1520081,Vulvar Porocarcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1336054,Spindle Cell Type A Uveal Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C4724991,Refractory Laryngeal Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0854917,Rhabdoid Tumor of the Kidney,disease_mapped_to_gene,['C0812273'],['SMARCB1 Gene'],SMARCB1 Gene,C0812273,1,1,0.0,0.0
+C0281706,Ann Arbor Stage IV Childhood Burkitt Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C0334601,Undifferentiated Retinoblastoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C0016065,Polyostotic Fibrous Dysplasia,disease_mapped_to_gene,['C1366550'],['GNAS Gene'],GNAS Gene,C1366550,1,1,0.0,0.0
+C4552100,Lynch Syndrome,disease_mapped_to_gene,"['C0879390', 'C0879391', 'C0879393']","['PMS1 Gene', 'PMS2 Gene', 'MSH6 Gene']",PMS1 Gene || PMS2 Gene || MSH6 Gene,C0879390 || C0879391 || C0879393,3,3,0.0,0.0
+C1334543,Macrotrabecular Hepatoblastoma,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C5206824,Resectable Oropharyngeal Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0346379,Ciliary Body Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C1305256,Infiltrating Angiolipoma,disease_mapped_to_gene,['C1538717'],['PRKD2 Gene'],PRKD2 Gene,C1538717,1,1,0.0,0.0
+C0278544,Stage II Rectal Cancer AJCC v6,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1328544,Tubular Breast Carcinoma,disease_mapped_to_gene,"['C0242957', 'C1413172']","['ERBB2 Gene', 'CCND1 Gene']",ERBB2 Gene || CCND1 Gene,C0242957 || C1413172,2,2,0.0,0.0
+C3693482,Giant Cell Fibroblastoma,disease_mapped_to_gene,['C1861000'],['COL1A1/PDGFB Fusion Gene'],COL1A1/PDGFB Fusion Gene,C1861000,1,1,0.0,0.0
+C4521750,Pathologic Stage IVB Esophageal Squamous Cell Carcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1335316,Pancreatic Serous Cystadenoma,disease_mapped_to_gene,['C0694897'],['VHL Gene'],VHL Gene,C0694897,1,1,0.0,0.0
+C3897085,Stage IIC Colon Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1333802,Gastrointestinal Stromal Tumor of the Gastrointestinal Tract,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C5236092,"Infiltrating Urothelial Carcinoma, Sarcomatoid Variant",disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2984096,Lung Cancer by AJCC v7 Stage,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4683152,Stage IIIB Choroidal and Ciliary Body Melanoma AJCC v8,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C4525143,Stage IVB Rectal Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4331324,Stage II Nasopharyngeal Carcinoma AJCC v8,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C4745179,Adrenal Gland Schwannoma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C4331317,Stage I Nasopharyngeal Carcinoma AJCC v8,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C2987255,Esophageal Moderately Differentiated Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1334773,Minor Salivary Gland Mucoepidermoid Carcinoma,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C4526716,Stage IA3 Lung Cancer AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5420237,Advanced Gastrointestinal Stromal Tumor,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C1709571,Pleural Biphasic Synovial Sarcoma,disease_mapped_to_gene,"['C1420439', 'C1839329', 'C1846243', 'C3274713']","['SS18 Gene', 'SS18/SSX1 Fusion Gene', 'SS18/SSX2 Fusion Gene', 'SS18/SSX4 Fusion Gene']",SS18 Gene || SS18/SSX1 Fusion Gene || SS18/SSX2 Fusion Gene || SS18/SSX4 Fusion Gene,C1420439 || C1839329 || C1846243 || C3274713,4,4,0.0,0.0
+C5206442,Stage IB3 Cervical Cancer FIGO 2018,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C4521739,Pathologic Stage I Esophageal Squamous Cell Carcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2987197,"Pancreatic Intraductal Papillary Mucinous Neoplasm, Oncocytic-Type",disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C1519851,Uterine Corpus Epithelioid Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C3888093,Autosomal Recessive Congenital Ichthyosis 2,disease_mapped_to_gene,['C1412357'],['ALOX12B Gene'],ALOX12B Gene,C1412357,1,1,0.0,0.0
+C3273215,"Invasive Lobular Breast Carcinoma, Alveolar Variant",disease_mapped_to_gene,['C0694872'],['CDH1 Gene'],CDH1 Gene,C0694872,1,1,0.0,0.0
+C4553886,Stage I Adrenal Cortex Carcinoma AJCC v8,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C0027831,Neurofibromatosis Type 1,disease_mapped_to_gene,['C0085113'],['NF1 Gene'],NF1 Gene,C0085113,1,1,0.0,0.0
+C4521717,Postneoadjuvant Therapy Stage III Esophageal Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4521649,Pathologic Stage IB Esophageal Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4526859,Recurrent Cervical Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C0854980,Stage II Lung Large Cell Carcinoma AJCC v7,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C0032580,Familial Adenomatous Polyposis,disease_mapped_to_gene,['C0162832'],['APC Gene'],APC Gene,C0162832,1,1,0.0,0.0
+C4528653,Esophageal Squamous Cell Carcinoma by AJCC v8 Clinical Stage,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1275264,Epithelioid Neurofibroma,disease_mapped_to_gene,['C0085113'],['NF1 Gene'],NF1 Gene,C0085113,1,1,0.0,0.0
+C1336908,Endometrial Endometrioid Adenocarcinoma with Clear Cell Change,disease_mapped_to_gene,['C0694888'],['PTEN Gene'],PTEN Gene,C0694888,1,1,0.0,0.0
+C1512740,"Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant",disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4525128,Stage IV Colon Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C5239076,Unresectable Epithelioid Hemangioendothelioma,disease_mapped_to_gene,['C4053854'],['WWTR1/CAMTA1 Fusion Gene'],WWTR1/CAMTA1 Fusion Gene,C4053854,1,1,0.0,0.0
+C4525138,Stage III Rectal Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4287594,Uterine Corpus High Grade Endometrial Stromal Sarcoma,disease_mapped_to_gene,['C4287955'],['YWHAE/FAM22 Fusion Gene'],YWHAE/FAM22 Fusion Gene,C4287955,1,1,0.0,0.0
+C3714873,Rieger Syndrome Type 1,disease_mapped_to_gene,['C1418596'],['PITX2 Gene'],PITX2 Gene,C1418596,1,1,0.0,0.0
+C2981415,Stage I Small Intestinal Gastrointestinal Stromal Tumor,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C0007112,Prostate Adenocarcinoma,disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C1336383,Stage IVB Oral Cavity Mucoepidermoid Carcinoma AJCC v6 and v7,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C0342870,D-Bifunctional Protein Deficiency,disease_mapped_to_gene,['C1415740'],['HSD17B4 Gene'],HSD17B4 Gene,C1415740,1,1,0.0,0.0
+C4288372,Primary Peritoneal High Grade Serous Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0376571']","['TP53 Gene', 'BRCA1 Gene']",TP53 Gene || BRCA1 Gene,C0079419 || C0376571,2,2,0.0,0.0
+C1332207,Adult Mesenchymal Chondrosarcoma,disease_mapped_to_gene,['C4054881'],['HEY1/NCOA2 Fusion Gene'],HEY1/NCOA2 Fusion Gene,C4054881,1,1,0.0,0.0
+C0855123,Ann Arbor Stage IV Follicular Lymphoma,disease_mapped_to_gene,['C0376515'],['BCL2 Gene'],BCL2 Gene,C0376515,1,1,0.0,0.0
+C1336286,Ann Arbor Stage II Follicular Lymphoma,disease_mapped_to_gene,['C0376515'],['BCL2 Gene'],BCL2 Gene,C0376515,1,1,0.0,0.0
+C1520086,"Vulvar Squamous Cell Carcinoma, Keratoacanthoma Type",disease_mapped_to_gene,"['C0079419', 'C0694888']","['TP53 Gene', 'PTEN Gene']",TP53 Gene || PTEN Gene,C0079419 || C0694888,2,2,0.0,0.0
+C4522125,Stage IV Rectosigmoid Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C3146251,Stage IV Colorectal Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4289994,Adenosine Deaminase 2 Deficiency,disease_mapped_to_gene,['C1413327'],['ADA2 Gene'],ADA2 Gene,C1413327,1,1,0.0,0.0
+C0280383,Stage III Nasopharyngeal Undifferentiated Carcinoma AJCC v7,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C0279955,Ann Arbor Stage I Grade 2 Follicular Lymphoma,disease_mapped_to_gene,['C0376515'],['BCL2 Gene'],BCL2 Gene,C0376515,1,1,0.0,0.0
+C4524634,Esophageal Adenocarcinoma by AJCC v7 Stage,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2212017,Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation,disease_mapped_to_gene,"['C0694888', 'C1332803']","['PTEN Gene', 'CTNNB1 Gene']",PTEN Gene || CTNNB1 Gene,C0694888 || C1332803,2,2,0.0,0.0
+C4687513,Locally Advanced Epithelioid Hemangioendothelioma,disease_mapped_to_gene,['C4053854'],['WWTR1/CAMTA1 Fusion Gene'],WWTR1/CAMTA1 Fusion Gene,C4053854,1,1,0.0,0.0
+C1336230,Stage IIIB Lung Small Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1335572,Pulmonary Artery Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C0020075,"Neuropathy, Hereditary Sensory and Autonomic, Type V",disease_mapped_to_gene,['C1417719'],['NGF Gene'],NGF Gene,C1417719,1,1,0.0,0.0
+C3273218,"Invasive Lobular Breast Carcinoma, Tubulolobular Variant",disease_mapped_to_gene,['C0694872'],['CDH1 Gene'],CDH1 Gene,C0694872,1,1,0.0,0.0
+C4520900,Stage 0 Colorectal Cancer AJCC v6 and v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1333981,Hepatoblastoma with Combined Fetal and Embryonal Epithelial Differentiation,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C4683154,Stage IV Choroidal and Ciliary Body Melanoma AJCC v8,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C0855101,Ann Arbor Stage IV Small Lymphocytic Lymphoma,disease_mapped_to_gene,['C0812238'],['BCL3 Gene'],BCL3 Gene,C0812238,1,1,0.0,0.0
+C4511687,Pancreatic Intraductal Papillary-Mucinous Neoplasm,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C1516857,Serous Endometrial Intraepithelial Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1377919,Metastatic Nasopharyngeal Carcinoma,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C0006079,Bowen Disease of the Skin,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5237719,Oligometastatic Esophageal Adenocarcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1519847,Uterine Corpus Dissecting Leiomyoma,disease_mapped_to_gene,"['C1333903', 'C1333906']","['HMGA1 Gene', 'HMGA2 Gene']",HMGA1 Gene || HMGA2 Gene,C1333903 || C1333906,2,2,0.0,0.0
+C4521968,Stage III Lung Cancer AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0855008,Metastatic Peripheral Primitive Neuroectodermal Tumor of Bone,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C4303427,Myeloid/Lymphoid Neoplasms with FGFR1 Rearrangement,disease_mapped_to_gene,"['C0919509', 'C1851029']","['FGFR1 Gene', 'BCR/FGFR1 Fusion Gene']",FGFR1 Gene || BCR/FGFR1 Fusion Gene,C0919509 || C1851029,2,2,0.0,0.14285714081632656
+C1266185,Diffuse Retinoblastoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C0334464,Pigmented Dermatofibrosarcoma Protuberans,disease_mapped_to_gene,['C1861000'],['COL1A1/PDGFB Fusion Gene'],COL1A1/PDGFB Fusion Gene,C1861000,1,1,0.0,0.0
+C0279956,Ann Arbor Stage I Grade 3 Follicular Lymphoma,disease_mapped_to_gene,['C0376515'],['BCL2 Gene'],BCL2 Gene,C0376515,1,1,0.0,0.0
+C4329632,Central Nervous System Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C1512249,FIGO Grade 1 Endometrial Endometrioid Adenocarcinoma,disease_mapped_to_gene,['C0694888'],['PTEN Gene'],PTEN Gene,C0694888,1,1,0.0,0.0
+C1335752,"Infiltrating Renal Pelvis Urothelial Carcinoma, Sarcomatoid Variant",disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0398738,Leukocyte Adhesion Deficiency Type 1,disease_mapped_to_gene,['C1334146'],['ITGB2 Gene'],ITGB2 Gene,C1334146,1,1,0.0,0.0
+C4524743,Gastroesophageal Junction Adenocarcinoma by AJCC v8 Postneoadjuvant Therapy Stage,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C3809592,Mitochondrial DNA Depletion Syndrome 13,disease_mapped_to_gene,['C1422095'],['FBXL4 Gene'],FBXL4 Gene,C1422095,1,1,0.0,0.0
+C3272419,Benign Gastric Gastrointestinal Stromal Tumor,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C1707293,Cardiac Biphasic Synovial Sarcoma,disease_mapped_to_gene,"['C1420439', 'C1839329', 'C1846243', 'C3274713']","['SS18 Gene', 'SS18/SSX1 Fusion Gene', 'SS18/SSX2 Fusion Gene', 'SS18/SSX4 Fusion Gene']",SS18 Gene || SS18/SSX1 Fusion Gene || SS18/SSX2 Fusion Gene || SS18/SSX4 Fusion Gene,C1420439 || C1839329 || C1846243 || C3274713,4,4,0.0,0.0
+C4526858,Recurrent Cervical Adenosquamous Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C4526972,Stage IIIB Gastric and Omental Gastrointestinal Stromal Tumor AJCC v8,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C0854762,Recurrent Esophageal Adenocarcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2825129,Acute Myeloid Leukemia with t(11;17)(q23;q21),disease_mapped_to_gene,"['C1366536', 'C1867727']","['RARA Gene', 'ZBTB16/RARA Fusion Gene']",RARA Gene || ZBTB16/RARA Fusion Gene,C1366536 || C1867727,2,2,0.0,0.0
+C5237455,Advanced Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C1707301,Cardiac Monophasic Synovial Sarcoma,disease_mapped_to_gene,"['C1420439', 'C1839329', 'C1846243', 'C3274713']","['SS18 Gene', 'SS18/SSX1 Fusion Gene', 'SS18/SSX2 Fusion Gene', 'SS18/SSX4 Fusion Gene']",SS18 Gene || SS18/SSX1 Fusion Gene || SS18/SSX2 Fusion Gene || SS18/SSX4 Fusion Gene,C1420439 || C1839329 || C1846243 || C3274713,4,4,0.0,0.0
+C4521714,Pathologic Stage IVB Esophageal Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0280399,Metastatic Laryngeal Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1708959,Mediastinal T Lymphoblastic Leukemia/Lymphoma,disease_mapped_to_gene,['C1334889'],['NOTCH1 Gene'],NOTCH1 Gene,C1334889,1,1,0.0,0.0
+C4525092,Stage IIIB Colorectal Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4525089,Stage IIC Colorectal Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0278879,Childhood Burkitt Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C1511315,Breast Inflammatory Myofibroblastic Tumor,disease_mapped_to_gene,"['C1332080', 'C1333906', 'C3151474', 'C3639982', 'C3639984']","['ALK Gene', 'HMGA2 Gene', 'CLTC/ALK Fusion Gene', 'TPM3/ALK Fusion Gene', 'TPM4/ALK Fusion Gene']",ALK Gene || HMGA2 Gene || CLTC/ALK Fusion Gene || TPM3/ALK Fusion Gene || TPM4/ALK Fusion Gene,C1332080 || C1333906 || C3151474 || C3639982 || C3639984,5,5,0.0,0.0
+C1707435,Colon Traditional Serrated Adenoma,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C1709527,B Acute Lymphoblastic Leukemia with t(9;22)(q34.1;q11.2); BCR-ABL1,disease_mapped_to_gene,"['C0812385', 'C1412097', 'C1835417']","['BCR Gene', 'ABL1 Gene', 'BCR/ABL1 Fusion Gene']",BCR Gene || ABL1 Gene || BCR/ABL1 Fusion Gene,C0812385 || C1412097 || C1835417,3,3,0.0,0.0
+C4324656,Lung Non-Squamous Non-Small Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C0279628,Esophageal Adenocarcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1332315,Apocrine Breast Carcinoma In Situ,disease_mapped_to_gene,"['C0242957', 'C1413172']","['ERBB2 Gene', 'CCND1 Gene']",ERBB2 Gene || CCND1 Gene,C0242957 || C1413172,2,2,0.0,0.0
+C5418893,Advanced Ovarian Clear Cell Adenocarcinoma,disease_mapped_to_gene,['C1420251'],['ARID1A Gene'],ARID1A Gene,C1420251,1,1,0.0,0.0
+C4526722,Stage IIIA Lung Cancer AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4721664,Stage 0 Esophageal Adenocarcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1301356,Myelodysplastic Syndrome with Ring Sideroblasts and Multilineage Dysplasia,disease_mapped_to_gene,['C1419980'],['SF3B1 Gene'],SF3B1 Gene,C1419980,1,1,0.0,0.0
+C4526976,"Stage II Small Intestinal, Esophageal, Colorectal, Mesenteric, and Peritoneal Gastrointestinal Stromal Tumor AJCC v8",disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C5418824,Metastatic Desmoplastic Small Round Cell Tumor,disease_mapped_to_gene,['C3274610'],['EWSR1/WT1 Fusion Gene'],EWSR1/WT1 Fusion Gene,C3274610,1,1,0.0,0.0
+C2217037,Stage IIIA Colon Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0021670,Pancreatic Insulinoma,disease_mapped_to_gene,"['C0694884', 'C0694897']","['MEN1 Gene', 'VHL Gene']",MEN1 Gene || VHL Gene,C0694884 || C0694897,2,2,0.0,0.0
+C1332155,Acute Myeloid Leukemia with t(16;16)(p13.1;q22); CBFB-MYH11,disease_mapped_to_gene,"['C1332671', 'C1334538', 'C3276534']","['CBFB Gene', 'MYH11 Gene', 'CBFB/MYH11 Fusion Gene']",CBFB Gene || MYH11 Gene || CBFB/MYH11 Fusion Gene,C1332671 || C1334538 || C3276534,3,3,0.0,0.0
+C1334406,Localized Bone Ewing Sarcoma,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C1333369,Early Invasive Cervical Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C5418823,Unresectable Desmoplastic Small Round Cell Tumor,disease_mapped_to_gene,['C3274610'],['EWSR1/WT1 Fusion Gene'],EWSR1/WT1 Fusion Gene,C3274610,1,1,0.0,0.0
+C0005859,Bloom Syndrome,disease_mapped_to_gene,['C1337098'],['BLM Gene'],BLM Gene,C1337098,1,1,0.0,0.0
+C1836906,Familial Arrhythmogenic Right Ventricular Dysplasia 9,disease_mapped_to_gene,['C1418613'],['PKP2 Gene'],PKP2 Gene,C1418613,1,1,0.0,0.0
+C4524723,Gastroesophageal Junction Adenocarcinoma by AJCC v8 Pathologic Stage,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0280351,Stage II Oral Cavity Mucoepidermoid Carcinoma,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C0334469,Sclerosing Liposarcoma,disease_mapped_to_gene,['C0812222'],['MDM2 Gene'],MDM2 Gene,C0812222,1,1,0.0,0.0
+C4526969,Stage III Gastric and Omental Gastrointestinal Stromal Tumor AJCC v8,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C5206809,Locally Advanced Colorectal Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C2981373,Stage IIIB Esophageal Adenocarcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1708350,Hereditary Leiomyomatosis and Renal Cell Carcinoma,disease_mapped_to_gene,['C1366530'],['FH Gene'],FH Gene,C1366530,1,1,0.0,0.0
+C1336384,Stage IVB Oral Cavity Squamous Cell Carcinoma AJCC v6 and v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0854974,Stage III Lung Adenosquamous Carcinoma AJCC v7,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C5418784,Upper Alveolar Ridge Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4552926,Stage IB1 Cervical Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C3272791,Colon Serrated Lesions and Polyps,disease_mapped_to_gene,['C0812241'],['BRAF Gene'],BRAF Gene,C0812241,1,1,0.0,0.0
+C5239080,Unresectable Soft Tissue Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C1336180,Stage IIB Esophageal Adenocarcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0085859,Autoimmune Polyglandular Syndrome Type 1,disease_mapped_to_gene,['C1412304'],['AIRE Gene'],AIRE Gene,C1412304,1,1,0.0,0.0
+C0677683,Ann Arbor Stage I Mantle Cell Lymphoma,disease_mapped_to_gene,['C1413172'],['CCND1 Gene'],CCND1 Gene,C1413172,1,1,0.0,0.0
+C3641712,ENSAT Stage IV Adrenal Cortex Carcinoma,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C0009402,Colorectal Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4521724,Clinical Stage I Esophageal Squamous Cell Carcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1708851,Macrofollicular Variant Thyroid Gland Papillary Carcinoma,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C3272829,Colorectal Mantle Cell Lymphoma,disease_mapped_to_gene,['C1413172'],['CCND1 Gene'],CCND1 Gene,C1413172,1,1,0.0,0.0
+C1709663,Primary Intraosseous Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0855105,Refractory Burkitt Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C1336204,Stage IIIA Cervical Cancer AJCC v6 and v7,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C4329271,Acute Myeloid Leukemia with Mutated RUNX1,disease_mapped_to_gene,['C1335654'],['RUNX1 Gene'],RUNX1 Gene,C1335654,1,1,0.0,0.24999999625000005
+C4684865,Cerebral Adrenoleukodystrophy,disease_mapped_to_gene,['C1412084'],['ABCD1 Gene'],ABCD1 Gene,C1412084,1,1,0.0,0.0
+C1511052,Bartholin Gland Squamous Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0694888']","['TP53 Gene', 'PTEN Gene']",TP53 Gene || PTEN Gene,C0079419 || C0694888,2,2,0.0,0.0
+C1335258,PRETEXT Stage 4 Hepatoblastoma,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C0334511,Pleural Solitary Fibrous Tumor,disease_mapped_to_gene,['C1417589'],['NAB2/STAT6 Fusion Gene'],NAB2/STAT6 Fusion Gene,C1417589,1,1,0.0,0.0
+C4288049,Uterine Corpus Hydropic Leiomyoma,disease_mapped_to_gene,"['C1333903', 'C1333906']","['HMGA1 Gene', 'HMGA2 Gene']",HMGA1 Gene || HMGA2 Gene,C1333903 || C1333906,2,2,0.0,0.0
+C3827193,Uveal Melanoma by Gene Expression Profile,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.24999999625000005
+C2698308,B Acute Lymphoblastic Leukemia with t(v;11q23.3); MLL Rearranged,disease_mapped_to_gene,"['C0919528', 'C2674774']","['KMT2A Gene', 'MLL/AFF1 Fusion Gene']",KMT2A Gene || MLL/AFF1 Fusion Gene,C0919528 || C2674774,2,2,0.0,0.0
+C2826048,Mixed Phenotype Acute Leukemia with t(v;11q23.3); MLL Rearranged,disease_mapped_to_gene,['C0919528'],['KMT2A Gene'],KMT2A Gene,C0919528,1,1,0.0,0.0
+C4525088,Stage IIB Colorectal Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4683428,Stage I Thyroid Gland Follicular Carcinoma Under 55 Years AJCC v8,disease_mapped_to_gene,"['C1833640', 'C4744600']","['PAX8/PPARG Fusion Gene', 'CREB3L2/PPARG Fusion Gene']",PAX8/PPARG Fusion Gene || CREB3L2/PPARG Fusion Gene,C1833640 || C4744600,2,2,0.0,0.0
+C0272375,Antithrombin III Deficiency,disease_mapped_to_gene,['C1412610'],['SERPINC1 Gene'],SERPINC1 Gene,C1412610,1,1,0.0,0.0
+C1512743,"Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant",disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1512742,"Infiltrating Bladder Urothelial Carcinoma, Plasmacytoid Variant",disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2828150,Oropharyngeal Human Papillomavirus-Positive Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1335519,"Prostate Acinar Adenocarcinoma, Sarcomatoid Variant",disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C4726595,Refractory High Grade B-Cell Lymphoma with MYC and BCL2 or BCL6 Rearrangements,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.14285714040816327
+C1856057,"Homocystinuria-Megaloblastic Anemia, cblE Complementation Type",disease_mapped_to_gene,['C1417458'],['MTRR Gene'],MTRR Gene,C1417458,1,1,0.0,0.0
+C4012790,Ataxia-Telangiectasia-Like Disorder 1,disease_mapped_to_gene,['C1417250'],['MRE11 Gene'],MRE11 Gene,C1417250,1,1,0.0,0.0
+C0879257,Hereditary Papillary Renal Cell Carcinoma,disease_mapped_to_gene,['C1417123'],['MET Gene'],MET Gene,C1417123,1,1,0.0,0.0
+C0278718,Stage 0 Chronic Lymphocytic Leukemia,disease_mapped_to_gene,['C0812238'],['BCL3 Gene'],BCL3 Gene,C0812238,1,1,0.0,0.0
+C2033037,Pancreatic Vipoma,disease_mapped_to_gene,"['C0694884', 'C0694897']","['MEN1 Gene', 'VHL Gene']",MEN1 Gene || VHL Gene,C0694884 || C0694897,2,2,0.0,0.0
+C5205550,Locally Advanced Lung Non-Small Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C1334051,Human Papillomavirus-Related Cervical Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C2981275,Stage IVC Thyroid Gland Medullary Carcinoma AJCC v7,disease_mapped_to_gene,['C0694890'],['RET Gene'],RET Gene,C0694890,1,1,0.0,0.0
+C4526914,Lung Non-Mucinous Adenocarcinoma In Situ,disease_mapped_to_gene,"['C0079419', 'C1332080', 'C1412993', 'C1414313', 'C1537502']","['TP53 Gene', 'ALK Gene', 'EML4/ALK Fusion Gene', 'EGFR Gene', 'KRAS Gene']",TP53 Gene || ALK Gene || EML4/ALK Fusion Gene || EGFR Gene || KRAS Gene,C0079419 || C1332080 || C1412993 || C1414313 || C1537502,5,5,0.0,0.0
+C0855109,Ann Arbor Stage IV Burkitt Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C5205915,Metastatic Clear Cell Sarcoma of Soft Tissue,disease_mapped_to_gene,['C1852404'],['EWSR1/ATF1 Fusion Gene'],EWSR1/ATF1 Fusion Gene,C1852404,1,1,0.0,0.0
+C1332631,Breast Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C1711232,Nasopharyngeal Basaloid Carcinoma,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C4521718,Postneoadjuvant Therapy Stage IIIA Esophageal Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5420532,Unresectable Cervical Adenosquamous Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C0206632,Angiolipoma,disease_mapped_to_gene,['C1538717'],['PRKD2 Gene'],PRKD2 Gene,C1538717,1,1,0.0,0.0
+C4086172,Childhood Small Intestinal Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C4552043,Cortical Dysplasia-Focal Epilepsy Syndrome,disease_mapped_to_gene,['C1422223'],['CNTNAP2 Gene'],CNTNAP2 Gene,C1422223,1,1,0.0,0.0
+C0279651,Gallbladder Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0242957', 'C0525037', 'C1537502']","['TP53 Gene', 'ERBB2 Gene', 'CDKN2A Gene', 'KRAS Gene']",TP53 Gene || ERBB2 Gene || CDKN2A Gene || KRAS Gene,C0079419 || C0242957 || C0525037 || C1537502,4,4,0.0,0.0
+C4744521,Temporal Lobe Anaplastic Astrocytoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1335256,PRETEXT Stage 2 Hepatoblastoma,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C1720956,Immunodeficiency with Hyper-IgM Type 2,disease_mapped_to_gene,['C1421876'],['AICDA Gene'],AICDA Gene,C1421876,1,1,0.0,0.0
+C2987143,Pancreatic Intraepithelial Neoplasia-1B,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C4520903,Stage 0 Lung Adenocarcinoma AJCC v6 and v7,disease_mapped_to_gene,"['C0079419', 'C1332080', 'C1412993', 'C1414313', 'C1537502']","['TP53 Gene', 'ALK Gene', 'EML4/ALK Fusion Gene', 'EGFR Gene', 'KRAS Gene']",TP53 Gene || ALK Gene || EML4/ALK Fusion Gene || EGFR Gene || KRAS Gene,C0079419 || C1332080 || C1412993 || C1414313 || C1537502,5,5,0.0,0.0
+C2698305,B Acute Lymphoblastic Leukemia with t(12;21)(p13.2;q22.1); ETV6-RUNX1,disease_mapped_to_gene,"['C0919449', 'C1335654']","['ETV6/RUNX1 Fusion Gene', 'RUNX1 Gene']",ETV6/RUNX1 Fusion Gene || RUNX1 Gene,C0919449 || C1335654,2,2,0.0,0.0
+C0279739,Lip Basal Cell Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C2064402,Liver Epithelioid Hemangioendothelioma,disease_mapped_to_gene,['C4053854'],['WWTR1/CAMTA1 Fusion Gene'],WWTR1/CAMTA1 Fusion Gene,C4053854,1,1,0.0,0.0
+C0334379,Thyroid Gland Medullary Carcinoma with Amyloid Stroma,disease_mapped_to_gene,['C0694890'],['RET Gene'],RET Gene,C0694890,1,1,0.0,0.0
+C4725830,Prostate Adenocarcinoma without Neuroendocrine Differentiation,disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C0860580,Medullary Breast Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0242957', 'C1413172']","['TP53 Gene', 'ERBB2 Gene', 'CCND1 Gene']",TP53 Gene || ERBB2 Gene || CCND1 Gene,C0079419 || C0242957 || C1413172,3,3,0.0,0.0
+C5206437,Stage IA1 Cervical Cancer FIGO 2018,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C2698315,B Lymphoblastic Leukemia/Lymphoma with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1),disease_mapped_to_gene,"['C1418285', 'C1867800']","['PBX1 Gene', 'TCF3/PBX1 Fusion Gene']",PBX1 Gene || TCF3/PBX1 Fusion Gene,C1418285 || C1867800,2,2,0.0,0.0
+C1291564,Aromatic L-Amino-Acid Decarboxylase Deficiency,disease_mapped_to_gene,['C1413943'],['DDC Gene'],DDC Gene,C1413943,1,1,0.0,0.0
+C5239012,Cutaneous Burkitt Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C2007059,Pancreatic Undifferentiated Carcinoma with Osteoclast-Like Giant Cells,disease_mapped_to_gene,"['C0079419', 'C0242957', 'C0525037', 'C0598034', 'C0694891', 'C1537502']","['TP53 Gene', 'ERBB2 Gene', 'CDKN2A Gene', 'BRCA2 Gene', 'SMAD4 Gene', 'KRAS Gene']",TP53 Gene || ERBB2 Gene || CDKN2A Gene || BRCA2 Gene || SMAD4 Gene || KRAS Gene,C0079419 || C0242957 || C0525037 || C0598034 || C0694891 || C1537502,6,6,0.0,0.0
+C1708792,Lung Lymphoepithelioma-Like Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C1336940,Vaginal Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C0004903,Beckwith-Wiedemann Syndrome,disease_mapped_to_gene,['C0919539'],['Cyclin-Dependent Kinase Inhibitor Gene'],Cyclin-Dependent Kinase Inhibitor Gene,C0919539,1,1,0.0,0.0
+C1709669,Primary Systemic Mastocytosis,disease_mapped_to_gene,['C0920288'],['KIT Gene'],KIT Gene,C0920288,1,1,0.0,0.0
+C1332930,Chest Wall Fibromatosis,disease_mapped_to_gene,['C0162832'],['APC Gene'],APC Gene,C0162832,1,1,0.0,0.0
+C1709454,Pancreatic Neuroendocrine Microadenoma,disease_mapped_to_gene,"['C0694884', 'C0694897']","['MEN1 Gene', 'VHL Gene']",MEN1 Gene || VHL Gene,C0694884 || C0694897,2,2,0.0,0.0
+C2981348,Stage III Lung Cancer AJCC v6,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1512741,"Infiltrating Bladder Urothelial Carcinoma, Nested Variant",disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4521720,Postneoadjuvant Therapy Stage IV Esophageal Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0349672,Prostate Ductal Adenocarcinoma,disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C1332642,Burkitt-Like Lymphoma Post-Transplant Lymphoproliferative Disorder,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C1336110,Stage IA2 Cervical Cancer AJCC v6 and v7,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C1370701,Clear Cell Hidradenoma,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C0278726,Extensive Stage Lung Small Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1516474,Cellular Congenital Mesoblastic Nephroma,disease_mapped_to_gene,"['C1334910', 'C3275265']","['NTRK3 Gene', 'ETV6/NTRK3 Fusion Gene']",NTRK3 Gene || ETV6/NTRK3 Fusion Gene,C1334910 || C3275265,2,2,0.0,0.0
+C4687629,Mediastinal Epithelioid Hemangioendothelioma,disease_mapped_to_gene,['C4053854'],['WWTR1/CAMTA1 Fusion Gene'],WWTR1/CAMTA1 Fusion Gene,C4053854,1,1,0.0,0.0
+C4745272,Locally Advanced Pancreatic Ductal Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0242957', 'C0525037', 'C0598034', 'C0694891', 'C1537502']","['TP53 Gene', 'ERBB2 Gene', 'CDKN2A Gene', 'BRCA2 Gene', 'SMAD4 Gene', 'KRAS Gene']",TP53 Gene || ERBB2 Gene || CDKN2A Gene || BRCA2 Gene || SMAD4 Gene || KRAS Gene,C0079419 || C0242957 || C0525037 || C0598034 || C0694891 || C1537502,6,6,0.0,0.0
+C0744295,Gastric Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C4524737,Pathologic Stage IIIA Gastroesophageal Junction Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1847800,Waardenburg Syndrome Type 1,disease_mapped_to_gene,['C1335192'],['PAX3 Gene'],PAX3 Gene,C1335192,1,1,0.0,0.0
+C4764226,Refractory Desmoplastic Small Round Cell Tumor,disease_mapped_to_gene,['C3274610'],['EWSR1/WT1 Fusion Gene'],EWSR1/WT1 Fusion Gene,C3274610,1,1,0.0,0.0
+C1515868,Acinic Cell Breast Carcinoma,disease_mapped_to_gene,"['C0242957', 'C1413172']","['ERBB2 Gene', 'CCND1 Gene']",ERBB2 Gene || CCND1 Gene,C0242957 || C1413172,2,2,0.0,0.0
+C1336145,Stage IB Lung Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5230517,Biphenotypic Sinonasal Sarcoma,disease_mapped_to_gene,['C1335192'],['PAX3 Gene'],PAX3 Gene,C1335192,1,1,0.0,0.0
+C0086795,Hurler Syndrome,disease_mapped_to_gene,['C1442485'],['IDUA Gene'],IDUA Gene,C1442485,1,1,0.0,0.0
+C5206445,Stage IIA1 Cervical Cancer FIGO 2018,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C1333780,Gastric Mantle Cell Lymphoma,disease_mapped_to_gene,['C1413172'],['CCND1 Gene'],CCND1 Gene,C1413172,1,1,0.0,0.0
+C1511264,"Borderline Ovarian Mucinous Tumor, Endocervical-Like",disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C1336130,Stage IB Lung Adenosquamous Carcinoma AJCC v7,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C5419971,Digestive System Solitary Fibrous Tumor,disease_mapped_to_gene,['C1417589'],['NAB2/STAT6 Fusion Gene'],NAB2/STAT6 Fusion Gene,C1417589,1,1,0.0,0.0
+C5418890,Metastatic Ovarian Endometrioid Adenocarcinoma,disease_mapped_to_gene,"['C0694888', 'C1332803']","['PTEN Gene', 'CTNNB1 Gene']",PTEN Gene || CTNNB1 Gene,C0694888 || C1332803,2,2,0.0,0.0
+C1709467,Parathyroid Gland Lipoadenoma,disease_mapped_to_gene,"['C0694884', 'C1413172']","['MEN1 Gene', 'CCND1 Gene']",MEN1 Gene || CCND1 Gene,C0694884 || C1413172,2,2,0.0,0.0
+C1710419,Thyroid Gland Hyperfunctioning Adenoma,disease_mapped_to_gene,['C1833640'],['PAX8/PPARG Fusion Gene'],PAX8/PPARG Fusion Gene,C1833640,1,1,0.0,0.0
+C1266129,Atypical Lipomatous Tumor,disease_mapped_to_gene,['C0812222'],['MDM2 Gene'],MDM2 Gene,C0812222,1,1,0.0,0.0
+C0854973,Stage II Lung Adenosquamous Carcinoma AJCC v7,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C0280298,Anterior Tongue Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C3280428,Alpha-Methylacyl-CoA Racemase Deficiency,disease_mapped_to_gene,['C1412374'],['AMACR Gene'],AMACR Gene,C1412374,1,1,0.0,0.0
+C1336529,Superior Sulcus Lung Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0221036,Acrodermatitis Enteropathica,disease_mapped_to_gene,['C1424765'],['SLC39A4 Gene'],SLC39A4 Gene,C1424765,1,1,0.0,0.0
+C4725030,Refractory Nasopharyngeal Carcinoma,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C1332611,Brain Stem Hemangioblastoma,disease_mapped_to_gene,['C0694897'],['VHL Gene'],VHL Gene,C0694897,1,1,0.0,0.0
+C0278545,Stage III Rectal Cancer AJCC v6,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C3647833,Grade 3b Follicular Lymphoma,disease_mapped_to_gene,['C0376515'],['BCL2 Gene'],BCL2 Gene,C0376515,1,1,0.0,0.0
+C1334002,High Grade Ductal Breast Carcinoma In Situ,disease_mapped_to_gene,"['C0242957', 'C1413172']","['ERBB2 Gene', 'CCND1 Gene']",ERBB2 Gene || CCND1 Gene,C0242957 || C1413172,2,2,0.0,0.0
+C5237244,BAP1-Inactivated Melanocytoma,disease_mapped_to_gene,['C1332380'],['BAP1 Gene'],BAP1 Gene,C1332380,1,1,0.0,0.0
+C4763841,Metastatic Infiltrating Bladder Urothelial Carcinoma with Giant Cells,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0855038,Recurrent Alveolar Soft Part Sarcoma,disease_mapped_to_gene,['C3888091'],['ASPSCR1/TFE3 Fusion Gene'],ASPSCR1/TFE3 Fusion Gene,C3888091,1,1,0.0,0.0
+C1335753,Renal Vein Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C1335094,Occult Lung Adenosquamous Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C2984087,Colorectal Cancer by AJCC v7 Stage,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0268243,"Niemann-Pick Disease, Type B",disease_mapped_to_gene,['C1420259'],['SMPD1 Gene'],SMPD1 Gene,C1420259,1,1,0.0,0.0
+C5418967,Parietal Lobe Anaplastic Astrocytoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1861923,Acampomelic Campomelic Dysplasia,disease_mapped_to_gene,['C1420331'],['SOX9 Gene'],SOX9 Gene,C1420331,1,1,0.0,0.0
+C1335694,Recurrent Bone Ewing Sarcoma,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C0279610,Stromal Predominant Kidney Wilms Tumor,disease_mapped_to_gene,['C0694898'],['WT1 Gene'],WT1 Gene,C0694898,1,1,0.0,0.0
+C5420533,Unresectable Cervical Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C0023443,Hairy Cell Leukemia,disease_mapped_to_gene,['C0812241'],['BRAF Gene'],BRAF Gene,C0812241,1,1,0.0,0.0
+C1332998,Childhood T Lymphoblastic Lymphoma,disease_mapped_to_gene,['C1334889'],['NOTCH1 Gene'],NOTCH1 Gene,C1334889,1,1,0.0,0.0
+C4521650,Pathologic Stage II Esophageal Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1336353,Stage IVA Oral Cavity Squamous Cell Carcinoma AJCC v6 and v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1336349,Stage IVA Nasopharyngeal Keratinizing Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C0278850,Stage II Thyroid Gland Papillary Carcinoma AJCC v7,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C1336164,Stage IIA Lung Cancer AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0278607,Adult Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C2825772,Benign Epithelioid Cell Type Gastrointestinal Stromal Tumor,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C1335459,Postsurgical Stage II Hepatoblastoma,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C4526710,Lung Cancer by AJCC v8 Stage,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5239072,Unresectable Myxoid Liposarcoma,disease_mapped_to_gene,"['C1413947', 'C1852061', 'C3149096']","['DDIT3 Gene', 'FUS/DDIT3 Fusion Gene', 'EWSR1/DDIT3 Fusion Gene']",DDIT3 Gene || FUS/DDIT3 Fusion Gene || EWSR1/DDIT3 Fusion Gene,C1413947 || C1852061 || C3149096,3,3,0.0,0.0
+C0346057,Cutaneous Neurofibroma,disease_mapped_to_gene,['C0085113'],['NF1 Gene'],NF1 Gene,C0085113,1,1,0.0,0.0
+C4520822,Stage 0 Colon Cancer AJCC v6 and v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1333938,Hard Palate Mucoepidermoid Carcinoma,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C5419206,Advanced Esophageal Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4551535,Stage IA Cervical Cancer AJCC v6 and v7,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C5419211,Unresectable Lung Non-Small Cell Squamous Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C2981418,Stage IIIB Small Intestinal Gastrointestinal Stromal Tumor,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C4553883,Stage IVA Thyroid Gland Medullary Carcinoma AJCC v8,disease_mapped_to_gene,['C0694890'],['RET Gene'],RET Gene,C0694890,1,1,0.0,0.0
+C0280359,Stage IV Lip Basal Cell Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C0431129,Adamantinomatous Craniopharyngioma,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C2983708,Rectosigmoid Cancer by AJCC v6 Stage,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0206726,Gliosarcoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C1334384,Leiomyosarcoma NCI Grade 3,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C1514169,Pleomorphic Breast Carcinoma,disease_mapped_to_gene,"['C0242957', 'C1413172']","['ERBB2 Gene', 'CCND1 Gene']",ERBB2 Gene || CCND1 Gene,C0242957 || C1413172,2,2,0.0,0.0
+C5206667,Penile Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C0334588,Giant Cell Glioblastoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C4524733,Pathologic Stage IIB Gastroesophageal Junction Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5420197,Laryngeal Pleomorphic Adenoma,disease_mapped_to_gene,"['C1333906', 'C1418629', 'C3148729']","['HMGA2 Gene', 'PLAG1 Gene', 'CTNNB1/PLAG1 Fusion Gene']",HMGA2 Gene || PLAG1 Gene || CTNNB1/PLAG1 Fusion Gene,C1333906 || C1418629 || C3148729,3,3,0.0,0.0
+C0796081,Myhre Syndrome,disease_mapped_to_gene,['C0694891'],['SMAD4 Gene'],SMAD4 Gene,C0694891,1,1,0.0,0.0
+C2217039,Stage IIIC Colon Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1332282,Hemispheric Anaplastic Astrocytoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0302592,Cervical Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C4683423,Stage I Thyroid Gland Papillary Carcinoma Under 55 Years AJCC v8,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C4524728,Pathologic Stage IC Gastroesophageal Junction Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1148551,X-Linked Dyskeratosis Congenita,disease_mapped_to_gene,['C1414056'],['DKC1 Gene'],DKC1 Gene,C1414056,1,1,0.0,0.0
+C1332552,Extrahepatic Bile Duct Mucoepidermoid Carcinoma,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C3146250,Stage III Colorectal Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0345961,Lung Epithelioid Hemangioendothelioma,disease_mapped_to_gene,['C4053854'],['WWTR1/CAMTA1 Fusion Gene'],WWTR1/CAMTA1 Fusion Gene,C4053854,1,1,0.0,0.0
+C0855099,Ann Arbor Stage II Small Lymphocytic Lymphoma,disease_mapped_to_gene,['C0812238'],['BCL3 Gene'],BCL3 Gene,C0812238,1,1,0.0,0.0
+C1336219,Stage IIIB Cervical Cancer AJCC v6 and v7,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C4551763,Stage I Cervical Cancer AJCC v6 and v7,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C2984090,Rectosigmoid Cancer by AJCC v7 Stage,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4520988,Stage 0 Lung Adenosquamous Carcinoma AJCC v6 and v7,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C1519214,Secondary Glioblastoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5419771,Gastric Neuroendocrine Tumor G3,disease_mapped_to_gene,['C0694884'],['MEN1 Gene'],MEN1 Gene,C0694884,1,1,0.0,0.0
+C0345893,Juvenile Polyposis Syndrome,disease_mapped_to_gene,"['C0694891', 'C1332430']","['SMAD4 Gene', 'BMPR1A Gene']",SMAD4 Gene || BMPR1A Gene,C0694891 || C1332430,2,2,0.0,0.0
+C4682562,Stage IIIC Uterine Corpus Leiomyosarcoma AJCC v8,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C1304297,Skin Infundibulocystic Basal Cell Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C1336391,Stage IVC Basal Cell Lip Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C5237307,Refractory Thyroid Gland Follicular Carcinoma,disease_mapped_to_gene,"['C1833640', 'C4744600']","['PAX8/PPARG Fusion Gene', 'CREB3L2/PPARG Fusion Gene']",PAX8/PPARG Fusion Gene || CREB3L2/PPARG Fusion Gene,C1833640 || C4744600,2,2,0.0,0.0
+C2033294,Laryngeal Papillary Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4724965,Refractory Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C4761609,Locally Advanced Lung Non-Small Cell Squamous Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C1336891,Bladder Inflammatory Myofibroblastic Tumor,disease_mapped_to_gene,"['C1332080', 'C1333906', 'C3151474', 'C3639982', 'C3639984']","['ALK Gene', 'HMGA2 Gene', 'CLTC/ALK Fusion Gene', 'TPM3/ALK Fusion Gene', 'TPM4/ALK Fusion Gene']",ALK Gene || HMGA2 Gene || CLTC/ALK Fusion Gene || TPM3/ALK Fusion Gene || TPM4/ALK Fusion Gene,C1332080 || C1333906 || C3151474 || C3639982 || C3639984,5,5,0.0,0.0
+C3899647,Childhood Parathyroid Gland Carcinoma,disease_mapped_to_gene,['C1708291'],['CDC73 Gene'],CDC73 Gene,C1708291,1,1,0.0,0.0
+C4287976,Warthin-Like Variant Thyroid Gland Papillary Carcinoma,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C1334250,Intraductal Non-Comedo Breast Adenocarcinoma,disease_mapped_to_gene,"['C0242957', 'C1413172']","['ERBB2 Gene', 'CCND1 Gene']",ERBB2 Gene || CCND1 Gene,C0242957 || C1413172,2,2,0.0,0.0
+C1707440,Colorectal Signet Ring Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0749424,Thyroid Gland Hurthle Cell Carcinoma,disease_mapped_to_gene,"['C1833640', 'C4744600']","['PAX8/PPARG Fusion Gene', 'CREB3L2/PPARG Fusion Gene']",PAX8/PPARG Fusion Gene || CREB3L2/PPARG Fusion Gene,C1833640 || C4744600,2,2,0.0,0.0
+C4520990,"Stage 0 Nasopharyngeal Undifferentiated Carcinoma AJCC v6, v7, and v8",disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C4524643,Esophageal Squamous Cell Carcinoma by AJCC v7 Stage,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4085582,"Mental Retardation, X-linked 102",disease_mapped_to_gene,['C1413962'],['DDX3X Gene'],DDX3X Gene,C1413962,1,1,0.0,0.0
+C4727782,Advanced Lung Non-Small Cell Squamous Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C0279592,Adult T Acute Lymphoblastic Leukemia,disease_mapped_to_gene,['C1334889'],['NOTCH1 Gene'],NOTCH1 Gene,C1334889,1,1,0.0,0.0
+C5420861,Unresectable Thyroid Gland Follicular Carcinoma,disease_mapped_to_gene,"['C1833640', 'C4744600']","['PAX8/PPARG Fusion Gene', 'CREB3L2/PPARG Fusion Gene']",PAX8/PPARG Fusion Gene || CREB3L2/PPARG Fusion Gene,C1833640 || C4744600,2,2,0.0,0.0
+C1334179,Inflammatory Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C4055156,"Denys-Drash Syndrome, Incomplete",disease_mapped_to_gene,['C0694898'],['WT1 Gene'],WT1 Gene,C0694898,1,1,0.0,0.0
+C3897520,Stage IVA Rectal Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0854796,Unresectable Hepatoblastoma,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C5421211,Locally Advanced Lung Adenosquamous Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C1512738,"Infiltrating Bladder Urothelial Carcinoma, Lipid-Rich Variant",disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0854859,Refractory T Lymphoblastic Leukemia/Lymphoma,disease_mapped_to_gene,['C1334889'],['NOTCH1 Gene'],NOTCH1 Gene,C1334889,1,1,0.0,0.0
+C4683472,Thyroid Gland Medullary Carcinoma by AJCC v8 Stage,disease_mapped_to_gene,['C0694890'],['RET Gene'],RET Gene,C0694890,1,1,0.0,0.0
+C1332246,Ampulla of Vater Clear Cell Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0694891', 'C1537502']","['TP53 Gene', 'SMAD4 Gene', 'KRAS Gene']",TP53 Gene || SMAD4 Gene || KRAS Gene,C0079419 || C0694891 || C1537502,3,3,0.0,0.0
+C2981228,Stage II Rectosigmoid Cancer AJCC v6,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1335123,Oral Cavity Pleomorphic Adenoma,disease_mapped_to_gene,"['C1333906', 'C1418629', 'C3148729']","['HMGA2 Gene', 'PLAG1 Gene', 'CTNNB1/PLAG1 Fusion Gene']",HMGA2 Gene || PLAG1 Gene || CTNNB1/PLAG1 Fusion Gene,C1333906 || C1418629 || C3148729,3,3,0.0,0.0
+C4521715,Postneoadjuvant Therapy Stage I Esophageal Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1880424,"Ductal Breast Carcinoma In Situ, Solid Type",disease_mapped_to_gene,"['C0242957', 'C1413172']","['ERBB2 Gene', 'CCND1 Gene']",ERBB2 Gene || CCND1 Gene,C0242957 || C1413172,2,2,0.0,0.0
+C1275275,Spindle Cell Liposarcoma,disease_mapped_to_gene,['C0812222'],['MDM2 Gene'],MDM2 Gene,C0812222,1,1,0.0,0.0
+C5237306,Refractory Thyroid Gland Papillary Carcinoma,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C4725618,Refractory Endometrial Endometrioid Adenocarcinoma,disease_mapped_to_gene,['C0694888'],['PTEN Gene'],PTEN Gene,C0694888,1,1,0.0,0.0
+C4682467,Cervical Cancer by AJCC v8 Stage,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C1333026,Choroid Necrotic Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C0278713,Stage III Kidney Wilms Tumor,disease_mapped_to_gene,['C0694898'],['WT1 Gene'],WT1 Gene,C0694898,1,1,0.0,0.0
+C4288551,Oropharyngeal Basaloid Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4727397,Recurrent Ovarian Mucinous Adenocarcinoma,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C5420053,Sinonasal Desmoid-Type Fibromatosis,disease_mapped_to_gene,['C0162832'],['APC Gene'],APC Gene,C0162832,1,1,0.0,0.0
+C1512751,Infiltrating Urothelial Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1518949,Penile Basal Cell Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C3641708,Adrenal Cortex Carcinoma by ENSAT Stage,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C0279565,Invasive Lobular Breast Carcinoma,disease_mapped_to_gene,['C0694872'],['CDH1 Gene'],CDH1 Gene,C0694872,1,1,0.0,0.0
+C1336074,Splenic T Lymphoblastic Lymphoma,disease_mapped_to_gene,['C1334889'],['NOTCH1 Gene'],NOTCH1 Gene,C1334889,1,1,0.0,0.0
+C4744547,Metastatic Adrenal Cortex Carcinoma,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C0206651,Clear Cell Sarcoma of Soft Tissue,disease_mapped_to_gene,['C1852404'],['EWSR1/ATF1 Fusion Gene'],EWSR1/ATF1 Fusion Gene,C1852404,1,1,0.0,0.0
+C0281508,Desmoplastic Small Round Cell Tumor,disease_mapped_to_gene,['C3274610'],['EWSR1/WT1 Fusion Gene'],EWSR1/WT1 Fusion Gene,C3274610,1,1,0.0,0.0
+C4521907,Stage II Rectosigmoid Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1335257,PRETEXT Stage 3 Hepatoblastoma,disease_mapped_to_gene,['C1332803'],['CTNNB1 Gene'],CTNNB1 Gene,C1332803,1,1,0.0,0.0
+C0346013,Skin Fibroepithelial Basal Cell Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C4285066,High Grade B-Cell Lymphoma with MYC and BCL2 or BCL6 Rearrangements,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.1538461512426036
+C0005699,"Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",disease_mapped_to_gene,"['C1412097', 'C1835417']","['ABL1 Gene', 'BCR/ABL1 Fusion Gene']",ABL1 Gene || BCR/ABL1 Fusion Gene,C1412097 || C1835417,2,2,0.0,0.0
+C0281708,Recurrent Childhood Burkitt Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C4329269,Acute Myeloid Leukemia with Biallelic Mutations of CEBPA,disease_mapped_to_gene,['C1413322'],['CEBPA Gene'],CEBPA Gene,C1413322,1,1,0.0,0.19999999680000002
+C1336063,"Splenic Manifestation of Chronic Myelogenous Leukemia, BCR-ABL1 Positive",disease_mapped_to_gene,"['C1412097', 'C1835417']","['ABL1 Gene', 'BCR/ABL1 Fusion Gene']",ABL1 Gene || BCR/ABL1 Fusion Gene,C1412097 || C1835417,2,2,0.0,0.0
+C4721748,Stage IV Esophageal Adenocarcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4683235,Clinical Stage IV Retinoblastoma AJCC v8,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C4552680,Stage I Thyroid Gland Medullary Carcinoma AJCC v8,disease_mapped_to_gene,['C0694890'],['RET Gene'],RET Gene,C0694890,1,1,0.0,0.0
+C5420536,Advanced Cervical Adenosquamous Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C1333952,Helicobacter Pylori-Associated Gastric Mucosa-Associated Lymphoid Tissue Lymphoma,disease_mapped_to_gene,"['C1416991', 'C3148863']","['MALT1 Gene', 'BIRC3/MALT1 Fusion Gene']",MALT1 Gene || BIRC3/MALT1 Fusion Gene,C1416991 || C3148863,2,2,0.0,0.0
+C1335167,Ovarian Mucinous Adenocarcinoma,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C3899650,Childhood Lung Non-Small Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C3899670,Childhood Cerebral Anaplastic Astrocytoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0079745,Grade 3 Follicular Lymphoma,disease_mapped_to_gene,['C0376515'],['BCL2 Gene'],BCL2 Gene,C0376515,1,1,0.0,0.0
+C0279672,Cervical Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C0334376,Intracystic Papillary Breast Carcinoma,disease_mapped_to_gene,"['C0242957', 'C1413172']","['ERBB2 Gene', 'CCND1 Gene']",ERBB2 Gene || CCND1 Gene,C0242957 || C1413172,2,2,0.0,0.0
+C4553876,Stage IVA Thyroid Gland Papillary Carcinoma AJCC v8,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C0334613,Melanotic Neurofibroma,disease_mapped_to_gene,['C0085113'],['NF1 Gene'],NF1 Gene,C0085113,1,1,0.0,0.0
+C0007113,Rectal Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C5421257,Metastatic Distal Esophagus Adenocarcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1334781,Mixed Cell Type Gastrointestinal Stromal Tumor,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C0023786,Mucopolysaccharidosis Type I,disease_mapped_to_gene,['C1442485'],['IDUA Gene'],IDUA Gene,C1442485,1,1,0.0,0.0
+C0346163,Ovarian Endometrioid Adenocarcinoma,disease_mapped_to_gene,"['C0694888', 'C1332803']","['PTEN Gene', 'CTNNB1 Gene']",PTEN Gene || CTNNB1 Gene,C0694888 || C1332803,2,2,0.0,0.0
+C1304517,Extrarenal Rhabdoid Tumor,disease_mapped_to_gene,['C0812273'],['SMARCB1 Gene'],SMARCB1 Gene,C0812273,1,1,0.0,0.0
+C4553583,Stage IIIA Cervical Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C3826890,Branch Duct Pancreatic Intraductal Papillary-Mucinous Neoplasm,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C4704742,Craniofacial Fibrous Dysplasia,disease_mapped_to_gene,['C1366550'],['GNAS Gene'],GNAS Gene,C1366550,1,1,0.0,0.0
+C3897082,Stage IVA Colon Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C5206759,Metastatic Thyroid Gland Medullary Carcinoma,disease_mapped_to_gene,['C0694890'],['RET Gene'],RET Gene,C0694890,1,1,0.0,0.0
+C1834582,Transient Abnormal Myelopoiesis Associated with Down Syndrome,disease_mapped_to_gene,['C1333663'],['GATA1 Gene'],GATA1 Gene,C1333663,1,1,0.0,0.0
+C4682560,Stage IIIA Uterine Corpus Leiomyosarcoma AJCC v8,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C1377918,Stage III Nasopharyngeal Carcinoma AJCC v6,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C0334454,Myxoid Dermatofibrosarcoma Protuberans,disease_mapped_to_gene,['C1861000'],['COL1A1/PDGFB Fusion Gene'],COL1A1/PDGFB Fusion Gene,C1861000,1,1,0.0,0.0
+C4553695,Stage IVB Cervical Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C3698122,Atypical Ewing Sarcoma,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C4724395,Metastatic Nasopharyngeal Squamous Cell Carcinoma,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C0677948,Stage II Colorectal Cancer AJCC v6,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4721431,Stage IV Oropharyngeal Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2987519,Stage II Cervical Cancer AJCC v7,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C4744586,"Thyroid Gland Follicular Carcinoma, Encapsulated Angioinvasive",disease_mapped_to_gene,"['C1833640', 'C4744600']","['PAX8/PPARG Fusion Gene', 'CREB3L2/PPARG Fusion Gene']",PAX8/PPARG Fusion Gene || CREB3L2/PPARG Fusion Gene,C1833640 || C4744600,2,2,0.0,0.0
+C1707410,Clear Cell Variant Thyroid Gland Papillary Carcinoma,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C0262587,Parathyroid Gland Adenoma,disease_mapped_to_gene,"['C0694884', 'C1413172']","['MEN1 Gene', 'CCND1 Gene']",MEN1 Gene || CCND1 Gene,C0694884 || C1413172,2,2,0.0,0.0
+C5418783,Alveolar Ridge Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1333024,Choroid Epithelioid Cell Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C1707291,NUT Carcinoma,disease_mapped_to_gene,['C3274991'],['BRD4/NUTM1 Fusion Gene'],BRD4/NUTM1 Fusion Gene,C3274991,1,1,0.0,0.0
+C0855072,Recurrent Synovial Sarcoma,disease_mapped_to_gene,"['C1420439', 'C1839329', 'C1846243', 'C3274713']","['SS18 Gene', 'SS18/SSX1 Fusion Gene', 'SS18/SSX2 Fusion Gene', 'SS18/SSX4 Fusion Gene']",SS18 Gene || SS18/SSX1 Fusion Gene || SS18/SSX2 Fusion Gene || SS18/SSX4 Fusion Gene,C1420439 || C1839329 || C1846243 || C3274713,4,4,0.0,0.0
+C1336962,Villoglandular Endometrial Endometrioid Adenocarcinoma,disease_mapped_to_gene,['C0694888'],['PTEN Gene'],PTEN Gene,C0694888,1,1,0.0,0.0
+C4764256,Platinum-Sensitive Lung Small Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0677725,Recurrent Mantle Cell Lymphoma,disease_mapped_to_gene,['C1413172'],['CCND1 Gene'],CCND1 Gene,C1413172,1,1,0.0,0.0
+C1304299,Skin Keratotic Basal Cell Carcinoma,disease_mapped_to_gene,['C1826732'],['PTCH1 Gene'],PTCH1 Gene,C1826732,1,1,0.0,0.0
+C0279693,Intermediate Cell Type Uveal Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C4727103,Colorectal Carcinoma Metastatic in the Lung,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1516408,Cervical Alveolar Soft Part Sarcoma,disease_mapped_to_gene,['C3888091'],['ASPSCR1/TFE3 Fusion Gene'],ASPSCR1/TFE3 Fusion Gene,C3888091,1,1,0.0,0.0
+C1334448,Lung Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C5205579,"Prostate Acinar Adenocarcinoma, Microcystic Variant",disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C1708106,Functioning Pancreatic Neuroendocrine Tumor G2,disease_mapped_to_gene,"['C0694884', 'C0694897']","['MEN1 Gene', 'VHL Gene']",MEN1 Gene || VHL Gene,C0694884 || C0694897,2,2,0.0,0.0
+C2698317,B Lymphoblastic Leukemia/Lymphoma with t(9;22)(q34.1;q11.2); BCR-ABL1,disease_mapped_to_gene,"['C1412097', 'C1835417']","['ABL1 Gene', 'BCR/ABL1 Fusion Gene']",ABL1 Gene || BCR/ABL1 Fusion Gene,C1412097 || C1835417,2,2,0.0,0.0
+C1567741,Alport Syndrome,disease_mapped_to_gene,['C1413586'],['COL4A5 Gene'],COL4A5 Gene,C1413586,1,1,0.0,0.0
+C1300585,Prostate Small Cell Carcinoma,disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C4725595,Thoracic Esophagus Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1710499,Type III Pleuropulmonary Blastoma,disease_mapped_to_gene,['C1333218'],['DICER1 Gene'],DICER1 Gene,C1333218,1,1,0.0,0.0
+C1275249,Dermatofibrosarcoma Protuberans with Myoid Differentiation,disease_mapped_to_gene,['C1861000'],['COL1A1/PDGFB Fusion Gene'],COL1A1/PDGFB Fusion Gene,C1861000,1,1,0.0,0.0
+C0280331,Supraglottic Verrucous Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0280378,Stage I Nasopharyngeal Keratinizing Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C1333899'],['HLA-A Gene'],HLA-A Gene,C1333899,1,1,0.0,0.0
+C0334321,Parathyroid Gland Water-Clear Cell Adenoma,disease_mapped_to_gene,"['C0694884', 'C1413172']","['MEN1 Gene', 'CCND1 Gene']",MEN1 Gene || CCND1 Gene,C0694884 || C1413172,2,2,0.0,0.0
+C0268255,Farber Lipogranulomatosis,disease_mapped_to_gene,['C1412573'],['ASAH1 Gene'],ASAH1 Gene,C1412573,1,1,0.0,0.0
+C0584960,Factor V Leiden,disease_mapped_to_gene,['C1414509'],['F5 Gene'],F5 Gene,C1414509,1,1,0.0,0.0
+C5421351,Unresectable Thyroid Gland Papillary Carcinoma,disease_mapped_to_gene,"['C0694890', 'C1418374', 'C1833840', 'C1846724', 'C1847162', 'C1853992', 'C1861077', 'C1863898', 'C1865982', 'C1865984']","['RET Gene', 'PCM1/RET Fusion Gene', 'TPM3/NTRK1 Fusion Gene', 'ERC1/RET Fusion Gene', 'GOLGA5/RET Fusion Gene', 'TRIM33/RET Fusion Gene', 'PRKAR1A/RET Fusion Gene', 'TRIM24/RET Fusion Gene', 'CCDC6/RET Fusion Gene', 'NCOA4/RET Fusion Gene']",RET Gene || PCM1/RET Fusion Gene || TPM3/NTRK1 Fusion Gene || ERC1/RET Fusion Gene || GOLGA5/RET Fusion Gene || TRIM33/RET Fusion Gene || PRKAR1A/RET Fusion Gene || TRIM24/RET Fusion Gene || CCDC6/RET Fusion Gene || NCOA4/RET Fusion Gene,C0694890 || C1418374 || C1833840 || C1846724 || C1847162 || C1853992 || C1861077 || C1863898 || C1865982 || C1865984,10,10,0.0,0.0
+C4525586,Stage II Gastric Neuroendocrine Tumor AJCC v8,disease_mapped_to_gene,['C0694884'],['MEN1 Gene'],MEN1 Gene,C0694884,1,1,0.0,0.0
+C4721434,Stage IV Laryngeal Squamous Cell Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0334329,Thyroid Gland Macrofollicular Adenoma,disease_mapped_to_gene,['C1833640'],['PAX8/PPARG Fusion Gene'],PAX8/PPARG Fusion Gene,C1833640,1,1,0.0,0.0
+C3805232,"Polycythemia Vera, Post-Polycythemic Myelofibrosis Phase",disease_mapped_to_gene,['C1334291'],['JAK2 Gene'],JAK2 Gene,C1334291,1,1,0.0,0.0
+C0278479,Stage II Colon Cancer AJCC v6,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C5420541,Locally Advanced Endometrial Endometrioid Adenocarcinoma,disease_mapped_to_gene,['C0694888'],['PTEN Gene'],PTEN Gene,C0694888,1,1,0.0,0.0
+C2212014,Ovarian Mucinous Adenocarcinofibroma,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C1332442,BRCA1 Syndrome,disease_mapped_to_gene,['C0376571'],['BRCA1 Gene'],BRCA1 Gene,C0376571,1,1,0.0,0.4999999950000001
+C5205932,Prostate Mantle Cell Lymphoma,disease_mapped_to_gene,['C1413172'],['CCND1 Gene'],CCND1 Gene,C1413172,1,1,0.0,0.0
+C1333860,Grade 2 Colorectal Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4744475,Thyroid Gland Spindle Cell Follicular Adenoma,disease_mapped_to_gene,['C1833640'],['PAX8/PPARG Fusion Gene'],PAX8/PPARG Fusion Gene,C1833640,1,1,0.0,0.0
+C1336062,Splenic Manifestation of Chronic Lymphocytic Leukemia,disease_mapped_to_gene,['C0812238'],['BCL3 Gene'],BCL3 Gene,C0812238,1,1,0.0,0.0
+C4524715,Clinical Stage IIB Gastroesophageal Junction Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5206668,Penile Schwannoma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C1336158,Stage IIA Esophageal Adenocarcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4324497,Metastatic Colon Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C4331474,Unresectable Ewing Sarcoma,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C0279609,Blastema Predominant Kidney Wilms Tumor,disease_mapped_to_gene,['C0694898'],['WT1 Gene'],WT1 Gene,C0694898,1,1,0.0,0.0
+C5206479,Locally Advanced Unresectable Colon Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C5418808,Metastatic Endometrial Serous Adenocarcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0206637,Mesenchymal Chondrosarcoma,disease_mapped_to_gene,['C4054881'],['HEY1/NCOA2 Fusion Gene'],HEY1/NCOA2 Fusion Gene,C4054881,1,1,0.0,0.0
+C3272811,Rectal Serrated Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C3897750,Recurrent Childhood Gliosarcoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C4526975,"Stage I Small Intestinal, Esophageal, Colorectal, Mesenteric, and Peritoneal Gastrointestinal Stromal Tumor AJCC v8",disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C4744377,Sellar Solitary Fibrous Tumor/Hemangiopericytoma,disease_mapped_to_gene,['C1417589'],['NAB2/STAT6 Fusion Gene'],NAB2/STAT6 Fusion Gene,C1417589,1,1,0.0,0.0
+C4744717,Locally Advanced Unresectable Prostate Adenocarcinoma,disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C4763626,Peripheral Hemangioblastoma,disease_mapped_to_gene,['C0694897'],['VHL Gene'],VHL Gene,C0694897,1,1,0.0,0.0
+C2698836,Pleomorphic Variant Mantle Cell Lymphoma,disease_mapped_to_gene,['C1413172'],['CCND1 Gene'],CCND1 Gene,C1413172,1,1,0.0,0.0
+C1334439,Lung Adenoid Cystic Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2981709,Stage IIIB Uveal Melanoma AJCC v7,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C4521725,Clinical Stage II Esophageal Squamous Cell Carcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C5206564,"Recurrent High Grade B-Cell Lymphoma with MYC, BCL2, and BCL6 Rearrangements",disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C1336864,Rectal Undifferentiated Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1266139,Cystic Partially Differentiated Kidney Nephroblastoma,disease_mapped_to_gene,['C0694898'],['WT1 Gene'],WT1 Gene,C0694898,1,1,0.0,0.0
+C3838947,Invasive Micropapillary Breast Carcinoma,disease_mapped_to_gene,"['C0242957', 'C1413172']","['ERBB2 Gene', 'CCND1 Gene']",ERBB2 Gene || CCND1 Gene,C0242957 || C1413172,2,2,0.0,0.0
+C0013264,Duchenne Muscular Dystrophy,disease_mapped_to_gene,['C1414083'],['DMD Gene'],DMD Gene,C1414083,1,1,0.0,0.0
+C1332281,Anaplastic Diencephalic Astrocytoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1266034,Minimally Invasive Lung Non-Mucinous Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C1332080', 'C1412993', 'C1414313', 'C1537502']","['TP53 Gene', 'ALK Gene', 'EML4/ALK Fusion Gene', 'EGFR Gene', 'KRAS Gene']",TP53 Gene || ALK Gene || EML4/ALK Fusion Gene || EGFR Gene || KRAS Gene,C0079419 || C1332080 || C1412993 || C1414313 || C1537502,5,5,0.0,0.0
+C0345958,Lung Large Cell Carcinoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C5420267,PIGA Deficiency,disease_mapped_to_gene,['C1418558'],['PIGA Gene'],PIGA Gene,C1418558,1,1,0.0,0.4999999950000001
+C3831087,Class 2 Uveal Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C4745036,Locally Advanced Microsatellite Stable Colorectal Carcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C1336119,Stage IA Lung Non-Small Cell Carcinoma AJCC v7,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C4526967,Stage IB Gastric and Omental Gastrointestinal Stromal Tumor AJCC v8,disease_mapped_to_gene,"['C0920288', 'C1335201']","['KIT Gene', 'PDGFRA Gene']",KIT Gene || PDGFRA Gene,C0920288 || C1335201,2,2,0.0,0.0
+C4727357,Recurrent Acinic Cell Breast Carcinoma,disease_mapped_to_gene,"['C0242957', 'C1413172']","['ERBB2 Gene', 'CCND1 Gene']",ERBB2 Gene || CCND1 Gene,C0242957 || C1413172,2,2,0.0,0.0
+C3150926,Congenital Dyserythropoietic Anemia Type IV,disease_mapped_to_gene,"['C1413248', 'C1419926']","['CDAN1 Gene', 'SEC23B Gene']",CDAN1 Gene || SEC23B Gene,C1413248 || C1419926,2,2,0.0,0.0
+C1332305,Anterior Tongue Mucoepidermoid Carcinoma,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C5399947,"Pancreatic Intraductal Papillary-Mucinous Neoplasm, Low Grade",disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C0795953,MASA Syndrome,disease_mapped_to_gene,['C1416769'],['L1CAM Gene'],L1CAM Gene,C1416769,1,1,0.0,0.0
+C3273114,"Gallbladder Adenocarcinoma, Gastric Foveolar Type",disease_mapped_to_gene,"['C0079419', 'C0242957', 'C0525037', 'C1537502']","['TP53 Gene', 'ERBB2 Gene', 'CDKN2A Gene', 'KRAS Gene']",TP53 Gene || ERBB2 Gene || CDKN2A Gene || KRAS Gene,C0079419 || C0242957 || C0525037 || C1537502,4,4,0.0,0.0
+C4721915,Stage 0 Cervical Cancer AJCC v6,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C0684337,Peripheral Primitive Neuroectodermal Tumor,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C1336494,Stage I Uveal Melanoma AJCC v7,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C5420031,Head and Neck NUT Carcinoma,disease_mapped_to_gene,['C3274991'],['BRD4/NUTM1 Fusion Gene'],BRD4/NUTM1 Fusion Gene,C3274991,1,1,0.0,0.0
+C0854864,Stage IV T Lymphoblastic Leukemia/Lymphoma,disease_mapped_to_gene,['C1334889'],['NOTCH1 Gene'],NOTCH1 Gene,C1334889,1,1,0.0,0.0
+C1514513,"Prostate Ductal Adenocarcinoma, Solid Pattern",disease_mapped_to_gene,"['C0599295', 'C1336641']","['ERG Gene', 'TMPRSS2/ERG Fusion Gene']",ERG Gene || TMPRSS2/ERG Fusion Gene,C0599295 || C1336641,2,2,0.0,0.0
+C2983137,Colon Carcinoma Metastatic in the Lung,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C0279665,Ovarian Mucinous Cystadenocarcinoma,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C0410538,Pseudoachondroplasia,disease_mapped_to_gene,['C1456376'],['COMP Gene'],COMP Gene,C1456376,1,1,0.0,0.0
+C1275282,Low Grade Fibromyxoid Sarcoma,disease_mapped_to_gene,"['C1414860', 'C1850932', 'C3639965']","['FUS Gene', 'FUS/CREB3L2 Fusion Gene', 'FUS/CREB3L1 Fusion Gene']",FUS Gene || FUS/CREB3L2 Fusion Gene || FUS/CREB3L1 Fusion Gene,C1414860 || C1850932 || C3639965,3,3,0.0,0.0
+C5206339,Locally Advanced Unresectable Gastroesophageal Junction Adenocarcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0279727,Malignant Pancreatic Somatostatinoma,disease_mapped_to_gene,"['C0694884', 'C0694897']","['MEN1 Gene', 'VHL Gene']",MEN1 Gene || VHL Gene,C0694884 || C0694897,2,2,0.0,0.0
+C5419027,Extrarenal Rhabdoid Tumor of the Ovary,disease_mapped_to_gene,['C0812273'],['SMARCB1 Gene'],SMARCB1 Gene,C0812273,1,1,0.0,0.0
+C4524720,Clinical Stage IVB Gastroesophageal Junction Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1961099,T Acute Lymphoblastic Leukemia,disease_mapped_to_gene,['C1334889'],['NOTCH1 Gene'],NOTCH1 Gene,C1334889,1,1,0.0,0.0
+C1332513,Mediastinal Psammomatous Schwannoma,disease_mapped_to_gene,['C0085114'],['NF2 Gene'],NF2 Gene,C0085114,1,1,0.0,0.0
+C0280365,Recurrent Oral Cavity Verrucous Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4727798,Recurrent Fibrolamellar Carcinoma,disease_mapped_to_gene,['C3807366'],['DNAJB1/PRKACA Fusion Gene'],DNAJB1/PRKACA Fusion Gene,C3807366,1,1,0.0,0.0
+C4053754,"Acute Myeloid Leukemia with inv(3) (q21.3;q26.2); GATA2, MECOM",disease_mapped_to_gene,['C0812271'],['MECOM Gene'],MECOM Gene,C0812271,1,1,0.0,0.16666666388888893
+C0795833,Kleefstra Syndrome,disease_mapped_to_gene,['C1539338'],['EHMT1 Gene'],EHMT1 Gene,C1539338,1,1,0.0,0.0
+C1336872,Upper Gingival Verrucous Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C2699746,Synpolydactyly-1,disease_mapped_to_gene,['C1415687'],['HOXD13 Gene'],HOXD13 Gene,C1415687,1,1,0.0,0.0
+C1336375,Stage IVB Laryngeal Verrucous Carcinoma AJCC v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0281700,Ann Arbor Stage I Childhood Burkitt Lymphoma,disease_mapped_to_gene,['C0086661'],['MYC Gene'],MYC Gene,C0086661,1,1,0.0,0.0
+C0861611,Stage III Oral Cavity Squamous Cell Carcinoma AJCC v6 and v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C0279695,Necrotic Uveal Melanoma,disease_mapped_to_gene,"['C1332380', 'C1333685', 'C1415138']","['BAP1 Gene', 'GNAQ Gene', 'GNA11 Gene']",BAP1 Gene || GNAQ Gene || GNA11 Gene,C1332380 || C1333685 || C1415138,3,3,0.0,0.0
+C2347613,Childhood Atypical Teratoid/Rhabdoid Tumor,disease_mapped_to_gene,['C0812273'],['SMARCB1 Gene'],SMARCB1 Gene,C0812273,1,1,0.0,0.0
+C4520773,Stage 0 Lung Cancer AJCC v6 and v7,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C4744760,Thyroid Gland Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C4553419,Stage III Cervical Cancer AJCC v8,disease_mapped_to_gene,"['C0079419', 'C0086661', 'C0919457']","['TP53 Gene', 'MYC Gene', 'FHIT Gene']",TP53 Gene || MYC Gene || FHIT Gene,C0079419 || C0086661 || C0919457,3,3,0.0,0.0
+C5206481,Metastatic Colorectal Mucinous Adenocarcinoma,disease_mapped_to_gene,"['C0079419', 'C0162832', 'C0812241', 'C1537502']","['TP53 Gene', 'APC Gene', 'BRAF Gene', 'KRAS Gene']",TP53 Gene || APC Gene || BRAF Gene || KRAS Gene,C0079419 || C0162832 || C0812241 || C1537502,4,4,0.0,0.0
+C5419205,Refractory Esophageal Squamous Cell Carcinoma,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0
+C1711276,Lung Carcinosarcoma,disease_mapped_to_gene,"['C0079419', 'C1414313']","['TP53 Gene', 'EGFR Gene']",TP53 Gene || EGFR Gene,C0079419 || C1414313,2,2,0.0,0.0
+C4329666,Chronic Myelomonocytic Leukemia with Eosinophilia Associated with t(5;12)(q31;p12),disease_mapped_to_gene,"['C1335202', 'C1868259']","['PDGFRB Gene', 'ETV6/PDGFRB Fusion Gene']",PDGFRB Gene || ETV6/PDGFRB Fusion Gene,C1335202 || C1868259,2,2,0.0,0.0
+C4682558,Stage II Uterine Corpus Leiomyosarcoma AJCC v8,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C4053516,Borderline Ovarian Mucinous Tumor/Atypical Proliferative Ovarian Mucinous Tumor,disease_mapped_to_gene,['C1537502'],['KRAS Gene'],KRAS Gene,C1537502,1,1,0.0,0.0
+C0280631,Uterine Corpus Leiomyosarcoma,disease_mapped_to_gene,['C0694889'],['RB1 Gene'],RB1 Gene,C0694889,1,1,0.0,0.0
+C5235862,Unresectable Thyroid Gland Medullary Carcinoma,disease_mapped_to_gene,['C0694890'],['RET Gene'],RET Gene,C0694890,1,1,0.0,0.0
+C0677692,Ann Arbor Stage II Contiguous Mantle Cell Lymphoma,disease_mapped_to_gene,['C1413172'],['CCND1 Gene'],CCND1 Gene,C1413172,1,1,0.0,0.0
+C0278590,Recurrent Ewing Sarcoma,disease_mapped_to_gene,"['C0808901', 'C1851464', 'C1851465', 'C1854595', 'C1860425', 'C2677452', 'C3274643', 'C3887934']","['EWSR1 Gene', 'EWSR1/FEV Fusion Gene', 'EWSR1/ERG Fusion Gene', 'EWSR1/PATZ1 Fusion Gene', 'EWSR1/FLI1 Fusion Gene', 'EWSR1/ETV1 Fusion Gene', 'EWSR1/ETV4 Fusion Gene', 'FUS/ERG Fusion Gene']",EWSR1 Gene || EWSR1/FEV Fusion Gene || EWSR1/ERG Fusion Gene || EWSR1/PATZ1 Fusion Gene || EWSR1/FLI1 Fusion Gene || EWSR1/ETV1 Fusion Gene || EWSR1/ETV4 Fusion Gene || FUS/ERG Fusion Gene,C0808901 || C1851464 || C1851465 || C1854595 || C1860425 || C2677452 || C3274643 || C3887934,8,8,0.0,0.0
+C1334813,Mucoepidermoid Breast Carcinoma,disease_mapped_to_gene,['C1843759'],['CRTC1/MAML2 Fusion Gene'],CRTC1/MAML2 Fusion Gene,C1843759,1,1,0.0,0.0
+C4521643,Clinical Stage IV Esophageal Adenocarcinoma AJCC v8,disease_mapped_to_gene,['C0079419'],['TP53 Gene'],TP53 Gene,C0079419,1,1,0.0,0.0

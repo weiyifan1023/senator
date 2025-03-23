@@ -1,0 +1,624 @@
+head_cui,head_name,rel,tail_cuis_list,tail_names_list,tail_names,tail_cuis,tail_cuis_len,tail_names_len,avg_match,avg_rouge_l
+C1275030,Adverse effect from PUVA photochemotherapy,occurs_after,"['C0031765', 'C0034172']","['Light therapy', 'Photochemotherapy with psoralens and ultraviolet A']",Light therapy || Photochemotherapy with psoralens and ultraviolet A,C0031765 || C0034172,2,2,0.0,0.09090908842975212
+C4708093,Allergy to pea,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4707910,Allergy to hypothalamic hormone,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0269899,Atonic postpartum hemorrhage,occurs_after,['C0011209'],['Delivery procedure'],Delivery procedure,C0011209,1,1,0.0,0.0
+C0451903,"Post-traumatic gonarthrosis, bilateral",occurs_after,"['C0022744', 'C4751223']","['Injury of knee', 'Traumatic event']",Injury of knee || Traumatic event,C0022744 || C4751223,2,2,0.0,0.0
+C1275013,Hypermelanosis due to cryotherapy,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0570905,Allergy to alfuzosin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1306068,After-cataract,occurs_after,"['C0007389', 'C1532282']","['Extraction of cataract', 'Implantation of phakic intraocular lens implant']",Extraction of cataract || Implantation of phakic intraocular lens implant,C0007389 || C1532282,2,2,0.0,0.0
+C1626925,Allergy to cosmetic material,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0729577,Post-immunization encephalitis,occurs_after,['C0020971'],['Active or passive immunization'],Active or passive immunization,C0020971,1,1,0.0,0.0
+C0570687,Allergy to mitoxantrone,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0457627,Mechanical complication of bile duct prosthesis,occurs_after,"['C0525024', 'C0543467']","['Implantation of prosthetic device', 'Surgical procedure']",Implantation of prosthetic device || Surgical procedure,C0525024 || C0543467,2,2,0.0,0.09999999760000006
+C0570739,Lithium allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C2585749,Postoperative aspiration pneumonia,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0560606,Post-herpetic neuritis,occurs_after,['C0019360'],['Herpes zoster'],Herpes zoster,C0019360,1,1,0.0,0.0
+C0273072,Intracranial haemorrhage following injury with open intracranial wound AND no loss of consciousness,occurs_after,"['C3263723', 'C4751223']","['Traumatic injury', 'Traumatic event']",Traumatic injury || Traumatic event,C3263723 || C4751223,2,2,0.0,0.07142857020408164
+C0585144,Colostomy necrosis,occurs_after,"['C0029473', 'C0184661']","['Construction of stoma', 'Procedure']",Construction of stoma || Procedure,C0029473 || C0184661,2,2,0.0,0.0
+C0571469,Allergy to cefoxitin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571921,Osmotic diuretic allergy,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570915,Allergy to nifedipine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570732,Allergy to carbidopa and levodopa,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571194,Antidotes for pesticides allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571033,Allergy to cetirizine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1318514,Disruption of cesarean wound in the puerperium,occurs_after,['C0038906'],['Obstetric operation'],Obstetric operation,C0038906,1,1,0.0,0.0
+C0570681,Allergy to cytotoxic antibiotic,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570880,Drug groups primarily affecting the autonomic nervous system allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1444193,Post-catheterization femoral pseudoaneurysm,occurs_after,['C0190891'],['Introduction of catheter into artery of extremity'],Introduction of catheter into artery of extremity,C0190891,1,1,0.0,0.0
+C0275873,Syphilitic saddle nose,occurs_after,['C0039131'],['Congenital syphilis'],Congenital syphilis,C0039131,1,1,0.0,0.0
+C0571870,Allergy to ciprofibrate,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1456464,Post-phlebitic dermatosis of lower leg,occurs_after,['C0031542'],['Phlebitis'],Phlebitis,C0031542,1,1,0.0,0.0
+C0406870,Extrinsic arterial compression of flap,occurs_after,"['C0040732', 'C0543467']","['Transplantation', 'Surgical procedure']",Transplantation || Surgical procedure,C0040732 || C0543467,2,2,0.0,0.0
+C0473524,Postpancreatectomy hypoinsulinemia,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0570848,Allergy to phenothiazine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571762,Factor VIII fraction products allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0038436,Posttraumatic stress disorder,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C0571629,Allergy to protamine zinc insulin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0436112,Late effects of other external causes,occurs_after,['C0012634'],['Disease'],Disease,C0012634,1,1,0.0,0.0
+C0570955,Allergy to albuterol,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0274282,Phototherapy complication,occurs_after,['C0031765'],['Light therapy'],Light therapy,C0031765,1,1,0.0,0.0
+C0571038,Allergy to oxatomide,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0473819,Cerebral hemorrhage due to birth trauma,occurs_after,['C3263723'],['Traumatic injury'],Traumatic injury,C3263723,1,1,0.0,0.0
+C0570623,Allergy to chenodeoxycholic acid,occurs_after,"['C3662483', 'C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0016470,Allergy to food,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571878,Allergy to adenosine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0160235,Subarachnoid hemorrhage following injury with open intracranial wound AND loss of consciousness,occurs_after,"['C3263723', 'C4751223']","['Traumatic injury', 'Traumatic event']",Traumatic injury || Traumatic event,C3263723 || C4751223,2,2,0.0,0.07142857020408164
+C0149877,Hypoglycemic encephalopathy,occurs_after,['C0020615'],['Hypoglycemia'],Hypoglycemia,C0020615,1,1,0.0,0.0
+C0570749,Allergy to amoxapine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1623722,Allergy to horse dander,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4075598,Multidermatomal infection caused by Herpes zoster co-occurrent with human immunodeficiency virus infection,occurs_after,['C0008049'],['Varicella'],Varicella,C0008049,1,1,0.0,0.0
+C0571494,Tetracyclines group allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571630,Allergy to biphasic isophane insulin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0269572,Failed attempted termination of pregnancy with laceration of uterus,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0418684,"Anastomosis, bypass or graft, with natural or artificial tissues used as implant, as the cause of complication, without mention of misadventure at the time, NOS",occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0571856,Sodium fluoride allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C3662112,Non-allergic hypersensitivity to pentastarch,occurs_after,"['C3662262', 'C3662483']","['Pseudoallergic reaction', 'Allergic sensitization']",Pseudoallergic reaction || Allergic sensitization,C3662262 || C3662483,2,2,0.0,0.0
+C0395911,Mucinous cyst of mastoid cavity,occurs_after,['C0198154'],['Mastoidectomy'],Mastoidectomy,C0198154,1,1,0.0,0.0
+C0570723,Allergy to centrally acting appetite suppressant,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570718,Allergy to dimethyl sulfoxide,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571964,Vasoconstrictor allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0406179,Black palm,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C0571893,Allergy to diuretic,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570523,Allergy to morphinan opioid,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0032792,Postoperative shock,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0569904,Hemodialysis fluid adverse reaction,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0339900,Respiratory complication of care NOS,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0571154,Allergy to gold,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0274339,Mechanical complication of dorsal column stimulator,occurs_after,['C0021107'],['Implantation'],Implantation,C0021107,1,1,0.0,0.0
+C0571640,Allergy to glibornuride,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571437,Allergy to piperacillin and tazobactam,occurs_after,"['C3662483', 'C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1274386,BCG-induced tuberculide,occurs_after,['C0199804'],['BCG vaccination'],BCG vaccination,C0199804,1,1,0.0,0.0
+C0399509,Mechanical complication of prosthetic implant in chin,occurs_after,['C0021107'],['Implantation'],Implantation,C0021107,1,1,0.0,0.0
+C0564692,Other herpes zoster,occurs_after,['C0008049'],['Varicella'],Varicella,C0008049,1,1,0.0,0.0
+C2586266,Allergy to meglitinide,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570840,Allergy to benperidol,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4304441,Allergy to mango fruit,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571677,Allergy to cyproterone,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4512068,Allergy to mussel,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571777,Allergy to enoxaparin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0269298,Salpingitis following molar AND/OR ectopic pregnancy,occurs_after,['C0156543'],['Abortion'],Abortion,C0156543,1,1,0.0,0.0
+C0341541,Para-ileostomy hernia,occurs_after,"['C0020883', 'C0020883', 'C0029473', 'C0184661', 'C0184898']","['Ileostomy operation', 'Creation of ileostomy', 'Construction of stoma', 'Procedure', 'Incision']",Ileostomy operation || Creation of ileostomy || Construction of stoma || Procedure || Incision,C0020883 || C0020883 || C0029473 || C0184661 || C0184898,5,5,0.0,0.0
+C0571496,Allergy to doxycycline,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C4751144,Arthrofibrosis of left shoulder,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C0571720,Allergy to gonad regulating hormone agent,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570685,Allergy to plicamycin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0267926,Postoperative biliary stricture,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0571659,Allergy to norethindrone,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1959857,Herpes zoster interstitial keratitis,occurs_after,['C0008049'],['Varicella'],Varicella,C0008049,1,1,0.0,0.0
+C0269299,Salpingo-oophoritis following molar AND/OR ectopic pregnancy,occurs_after,['C0156543'],['Abortion'],Abortion,C0156543,1,1,0.0,0.0
+C0349725,Graft infection,occurs_after,"['C0021107', 'C1961139']","['Implantation', 'Grafting procedure']",Implantation || Grafting procedure,C0021107 || C1961139,2,2,0.0,0.0
+C0571426,Allergy to temocillin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571415,Allergy to methicillin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571859,Dextrothyroxine sodium allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0478515,Sequelae of burn and corrosion classifiable only according to extent of body surface involved,occurs_after,"['C0012634', 'C3263723']","['Disease', 'Traumatic injury']",Disease || Traumatic injury,C0012634 || C3263723,2,2,0.0,0.0
+C0571248,Allergy to cellulose-derived viscosity modifier,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0418687,"Blood vessel graft as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation",occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C4708097,Allergy to salicylic acid,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4302835,Rectal stump blowout,occurs_after,['C0192871'],['Total colectomy'],Total colectomy,C0192871,1,1,0.0,0.0
+C0570697,Allergy to cytarabine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570821,Allergy to midazolam,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0496542,"Formation of external stoma as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation, NOS",occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0574077,Mechanical complication of suprapubic catheter,occurs_after,['C0021107'],['Implantation'],Implantation,C0021107,1,1,0.0,0.0
+C0554610,Reattached thumb complication,occurs_after,"['C0021107', 'C0543467']","['Implantation', 'Surgical procedure']",Implantation || Surgical procedure,C0021107 || C0543467,2,2,0.0,0.0
+C0404524,Post-irradiation vaginal ulcer,occurs_after,['C1522449'],['Radiation oncology AND/OR radiotherapy'],Radiation oncology AND/OR radiotherapy,C1522449,1,1,0.0,0.0
+C0269575,Failed attempted termination of pregnancy with perforation of vagina,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0576413,Amputated forefoot,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0261757,Late effect of accident caused by fire,occurs_after,['C3263723'],['Traumatic injury'],Traumatic injury,C3263723,1,1,0.0,0.0
+C1264292,Intracranial hemorrhage following injury with loss of consciousness,occurs_after,"['C3263723', 'C4751223']","['Traumatic injury', 'Traumatic event']",Traumatic injury || Traumatic event,C3263723 || C4751223,2,2,0.0,0.09999999840000001
+C4274510,Allergy to pineapple,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570907,Allergy to indoramin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571222,Haemorrhoid preparation allergy,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1274204,Problem with surgical scar,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0153030,Herpes zoster with other specified complication NOS,occurs_after,['C0008049'],['Varicella'],Varicella,C0008049,1,1,0.0,0.0
+C0404967,Fat embolism following abortive pregnancy,occurs_after,['C0156543'],['Abortion'],Abortion,C0156543,1,1,0.0,0.0
+C0160780,Late effect of dislocation,occurs_after,"['C3263723', 'C3263723']","['Injury', 'Traumatic injury']",Injury || Traumatic injury,C3263723 || C3263723,2,2,0.0,0.0
+C0570945,Allergy to metaraminol,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570582,Allergy to pirenzepine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0155558,Other acute rheumatic heart disease,occurs_after,['C0554628'],['Streptococcus pyogenes infection'],Streptococcus pyogenes infection,C0554628,1,1,0.0,0.0
+C0571057,Allergy to trimeprazine,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0404985,Defibrination syndrome following abortive pregnancy,occurs_after,['C0156543'],['Abortion'],Abortion,C0156543,1,1,0.0,0.0
+C0571500,Compound tetracycline preparations allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C5396041,Diffuse lamellar keratitis of left eye,occurs_after,['C0197402'],['Operative procedure on cornea'],Operative procedure on cornea,C0197402,1,1,0.0,0.0
+C0570759,Allergy to isocarboxazid,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C3697300,Postoperative aseptic meningitis,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0340931,Runaway cardiac pacemaker,occurs_after,"['C0525024', 'C0543467']","['Implantation of prosthetic device', 'Surgical procedure']",Implantation of prosthetic device || Surgical procedure,C0525024 || C0543467,2,2,0.0,0.0
+C4708100,Allergy to pyridoxine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0343465,Downgrading type 1 lepra reaction,occurs_after,['C0023343'],['Leprosy'],Leprosy,C0023343,1,1,0.0,0.0
+C5438874,Postprocedural neo-ascending aorta dilation,occurs_after,['C0190364'],['Aortoplasty'],Aortoplasty,C0190364,1,1,0.0,0.0
+C0570922,Allergy to diltiazem,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1285426,Sequelae of disorders by system of sequelae,occurs_after,['C0012634'],['Disease'],Disease,C0012634,1,1,0.0,0.0
+C0392618,Postoperative infection NOS,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C2584599,Allergy to thiazolidinedione,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1275021,Parastomal ulceration,occurs_after,"['C0029473', 'C0184661', 'C1563271']","['Construction of stoma', 'Procedure', 'Construction of external stoma']",Construction of stoma || Procedure || Construction of external stoma,C0029473 || C0184661 || C1563271,3,3,0.0,0.0
+C1274296,Bowel-bypass syndrome,occurs_after,['C0185098'],['Bypass graft'],Bypass graft,C0185098,1,1,0.0,0.0
+C0409608,Post-dysenteric reactive arthropathy of the upper arm,occurs_after,['C0013369'],['Dysentery'],Dysentery,C0013369,1,1,0.0,0.0
+C1387126,Upper respiratory tract allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0275835,Syphilitic leukoderma,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C0571843,Thiamine preparation allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570753,Allergy to dothiepin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4302750,Postprocedural bile duct leakage,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0341607,Stomal obstruction,occurs_after,"['C0029473', 'C0040732', 'C0543467']","['Construction of stoma', 'Transplantation', 'Surgical procedure']",Construction of stoma || Transplantation || Surgical procedure,C0029473 || C0040732 || C0543467,3,3,0.0,0.0
+C0152085,Post-dysenteric reactive arthropathy of unspecified site,occurs_after,['C0013369'],['Dysentery'],Dysentery,C0013369,1,1,0.0,0.0
+C0269573,Failed attempted termination of pregnancy with perforation of uterus,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0274340,Mechanical complication of electrodes implanted in brain,occurs_after,['C0021107'],['Implantation'],Implantation,C0021107,1,1,0.0,0.0
+C0339748,Mechanical complication of prosthetic implant in orbit of eye,occurs_after,['C0021107'],['Implantation'],Implantation,C0021107,1,1,0.0,0.0
+C3698284,Weakness as a late effect of stroke,occurs_after,['C0038454'],['Cerebrovascular accident'],Cerebrovascular accident,C0038454,1,1,0.0,0.0
+C0269563,Failed attempted termination of pregnancy with perforation of bladder,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0571589,Topical hydrocortisone allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0409596,Reactive arthropathy of distal radioulnar joint,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C0404990,Endometritis following abortive pregnancy,occurs_after,['C0156543'],['Abortion'],Abortion,C0156543,1,1,0.0,0.0
+C3697756,Chronic post-thoracotomy pain syndrome,occurs_after,['C0039991'],['Opening of chest'],Opening of chest,C0039991,1,1,0.0,0.0
+C0339808,Allergy to dust mite protein,occurs_after,"['C3662483', 'C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0496176,[X] Sequelae of injuries involving multiple body regions,occurs_after,['C0012634'],['Disease'],Disease,C0012634,1,1,0.0,0.0
+C1112441,Injected limb mobility decreased,occurs_after,['C1533685'],['Injection'],Injection,C1533685,1,1,0.0,0.0
+C0036992,Acquired short bowel syndrome,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0393405,Operation complication NEC,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0570932,Allergy to distigmine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0264748,Recurrent rheumatic heart disease,occurs_after,['C0554628'],['Streptococcus pyogenes infection'],Streptococcus pyogenes infection,C0554628,1,1,0.0,0.0
+C0571051,Allergy to diphenylpyraline,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0032776,Postmenopausal bleeding,occurs_after,['C0567312'],['Menopause present'],Menopause present,C0567312,1,1,0.0,0.0
+C0273092,Subdural haemorrhage following injury without open intracranial wound AND with brief loss of consciousness (less than one hour),occurs_after,['C3263723'],['Traumatic injury'],Traumatic injury,C3263723,1,1,0.0,0.09999999820000001
+C0570904,Allergy to alpha adrenergic receptor antagonist,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1827497,Post-infective polyarthritis,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C1302110,Headache following myelography,occurs_after,"['C0026995', 'C0034117']","['Myelogram', 'Puncture procedure']",Myelogram || Puncture procedure,C0026995 || C0034117,2,2,0.0,0.0
+C2732417,Multiple environmental allergies,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4749489,Cataract of right eye due to and following trauma,occurs_after,"['C0433982', 'C3263723', 'C4751223']","['Injury of lens', 'Traumatic injury', 'Traumatic event']",Injury of lens || Traumatic injury || Traumatic event,C0433982 || C3263723 || C4751223,3,3,0.0,0.05555555430555559
+C4551241,Stenosis of bilateral external ear canals due to and following infection,occurs_after,['C0151317'],['Chronic infectious disease'],Chronic infectious disease,C0151317,1,1,0.0,0.0
+C0570683,Allergy to bleomycin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571334,Allergy to industrial methylated spirit,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0266815,Cow's milk protein sensitivity,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0404953,Urinary tract infection following abortive pregnancy,occurs_after,['C0156543'],['Abortion'],Abortion,C0156543,1,1,0.0,0.0
+C0570916,Allergy to prenylamine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570660,Allergy to filgrastim,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0478517,[X]Sequelae of other and unspecified effects of external causes,occurs_after,['C0012634'],['Disease'],Disease,C0012634,1,1,0.0,0.0
+C0404957,Acute liver necrosis following abortive pregnancy,occurs_after,['C0156543'],['Abortion'],Abortion,C0156543,1,1,0.0,0.0
+C4274688,Retention of dental device,occurs_after,['C1292979'],['Procedure on tooth'],Procedure on tooth,C1292979,1,1,0.0,0.0
+C0178335,"[X]Complications of surgical and medical care, not elsewhere classified",occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C1304354,Allergy to wood,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571930,Allergy to xipamide,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571526,Allergy to antileprotic drug,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571116,Allergy to crotamiton,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0418681,"Implant of cardiac pacemaker as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation",occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0406103,Postoperative wound infection-deep,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C1298615,Death due to chemotherapy toxicity,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0570763,Allergy to tryptophan,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0339900,Respiratory complications of care,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0338378,Ultrasound therapy complication NEC,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C1720144,Herpes zoster associated with AIDS,occurs_after,['C0008049'],['Varicella'],Varicella,C0008049,1,1,0.0,0.0
+C0274326,Leakage of cardiac device,occurs_after,"['C0184661', 'C0543467']","['Procedure', 'Surgical procedure']",Procedure || Surgical procedure,C0184661 || C0543467,2,2,0.0,0.0
+C0570844,Allergy to haloperidol,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570524,Allergy to buprenorphine,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571490,Allergy to mafenide,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0452110,Infection associated with artificial insemination,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0269571,Failed attempted termination of pregnancy with perforation of periurethral tissue,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0571236,Base allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1531858,Corneal flap microstriae,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0570589,Allergy to magnesium trisilicate,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571366,Allergy to niclosamide,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571506,Allergy to atovaquone,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571985,Glyceryl trinitrate spray allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571245,Viscosity modifier allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571285,Allergy to didanosine,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1274650,Post-infective hypomelanosis,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C0570906,Allergy to doxazosin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571389,Allergy to teicoplanin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571167,Allergy to E series prostaglandin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1533152,Incisional ventral hernia with gangrene,occurs_after,"['C0184898', 'C0543467']","['Incision', 'Surgical procedure']",Incision || Surgical procedure,C0184898 || C0543467,2,2,0.0,0.0
+C0571562,Allergy to pneumococcal vaccine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0572005,Antivaricose agent allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4075706,Postinfective segmental neuralgia,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C2585625,Acute postoperative renal failure,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0155567,Rheumatic aortic stenosis,occurs_after,['C0554628'],['Streptococcus pyogenes infection'],Streptococcus pyogenes infection,C0554628,1,1,0.0,0.0
+C0571976,Allergy to hydralazine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571273,Allergy to isoconazole,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1262271,Allergy to wool,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C2227748,Allergy to bean,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570758,Allergy to iproniazid,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0264766,Rheumatic mitral stenosis,occurs_after,['C0554628'],['Streptococcus pyogenes infection'],Streptococcus pyogenes infection,C0554628,1,1,0.0,0.0
+C5230263,Osteoarthritis of wrist and hand due to and following trauma,occurs_after,"['C3263723', 'C4751223']","['Traumatic injury', 'Traumatic event']",Traumatic injury || Traumatic event,C3263723 || C4751223,2,2,0.0,0.0
+C4759424,Infection of superficial obstetric surgical wound,occurs_after,['C0195607'],['Obstetrics incision'],Obstetrics incision,C0195607,1,1,0.0,0.0
+C4708096,Allergy to urea,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571454,Allergy to cefuroxime,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4273764,Normal oral mucous membrane and osseointegrated bone tissue surrounding dental implant,occurs_after,"['C0021107', 'C0525024']","['Implantation procedure', 'Implantation of prosthetic device']",Implantation procedure || Implantation of prosthetic device,C0021107 || C0525024,2,2,0.0,0.0
+C0349358,Infection and inflammatory reaction due to cardiac valve prosthesis,occurs_after,"['C0190100', 'C0525024', 'C0543467']","['Implantation of heart valve prosthesis or synthetic device', 'Implantation of prosthetic device', 'Surgical procedure']",Implantation of heart valve prosthesis or synthetic device || Implantation of prosthetic device || Surgical procedure,C0190100 || C0525024 || C0543467,3,3,0.0,0.07843137088811998
+C0571202,Sodium calcium edetate allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571028,Allergy to astemizole,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0585934,O/E - Amputated right toe,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0571721,Allergy to gonadorelin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C2585848,Allergy to alpha glucoside inhibitor,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0404963,Embolism NOS following abortive pregnancy,occurs_after,['C0156543'],['Abortion'],Abortion,C0156543,1,1,0.0,0.0
+C4544955,Post-procedural aortic aneurysm,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C1690033,Post-radiotherapy somnolence syndrome,occurs_after,"['C0184661', 'C1522449']","['Procedure', 'Radiation oncology AND/OR radiotherapy']",Procedure || Radiation oncology AND/OR radiotherapy,C0184661 || C1522449,2,2,0.0,0.0
+C0571926,Allergy to chlorthalidone,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571972,Allergy to minoxidil,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0418682,"Electrodes implanted in brain as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation",occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0571214,Allergy to dialysis fluid,occurs_after,"['C0184661', 'C3662483']","['Procedure', 'Allergic sensitization']",Procedure || Allergic sensitization,C0184661 || C3662483,2,2,0.0,0.0
+C4076266,Allergy to protease inhibitor,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0348296,Sequelae of infectious disease,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C0571803,Allergy to ferrous gluconate,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0576403,Amputated at hip,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0269904,Postpartum fibrinolysis with hemorrhage,occurs_after,['C0011209'],['Delivery procedure'],Delivery procedure,C0011209,1,1,0.0,0.0
+C0571150,Allergy to baclofen,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0343564,Maxillary herpes zoster infection,occurs_after,['C0008049'],['Varicella'],Varicella,C0008049,1,1,0.0,0.0
+C0571256,Allergy to flucytosine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570833,Neuroleptic allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571104,Aserbine allergy,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1328962,Allergy to tree pollen,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C5439459,Gonarthrosis of right knee due to and following trauma,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C0571157,Smooth muscle relaxant allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571919,Triamterene and loop diuretic allergy,occurs_after,"['C3662483', 'C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0274316,Complication of internal device,occurs_after,"['C0184661', 'C0543467']","['Procedure', 'Surgical procedure']",Procedure || Surgical procedure,C0184661 || C0543467,2,2,0.0,0.0
+C0585140,Extensive postoperative wound cellulitis,occurs_after,"['C0184661', 'C0543467', 'C0543467']","['Procedure', 'Surgical procedure', 'Surgical procedure']",Procedure || Surgical procedure,C0184661 || C0543467,2,2,0.0,0.0
+C0571205,Allergy to trientine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1443229,Hemodialysis-associated hypotension,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0741020,Allergy to anaesthetic,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0403696,Infective urethral stricture NOS,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C0571788,Allergy to hemostatic agent,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571430,Allergy to carfecillin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570946,Allergy to methoxamine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1299623,Portocaval shunt malfunction,occurs_after,"['C0032716', 'C0184661']","['Shunt of portal vein to vena cava', 'Procedure']",Shunt of portal vein to vena cava || Procedure,C0032716 || C0184661,2,2,0.0,0.09999999790000004
+C0570748,Allergy to trimipramine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571453,Allergy to cefaclor,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1319067,Infection and fibrosis of spermatic cord remnant,occurs_after,"['C0007347', 'C0543467']","['Male castration', 'Surgical procedure']",Male castration || Surgical procedure,C0007347 || C0543467,2,2,0.0,0.0
+C0571525,Allergy to ethambutol,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570964,Selective beta-1 adrenoceptor stimulants allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571773,Allergy to anticoagulant,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0403569,Pain during outflow of dialysate,occurs_after,"['C0011946', 'C0184661']","['Dialysis procedure', 'Procedure']",Dialysis procedure || Procedure,C0011946 || C0184661,2,2,0.0,0.0
+C0274394,Vitreous touch syndrome,occurs_after,"['C0184661', 'C0543467']","['Procedure', 'Surgical procedure']",Procedure || Surgical procedure,C0184661 || C0543467,2,2,0.0,0.0
+C0571099,Allergy to podophyllotoxin,occurs_after,"['C3662483', 'C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1274984,Fat hypertrophy due to injected drug,occurs_after,['C0559599'],['Injection of substance'],Injection of substance,C0559599,1,1,0.0,0.0
+C0571009,Allergy to mucolytics,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1827703,Herpes zoster corneal epitheliopathy,occurs_after,['C0008049'],['Varicella'],Varicella,C0008049,1,1,0.0,0.0
+C0570679,Allergy to triazene antineoplastic,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0014557,Post-traumatic epilepsy,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C0576410,Amputated foot,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0571905,Allergy to ethacrynic acid,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1304059,Post-traumatic scar,occurs_after,"['C3263723', 'C3263723', 'C4751223']","['Injury', 'Traumatic injury', 'Traumatic event']",Injury || Traumatic injury || Traumatic event,C3263723 || C3263723 || C4751223,3,3,0.0,0.0
+C0571641,Allergy to gliclazide,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571014,Allergy to acetylcysteine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1304447,Skin lesion associated with hemodialysis,occurs_after,"['C0011946', 'C0184661']","['Dialysis procedure', 'Procedure']",Dialysis procedure || Procedure,C0011946 || C0184661,2,2,0.0,0.0
+C3697987,Congestive heart failure as early postoperative complication,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0478497,"[X]Mechanical complication of other ocular prosthetic devices, implants and grafts",occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C1642389,Allergy to gauze,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0403590,Acute rejection of renal transplant - grade II,occurs_after,"['C0022671', 'C0040732', 'C0543467']","['Transplant of kidney', 'Transplantation', 'Surgical procedure']",Transplant of kidney || Transplantation || Surgical procedure,C0022671 || C0040732 || C0543467,3,3,0.0,0.06060605928374658
+C0410856,Total failure replanted foot,occurs_after,"['C0021107', 'C0543467']","['Implantation', 'Surgical procedure']",Implantation || Surgical procedure,C0021107 || C0543467,2,2,0.0,0.0
+C0571196,Allergy to bentonite,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0478507,"[X]Sequelae of injuries, poisoning and of other consequences of external causes",occurs_after,['C0012634'],['Disease'],Disease,C0012634,1,1,0.0,0.0
+C1304357,Allergy to flavor,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0410858,Partial failure of replantation,occurs_after,"['C0021107', 'C0543467']","['Implantation', 'Surgical procedure']",Implantation || Surgical procedure,C0021107 || C0543467,2,2,0.0,0.0
+C0571673,Allergy to finasteride,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0406840,Stretched scar,occurs_after,['C0043250'],['Wound'],Wound,C0043250,1,1,0.0,0.0
+C1300116,Traumatic hemolytic anemia,occurs_after,['C3263723'],['Injury'],Injury,C3263723,1,1,0.0,0.0
+C0571708,Thyroid agent allergy,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0343491,Postmeningococcal arthritis,occurs_after,['C0025303'],['Meningococcal infectious disease'],Meningococcal infectious disease,C0025303,1,1,0.0,0.0
+C0393403,Medical care misadventure NOS,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0274265,Air embolism as early complication of trauma,occurs_after,['C3263723'],['Injury'],Injury,C3263723,1,1,0.0,0.0
+C0404485,Old uterine laceration due to obstetric cause,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C0571873,Allergy to 3-hydroxy-3-methylglutaryl-coenzyme A reductase inhibitor,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0574918,Urostomy stomal prolapse,occurs_after,"['C0029473', 'C0040732', 'C0543467']","['Construction of stoma', 'Transplantation', 'Surgical procedure']",Construction of stoma || Transplantation || Surgical procedure,C0029473 || C0040732 || C0543467,3,3,0.0,0.0
+C0570812,Allergy to alprazolam,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571792,Allergy to collagen,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571913,Allergy to amiloride,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0572011,Allergy to alteplase,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0029603,[X]Other early complications of trauma,occurs_after,['C3263723'],['Injury'],Injury,C3263723,1,1,0.0,0.0
+C0571866,Allergy to fibrate antihyperlipidemic,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4511804,Herpes zoster with secondary bacterial infection,occurs_after,['C0008049'],['Varicella'],Varicella,C0008049,1,1,0.0,0.0
+C1275029,Complication of cutaneous surgery,occurs_after,"['C0184661', 'C0543467']","['Procedure', 'Surgical procedure']",Procedure || Surgical procedure,C0184661 || C0543467,2,2,0.0,0.0
+C0570745,Allergy to iprindole,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571024,Antiallergenic drug allergy,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0582161,Discharge from suture line,occurs_after,"['C0184661', 'C0543467']","['Procedure', 'Surgical procedure']",Procedure || Surgical procedure,C0184661 || C0543467,2,2,0.0,0.0
+C0571745,Allergy to salmon calcitonin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C3839055,Postprocedural mitral valve regurgitation due to papillary muscle and chordal rupture,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0410867,Partial failure replanted toe,occurs_after,"['C0021107', 'C0543467']","['Implantation', 'Surgical procedure']",Implantation || Surgical procedure,C0021107 || C0543467,2,2,0.0,0.0
+C0571280,Allergy to antiviral agent,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0393401,Other medical care complication NEC,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0018133,Graft versus host disease,occurs_after,"['C0040732', 'C0543467', 'C1961139']","['Transplantation', 'Surgical procedure', 'Grafting procedure']",Transplantation || Surgical procedure || Grafting procedure,C0040732 || C0543467 || C1961139,3,3,0.0,0.0
+C0571508,Allergy to sodium stibogluconate,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0473347,Uraemia following abortive pregnancy,occurs_after,['C0156543'],['Abortion'],Abortion,C0156543,1,1,0.0,0.0
+C3696932,Chronic post-traumatic stress disorder following military combat,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C0570953,Allergy to pirbuterol,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571351,Allergy to benzalkonium,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571484,Allergy to sulfadiazine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1443959,Streptomycin sulfate allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0489958,Rheumatic chorea without heart involvement,occurs_after,['C0554628'],['Streptococcus pyogenes infection'],Streptococcus pyogenes infection,C0554628,1,1,0.0,0.0
+C0571546,Allergy to blood group antibody D,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571556,Allergy to hepatitis B vaccine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C3662118,Non-allergic hypersensitivity to captopril,occurs_after,"['C3662262', 'C3662483']","['Pseudoallergic reaction', 'Allergic sensitization']",Pseudoallergic reaction || Allergic sensitization,C3662262 || C3662483,2,2,0.0,0.0
+C0274417,Complication of hemodialysis,occurs_after,"['C0011946', 'C0184661']","['Dialysis procedure', 'Procedure']",Dialysis procedure || Procedure,C0011946 || C0184661,2,2,0.0,0.0
+C0571512,Allergy to diloxanide,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571789,Allergy to etamsylate,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4544849,Bilateral osteoarthritis of feet due to trauma,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C0156186,Colostomy and enterostomy malfunction,occurs_after,"['C0029473', 'C0040732', 'C0543467']","['Construction of stoma', 'Transplantation', 'Surgical procedure']",Construction of stoma || Transplantation || Surgical procedure,C0029473 || C0040732 || C0543467,3,3,0.0,0.0
+C0571781,Danaparoid sodium allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571603,Allergy to clobetasone,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1285240,Gastrointestinal sequelae of disorders,occurs_after,['C0012634'],['Disease'],Disease,C0012634,1,1,0.0,0.0
+C0570715,Allergy to vinblastine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571621,Topical budesonide allergy,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0153017,Herpes zoster encephalitis,occurs_after,['C0008049'],['Varicella'],Varicella,C0008049,1,1,0.0,0.0
+C3698078,Postoperative status epilepticus,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0570843,Allergy to droperidol,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0409756,Traumatic arthropathy of the pelvic region and thigh,occurs_after,"['C3263723', 'C3263723']","['Injury', 'Traumatic injury']",Injury || Traumatic injury,C3263723 || C3263723,2,2,0.0,0.09999999840000001
+C0571988,Oral isosorbide dinitrate allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0339858,Acute herpes zoster pharyngitis,occurs_after,['C0008049'],['Varicella'],Varicella,C0008049,1,1,0.0,0.0
+C0418684,"Surgical operation with anastomosis, bypass or graft, with natural or artificial tissues used as implant, as the cause of complication, without mention of misadventure at the time of operation",occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0571127,Allergy to isotretinoin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0264731,Cardiac insufficiency due to prosthesis,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0571667,Allergy to nandrolone,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1275006,Hypertrophic surgical scar,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0154727,Nervous system complication from surgically implanted device,occurs_after,['C0021107'],['Implantation'],Implantation,C0021107,1,1,0.0,0.0
+C0571955,Cardiac glycoside allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570724,Allergy to mazindol,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571918,Allergy to spironolactone and thiazide diuretic,occurs_after,"['C3662483', 'C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0343257,Myositis ossificans associated with burns,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C0571889,Allergy to bretylium,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570553,Allergy to oxyphenbutazone,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0409677,Juvenile reactive arthritis triad,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C0571242,Allergy to silicone,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570762,Compound antidepressants allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0403603,Transplant glomerulopathy - late form,occurs_after,"['C0022671', 'C0040732', 'C0543467']","['Transplant of kidney', 'Transplantation', 'Surgical procedure']",Transplant of kidney || Transplantation || Surgical procedure,C0022671 || C0040732 || C0543467,3,3,0.0,0.08333333177083335
+C0543419,Sequela of disorder,occurs_after,['C0012634'],['Disease'],Disease,C0012634,1,1,0.0,0.0
+C0175708,Chronic rheumatic heart disease NOS,occurs_after,['C0554628'],['Streptococcus pyogenes infection'],Streptococcus pyogenes infection,C0554628,1,1,0.0,0.0
+C0571210,Herbal medicine allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4273758,Complete dental peri-implantitis,occurs_after,"['C0021107', 'C0525024']","['Implantation procedure', 'Implantation of prosthetic device']",Implantation procedure || Implantation of prosthetic device,C0021107 || C0525024,2,2,0.0,0.0
+C0496146,"Unspecified complication of genitourinary prosthetic device,implant and graft",occurs_after,['C0021107'],['Implantation'],Implantation,C0021107,1,1,0.0,0.0
+C0274337,"Mechanical complication of nervous system device, unspecified",occurs_after,['C0021107'],['Implantation'],Implantation,C0021107,1,1,0.0,0.0
+C1689956,Allergy to apple juice,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571717,Allergy to corticotrophic hormone,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571080,Topical dermatological preparation allergy,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0400849,Post-radiation stricture of intestine,occurs_after,"['C0479513', 'C1522449']","['Exposure to ionizing radiation', 'Radiation oncology AND/OR radiotherapy']",Exposure to ionizing radiation || Radiation oncology AND/OR radiotherapy,C0479513 || C1522449,2,2,0.0,0.0
+C1304356,Allergy to tree resin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0409579,Rheumatic joint disease,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C0154158,Other postablative hypothyroidism,occurs_after,['C0193820'],['Destructive procedure on thyroid gland'],Destructive procedure on thyroid gland,C0193820,1,1,0.0,0.0
+C0032807,Postthrombotic syndrome,occurs_after,['C0340708'],['Deep venous thrombosis of lower extremity'],Deep venous thrombosis of lower extremity,C0340708,1,1,0.0,0.0
+C0571798,Allergy to sodium iron edetate,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0410800,Rejection of bone allograft,occurs_after,"['C0005976', 'C0021107', 'C0040732', 'C0543467']","['Bone graft', 'Implantation', 'Transplantation', 'Surgical procedure']",Bone graft || Implantation || Transplantation || Surgical procedure,C0005976 || C0021107 || C0040732 || C0543467,4,4,0.0,0.08333333222222224
+C0037379,Poisoning by venomous snake,occurs_after,['C1302713'],['Animal bite'],Animal bite,C1302713,1,1,0.0,0.0
+C0418688,"Tendon graft as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation",occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0477798,[X]Other postprocedural disorders of the genitourinary system,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0153024,Post-herpetic trigeminal neuralgia,occurs_after,['C0019360'],['Herpes zoster'],Herpes zoster,C0019360,1,1,0.0,0.0
+C0564746,Rheumatic mitral disease NOS,occurs_after,['C0554628'],['Streptococcus pyogenes infection'],Streptococcus pyogenes infection,C0554628,1,1,0.0,0.0
+C0410870,"Other body part reattached, complication",occurs_after,"['C0021107', 'C0543467']","['Implantation', 'Surgical procedure']",Implantation || Surgical procedure,C0021107 || C0543467,2,2,0.0,0.0
+C0571967,Allergy to ergot alkaloid,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570837,Allergy to risperidone,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571442,Allergy to polymyxin B,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1640727,Allergy to sulfonamide diuretic,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570967,Allergy to isoproterenol,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0410853,Total failure replanted thumb,occurs_after,"['C0021107', 'C0543467']","['Implantation', 'Surgical procedure']",Implantation || Surgical procedure,C0021107 || C0543467,2,2,0.0,0.0
+C0267058,Postoperative esophagitis,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0570757,Allergy to phenelzine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1264247,Closed fracture of base of skull with intracranial hemorrhage,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C0571697,Allergy to fosfestrol,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571997,Allergy to nicofuranose,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571047,Allergy to cinnarizine,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0574039,Ileostomy prolapse,occurs_after,"['C0029473', 'C0040732', 'C0543467']","['Construction of stoma', 'Transplantation', 'Surgical procedure']",Construction of stoma || Transplantation || Surgical procedure,C0029473 || C0040732 || C0543467,3,3,0.0,0.0
+C1260884,Rheumatic mitral valve stenosis AND aortic valve insufficiency,occurs_after,['C0554628'],['Streptococcus pyogenes infection'],Streptococcus pyogenes infection,C0554628,1,1,0.0,0.0
+C3662273,Non-allergic hypersensitivity to substance,occurs_after,"['C3662262', 'C3662483']","['Pseudoallergic reaction', 'Allergic sensitization']",Pseudoallergic reaction || Allergic sensitization,C3662262 || C3662483,2,2,0.0,0.0
+C0155559,Rheumatic chorea with heart involvement,occurs_after,['C0554628'],['Streptococcus pyogenes infection'],Streptococcus pyogenes infection,C0554628,1,1,0.0,0.0
+C1275009,Painful surgical scar,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C1997561,Postoperative hemothorax,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0570794,Allergy to zopiclone,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570731,Allergy to benserazide and levodopa,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571683,Testosterone implant allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0274430,Complication due to vaccination,occurs_after,['C0205991'],['Active immunization'],Active immunization,C0205991,1,1,0.0,0.0
+C0340877,"Mechanical complication of vascular device, unspecified",occurs_after,"['C0525024', 'C0543467']","['Implantation of prosthetic device', 'Surgical procedure']",Implantation of prosthetic device || Surgical procedure,C0525024 || C0543467,2,2,0.0,0.09999999760000006
+C0274406,Postoperative subphrenic abscess,occurs_after,"['C0184661', 'C0543467']","['Procedure', 'Surgical procedure']",Procedure || Surgical procedure,C0184661 || C0543467,2,2,0.0,0.0
+C0571519,Allergy to capreomycin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C3662097,Paralytic syndrome of all four limbs as sequela of stroke,occurs_after,['C0038454'],['Cerebrovascular accident'],Cerebrovascular accident,C0038454,1,1,0.0,0.0
+C0585259,Infected femoropopliteal graft,occurs_after,"['C0525024', 'C0543467']","['Implantation of prosthetic device', 'Surgical procedure']",Implantation of prosthetic device || Surgical procedure,C0525024 || C0543467,2,2,0.0,0.0
+C4544850,Osteoarthritis of left foot due to trauma,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C0478485,[X]Mechanical complication of other vascular grafts,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0571017,Allergy to ethamivan,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571314,Lactobacill acidophil vaccine allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0274423,"Thrombophlebitis following infusion, perfusion AND/OR transfusion",occurs_after,['C1533685'],['Injection'],Injection,C1533685,1,1,0.0,0.0
+C0264780,Rheumatic tricuspid valve failure,occurs_after,['C0554628'],['Streptococcus pyogenes infection'],Streptococcus pyogenes infection,C0554628,1,1,0.0,0.0
+C4274270,Allergy to wall pellitory pollen,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571815,Intravenous nutrition (ready mixed) allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0341027,Failure of dental prosthesis,occurs_after,['C0021107'],['Implantation'],Implantation,C0021107,1,1,0.0,0.0
+C0571681,Allergy to methyltestosterone,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0160779,Late effect of multiple and unspecified fracture of bones,occurs_after,"['C3263723', 'C3263723']","['Injury', 'Traumatic injury']",Injury || Traumatic injury,C3263723 || C3263723,2,2,0.0,0.0
+C0160794,Disorder due to and following burn,occurs_after,"['C0006434', 'C0012634', 'C3263723', 'C3263723']","['Burn', 'Disease', 'Injury', 'Traumatic injury']",Burn || Disease || Injury || Traumatic injury,C0006434 || C0012634 || C3263723 || C3263723,4,4,0.0,0.07142857081632653
+C0570996,Allergy to cyclopentolate,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0030568,Postencephalitic parkinsonism,occurs_after,['C0014038'],['Encephalitis'],Encephalitis,C0014038,1,1,0.0,0.0
+C0571395,Allergy to fusidic acid,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571611,Allergy to dexamethasone,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0340530,Cardiac transplant rejection,occurs_after,"['C0018823', 'C0040732', 'C0543467']","['Transplantation of heart', 'Transplantation', 'Surgical procedure']",Transplantation of heart || Transplantation || Surgical procedure,C0018823 || C0040732 || C0543467,3,3,0.0,0.0
+C0570595,Allergy to cisapride,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570668,Allergy to nitrogen mustard derivative,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1444625,Intraocular lens associated postoperative inflammation,occurs_after,"['C0021107', 'C0543467']","['Implantation', 'Surgical procedure']",Implantation || Surgical procedure,C0021107 || C0543467,2,2,0.0,0.0
+C0274433,"Sepsis following infusion, injection, transfusion AND/OR vaccination",occurs_after,"['C0184661', 'C1533734', 'C1533734']","['Procedure', 'Administration', 'Administration']",Procedure || Administration,C0184661 || C1533734,2,2,0.0,0.0
+C4076685,Allergy to celery,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C5438274,Postprocedural right ventricular aneurysm,occurs_after,['C1279986'],['Procedure on heart'],Procedure on heart,C1279986,1,1,0.0,0.0
+C4303981,Donor derived melanoma,occurs_after,['C0040732'],['Transplantation'],Transplantation,C0040732,1,1,0.0,0.0
+C0456763,Post-radiotherapy telangiectasis of vocal cord,occurs_after,['C1522449'],['Radiation oncology AND/OR radiotherapy'],Radiation oncology AND/OR radiotherapy,C1522449,1,1,0.0,0.0
+C0409581,Reactive arthropathy of interphalangeal joint of toe,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C0340891,Mechanical complication of carotid artery bypass,occurs_after,"['C0525024', 'C0543467']","['Implantation of prosthetic device', 'Surgical procedure']",Implantation of prosthetic device || Surgical procedure,C0525024 || C0543467,2,2,0.0,0.09999999760000006
+C0570677,Allergy to carmustine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C3698476,Post-traumatic dementia with behavioral change,occurs_after,"['C0018674', 'C4751223']","['Injury of head', 'Traumatic event']",Injury of head || Traumatic event,C0018674 || C4751223,2,2,0.0,0.0
+C0274302,"Allergic reaction, due to correct medicinal substance properly administered",occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C1304190,Anaphylactoid reaction to radiocontrast media,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C3698407,Peri-implant mucositis,occurs_after,"['C0021107', 'C0525024']","['Implantation procedure', 'Implantation of prosthetic device']",Implantation procedure || Implantation of prosthetic device,C0021107 || C0525024,2,2,0.0,0.0
+C0571081,Urea creams allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570981,Allergy to xamoterol,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0577620,Allergy to nut,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571692,Piperazine oestrone sulphate allergy,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1279386,Postoperative pneumonia,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0266814,Gastrointestinal allergy to food,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570853,Allergy to thiethylperazine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0035439,Rheumatic heart disease NOS,occurs_after,['C0554628'],['Streptococcus pyogenes infection'],Streptococcus pyogenes infection,C0554628,1,1,0.0,0.0
+C0571339,Allergy to formaldehyde,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570717,Allergy to vindesine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4545781,Audiological implant in situ,occurs_after,['C4545424'],['Implantation of auditory device'],Implantation of auditory device,C4545424,1,1,0.0,0.0
+C2893921,Osteoarthritis of hip due to and following trauma,occurs_after,"['C3263723', 'C4751223']","['Traumatic injury', 'Traumatic event']",Traumatic injury || Traumatic event,C3263723 || C4751223,2,2,0.0,0.0
+C1135841,Zoster sine herpete,occurs_after,"['C0008049', 'C0008049']","['Varicella', 'Varicella']",Varicella,C0008049,1,1,0.0,0.0
+C0160814,Late effect of radiation,occurs_after,"['C0012634', 'C3263723', 'C3263723']","['Disease', 'Injury', 'Traumatic injury']",Disease || Injury || Traumatic injury,C0012634 || C3263723 || C3263723,3,3,0.0,0.0
+C0571591,Allergy to prednisone,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571188,Allergy to pralidoxime,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0267721,Incisional hernia with gangrene AND obstruction,occurs_after,"['C0184898', 'C0543467']","['Incision', 'Surgical procedure']",Incision || Surgical procedure,C0184898 || C0543467,2,2,0.0,0.0
+C0426272,Obstetric laceration of cervix with postnatal problem,occurs_after,['C0011209'],['Delivery procedure'],Delivery procedure,C0011209,1,1,0.0,0.0
+C1304159,Toxic epidermal necrolysis due to graft-versus-host disease,occurs_after,"['C0040732', 'C0543467']","['Transplantation', 'Surgical procedure']",Transplantation || Surgical procedure,C0040732 || C0543467,2,2,0.0,0.0
+C0577628,Allergy to latex,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571012,Allergy to carbocysteine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570518,Allergy to methadone analog,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571149,Allergy to rocuronium,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4316687,Keratoconjunctivitis of right eye due to herpes zoster,occurs_after,['C0008049'],['Varicella'],Varicella,C0008049,1,1,0.0,0.0
+C0570514,Allergy to salicylate,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571313,Allergy to quinacrine,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571518,Antibiotic antituberculosis drug allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571352,Allergy to domiphen,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4706387,Acute necrotizing encephalopathy of childhood,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C0570686,Allergy to aclarubicin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C5438273,Postprocedural left ventricular aneurysm,occurs_after,['C1279986'],['Procedure on heart'],Procedure on heart,C1279986,1,1,0.0,0.0
+C0571039,Allergy to cyclizine,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0406874,Anastomotic failure of flap,occurs_after,"['C0040732', 'C0543467']","['Transplantation', 'Surgical procedure']",Transplantation || Surgical procedure,C0040732 || C0543467,2,2,0.0,0.0
+C0585185,Postoperative abdominal wall wound abscess,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0570661,Allergy to levamisole,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0264782,Rheumatic pulmonary valve insufficiency,occurs_after,['C0554628'],['Streptococcus pyogenes infection'],Streptococcus pyogenes infection,C0554628,1,1,0.0,0.0
+C0570571,Allergy to licorice,occurs_after,"['C3662483', 'C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0340518,Post-infarction mural thrombus,occurs_after,['C0027051'],['Myocardial infarction'],Myocardial infarction,C0027051,1,1,0.0,0.0
+C0582164,Suture line inflamed,occurs_after,"['C0184661', 'C0543467']","['Procedure', 'Surgical procedure']",Procedure || Surgical procedure,C0184661 || C0543467,2,2,0.0,0.0
+C0571019,Allergy to lung surfactant,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570596,Antiemetic allergy,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C4302802,Postprocedural abscess,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0571761,Blood clotting factor allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571061,Allergy to ketotifen,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0405327,Direct maternal death,occurs_after,['C0012634'],['Disease'],Disease,C0012634,1,1,0.0,0.0
+C0571216,Haemodialysis fluid allergy,occurs_after,"['C0184661', 'C3662483']","['Procedure', 'Allergic sensitization']",Procedure || Allergic sensitization,C0184661 || C3662483,2,2,0.0,0.0
+C0571549,Allergy to Varicella-zoster virus antibody,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1313863,Late effect of injury NOS,occurs_after,['C0012634'],['Disease'],Disease,C0012634,1,1,0.0,0.0
+C0473553,Post-encephalitic seborrhea,occurs_after,['C0014038'],['Encephalitis'],Encephalitis,C0014038,1,1,0.0,0.0
+C0341398,Stomal prolapse,occurs_after,"['C0029473', 'C0040732', 'C0543467']","['Construction of stoma', 'Transplantation', 'Surgical procedure']",Construction of stoma || Transplantation || Surgical procedure,C0029473 || C0040732 || C0543467,3,3,0.0,0.0
+C1264520,Late effect of complications of trauma,occurs_after,"['C3263723', 'C3263723']","['Injury', 'Traumatic injury']",Injury || Traumatic injury,C3263723 || C3263723,2,2,0.0,0.0
+C0571328,Allergy to chloroxylenol,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570949,Allergy to phenylephrine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0410828,Loosening of external fixator pin,occurs_after,"['C0016642', 'C0021107']","['Internal skeletal fixation', 'Implantation']",Internal skeletal fixation || Implantation,C0016642 || C0021107,2,2,0.0,0.0
+C5230193,Chronic pain after cancer treatment,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0570533,Allergy to meperidine,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C4082933,Allergy to animal protein,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1304352,Allergy to drug in contact with skin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4708098,Allergy to vitamin B12 and vitamin B12 derivative,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0401126,Perineal incisional hernia,occurs_after,"['C0184898', 'C0543467']","['Incision', 'Surgical procedure']",Incision || Surgical procedure,C0184898 || C0543467,2,2,0.0,0.0
+C0570952,Allergy to beta-2 adrenergic receptor agonist,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C5229991,Arthrofibrosis of left elbow,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C1629019,Phenothiazine derivative allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571326,Allergy to thymol,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571907,Allergy to torsemide,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0269562,Failed attempted termination of pregnancy with laceration of bladder,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0571000,Allergy to methixene,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1285234,Degenerative sequelae of disorders,occurs_after,['C0012634'],['Disease'],Disease,C0012634,1,1,0.0,0.0
+C1275003,Skin graft hyperpigmentation,occurs_after,"['C0040732', 'C0543467']","['Transplantation', 'Surgical procedure']",Transplantation || Surgical procedure,C0040732 || C0543467,2,2,0.0,0.0
+C0586383,Reactionary hemorrhage postprocedure,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0571568,Allergy to typhoid vaccine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571679,Allergy to androgen,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4509666,Arthrofibrosis of left knee,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C1275460,Hemodialysis-associated pruritus,occurs_after,"['C0011946', 'C0184661']","['Dialysis procedure', 'Procedure']",Dialysis procedure || Procedure,C0011946 || C0184661,2,2,0.0,0.0
+C0410869,Other leg reattachment complication,occurs_after,"['C0021107', 'C0543467']","['Implantation', 'Surgical procedure']",Implantation || Surgical procedure,C0021107 || C0543467,2,2,0.0,0.0
+C0481343,"Surgical operation with formation of external stoma as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation",occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0269297,Pelvic peritonitis following molar AND/OR ectopic pregnancy,occurs_after,['C0156543'],['Abortion'],Abortion,C0156543,1,1,0.0,0.0
+C4303520,Sequela of infection caused by Mycobacterium,occurs_after,['C0026918'],['Mycobacteriosis'],Mycobacteriosis,C0026918,1,1,0.0,0.0
+C5396043,Bilateral diffuse lamellar keratitis of eyes,occurs_after,['C0197402'],['Operative procedure on cornea'],Operative procedure on cornea,C0197402,1,1,0.0,0.0
+C0571023,Allergy to colfosceril,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C3532574,Allergy to raloxifene,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571036,Allergy to mebhydrolin,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0403573,Loss of ultrafiltration,occurs_after,"['C0011946', 'C0184661']","['Dialysis procedure', 'Procedure']",Dialysis procedure || Procedure,C0011946 || C0184661,2,2,0.0,0.0
+C0273076,Intracranial hemorrhage following injury with open intracranial wound and prolonged loss of consciousness (more than 24 hours) without return to pre-existing level,occurs_after,['C3263723'],['Traumatic injury'],Traumatic injury,C3263723,1,1,0.0,0.08695652015122875
+C4707989,Allergy to cromolyn,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0395922,Cervical vertigo,occurs_after,"['C0027531', 'C4751223']","['Injury of neck', 'Traumatic event']",Injury of neck || Traumatic event,C0027531 || C4751223,2,2,0.0,0.0
+C0571432,Allergy to amdinocillin pivoxil,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C2004456,Postnecrotic cirrhosis,occurs_after,['C0151798'],['Hepatic necrosis'],Hepatic necrosis,C0151798,1,1,0.0,0.0
+C4305408,Allergy to cerivastatin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0035440,Acute rheumatic heart disease NOS,occurs_after,['C0554628'],['Streptococcus pyogenes infection'],Streptococcus pyogenes infection,C0554628,1,1,0.0,0.0
+C0571384,Allergy to clarithromycin,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1264605,Post-viral disorder,occurs_after,['C0042769'],['Viral disease'],Viral disease,C0042769,1,1,0.0,0.0
+C0571377,Allergy to netilmicin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570599,Allergy to metoclopramide,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0496165,Sequelae of injuries of neck and trunk,occurs_after,"['C0012634', 'C3263723', 'C3263723']","['Disease', 'Injury', 'Traumatic injury']",Disease || Injury || Traumatic injury,C0012634 || C3263723 || C3263723,3,3,0.0,0.0
+C1274756,Cutis laxa following urticaria-angioedema,occurs_after,['C1304531'],['Angioedema and/or urticaria'],Angioedema and/or urticaria,C1304531,1,1,0.0,0.0
+C1299633,Reactive airways dysfunction syndrome,occurs_after,['C1640801'],['Exposure to potentially harmful entity'],Exposure to potentially harmful entity,C1640801,1,1,0.0,0.0
+C0271137,Angle recession,occurs_after,"['C0015408', 'C0339055', 'C4751223']","['Injury of eye', 'Injury of globe of eye', 'Traumatic event']",Injury of eye || Injury of globe of eye || Traumatic event,C0015408 || C0339055 || C4751223,3,3,0.0,0.0
+C0571227,Artificial saliva allergy,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C2215113,Acute disseminated encephalomyelitis following infectious disease,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C0571467,Allergy to cefpirome,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1142253,Arthrofibrosis,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C0264888,Cardiac arrest due to pacemaker failure,occurs_after,"['C0525024', 'C0543467']","['Implantation of prosthetic device', 'Surgical procedure']",Implantation of prosthetic device || Surgical procedure,C0525024 || C0543467,2,2,0.0,0.0
+C1275010,Atrophic surgical scar,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C1304446,Dermatosis due to therapeutic ionizing irradiation,occurs_after,"['C0184661', 'C1522449']","['Procedure', 'Radiation oncology AND/OR radiotherapy']",Procedure || Radiation oncology AND/OR radiotherapy,C0184661 || C1522449,2,2,0.0,0.0
+C0571730,Allergy to oxytocin and ergometrine,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571387,Allergy to spectinomycin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571064,Cough suppressant allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570854,Allergy to fluphenazine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0585121,Nonunion of spinal fusion,occurs_after,"['C0005976', 'C0021107', 'C0040732', 'C0543467']","['Bone graft', 'Implantation', 'Transplantation', 'Surgical procedure']",Bone graft || Implantation || Transplantation || Surgical procedure,C0005976 || C0021107 || C0040732 || C0543467,4,4,0.0,0.0
+C0571160,"Drug groups primarily used in obstetrics, gynaecological and urinary tract disorders allergy",occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0151505,Application site reaction,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0161842,Rhesus incompatibility reaction,occurs_after,['C0005841'],['Transfusion of blood product'],Transfusion of blood product,C0005841,1,1,0.0,0.0
+C0571230,Allergy to olive oil,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0584714,Occlusion of femorofemoral crossover bypass graft,occurs_after,"['C0040732', 'C0525024', 'C0543467']","['Transplantation', 'Implantation of prosthetic device', 'Surgical procedure']",Transplantation || Implantation of prosthetic device || Surgical procedure,C0040732 || C0525024 || C0543467,3,3,0.0,0.0666666650666667
+C0571722,Allergy to nafarelin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570570,Allergy to sucralfate,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571801,Allergy to ferrous salt,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0340946,Intra-aortic balloon rupture,occurs_after,"['C0021860', 'C0525024', 'C0543467']","['Cardioassist by aortic balloon pump', 'Implantation of prosthetic device', 'Surgical procedure']",Cardioassist by aortic balloon pump || Implantation of prosthetic device || Surgical procedure,C0021860 || C0525024 || C0543467,3,3,0.0,0.08333333177083335
+C0157358,Obstetric laceration of cervix NOS,occurs_after,['C0011209'],['Delivery procedure'],Delivery procedure,C0011209,1,1,0.0,0.0
+C3164510,Allergy to phosphodiesterase 5 inhibitor,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0404956,Cardiac arrest following abortive pregnancy,occurs_after,['C0156543'],['Abortion'],Abortion,C0156543,1,1,0.0,0.0
+C0570910,Allergy to prazosin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0267649,Postoperative blind loop syndrome,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C4544930,Chronic inflammation of mastoid cavity,occurs_after,['C0198154'],['Mastoidectomy'],Mastoidectomy,C0198154,1,1,0.0,0.0
+C0019360,Herpes zoster NOS,occurs_after,['C0008049'],['Varicella'],Varicella,C0008049,1,1,0.0,0.0
+C0475525,Spinal and epidural anesthesia-induced headache during labor and delivery,occurs_after,['C0034117'],['Puncture procedure'],Puncture procedure,C0034117,1,1,0.0,0.0
+C0571598,Allergy to flurandrenolide,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0342173,Post-infectious hypothyroidism,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C0571658,Allergy to megestrol,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571917,Allergy to spironolactone and loop diuretic,occurs_after,"['C3662483', 'C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0274337,Mechanical complication of nervous system device,occurs_after,"['C0184661', 'C0543467']","['Procedure', 'Surgical procedure']",Procedure || Surgical procedure,C0184661 || C0543467,2,2,0.0,0.0
+C0521490,Application site irritation,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C1282227,Postoperative endophthalmitis,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0341015,Herpes zoster infection of oral mucosa,occurs_after,['C0008049'],['Varicella'],Varicella,C0008049,1,1,0.0,0.0
+C0571291,Allergy to interferon alfa-2b,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571564,Allergy to rabies vaccine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C3697634,Post infectious grand mal epilepsy,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C0571343,Allergy to biguanide disinfectant,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4075447,Post-mastectomy chronic pain syndrome,occurs_after,['C0191849'],['Excision of breast tissue'],Excision of breast tissue,C0191849,1,1,0.0,0.0
+C0570841,Allergy to trifluperidol,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571317,Allergy to acetic acid,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571283,Allergy to ganciclovir,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570710,Allergy to estrogen receptor antagonist,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0570643,Allergy to bupivacaine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0694573,Allergy to dye,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C1275022,Parastomal pyoderma gangrenosum,occurs_after,"['C0029473', 'C0029473', 'C0184661']","['Construction of stoma', 'Construction of stoma', 'Procedure']",Construction of stoma || Procedure,C0029473 || C0184661,2,2,0.0,0.0
+C0570727,Allergy to diethylpropion,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0264501,Postoperative pulmonary edema,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0570721,Allergy to azathioprine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571636,Allergy to sulfonylurea,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1641255,Allergy to almond oil,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0342341,Post-surgical hypoparathyroidism,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C0428808,Rheumatic mitral valve leaflet changes,occurs_after,['C0554628'],['Streptococcus pyogenes infection'],Streptococcus pyogenes infection,C0554628,1,1,0.0,0.0
+C1304144,Nail dystrophy co-occurrent with reactive arthritis triad,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C0393395,Sequelae from foreign body left postoperatively NOS,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C4751145,Arthrofibrosis of right shoulder,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C0571882,Allergy to flecainide,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571347,Allergy to boric acid,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571816,Allergy to levocarnitine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4708163,Allergy to benzodiazepine,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C4750744,Post-transplant acute limbic encephalitis,occurs_after,['C0040732'],['Transplantation'],Transplantation,C0040732,1,1,0.0,0.0
+C4039669,Osteonecrosis of fibula due to trauma,occurs_after,['C4751223'],['Traumatic event'],Traumatic event,C4751223,1,1,0.0,0.0
+C2711572,Allergy to sevoflurane,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571663,Allergy to anabolic steroid,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1301361,Polymorphic lymphoproliferative disorder following transplant,occurs_after,['C0040732'],['Transplantation'],Transplantation,C0040732,1,1,0.0,0.0
+C0409583,Reactive arthropathy of 1st metatarsophalangeal joint,occurs_after,['C0009450'],['Disorder due to infection'],Disorder due to infection,C0009450,1,1,0.0,0.0
+C0579158,Postoperative rupture of the diaphragm,occurs_after,['C0543467'],['Surgical procedure'],Surgical procedure,C0543467,1,1,0.0,0.0
+C4520403,Intractable chronic headache following trauma,occurs_after,"['C0178671', 'C3263723']","['Head and neck injury', 'Traumatic injury']",Head and neck injury || Traumatic injury,C0178671 || C3263723,2,2,0.0,0.0
+C0496180,"Late effect of poisoning due to drug, medicinal AND/OR biological substance",occurs_after,"['C0012634', 'C3263723', 'C3263723']","['Disease', 'Injury', 'Traumatic injury']",Disease || Injury || Traumatic injury,C0012634 || C3263723 || C3263723,3,3,0.0,0.0
+C0406841,Dirt engrained scar,occurs_after,['C0043250'],['Wound'],Wound,C0043250,1,1,0.0,0.0
+C0571992,Allergy to pentaerythritol tetranitrate,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571935,Adrenergic neurone blocking drug allergy,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571643,Allergy to gliquidone,occurs_after,"['C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C1318514,Dehiscence AND/OR disruption of uterine wound in the puerperium,occurs_after,"['C0007876', 'C0038906']","['Cesarean section', 'Obstetric operation']",Cesarean section || Obstetric operation,C0007876 || C0038906,2,2,0.0,0.0
+C0570774,Allergy to mianserin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0274425,Complication of injection,occurs_after,['C0184661'],['Procedure'],Procedure,C0184661,1,1,0.0,0.0
+C0410862,Partial failure replanted finger,occurs_after,"['C0021107', 'C0543467']","['Implantation', 'Surgical procedure']",Implantation || Surgical procedure,C0021107 || C0543467,2,2,0.0,0.0
+C0571428,Allergy to azlocillin,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0410804,Fracture of bone allograft,occurs_after,"['C0005976', 'C0021107', 'C0040732', 'C0543467']","['Bone graft', 'Implantation', 'Transplantation', 'Surgical procedure']",Bone graft || Implantation || Transplantation || Surgical procedure,C0005976 || C0021107 || C0040732 || C0543467,4,4,0.0,0.08333333222222224
+C1264296,Intracranial hemorrhage following injury with prolonged loss of consciousness without return to pre-existing conscious level,occurs_after,"['C3263723', 'C4751223']","['Traumatic injury', 'Traumatic event']",Traumatic injury || Traumatic event,C3263723 || C4751223,2,2,0.0,0.05882352837370244
+C0570613,Hyoscine butylbromide allergy,occurs_after,"['C3662483', 'C3662483', 'C3662483']","['Allergic sensitization', 'Allergic sensitization', 'Allergic sensitization']",Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571743,Allergy to calcium regulating hormone,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0
+C0571336,Allergy to glutaraldehyde,occurs_after,['C3662483'],['Allergic sensitization'],Allergic sensitization,C3662483,1,1,0.0,0.0

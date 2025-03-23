@@ -1,0 +1,1001 @@
+head_cui,head_name,rel,tail_cuis_list,tail_names_list,tail_names,tail_cuis,tail_cuis_len,tail_names_len,avg_match,avg_rouge_l
+C1335274,PTK6 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1421505,NSD2 Gene,gene_associated_with_disease,['C1956097'],['Wolf-Hirschhorn Syndrome'],Wolf-Hirschhorn Syndrome,C1956097,1,1,0.0,0.0
+C1710320,TPMT*V2 Allele,gene_associated_with_disease,['C0342801'],['Thiopurine Methyltransferase Deficiency'],Thiopurine Methyltransferase Deficiency,C0342801,1,1,0.0,0.0
+C1336984,DCAF5 Gene,gene_associated_with_disease,['C0151995'],['Uterine Corpus Degenerated Leiomyoma'],Uterine Corpus Degenerated Leiomyoma,C0151995,1,1,0.0,0.0
+C2825930,MIR124-1 wt Allele,gene_associated_with_disease,"['C0009402', 'C0017636', 'C0023418', 'C0025149', 'C0678222', 'C0684249']","['Colorectal Carcinoma', 'Glioblastoma', 'Leukemia', 'Medulloblastoma', 'Breast Carcinoma', 'Lung Carcinoma']",Colorectal Carcinoma || Glioblastoma || Leukemia || Medulloblastoma || Breast Carcinoma || Lung Carcinoma,C0009402 || C0017636 || C0023418 || C0025149 || C0678222 || C0684249,6,6,0.0,0.0
+C1705928,NR3C2 wt Allele,gene_associated_with_disease,['C0020538'],['Hypertension'],Hypertension,C0020538,1,1,0.0,0.0
+C1366587,MCL1 Gene,gene_associated_with_disease,['C0023434'],['Chronic Lymphocytic Leukemia'],Chronic Lymphocytic Leukemia,C0023434,1,1,0.0,0.0
+C1706480,AGT wt Allele,gene_associated_with_disease,['C0085580'],['Essential Hypertension'],Essential Hypertension,C0085580,1,1,0.0,0.0
+C1537814,MIR181B2 Gene,gene_associated_with_disease,"['C0023434', 'C0026764', 'C0677865']","['Chronic Lymphocytic Leukemia', 'Plasma Cell Myeloma', 'Brain Stem Glioma']",Chronic Lymphocytic Leukemia || Plasma Cell Myeloma || Brain Stem Glioma,C0023434 || C0026764 || C0677865,3,3,0.0,0.0
+C1706333,ITGB2 wt Allele,gene_associated_with_disease,['C0272187'],['Leukocyte Adhesion Deficiency'],Leukocyte Adhesion Deficiency,C0272187,1,1,0.0,0.0
+C1366562,ITGAM Gene,gene_associated_with_disease,['C0398738'],['Leukocyte Adhesion Deficiency Type 1'],Leukocyte Adhesion Deficiency Type 1,C0398738,1,1,0.0,0.0
+C1826064,MIR510 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1332431,BMPR2 Gene,gene_associated_with_disease,['C0020542'],['Pulmonary Hypertension'],Pulmonary Hypertension,C0020542,1,1,0.0,0.0
+C1710598,VDR wt Allele,gene_associated_with_disease,['C0035579'],['Rickets'],Rickets,C0035579,1,1,0.0,0.0
+C1537919,MIRLET7G Gene,gene_associated_with_disease,"['C0684249', 'C4721610']","['Lung Carcinoma', 'Ovarian Carcinoma']",Lung Carcinoma || Ovarian Carcinoma,C0684249 || C4721610,2,2,0.0,0.0
+C1419244,RAD54L Gene,gene_associated_with_disease,"['C0024305', 'C0338106', 'C0678222']","['Non-Hodgkin Lymphoma', 'Colon Adenocarcinoma', 'Breast Carcinoma']",Non-Hodgkin Lymphoma || Colon Adenocarcinoma || Breast Carcinoma,C0024305 || C0338106 || C0678222,3,3,0.0,0.0
+C1334510,MLANA Gene,gene_associated_with_disease,"['C0025202', 'C0042900']","['Melanoma', 'Vitiligo']",Melanoma || Vitiligo,C0025202 || C0042900,2,2,0.0,0.0
+C2828055,FANCE wt Allele,gene_associated_with_disease,['C0015625'],['Fanconi Anemia'],Fanconi Anemia,C0015625,1,1,0.0,0.0
+C1704853,NUP98 wt Allele,gene_associated_with_disease,"['C0023449', 'C0023467']","['Acute Lymphoblastic Leukemia', 'Acute Myeloid Leukemia']",Acute Lymphoblastic Leukemia || Acute Myeloid Leukemia,C0023449 || C0023467,2,2,0.0,0.0
+C1334351,LTBP2 Gene,gene_associated_with_disease,['C0025202'],['Melanoma'],Melanoma,C0025202,1,1,0.0,0.0
+C1415478,HBA2 Gene,gene_associated_with_disease,['C0002312'],['Alpha Thalassemia'],Alpha Thalassemia,C0002312,1,1,0.0,0.0
+C1332741,CDR1 Gene,gene_associated_with_disease,"['C0004364', 'C0393534']","['Autoimmune Disease', 'Paraneoplastic Cerebellar Degeneration']",Autoimmune Disease || Paraneoplastic Cerebellar Degeneration,C0004364 || C0393534,2,2,0.0,0.0
+C1332732,CDK2AP1 Gene,gene_associated_with_disease,['C0153381'],['Malignant Oral Neoplasm'],Malignant Oral Neoplasm,C0153381,1,1,0.0,0.0
+C2825816,MIR29A wt Allele,gene_associated_with_disease,"['C0002395', 'C0011860', 'C0684249']","[""Alzheimer's Disease"", 'Type 2 Diabetes Mellitus', 'Lung Carcinoma']",Alzheimer's Disease || Type 2 Diabetes Mellitus || Lung Carcinoma,C0002395 || C0011860 || C0684249,3,3,0.0,0.0
+C1705392,BCAR3 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C2983377,SNCA wt Allele,gene_associated_with_disease,"['C0002395', 'C0030567', 'C0752347']","[""Alzheimer's Disease"", ""Parkinson's Disease"", 'Lewy Body Dementia']",Alzheimer's Disease || Parkinson's Disease || Lewy Body Dementia,C0002395 || C0030567 || C0752347,3,3,0.0,0.0
+C1537734,MIR29B2 Gene,gene_associated_with_disease,"['C0002395', 'C0011860', 'C0023434', 'C0023467', 'C0035412', 'C0206698', 'C0684249']","[""Alzheimer's Disease"", 'Type 2 Diabetes Mellitus', 'Chronic Lymphocytic Leukemia', 'Acute Myeloid Leukemia', 'Rhabdomyosarcoma', 'Cholangiocarcinoma', 'Lung Carcinoma']",Alzheimer's Disease || Type 2 Diabetes Mellitus || Chronic Lymphocytic Leukemia || Acute Myeloid Leukemia || Rhabdomyosarcoma || Cholangiocarcinoma || Lung Carcinoma,C0002395 || C0011860 || C0023434 || C0023467 || C0035412 || C0206698 || C0684249,7,7,0.0,0.0
+C1420650,TCL1A Gene,gene_associated_with_disease,['C0023494'],['T-Cell Chronic Lymphocytic Leukemia'],T-Cell Chronic Lymphocytic Leukemia,C0023494,1,1,0.0,0.0
+C1705546,ABI1 wt Allele,gene_associated_with_disease,['C0023467'],['Acute Myeloid Leukemia'],Acute Myeloid Leukemia,C0023467,1,1,0.0,0.0
+C1538172,ZFYVE9 Gene,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C1332424,BMP2 Gene,gene_associated_with_disease,['C0016037'],['Fibrodysplasia Ossificans Progressiva'],Fibrodysplasia Ossificans Progressiva,C0016037,1,1,0.0,0.0
+C1823405,ORAI1 Gene,gene_associated_with_disease,['C0085110'],['Severe Combined Immunodeficiency'],Severe Combined Immunodeficiency,C0085110,1,1,0.0,0.0
+C2825792,MIR15B wt Allele,gene_associated_with_disease,['C0023434'],['Chronic Lymphocytic Leukemia'],Chronic Lymphocytic Leukemia,C0023434,1,1,0.0,0.0
+C1705397,GLI3 wt Allele,gene_associated_with_disease,['C0265306'],['Greig Syndrome'],Greig Syndrome,C0265306,1,1,0.0,0.0
+C0694872,CDH1 Gene,gene_associated_with_disease,"['C0009402', 'C4721610']","['Colorectal Carcinoma', 'Ovarian Carcinoma']",Colorectal Carcinoma || Ovarian Carcinoma,C0009402 || C4721610,2,2,0.0,0.0
+C1366496,CYP19A1 Gene,gene_associated_with_disease,"['C0014175', 'C0018418']","['Endometriosis', 'Gynecomastia']",Endometriosis || Gynecomastia,C0014175 || C0018418,2,2,0.0,0.0
+C0879468,CSF1R Gene,gene_associated_with_disease,['C2939461'],['Myeloid Neoplasm'],Myeloid Neoplasm,C2939461,1,1,0.0,0.0
+C1706034,IL7R wt Allele,gene_associated_with_disease,['C0085110'],['Severe Combined Immunodeficiency'],Severe Combined Immunodeficiency,C0085110,1,1,0.0,0.0
+C2825811,MIR25 wt Allele,gene_associated_with_disease,"['C0026764', 'C0699791', 'C2239176']","['Plasma Cell Myeloma', 'Gastric Carcinoma', 'Hepatocellular Carcinoma']",Plasma Cell Myeloma || Gastric Carcinoma || Hepatocellular Carcinoma,C0026764 || C0699791 || C2239176,3,3,0.0,0.0
+C1417089,MDM4 Gene,gene_associated_with_disease,['C0035335'],['Retinoblastoma'],Retinoblastoma,C0035335,1,1,0.0,0.0
+C1420074,SIX3 Gene,gene_associated_with_disease,['C1834877'],['Holoprosencephaly Type 2'],Holoprosencephaly Type 2,C1834877,1,1,0.0,0.0
+C1366649,CRYBG1 Gene,gene_associated_with_disease,['C0025202'],['Melanoma'],Melanoma,C0025202,1,1,0.0,0.0
+C2681370,CSAG3 Gene,gene_associated_with_disease,['C0025202'],['Melanoma'],Melanoma,C0025202,1,1,0.0,0.0
+C1414504,F2 Gene,gene_associated_with_disease,['C0038454'],['Cerebrovascular Accident'],Cerebrovascular Accident,C0038454,1,1,0.0,0.0
+C1705086,CD209 wt Allele,gene_associated_with_disease,['C0001175'],['Acquired Immunodeficiency Syndrome'],Acquired Immunodeficiency Syndrome,C0001175,1,1,0.0,0.0
+C1332797,CSPG4 Gene,gene_associated_with_disease,['C0025202'],['Melanoma'],Melanoma,C0025202,1,1,0.0,0.0
+C0919534,GSTM1 Gene,gene_associated_with_disease,['C0684249'],['Lung Carcinoma'],Lung Carcinoma,C0684249,1,1,0.0,0.0
+C1707866,ERCC6 wt Allele,gene_associated_with_disease,['C0009207'],['Cockayne Syndrome'],Cockayne Syndrome,C0009207,1,1,0.0,0.0
+C1826238,MIR659 Gene,gene_associated_with_disease,['C0497327'],['Dementia'],Dementia,C0497327,1,1,0.0,0.0
+C1706665,ANXA8 wt Allele,gene_associated_with_disease,['C0023470'],['Myeloid Leukemia'],Myeloid Leukemia,C0023470,1,1,0.0,0.0
+C2825962,MIR148B wt Allele,gene_associated_with_disease,['C0004096'],['Asthma'],Asthma,C0004096,1,1,0.0,0.0
+C2986675,ADIPOQ wt Allele,gene_associated_with_disease,['C0011860'],['Type 2 Diabetes Mellitus'],Type 2 Diabetes Mellitus,C0011860,1,1,0.0,0.0
+C1414328,EIF2B2 Gene,gene_associated_with_disease,['C0270612'],['Leukoencephalopathy'],Leukoencephalopathy,C0270612,1,1,0.0,0.0
+C1336678,TSG101 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1366857,GNAI2 Gene,gene_associated_with_disease,['C0032000'],['Pituitary Gland Adenoma'],Pituitary Gland Adenoma,C0032000,1,1,0.0,0.0
+C1704876,TPO wt Allele,gene_associated_with_disease,"['C0018213', 'C0020550']","['Graves Disease', 'Hyperthyroidism']",Graves Disease || Hyperthyroidism,C0018213 || C0020550,2,2,0.0,0.0
+C2987154,HSPG2 wt Allele,gene_associated_with_disease,['C0036391'],['Schwartz-Jampel Syndrome'],Schwartz-Jampel Syndrome,C0036391,1,1,0.0,0.0
+C2827446,CLU wt Allele,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C0812237,AXL Gene,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C2825925,MIR106B wt Allele,gene_associated_with_disease,"['C0023434', 'C0026764', 'C0699791', 'C2239176']","['Chronic Lymphocytic Leukemia', 'Plasma Cell Myeloma', 'Gastric Carcinoma', 'Hepatocellular Carcinoma']",Chronic Lymphocytic Leukemia || Plasma Cell Myeloma || Gastric Carcinoma || Hepatocellular Carcinoma,C0023434 || C0026764 || C0699791 || C2239176,4,4,0.0,0.0
+C2826230,MIR516B1 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C2347242,CASP8*1 Allele,gene_associated_with_disease,['C0270715'],['Central Nervous System Degenerative Disorder'],Central Nervous System Degenerative Disorder,C0270715,1,1,0.0,0.0
+C1881942,NAT2*7 Allele,gene_associated_with_disease,['C0024141'],['Systemic Lupus Erythematosus'],Systemic Lupus Erythematosus,C0024141,1,1,0.0,0.0
+C1710290,TGFA wt Allele,gene_associated_with_disease,['C0235974'],['Pancreatic Carcinoma'],Pancreatic Carcinoma,C0235974,1,1,0.0,0.0
+C2697967,MTNR1B wt Allele,gene_associated_with_disease,['C0011860'],['Type 2 Diabetes Mellitus'],Type 2 Diabetes Mellitus,C0011860,1,1,0.0,0.0
+C0812262,EPHA1 Gene,gene_associated_with_disease,['C0242379'],['Malignant Lung Neoplasm'],Malignant Lung Neoplasm,C0242379,1,1,0.0,0.0
+C1704813,COL4A6 wt Allele,gene_associated_with_disease,['C0206654'],['Leiomyomatosis'],Leiomyomatosis,C0206654,1,1,0.0,0.0
+C1540056,TRIM21 Gene,gene_associated_with_disease,['C0024141'],['Systemic Lupus Erythematosus'],Systemic Lupus Erythematosus,C0024141,1,1,0.0,0.0
+C2985260,NUTM1 wt Allele,gene_associated_with_disease,['C1707291'],['NUT Carcinoma'],NUT Carcinoma,C1707291,1,1,0.0,0.0
+C1422222,WNT10A Gene,gene_associated_with_disease,['C0302592'],['Cervical Carcinoma'],Cervical Carcinoma,C0302592,1,1,0.0,0.0
+C1537736,MIR30A Gene,gene_associated_with_disease,['C0852683'],['Glomerular Vascular Disorder'],Glomerular Vascular Disorder,C0852683,1,1,0.0,0.0
+C1537705,MIR9-2 Gene,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C2984593,FUS wt Allele,gene_associated_with_disease,"['C0002736', 'C1266127']","['Amyotrophic Lateral Sclerosis', 'Angiomatoid Fibrous Histiocytoma']",Amyotrophic Lateral Sclerosis || Angiomatoid Fibrous Histiocytoma,C0002736 || C1266127,2,2,0.0,0.0
+C2825940,MIR130A wt Allele,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C1710006,STAT4 wt Allele,gene_associated_with_disease,['C0010346'],['Crohn Disease'],Crohn Disease,C0010346,1,1,0.0,0.0
+C1335209,TSPAN32 Gene,gene_associated_with_disease,"['C0027708', 'C0035412', 'C0206686', 'C0678222', 'C0684249', 'C4721610']","['Wilms Tumor', 'Rhabdomyosarcoma', 'Adrenal Cortex Carcinoma', 'Breast Carcinoma', 'Lung Carcinoma', 'Ovarian Carcinoma']",Wilms Tumor || Rhabdomyosarcoma || Adrenal Cortex Carcinoma || Breast Carcinoma || Lung Carcinoma || Ovarian Carcinoma,C0027708 || C0035412 || C0206686 || C0678222 || C0684249 || C4721610,6,6,0.0,0.0
+C1332104,APPBP2 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1366582,S100A8 Gene,gene_associated_with_disease,['C0010674'],['Cystic Fibrosis'],Cystic Fibrosis,C0010674,1,1,0.0,0.0
+C1708411,IFNG wt Allele,gene_associated_with_disease,"['C0002874', 'C0041296']","['Aplastic Anemia', 'Tuberculosis']",Aplastic Anemia || Tuberculosis,C0002874 || C0041296,2,2,0.0,0.0
+C2985257,TCL1A wt Allele,gene_associated_with_disease,['C0023494'],['T-Cell Chronic Lymphocytic Leukemia'],T-Cell Chronic Lymphocytic Leukemia,C0023494,1,1,0.0,0.0
+C1707613,DHFR wt Allele,gene_associated_with_disease,['C0002888'],['Megaloblastic Anemia'],Megaloblastic Anemia,C0002888,1,1,0.0,0.0
+C1705129,DLEU2 wt Allele,gene_associated_with_disease,['C0023434'],['Chronic Lymphocytic Leukemia'],Chronic Lymphocytic Leukemia,C0023434,1,1,0.0,0.0
+C1705263,HMGA2 wt Allele,gene_associated_with_disease,['C0028754'],['Obesity'],Obesity,C0028754,1,1,0.0,0.0
+C1708809,MCC wt Allele,gene_associated_with_disease,['C0009402'],['Colorectal Carcinoma'],Colorectal Carcinoma,C0009402,1,1,0.0,0.0
+C1707999,FANCG wt Allele,gene_associated_with_disease,['C0015625'],['Fanconi Anemia'],Fanconi Anemia,C0015625,1,1,0.0,0.0
+C1704985,IRS2 wt Allele,gene_associated_with_disease,['C0011849'],['Diabetes Mellitus'],Diabetes Mellitus,C0011849,1,1,0.0,0.0
+C0694890,RET Gene,gene_associated_with_disease,['C4551683'],['Adrenal Gland Pheochromocytoma'],Adrenal Gland Pheochromocytoma,C4551683,1,1,0.0,0.0
+C1335874,STAT4 Gene,gene_associated_with_disease,['C0010346'],['Crohn Disease'],Crohn Disease,C0010346,1,1,0.0,0.0
+C1706393,LTA wt Allele,gene_associated_with_disease,['C0027051'],['Myocardial Infarction'],Myocardial Infarction,C0027051,1,1,0.0,0.0
+C3273614,SBDS wt Allele,gene_associated_with_disease,['C0272170'],['Shwachman-Diamond Syndrome'],Shwachman-Diamond Syndrome,C0272170,1,1,0.0,0.0
+C1705626,ALDH1A2 wt Allele,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C1705334,TFF1 wt Allele,gene_associated_with_disease,"['C0678222', 'C0699791']","['Breast Carcinoma', 'Gastric Carcinoma']",Breast Carcinoma || Gastric Carcinoma,C0678222 || C0699791,2,2,0.0,0.0
+C0812286,NFKB2 Gene,gene_associated_with_disease,"['C0079731', 'C2004493']","['B-Cell Non-Hodgkin Lymphoma', 'B-Cell Leukemia']",B-Cell Non-Hodgkin Lymphoma || B-Cell Leukemia,C0079731 || C2004493,2,2,0.0,0.0
+C2698698,PMP22 wt Allele,gene_associated_with_disease,['C0270911'],['Charcot-Marie-Tooth Disease Type 1A'],Charcot-Marie-Tooth Disease Type 1A,C0270911,1,1,0.0,0.0
+C1413410,CHRNB4 Gene,gene_associated_with_disease,['C0684249'],['Lung Carcinoma'],Lung Carcinoma,C0684249,1,1,0.0,0.0
+C2982397,CSMD1 wt Allele,gene_associated_with_disease,"['C1134719', 'C1319315', 'C3887461']","['Invasive Ductal Carcinoma, Not Otherwise Specified', 'Colorectal Adenocarcinoma', 'Head and Neck Carcinoma']","Invasive Ductal Carcinoma, Not Otherwise Specified || Colorectal Adenocarcinoma || Head and Neck Carcinoma",C1134719 || C1319315 || C3887461,3,3,0.0,0.0
+C1706252,ZBTB16 wt Allele,gene_associated_with_disease,['C0023487'],['Acute Promyelocytic Leukemia with PML-RARA'],Acute Promyelocytic Leukemia with PML-RARA,C0023487,1,1,0.0,0.0
+C2983546,FAM13A wt Allele,gene_associated_with_disease,['C0024117'],['Chronic Obstructive Pulmonary Disease'],Chronic Obstructive Pulmonary Disease,C0024117,1,1,0.0,0.0
+C1332699,CCR1 Gene,gene_associated_with_disease,['C0021368'],['Inflammation'],Inflammation,C0021368,1,1,0.0,0.0
+C1710281,TAL2 wt Allele,gene_associated_with_disease,['C1301359'],['T Lymphoblastic Leukemia/Lymphoma'],T Lymphoblastic Leukemia/Lymphoma,C1301359,1,1,0.0,0.0
+C1704839,ARNT wt Allele,gene_associated_with_disease,['C0023467'],['Acute Myeloid Leukemia'],Acute Myeloid Leukemia,C0023467,1,1,0.0,0.0
+C1710284,TCL1B wt Allele,gene_associated_with_disease,"['C0023418', 'C0024299']","['Leukemia', 'Lymphoma']",Leukemia || Lymphoma,C0023418 || C0024299,2,2,0.0,0.0
+C2826039,MIR376B wt Allele,gene_associated_with_disease,['C4721610'],['Ovarian Carcinoma'],Ovarian Carcinoma,C4721610,1,1,0.0,0.0
+C1705156,MAP3K8 wt Allele,gene_associated_with_disease,['C0152013'],['Lung Adenocarcinoma'],Lung Adenocarcinoma,C0152013,1,1,0.0,0.0
+C1616867,Oncogene H-Ras,gene_associated_with_disease,['C0005684'],['Malignant Bladder Neoplasm'],Malignant Bladder Neoplasm,C0005684,1,1,0.0,0.0
+C0812289,MYCL Gene,gene_associated_with_disease,['C0149925'],['Lung Small Cell Carcinoma'],Lung Small Cell Carcinoma,C0149925,1,1,0.0,0.0
+C2825955,MIR144 wt Allele,gene_associated_with_disease,['C0039730'],['Thalassemia'],Thalassemia,C0039730,1,1,0.0,0.0
+C1705310,PTEN wt Allele,gene_associated_with_disease,"['C0025286', 'C0206682', 'C0600139', 'C0751396']","['Meningioma', 'Thyroid Gland Follicular Carcinoma', 'Prostate Carcinoma', 'Oligodendroglioma']",Meningioma || Thyroid Gland Follicular Carcinoma || Prostate Carcinoma || Oligodendroglioma,C0025286 || C0206682 || C0600139 || C0751396,4,4,0.0,0.0
+C1416919,LRP8 Gene,gene_associated_with_disease,['C0027051'],['Myocardial Infarction'],Myocardial Infarction,C0027051,1,1,0.0,0.0
+C1334141,IRS2 Gene,gene_associated_with_disease,['C0011849'],['Diabetes Mellitus'],Diabetes Mellitus,C0011849,1,1,0.0,0.0
+C1707110,CDH13 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1537780,MIR130B Gene,gene_associated_with_disease,"['C0023418', 'C2239176']","['Leukemia', 'Hepatocellular Carcinoma']",Leukemia || Hepatocellular Carcinoma,C0023418 || C2239176,2,2,0.0,0.0
+C1826002,MIR146A Gene,gene_associated_with_disease,"['C0002395', 'C0549473', 'C0600139', 'C0678222', 'C2239176', 'C4721610']","[""Alzheimer's Disease"", 'Thyroid Gland Carcinoma', 'Prostate Carcinoma', 'Breast Carcinoma', 'Hepatocellular Carcinoma', 'Ovarian Carcinoma']",Alzheimer's Disease || Thyroid Gland Carcinoma || Prostate Carcinoma || Breast Carcinoma || Hepatocellular Carcinoma || Ovarian Carcinoma,C0002395 || C0549473 || C0600139 || C0678222 || C2239176 || C4721610,6,6,0.0,0.0
+C1332817,CXCL12 Gene,gene_associated_with_disease,['C0001175'],['Acquired Immunodeficiency Syndrome'],Acquired Immunodeficiency Syndrome,C0001175,1,1,0.0,0.0
+C1334511,MLH3 Gene,gene_associated_with_disease,['C4552100'],['Lynch Syndrome'],Lynch Syndrome,C4552100,1,1,0.0,0.0
+C1705614,TGFBR2 wt Allele,gene_associated_with_disease,"['C0007102', 'C4552100']","['Malignant Colon Neoplasm', 'Lynch Syndrome']",Malignant Colon Neoplasm || Lynch Syndrome,C0007102 || C4552100,2,2,0.0,0.0
+C1705146,FGFR4 wt Allele,gene_associated_with_disease,"['C0678222', 'C0684249', 'C0699790', 'C1140680']","['Breast Carcinoma', 'Lung Carcinoma', 'Colon Carcinoma', 'Malignant Ovarian Neoplasm']",Breast Carcinoma || Lung Carcinoma || Colon Carcinoma || Malignant Ovarian Neoplasm,C0678222 || C0684249 || C0699790 || C1140680,4,4,0.0,0.0
+C1336620,TGFA Gene,gene_associated_with_disease,['C0235974'],['Pancreatic Carcinoma'],Pancreatic Carcinoma,C0235974,1,1,0.0,0.0
+C1705002,TERF1 wt Allele,gene_associated_with_disease,['C0699791'],['Gastric Carcinoma'],Gastric Carcinoma,C0699791,1,1,0.0,0.0
+C1970418,MIR376A1 Gene,gene_associated_with_disease,['C4721610'],['Ovarian Carcinoma'],Ovarian Carcinoma,C4721610,1,1,0.0,0.0
+C1710605,VWF wt Allele,gene_associated_with_disease,['C0019069'],['Hemophilia A'],Hemophilia A,C0019069,1,1,0.0,0.0
+C1332743,CDX2 Gene,gene_associated_with_disease,['C0334037'],['Intestinal Metaplasia'],Intestinal Metaplasia,C0334037,1,1,0.0,0.0
+C1705691,ETS1 wt Allele,gene_associated_with_disease,['C1318544'],['Acute Monocytic Leukemia'],Acute Monocytic Leukemia,C1318544,1,1,0.0,0.0
+C1705470,ERCC5 wt Allele,gene_associated_with_disease,"['C0009207', 'C0268141', 'C5399761']","['Cockayne Syndrome', 'Xeroderma Pigmentosum, Complementation Group G', 'Cerebrooculofacioskeletal Syndrome']","Cockayne Syndrome || Xeroderma Pigmentosum, Complementation Group G || Cerebrooculofacioskeletal Syndrome",C0009207 || C0268141 || C5399761,3,3,0.0,0.0
+C1706323,LGI1 wt Allele,gene_associated_with_disease,"['C0555198', 'C0854109']","['Malignant Glioma', 'Congenital Epilepsy']",Malignant Glioma || Congenital Epilepsy,C0555198 || C0854109,2,2,0.0,0.0
+C1334111,IL1A Gene,gene_associated_with_disease,['C0021368'],['Inflammation'],Inflammation,C0021368,1,1,0.0,0.0
+C1332416,BIRC5 Gene,gene_associated_with_disease,"['C0007112', 'C0079740', 'C0152013', 'C0281361', 'C0338106', 'C0858252']","['Prostate Adenocarcinoma', 'High Grade Lymphoma', 'Lung Adenocarcinoma', 'Pancreatic Adenocarcinoma', 'Colon Adenocarcinoma', 'Breast Adenocarcinoma']",Prostate Adenocarcinoma || High Grade Lymphoma || Lung Adenocarcinoma || Pancreatic Adenocarcinoma || Colon Adenocarcinoma || Breast Adenocarcinoma,C0007112 || C0079740 || C0152013 || C0281361 || C0338106 || C0858252,6,6,0.0,0.0
+C1705591,BCAS1 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C2985245,SLC1A2 wt Allele,gene_associated_with_disease,['C0002736'],['Amyotrophic Lateral Sclerosis'],Amyotrophic Lateral Sclerosis,C0002736,1,1,0.0,0.0
+C1426244,SBDS Gene,gene_associated_with_disease,['C0272170'],['Shwachman-Diamond Syndrome'],Shwachman-Diamond Syndrome,C0272170,1,1,0.0,0.0
+C1334513,MLLT1 Gene,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C1705831,ZAP70 wt Allele,gene_associated_with_disease,['C0085110'],['Severe Combined Immunodeficiency'],Severe Combined Immunodeficiency,C0085110,1,1,0.0,0.0
+C1710285,TCTA wt Allele,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C1334906,NRTN Gene,gene_associated_with_disease,['C0019569'],['Hirschsprung Disease'],Hirschsprung Disease,C0019569,1,1,0.0,0.0
+C1336938,VWF Gene,gene_associated_with_disease,['C0019069'],['Hemophilia A'],Hemophilia A,C0019069,1,1,0.0,0.0
+C1708444,ING1 wt Allele,gene_associated_with_disease,['C1168401'],['Head and Neck Squamous Cell Carcinoma'],Head and Neck Squamous Cell Carcinoma,C1168401,1,1,0.0,0.0
+C2348503,FOXO3 wt Allele,gene_associated_with_disease,['C0280449'],['Secondary Acute Myeloid Leukemia'],Secondary Acute Myeloid Leukemia,C0280449,1,1,0.0,0.0
+C1704884,NTRK1 wt Allele,gene_associated_with_disease,['C0238463'],['Thyroid Gland Papillary Carcinoma'],Thyroid Gland Papillary Carcinoma,C0238463,1,1,0.0,0.0
+C1705469,ERCC4 wt Allele,gene_associated_with_disease,['C0268140'],"['Xeroderma Pigmentosum, Complementation Group F']","Xeroderma Pigmentosum, Complementation Group F",C0268140,1,1,0.0,0.0
+C2825952,MIR138-2 wt Allele,gene_associated_with_disease,['C0549473'],['Thyroid Gland Carcinoma'],Thyroid Gland Carcinoma,C0549473,1,1,0.0,0.0
+C1705664,DEFB1 wt Allele,gene_associated_with_disease,['C0010674'],['Cystic Fibrosis'],Cystic Fibrosis,C0010674,1,1,0.0,0.0
+C2697959,MECP2 wt Allele,gene_associated_with_disease,['C0035372'],['Rett Syndrome'],Rett Syndrome,C0035372,1,1,0.0,0.0
+C1706441,MAF wt Allele,gene_associated_with_disease,['C0086543'],['Cataract'],Cataract,C0086543,1,1,0.0,0.0
+C1332112,RHOH Gene,gene_associated_with_disease,['C0024305'],['Non-Hodgkin Lymphoma'],Non-Hodgkin Lymphoma,C0024305,1,1,0.0,0.0
+C1537708,MIR10B Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1366370,F8 Gene,gene_associated_with_disease,['C0019069'],['Hemophilia A'],Hemophilia A,C0019069,1,1,0.0,0.0
+C1537772,MIR125B2 Gene,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C2827565,HBD wt Allele,gene_associated_with_disease,['C2825560'],['S-Beta Thalassemia'],S-Beta Thalassemia,C2825560,1,1,0.0,0.0
+C2825976,MIR182 wt Allele,gene_associated_with_disease,['C0007131'],['Lung Non-Small Cell Carcinoma'],Lung Non-Small Cell Carcinoma,C0007131,1,1,0.0,0.0
+C2347377,OLIG2 wt Allele,gene_associated_with_disease,['C1332146'],['Acute Adult T-Cell Leukemia/Lymphoma'],Acute Adult T-Cell Leukemia/Lymphoma,C1332146,1,1,0.0,0.0
+C2985259,BRD4 wt Allele,gene_associated_with_disease,['C1707291'],['NUT Carcinoma'],NUT Carcinoma,C1707291,1,1,0.0,0.0
+C1537717,MIR19B2 Gene,gene_associated_with_disease,"['C0023493', 'C2239176']","['Adult T-Cell Leukemia/Lymphoma', 'Hepatocellular Carcinoma']",Adult T-Cell Leukemia/Lymphoma || Hepatocellular Carcinoma,C0023493 || C2239176,2,2,0.0,0.0
+C2825922,MIR98 wt Allele,gene_associated_with_disease,['C1168401'],['Head and Neck Squamous Cell Carcinoma'],Head and Neck Squamous Cell Carcinoma,C1168401,1,1,0.0,0.0
+C1537831,MIR196A2 Gene,gene_associated_with_disease,['C0152018'],['Esophageal Carcinoma'],Esophageal Carcinoma,C0152018,1,1,0.0,0.0
+C1705702,TSSC4 wt Allele,gene_associated_with_disease,"['C0027708', 'C0035412', 'C0206686', 'C0678222', 'C0684249', 'C4721610']","['Wilms Tumor', 'Rhabdomyosarcoma', 'Adrenal Cortex Carcinoma', 'Breast Carcinoma', 'Lung Carcinoma', 'Ovarian Carcinoma']",Wilms Tumor || Rhabdomyosarcoma || Adrenal Cortex Carcinoma || Breast Carcinoma || Lung Carcinoma || Ovarian Carcinoma,C0027708 || C0035412 || C0206686 || C0678222 || C0684249 || C4721610,6,6,0.0,0.0
+C2987021,TET2 wt Allele,gene_associated_with_disease,['C0032463'],['Polycythemia Vera'],Polycythemia Vera,C0032463,1,1,0.0,0.0
+C2825805,MIR20B wt Allele,gene_associated_with_disease,['C0025149'],['Medulloblastoma'],Medulloblastoma,C0025149,1,1,0.0,0.0
+C1335872,STAT1 Gene,gene_associated_with_disease,['C0026918'],['Mycobacterial Infection'],Mycobacterial Infection,C0026918,1,1,0.0,0.0
+C1705004,IL10 wt Allele,gene_associated_with_disease,"['C0001175', 'C0010346']","['Acquired Immunodeficiency Syndrome', 'Crohn Disease']",Acquired Immunodeficiency Syndrome || Crohn Disease,C0001175 || C0010346,2,2,0.0,0.0
+C1708415,IGF2R wt Allele,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C1336575,TAP1 Gene,gene_associated_with_disease,"['C0009402', 'C0678222']","['Colorectal Carcinoma', 'Breast Carcinoma']",Colorectal Carcinoma || Breast Carcinoma,C0009402 || C0678222,2,2,0.0,0.0
+C2825965,CTAG1A wt Allele,gene_associated_with_disease,['C0238463'],['Thyroid Gland Papillary Carcinoma'],Thyroid Gland Papillary Carcinoma,C0238463,1,1,0.0,0.0
+C1537779,MIR130A Gene,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C2981743,LAPTM4B wt Allele,gene_associated_with_disease,['C0278493'],['Recurrent Breast Carcinoma'],Recurrent Breast Carcinoma,C0278493,1,1,0.0,0.0
+C1710644,NSD2 wt Allele,gene_associated_with_disease,['C1956097'],['Wolf-Hirschhorn Syndrome'],Wolf-Hirschhorn Syndrome,C1956097,1,1,0.0,0.0
+C1537817,MIR183 Gene,gene_associated_with_disease,['C0684249'],['Lung Carcinoma'],Lung Carcinoma,C0684249,1,1,0.0,0.0
+C1706157,BCAS2 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1709289,OGG1 wt Allele,gene_associated_with_disease,['C0279702'],['Clear Cell Renal Cell Carcinoma'],Clear Cell Renal Cell Carcinoma,C0279702,1,1,0.0,0.0
+C1421516,WNT6 Gene,gene_associated_with_disease,"['C0302592', 'C4721610']","['Cervical Carcinoma', 'Ovarian Carcinoma']",Cervical Carcinoma || Ovarian Carcinoma,C0302592 || C4721610,2,2,0.0,0.0
+C1881943,NAT2*14 Allele,gene_associated_with_disease,['C0024141'],['Systemic Lupus Erythematosus'],Systemic Lupus Erythematosus,C0024141,1,1,0.0,0.0
+C1704852,NUP214 wt Allele,gene_associated_with_disease,['C3463824'],['Myelodysplastic Syndrome'],Myelodysplastic Syndrome,C3463824,1,1,0.0,0.0
+C2697954,MAPT wt Allele,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C1706507,ITGAX wt Allele,gene_associated_with_disease,['C0398738'],['Leukocyte Adhesion Deficiency Type 1'],Leukocyte Adhesion Deficiency Type 1,C0398738,1,1,0.0,0.0
+C1705638,BLNK wt Allele,gene_associated_with_disease,['C0279584'],['Childhood B Acute Lymphoblastic Leukemia'],Childhood B Acute Lymphoblastic Leukemia,C0279584,1,1,0.0,0.0
+C1333660,YEATS4 Gene,gene_associated_with_disease,"['C0004114', 'C0017636']","['Astrocytic Tumor', 'Glioblastoma']",Astrocytic Tumor || Glioblastoma,C0004114 || C0017636,2,2,0.0,0.0
+C1332386,BCAR3 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1335224,PLAU Gene,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C1334347,MUCL1 Gene,gene_associated_with_disease,['C1134719'],"['Invasive Ductal Carcinoma, Not Otherwise Specified']","Invasive Ductal Carcinoma, Not Otherwise Specified",C1134719,1,1,0.0,0.0
+C1336663,TPMT Gene,gene_associated_with_disease,['C0342801'],['Thiopurine Methyltransferase Deficiency'],Thiopurine Methyltransferase Deficiency,C0342801,1,1,0.0,0.0
+C2826583,RCAN1 wt Allele,gene_associated_with_disease,['C0013080'],['Down Syndrome'],Down Syndrome,C0013080,1,1,0.0,0.0
+C1537771,MIR125B1 Gene,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C1881941,NAT2*6 Allele,gene_associated_with_disease,['C0024141'],['Systemic Lupus Erythematosus'],Systemic Lupus Erythematosus,C0024141,1,1,0.0,0.0
+C1332672,CBLB Gene,gene_associated_with_disease,"['C0004364', 'C0011854']","['Autoimmune Disease', 'Type 1 Diabetes Mellitus']",Autoimmune Disease || Type 1 Diabetes Mellitus,C0004364 || C0011854,2,2,0.0,0.0
+C1414331,EIF2B5 Gene,gene_associated_with_disease,['C0270612'],['Leukoencephalopathy'],Leukoencephalopathy,C0270612,1,1,0.0,0.0
+C2987231,UROD wt Allele,gene_associated_with_disease,"['C0162566', 'C0162569']","['Porphyria Cutanea Tarda', 'Hepatoerythropoietic Porphyria']",Porphyria Cutanea Tarda || Hepatoerythropoietic Porphyria,C0162566 || C0162569,2,2,0.0,0.0
+C1704724,FGFR2 wt Allele,gene_associated_with_disease,['C1510455'],['Acrocephalosyndactyly'],Acrocephalosyndactyly,C1510455,1,1,0.0,0.0
+C1826007,MIR193A Gene,gene_associated_with_disease,['C0585362'],['Oral Cavity Squamous Cell Carcinoma'],Oral Cavity Squamous Cell Carcinoma,C0585362,1,1,0.0,0.0
+C1705972,ERCC2 wt Allele,gene_associated_with_disease,"['C0009207', 'C0268138', 'C1955934', 'C5399761']","['Cockayne Syndrome', 'Xeroderma Pigmentosum, Complementation Group D', 'Trichothiodystrophy', 'Cerebrooculofacioskeletal Syndrome']","Cockayne Syndrome || Xeroderma Pigmentosum, Complementation Group D || Trichothiodystrophy || Cerebrooculofacioskeletal Syndrome",C0009207 || C0268138 || C1955934 || C5399761,4,4,0.0,0.0
+C1537713,MIR17 Gene,gene_associated_with_disease,"['C0009402', 'C0023418', 'C0024299', 'C0027819', 'C0549473', 'C0678222', 'C0684249', 'C2239176']","['Colorectal Carcinoma', 'Leukemia', 'Lymphoma', 'Neuroblastoma', 'Thyroid Gland Carcinoma', 'Breast Carcinoma', 'Lung Carcinoma', 'Hepatocellular Carcinoma']",Colorectal Carcinoma || Leukemia || Lymphoma || Neuroblastoma || Thyroid Gland Carcinoma || Breast Carcinoma || Lung Carcinoma || Hepatocellular Carcinoma,C0009402 || C0023418 || C0024299 || C0027819 || C0549473 || C0678222 || C0684249 || C2239176,8,8,0.0,0.0
+C1705012,CSAG2 wt Allele,gene_associated_with_disease,['C0025202'],['Melanoma'],Melanoma,C0025202,1,1,0.0,0.0
+C1705079,CCL2 wt Allele,gene_associated_with_disease,"['C0003873', 'C0004153', 'C0033860']","['Rheumatoid Arthritis', 'Atherosclerosis', 'Psoriasis']",Rheumatoid Arthritis || Atherosclerosis || Psoriasis,C0003873 || C0004153 || C0033860,3,3,0.0,0.0
+C1334306,KDR Gene,gene_associated_with_disease,['C0018916'],['Hemangioma'],Hemangioma,C0018916,1,1,0.0,0.0
+C1825592,IL17A Gene,gene_associated_with_disease,"['C0003873', 'C0026769', 'C0033860']","['Rheumatoid Arthritis', 'Multiple Sclerosis', 'Psoriasis']",Rheumatoid Arthritis || Multiple Sclerosis || Psoriasis,C0003873 || C0026769 || C0033860,3,3,0.0,0.0
+C0879392,MSH3 Gene,gene_associated_with_disease,"['C0346627', 'C0476089']","['Malignant Intestinal Neoplasm', 'Endometrial Carcinoma']",Malignant Intestinal Neoplasm || Endometrial Carcinoma,C0346627 || C0476089,2,2,0.0,0.0
+C1537747,MIR34C Gene,gene_associated_with_disease,"['C0009402', 'C0684249', 'C4721610']","['Colorectal Carcinoma', 'Lung Carcinoma', 'Ovarian Carcinoma']",Colorectal Carcinoma || Lung Carcinoma || Ovarian Carcinoma,C0009402 || C0684249 || C4721610,3,3,0.0,0.0
+C2828054,FANCD2 wt Allele,gene_associated_with_disease,['C0015625'],['Fanconi Anemia'],Fanconi Anemia,C0015625,1,1,0.0,0.0
+C1705389,TRERF1 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1706514,GNAI2 wt Allele,gene_associated_with_disease,['C0032000'],['Pituitary Gland Adenoma'],Pituitary Gland Adenoma,C0032000,1,1,0.0,0.0
+C2825779,MIR7-2 wt Allele,gene_associated_with_disease,"['C0678222', 'C0684249']","['Breast Carcinoma', 'Lung Carcinoma']",Breast Carcinoma || Lung Carcinoma,C0678222 || C0684249,2,2,0.0,0.0
+C1705659,NEURL1 wt Allele,gene_associated_with_disease,['C0334579'],['Anaplastic Astrocytoma'],Anaplastic Astrocytoma,C0334579,1,1,0.0,0.0
+C2825788,MIR9-3 wt Allele,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C1414555,FCGR3A Gene,gene_associated_with_disease,['C0042769'],['Viral Infection'],Viral Infection,C0042769,1,1,0.0,0.0
+C1537706,MIR9-3 Gene,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C1705228,PTCH2 wt Allele,gene_associated_with_disease,"['C0025149', 'C4721806']","['Medulloblastoma', 'Skin Basal Cell Carcinoma']",Medulloblastoma || Skin Basal Cell Carcinoma,C0025149 || C4721806,2,2,0.0,0.0
+C1705081,CCNB1 wt Allele,gene_associated_with_disease,['C0280324'],['Laryngeal Squamous Cell Carcinoma'],Laryngeal Squamous Cell Carcinoma,C0280324,1,1,0.0,0.0
+C2986919,PSEN2 wt Allele,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C1537699,MIR1-1 Gene,gene_associated_with_disease,"['C0684249', 'C0878544', 'C1956346', 'C2239176', 'C2911650']","['Lung Carcinoma', 'Cardiomyopathy', 'Coronary Artery Disease', 'Hepatocellular Carcinoma', 'Ventricular Hypertrophy by ECG Finding']",Lung Carcinoma || Cardiomyopathy || Coronary Artery Disease || Hepatocellular Carcinoma || Ventricular Hypertrophy by ECG Finding,C0684249 || C0878544 || C1956346 || C2239176 || C2911650,5,5,0.0,0.0
+C1710292,THBS1 wt Allele,gene_associated_with_disease,['C0001618'],['Adrenal Cortex Neoplasm'],Adrenal Cortex Neoplasm,C0001618,1,1,0.0,0.0
+C1366557,TGFB1 Gene,gene_associated_with_disease,['C0018179'],['Granular Corneal Dystrophy'],Granular Corneal Dystrophy,C0018179,1,1,0.0,0.0
+C2986630,SLC3A1 wt Allele,gene_associated_with_disease,['C0010691'],['Cystinuria'],Cystinuria,C0010691,1,1,0.0,0.0
+C1706114,CYP17A1 wt Allele,gene_associated_with_disease,['C0342494'],['Adrenal Cortical Hyperplasia'],Adrenal Cortical Hyperplasia,C0342494,1,1,0.0,0.0
+C1706268,LHX2 wt Allele,gene_associated_with_disease,['C1292771'],"['Chronic Myelogenous Leukemia, BCR-ABL1 Positive']","Chronic Myelogenous Leukemia, BCR-ABL1 Positive",C1292771,1,1,0.0,0.0
+C0080279,Oncogene ABL1,gene_associated_with_disease,"['C0023449', 'C0023467', 'C1292771']","['Acute Lymphoblastic Leukemia', 'Acute Myeloid Leukemia', 'Chronic Myelogenous Leukemia, BCR-ABL1 Positive']","Acute Lymphoblastic Leukemia || Acute Myeloid Leukemia || Chronic Myelogenous Leukemia, BCR-ABL1 Positive",C0023449 || C0023467 || C1292771,3,3,0.0,0.0
+C1418985,PSEN1 Gene,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C1704939,ABCB1 wt Allele,gene_associated_with_disease,"['C0010346', 'C0235782']","['Crohn Disease', 'Gallbladder Carcinoma']",Crohn Disease || Gallbladder Carcinoma,C0010346 || C0235782,2,2,0.0,0.0
+C1705989,BMI1 wt Allele,gene_associated_with_disease,['C0079731'],['B-Cell Non-Hodgkin Lymphoma'],B-Cell Non-Hodgkin Lymphoma,C0079731,1,1,0.0,0.0
+C1413857,CYP11B2 Gene,gene_associated_with_disease,['C0020538'],['Hypertension'],Hypertension,C0020538,1,1,0.0,0.0
+C1537774,MIR127 Gene,gene_associated_with_disease,"['C0009402', 'C0600139', 'C0678222', 'C0699885', 'C2239176']","['Colorectal Carcinoma', 'Prostate Carcinoma', 'Breast Carcinoma', 'Bladder Carcinoma', 'Hepatocellular Carcinoma']",Colorectal Carcinoma || Prostate Carcinoma || Breast Carcinoma || Bladder Carcinoma || Hepatocellular Carcinoma,C0009402 || C0600139 || C0678222 || C0699885 || C2239176,5,5,0.0,0.0
+C1537764,MIR106B Gene,gene_associated_with_disease,"['C0023434', 'C0026764', 'C0699791', 'C2239176']","['Chronic Lymphocytic Leukemia', 'Plasma Cell Myeloma', 'Gastric Carcinoma', 'Hepatocellular Carcinoma']",Chronic Lymphocytic Leukemia || Plasma Cell Myeloma || Gastric Carcinoma || Hepatocellular Carcinoma,C0023434 || C0026764 || C0699791 || C2239176,4,4,0.0,0.0
+C2698417,NPHP1 wt Allele,gene_associated_with_disease,"['C1846790', 'C4551979']","['Joubert Syndrome Type 4', 'Nephronophthisis 1']",Joubert Syndrome Type 4 || Nephronophthisis 1,C1846790 || C4551979,2,2,0.0,0.0
+C1336686,TSSC4 Gene,gene_associated_with_disease,"['C0027708', 'C0035412', 'C0206686', 'C0678222', 'C0684249', 'C4721610']","['Wilms Tumor', 'Rhabdomyosarcoma', 'Adrenal Cortex Carcinoma', 'Breast Carcinoma', 'Lung Carcinoma', 'Ovarian Carcinoma']",Wilms Tumor || Rhabdomyosarcoma || Adrenal Cortex Carcinoma || Breast Carcinoma || Lung Carcinoma || Ovarian Carcinoma,C0027708 || C0035412 || C0206686 || C0678222 || C0684249 || C4721610,6,6,0.0,0.0
+C1537701,MIR7-1 Gene,gene_associated_with_disease,"['C0678222', 'C0684249']","['Breast Carcinoma', 'Lung Carcinoma']",Breast Carcinoma || Lung Carcinoma,C0678222 || C0684249,2,2,0.0,0.0
+C0242957,ERBB2 Gene,gene_associated_with_disease,"['C0017636', 'C0152013', 'C4721610']","['Glioblastoma', 'Lung Adenocarcinoma', 'Ovarian Carcinoma']",Glioblastoma || Lung Adenocarcinoma || Ovarian Carcinoma,C0017636 || C0152013 || C4721610,3,3,0.0,0.0
+C1710323,TPMT*V5 Allele,gene_associated_with_disease,['C0342801'],['Thiopurine Methyltransferase Deficiency'],Thiopurine Methyltransferase Deficiency,C0342801,1,1,0.0,0.0
+C2826020,MIR222 wt Allele,gene_associated_with_disease,"['C0017636', 'C0278883', 'C0549473', 'C0600139', 'C0678222', 'C0684249']","['Glioblastoma', 'Metastatic Melanoma', 'Thyroid Gland Carcinoma', 'Prostate Carcinoma', 'Breast Carcinoma', 'Lung Carcinoma']",Glioblastoma || Metastatic Melanoma || Thyroid Gland Carcinoma || Prostate Carcinoma || Breast Carcinoma || Lung Carcinoma,C0017636 || C0278883 || C0549473 || C0600139 || C0678222 || C0684249,6,6,0.0,0.0
+C1705771,CYP19A1 wt Allele,gene_associated_with_disease,"['C0014175', 'C0018418']","['Endometriosis', 'Gynecomastia']",Endometriosis || Gynecomastia,C0014175 || C0018418,2,2,0.0,0.0
+C1706024,BRMS1 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C2825950,MIR138-1 wt Allele,gene_associated_with_disease,['C0549473'],['Thyroid Gland Carcinoma'],Thyroid Gland Carcinoma,C0549473,1,1,0.0,0.0
+C1332774,COL4A3 Gene,gene_associated_with_disease,"['C0403529', 'C1567741']","['Goodpasture Syndrome', 'Alport Syndrome']",Goodpasture Syndrome || Alport Syndrome,C0403529 || C1567741,2,2,0.0,0.0
+C1705956,ARAF wt Allele,gene_associated_with_disease,['C0024314'],['Lymphoproliferative Disorder'],Lymphoproliferative Disorder,C0024314,1,1,0.0,0.0
+C1836306,MIR124-1 Gene,gene_associated_with_disease,"['C0009402', 'C0017636', 'C0023418', 'C0025149', 'C0678222', 'C0684249']","['Colorectal Carcinoma', 'Glioblastoma', 'Leukemia', 'Medulloblastoma', 'Breast Carcinoma', 'Lung Carcinoma']",Colorectal Carcinoma || Glioblastoma || Leukemia || Medulloblastoma || Breast Carcinoma || Lung Carcinoma,C0009402 || C0017636 || C0023418 || C0025149 || C0678222 || C0684249,6,6,0.0,0.0
+C1416825,LEP Gene,gene_associated_with_disease,['C0011849'],['Diabetes Mellitus'],Diabetes Mellitus,C0011849,1,1,0.0,0.0
+C1537703,MIR7-3 Gene,gene_associated_with_disease,"['C0678222', 'C0684249']","['Breast Carcinoma', 'Lung Carcinoma']",Breast Carcinoma || Lung Carcinoma,C0678222 || C0684249,2,2,0.0,0.0
+C2825771,MIRLET7B wt Allele,gene_associated_with_disease,"['C0025202', 'C0684249']","['Melanoma', 'Lung Carcinoma']",Melanoma || Lung Carcinoma,C0025202 || C0684249,2,2,0.0,0.0
+C2699754,TGIF1 wt Allele,gene_associated_with_disease,['C1840528'],['Holoprosencephaly Type 4'],Holoprosencephaly Type 4,C1840528,1,1,0.0,0.0
+C1420306,SOD1 Gene,gene_associated_with_disease,['C0002736'],['Amyotrophic Lateral Sclerosis'],Amyotrophic Lateral Sclerosis,C0002736,1,1,0.0,0.0
+C1333252,DRD2 2 Allele,gene_associated_with_disease,['C0036341'],['Schizophrenia'],Schizophrenia,C0036341,1,1,0.0,0.0
+C1413933,DCT Gene,gene_associated_with_disease,['C0025202'],['Melanoma'],Melanoma,C0025202,1,1,0.0,0.0
+C1708299,HTR2A 2 Allele,gene_associated_with_disease,['C0036341'],['Schizophrenia'],Schizophrenia,C0036341,1,1,0.0,0.0
+C1333576,FRAT1 Gene,gene_associated_with_disease,['C0079740'],['High Grade Lymphoma'],High Grade Lymphoma,C0079740,1,1,0.0,0.0
+C0242991,Oncogene ERB A,gene_associated_with_disease,['C0032000'],['Pituitary Gland Adenoma'],Pituitary Gland Adenoma,C0032000,1,1,0.0,0.0
+C2826005,MIR200B wt Allele,gene_associated_with_disease,"['C0206698', 'C0678222', 'C2239176']","['Cholangiocarcinoma', 'Breast Carcinoma', 'Hepatocellular Carcinoma']",Cholangiocarcinoma || Breast Carcinoma || Hepatocellular Carcinoma,C0206698 || C0678222 || C2239176,3,3,0.0,0.0
+C1853131,MIR23B Gene,gene_associated_with_disease,['C0600139'],['Prostate Carcinoma'],Prostate Carcinoma,C0600139,1,1,0.0,0.0
+C2826023,MIR298 wt Allele,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C1414637,FLNC Gene,gene_associated_with_disease,['C2678065'],['Myofibrillar Myopathy'],Myofibrillar Myopathy,C2678065,1,1,0.0,0.0
+C0919524,ATM Gene,gene_associated_with_disease,"['C0023418', 'C0024299', 'C0678222']","['Leukemia', 'Lymphoma', 'Breast Carcinoma']",Leukemia || Lymphoma || Breast Carcinoma,C0023418 || C0024299 || C0678222,3,3,0.0,0.0
+C1539630,HBEGF Gene,gene_associated_with_disease,['C0012546'],['Diphtheria'],Diphtheria,C0012546,1,1,0.0,0.0
+C1367710,C5 Gene,gene_associated_with_disease,['C0343047'],['C5 Deficiency'],C5 Deficiency,C0343047,1,1,0.0,0.4999999950000001
+C1537719,MIR21 Gene,gene_associated_with_disease,"['C0017636', 'C0152018', 'C0235974', 'C0600139', 'C0677865', 'C0678222', 'C0699791', 'C1168401', 'C2239176']","['Glioblastoma', 'Esophageal Carcinoma', 'Pancreatic Carcinoma', 'Prostate Carcinoma', 'Brain Stem Glioma', 'Breast Carcinoma', 'Gastric Carcinoma', 'Head and Neck Squamous Cell Carcinoma', 'Hepatocellular Carcinoma']",Glioblastoma || Esophageal Carcinoma || Pancreatic Carcinoma || Prostate Carcinoma || Brain Stem Glioma || Breast Carcinoma || Gastric Carcinoma || Head and Neck Squamous Cell Carcinoma || Hepatocellular Carcinoma,C0017636 || C0152018 || C0235974 || C0600139 || C0677865 || C0678222 || C0699791 || C1168401 || C2239176,9,9,0.0,0.0
+C1537859,MIR221 Gene,gene_associated_with_disease,"['C0017636', 'C0025202', 'C0549473', 'C0600139', 'C0678222', 'C0684249', 'C2239176', 'C4721610']","['Glioblastoma', 'Melanoma', 'Thyroid Gland Carcinoma', 'Prostate Carcinoma', 'Breast Carcinoma', 'Lung Carcinoma', 'Hepatocellular Carcinoma', 'Ovarian Carcinoma']",Glioblastoma || Melanoma || Thyroid Gland Carcinoma || Prostate Carcinoma || Breast Carcinoma || Lung Carcinoma || Hepatocellular Carcinoma || Ovarian Carcinoma,C0017636 || C0025202 || C0549473 || C0600139 || C0678222 || C0684249 || C2239176 || C4721610,8,8,0.0,0.0
+C1706882,BCAS4 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1708267,HCK wt Allele,gene_associated_with_disease,"['C0023418', 'C1301355']","['Leukemia', 'Myelodysplastic/Myeloproliferative Neoplasm']",Leukemia || Myelodysplastic/Myeloproliferative Neoplasm,C0023418 || C1301355,2,2,0.0,0.0
+C2826003,MIR199A2 wt Allele,gene_associated_with_disease,['C4721610'],['Ovarian Carcinoma'],Ovarian Carcinoma,C4721610,1,1,0.0,0.0
+C2984882,MEF2B wt Allele,gene_associated_with_disease,['C0023449'],['Acute Lymphoblastic Leukemia'],Acute Lymphoblastic Leukemia,C0023449,1,1,0.0,0.0
+C2985424,DDB2 wt Allele,gene_associated_with_disease,['C0043346'],['Xeroderma Pigmentosum'],Xeroderma Pigmentosum,C0043346,1,1,0.0,0.0
+C1705646,SCTR wt Allele,gene_associated_with_disease,['C0235974'],['Pancreatic Carcinoma'],Pancreatic Carcinoma,C0235974,1,1,0.0,0.0
+C0376622,ABCB1 Gene,gene_associated_with_disease,"['C0010346', 'C0235782']","['Crohn Disease', 'Gallbladder Carcinoma']",Crohn Disease || Gallbladder Carcinoma,C0010346 || C0235782,2,2,0.0,0.0
+C1417497,MUC5AC Gene,gene_associated_with_disease,['C0004763'],['Barrett Esophagus'],Barrett Esophagus,C0004763,1,1,0.0,0.0
+C1366459,BCAR1 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1332773,COL1A2 Gene,gene_associated_with_disease,"['C0029434', 'C0029456']","['Osteogenesis Imperfecta', 'Osteoporosis']",Osteogenesis Imperfecta || Osteoporosis,C0029434 || C0029456,2,2,0.0,0.0
+C1707068,C5 wt Allele,gene_associated_with_disease,['C0343047'],['C5 Deficiency'],C5 Deficiency,C0343047,1,1,0.0,0.39999999520000007
+C1415195,GPC3 Gene,gene_associated_with_disease,['C0027708'],['Wilms Tumor'],Wilms Tumor,C0027708,1,1,0.0,0.0
+C1705268,HMOX1 wt Allele,gene_associated_with_disease,['C0007137'],['Squamous Cell Carcinoma'],Squamous Cell Carcinoma,C0007137,1,1,0.0,0.0
+C2986861,MIR194-1 wt Allele,gene_associated_with_disease,['C0026764'],['Plasma Cell Myeloma'],Plasma Cell Myeloma,C0026764,1,1,0.0,0.0
+C1705041,NBN wt Allele,gene_associated_with_disease,"['C0023449', 'C0398791']","['Acute Lymphoblastic Leukemia', 'Nijmegen Breakage Syndrome']",Acute Lymphoblastic Leukemia || Nijmegen Breakage Syndrome,C0023449 || C0398791,2,2,0.0,0.0
+C2826001,MIR198 wt Allele,gene_associated_with_disease,['C0036341'],['Schizophrenia'],Schizophrenia,C0036341,1,1,0.0,0.0
+C1709144,ERGIC3 Gene,gene_associated_with_disease,['C1458155'],['Breast Neoplasm'],Breast Neoplasm,C1458155,1,1,0.0,0.0
+C1332707,CD209 Gene,gene_associated_with_disease,['C0001175'],['Acquired Immunodeficiency Syndrome'],Acquired Immunodeficiency Syndrome,C0001175,1,1,0.0,0.0
+C1704984,IRS1 wt Allele,gene_associated_with_disease,['C0011849'],['Diabetes Mellitus'],Diabetes Mellitus,C0011849,1,1,0.0,0.0
+C1419771,RUNX2 Gene,gene_associated_with_disease,['C0008928'],['Cleidocranial Dysplasia'],Cleidocranial Dysplasia,C0008928,1,1,0.0,0.0
+C1708026,FSTL3 wt Allele,gene_associated_with_disease,['C0079731'],['B-Cell Non-Hodgkin Lymphoma'],B-Cell Non-Hodgkin Lymphoma,C0079731,1,1,0.0,0.0
+C1705138,EZH2 wt Allele,gene_associated_with_disease,['C0936223'],['Metastatic Prostate Carcinoma'],Metastatic Prostate Carcinoma,C0936223,1,1,0.0,0.0
+C1825278,FANCI Gene,gene_associated_with_disease,['C0015625'],['Fanconi Anemia'],Fanconi Anemia,C0015625,1,1,0.0,0.0
+C1709801,RAD54L wt Allele,gene_associated_with_disease,"['C0024305', 'C0338106', 'C0678222']","['Non-Hodgkin Lymphoma', 'Colon Adenocarcinoma', 'Breast Carcinoma']",Non-Hodgkin Lymphoma || Colon Adenocarcinoma || Breast Carcinoma,C0024305 || C0338106 || C0678222,3,3,0.0,0.0
+C1336631,TINF2 Gene,gene_associated_with_disease,['C0206664'],['Mixed Embryonal Carcinoma and Teratoma'],Mixed Embryonal Carcinoma and Teratoma,C0206664,1,1,0.0,0.0
+C1415877,IDH2 Gene,gene_associated_with_disease,"['C0004114', 'C0751396', 'C1519214']","['Astrocytoma', 'Oligodendroglioma', 'Secondary Glioblastoma']",Astrocytoma || Oligodendroglioma || Secondary Glioblastoma,C0004114 || C0751396 || C1519214,3,3,0.0,0.0
+C1709991,SNCG wt Allele,gene_associated_with_disease,"['C0270715', 'C0678222', 'C1140680']","['Central Nervous System Degenerative Disorder', 'Breast Carcinoma', 'Malignant Ovarian Neoplasm']",Central Nervous System Degenerative Disorder || Breast Carcinoma || Malignant Ovarian Neoplasm,C0270715 || C0678222 || C1140680,3,3,0.0,0.0
+C1333351,EPSTI1 Gene,gene_associated_with_disease,['C1292778'],['Myeloproliferative Neoplasm'],Myeloproliferative Neoplasm,C1292778,1,1,0.0,0.0
+C1334307,KISS1 Gene,gene_associated_with_disease,"['C0025202', 'C0678222']","['Melanoma', 'Breast Carcinoma']",Melanoma || Breast Carcinoma,C0025202 || C0678222,2,2,0.0,0.0
+C1420562,TBXT Gene,gene_associated_with_disease,['C0008487'],['Chordoma'],Chordoma,C0008487,1,1,0.0,0.0
+C1332400,BCL7A Gene,gene_associated_with_disease,['C0024305'],['Non-Hodgkin Lymphoma'],Non-Hodgkin Lymphoma,C0024305,1,1,0.0,0.0
+C2825793,MIR15A wt Allele,gene_associated_with_disease,"['C0022680', 'C0023434', 'C0023487', 'C0032000', 'C0158683', 'C0600139', 'C1292771']","['Polycystic Kidney Disease', 'Chronic Lymphocytic Leukemia', 'Acute Promyelocytic Leukemia with PML-RARA', 'Pituitary Gland Adenoma', 'Polycystic Liver Disease', 'Prostate Carcinoma', 'Chronic Myelogenous Leukemia, BCR-ABL1 Positive']","Polycystic Kidney Disease || Chronic Lymphocytic Leukemia || Acute Promyelocytic Leukemia with PML-RARA || Pituitary Gland Adenoma || Polycystic Liver Disease || Prostate Carcinoma || Chronic Myelogenous Leukemia, BCR-ABL1 Positive",C0022680 || C0023434 || C0023487 || C0032000 || C0158683 || C0600139 || C1292771,7,7,0.0,0.0
+C1335871,SST Gene,gene_associated_with_disease,['C0001418'],['Adenocarcinoma'],Adenocarcinoma,C0001418,1,1,0.0,0.0
+C0380093,LMO2 Gene,gene_associated_with_disease,['C0023449'],['Acute Lymphoblastic Leukemia'],Acute Lymphoblastic Leukemia,C0023449,1,1,0.0,0.0
+C2698423,NSD1 wt Allele,gene_associated_with_disease,"['C0004903', 'C0175695']","['Beckwith-Wiedemann Syndrome', 'Sotos Syndrome']",Beckwith-Wiedemann Syndrome || Sotos Syndrome,C0004903 || C0175695,2,2,0.0,0.0
+C1417666,NEFH Gene,gene_associated_with_disease,['C0002736'],['Amyotrophic Lateral Sclerosis'],Amyotrophic Lateral Sclerosis,C0002736,1,1,0.0,0.0
+C2697530,HBA2 wt Allele,gene_associated_with_disease,['C0002312'],['Alpha Thalassemia'],Alpha Thalassemia,C0002312,1,1,0.0,0.0
+C1415562,HLA-C Gene,gene_associated_with_disease,['C0278722'],['DS Stage I Plasma Cell Myeloma'],DS Stage I Plasma Cell Myeloma,C0278722,1,1,0.0,0.0
+C1826025,MIR433 Gene,gene_associated_with_disease,['C0030567'],"[""Parkinson's Disease""]",Parkinson's Disease,C0030567,1,1,0.0,0.0
+C2826053,MIR196A2 wt Allele,gene_associated_with_disease,['C0152018'],['Esophageal Carcinoma'],Esophageal Carcinoma,C0152018,1,1,0.0,0.0
+C2826010,MIR205 wt Allele,gene_associated_with_disease,"['C0007137', 'C0678222']","['Squamous Cell Carcinoma', 'Breast Carcinoma']",Squamous Cell Carcinoma || Breast Carcinoma,C0007137 || C0678222,2,2,0.0,0.0
+C1710649,WNT10B wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1332412,BIN1 Gene,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C2981726,RB1CC1 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1705437,CDH3 wt Allele,gene_associated_with_disease,['C0279672'],['Cervical Adenocarcinoma'],Cervical Adenocarcinoma,C0279672,1,1,0.0,0.0
+C1332714,CD4 Gene,gene_associated_with_disease,['C0024141'],['Systemic Lupus Erythematosus'],Systemic Lupus Erythematosus,C0024141,1,1,0.0,0.0
+C1334140,IRS1 Gene,gene_associated_with_disease,['C0011849'],['Diabetes Mellitus'],Diabetes Mellitus,C0011849,1,1,0.0,0.0
+C1704969,BTG2 wt Allele,gene_associated_with_disease,['C0023434'],['Chronic Lymphocytic Leukemia'],Chronic Lymphocytic Leukemia,C0023434,1,1,0.0,0.0
+C1424631,LRRN2 Gene,gene_associated_with_disease,['C0555198'],['Malignant Glioma'],Malignant Glioma,C0555198,1,1,0.0,0.0
+C0812305,EPCAM Gene,gene_associated_with_disease,['C0009402'],['Colorectal Carcinoma'],Colorectal Carcinoma,C0009402,1,1,0.0,0.0
+C1705316,TERT wt Allele,gene_associated_with_disease,['C0027819'],['Neuroblastoma'],Neuroblastoma,C0027819,1,1,0.0,0.0
+C1881940,NAT2*5 Allele,gene_associated_with_disease,['C0024141'],['Systemic Lupus Erythematosus'],Systemic Lupus Erythematosus,C0024141,1,1,0.0,0.0
+C1704826,ERBB4 wt Allele,gene_associated_with_disease,"['C0006142', 'C0280100']","['Malignant Breast Neoplasm', 'Solid Neoplasm']",Malignant Breast Neoplasm || Solid Neoplasm,C0006142 || C0280100,2,2,0.0,0.0
+C2982394,TARP Gene,gene_associated_with_disease,"['C0600139', 'C0678222']","['Prostate Carcinoma', 'Breast Carcinoma']",Prostate Carcinoma || Breast Carcinoma,C0600139 || C0678222,2,2,0.0,0.0
+C1332720,CDK11B Gene,gene_associated_with_disease,['C0027819'],['Neuroblastoma'],Neuroblastoma,C0027819,1,1,0.0,0.0
+C2827557,TNFRSF11A wt Allele,gene_associated_with_disease,['C0029401'],['Bone Paget Disease'],Bone Paget Disease,C0029401,1,1,0.0,0.0
+C1412481,APOE Gene,gene_associated_with_disease,"['C0002395', 'C0004153', 'C0020476']","[""Alzheimer's Disease"", 'Atherosclerotic Cardiovascular Disease', 'Hyperlipoproteinemia']",Alzheimer's Disease || Atherosclerotic Cardiovascular Disease || Hyperlipoproteinemia,C0002395 || C0004153 || C0020476,3,3,0.0,0.0
+C1332417,BIRC6 Gene,gene_associated_with_disease,"['C0017638', 'C1140680']","['Glioma', 'Malignant Ovarian Neoplasm']",Glioma || Malignant Ovarian Neoplasm,C0017638 || C1140680,2,2,0.0,0.0
+C1708811,MCL1 wt Allele,gene_associated_with_disease,['C0023434'],['Chronic Lymphocytic Leukemia'],Chronic Lymphocytic Leukemia,C0023434,1,1,0.0,0.0
+C1332729,CDH5 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C2826006,MIR200C wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C2825954,MIR143 wt Allele,gene_associated_with_disease,"['C0006413', 'C0009402', 'C0023434', 'C0028754', 'C0079744', 'C0699885']","['Burkitt Lymphoma', 'Colorectal Carcinoma', 'Chronic Lymphocytic Leukemia', 'Obesity', 'Diffuse Large B-Cell Lymphoma', 'Bladder Carcinoma']",Burkitt Lymphoma || Colorectal Carcinoma || Chronic Lymphocytic Leukemia || Obesity || Diffuse Large B-Cell Lymphoma || Bladder Carcinoma,C0006413 || C0009402 || C0023434 || C0028754 || C0079744 || C0699885,6,6,0.0,0.0
+C1332661,CASP10 Gene,gene_associated_with_disease,['C0024305'],['Non-Hodgkin Lymphoma'],Non-Hodgkin Lymphoma,C0024305,1,1,0.0,0.0
+C1704885,RET wt Allele,gene_associated_with_disease,['C4551683'],['Adrenal Gland Pheochromocytoma'],Adrenal Gland Pheochromocytoma,C4551683,1,1,0.0,0.0
+C1334468,SMAD2 Gene,gene_associated_with_disease,['C0009402'],['Colorectal Carcinoma'],Colorectal Carcinoma,C0009402,1,1,0.0,0.0
+C1414327,EIF2B1 Gene,gene_associated_with_disease,['C0270612'],['Leukoencephalopathy'],Leukoencephalopathy,C0270612,1,1,0.0,0.0
+C1333342,EPOR Gene,gene_associated_with_disease,"['C0152264', 'C4520840']","['Familial Polycythemia', 'Erythroleukemia']",Familial Polycythemia || Erythroleukemia,C0152264 || C4520840,2,2,0.0,0.0
+C1367597,AFP Gene,gene_associated_with_disease,"['C0039538', 'C2239176']","['Teratoma', 'Hepatocellular Carcinoma']",Teratoma || Hepatocellular Carcinoma,C0039538 || C2239176,2,2,0.0,0.0
+C2825790,MIR10A wt Allele,gene_associated_with_disease,['C1292771'],"['Chronic Myelogenous Leukemia, BCR-ABL1 Positive']","Chronic Myelogenous Leukemia, BCR-ABL1 Positive",C1292771,1,1,0.0,0.0
+C0812230,AKT2 Gene,gene_associated_with_disease,"['C0011860', 'C4721610']","['Type 2 Diabetes Mellitus', 'Ovarian Carcinoma']",Type 2 Diabetes Mellitus || Ovarian Carcinoma,C0011860 || C4721610,2,2,0.0,0.0
+C1705729,SFRP4 wt Allele,gene_associated_with_disease,"['C0029442', 'C0035579', 'C0595888']","['Osteomalacia', 'Rickets', 'Hypophosphatemia']",Osteomalacia || Rickets || Hypophosphatemia,C0029442 || C0035579 || C0595888,3,3,0.0,0.0
+C1705718,AXL wt Allele,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C2826547,LIPC wt Allele,gene_associated_with_disease,['C0020473'],['Hyperlipidemia'],Hyperlipidemia,C0020473,1,1,0.0,0.0
+C1707119,CDKN3 wt Allele,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C1826004,MIR181A1 Gene,gene_associated_with_disease,"['C0026764', 'C0677865']","['Plasma Cell Myeloma', 'Brain Stem Glioma']",Plasma Cell Myeloma || Brain Stem Glioma,C0026764 || C0677865,2,2,0.0,0.0
+C2825821,MIR30A wt Allele,gene_associated_with_disease,['C0852683'],['Glomerular Vascular Disorder'],Glomerular Vascular Disorder,C0852683,1,1,0.0,0.0
+C2825785,MIRLET7I wt Allele,gene_associated_with_disease,['C4721610'],['Ovarian Carcinoma'],Ovarian Carcinoma,C4721610,1,1,0.0,0.0
+C0919429,SRD5A2 Gene,gene_associated_with_disease,['C0848558'],['Hypospadias'],Hypospadias,C0848558,1,1,0.0,0.0
+C1335081,OGG1 Gene,gene_associated_with_disease,['C0279702'],['Clear Cell Renal Cell Carcinoma'],Clear Cell Renal Cell Carcinoma,C0279702,1,1,0.0,0.0
+C2825928,MIR122 wt Allele,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C2826014,MIR208B wt Allele,gene_associated_with_disease,['C2911650'],['Ventricular Hypertrophy by ECG Finding'],Ventricular Hypertrophy by ECG Finding,C2911650,1,1,0.0,0.0
+C1706038,CDX2 wt Allele,gene_associated_with_disease,['C0334037'],['Intestinal Metaplasia'],Intestinal Metaplasia,C0334037,1,1,0.0,0.0
+C1537873,MIR324 Gene,gene_associated_with_disease,['C0025149'],['Medulloblastoma'],Medulloblastoma,C0025149,1,1,0.0,0.0
+C1704962,BCL7A wt Allele,gene_associated_with_disease,['C0024305'],['Non-Hodgkin Lymphoma'],Non-Hodgkin Lymphoma,C0024305,1,1,0.0,0.0
+C2697539,HIRA wt Allele,gene_associated_with_disease,['C0012236'],['22q11.2 Deletion Syndrome'],22q11.2 Deletion Syndrome,C0012236,1,1,0.0,0.0
+C4724095,MIR27B wt Allele,gene_associated_with_disease,"['C0023434', 'C0678222']","['Chronic Lymphocytic Leukemia', 'Breast Carcinoma']",Chronic Lymphocytic Leukemia || Breast Carcinoma,C0023434 || C0678222,2,2,0.0,0.0
+C1336662,TPD52 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1414529,FANCC Gene,gene_associated_with_disease,['C0015625'],['Fanconi Anemia'],Fanconi Anemia,C0015625,1,1,0.0,0.0
+C1415793,HSPG2 Gene,gene_associated_with_disease,['C0036391'],['Schwartz-Jampel Syndrome'],Schwartz-Jampel Syndrome,C0036391,1,1,0.0,0.0
+C1334291,JAK2 Gene,gene_associated_with_disease,['C0019829'],['Hodgkin Lymphoma'],Hodgkin Lymphoma,C0019829,1,1,0.0,0.0
+C1706600,CHKA wt Allele,gene_associated_with_disease,"['C0009402', 'C0600139', 'C0678222', 'C0684249']","['Colorectal Carcinoma', 'Prostate Carcinoma', 'Breast Carcinoma', 'Lung Carcinoma']",Colorectal Carcinoma || Prostate Carcinoma || Breast Carcinoma || Lung Carcinoma,C0009402 || C0600139 || C0678222 || C0684249,4,4,0.0,0.0
+C1709130,NME1 wt Allele,gene_associated_with_disease,['C0027819'],['Neuroblastoma'],Neuroblastoma,C0027819,1,1,0.0,0.0
+C2826002,MIR199A1 wt Allele,gene_associated_with_disease,['C4721610'],['Ovarian Carcinoma'],Ovarian Carcinoma,C4721610,1,1,0.0,0.0
+C0812287,MYCN Gene,gene_associated_with_disease,['C0027819'],['Neuroblastoma'],Neuroblastoma,C0027819,1,1,0.0,0.0
+C1705344,LYST wt Allele,gene_associated_with_disease,['C0007965'],['Chediak-Higashi Syndrome'],Chediak-Higashi Syndrome,C0007965,1,1,0.0,0.0
+C1705139,TACC3 wt Allele,gene_associated_with_disease,['C0026764'],['Plasma Cell Myeloma'],Plasma Cell Myeloma,C0026764,1,1,0.0,0.0
+C1335285,PTPRC Gene,gene_associated_with_disease,['C0026769'],['Multiple Sclerosis'],Multiple Sclerosis,C0026769,1,1,0.0,0.0
+C1823619,VEGFA Gene,gene_associated_with_disease,['C0011884'],['Diabetic Retinopathy'],Diabetic Retinopathy,C0011884,1,1,0.0,0.0
+C2825774,MIRLET7E wt Allele,gene_associated_with_disease,['C0684249'],['Lung Carcinoma'],Lung Carcinoma,C0684249,1,1,0.0,0.0
+C1540187,ADIPOQ Gene,gene_associated_with_disease,['C0011860'],['Type 2 Diabetes Mellitus'],Type 2 Diabetes Mellitus,C0011860,1,1,0.0,0.0
+C1710319,TPMT*3C Allele,gene_associated_with_disease,['C0342801'],['Thiopurine Methyltransferase Deficiency'],Thiopurine Methyltransferase Deficiency,C0342801,1,1,0.0,0.0
+C0086661,Oncogene MYC,gene_associated_with_disease,['C0006413'],['Burkitt Lymphoma'],Burkitt Lymphoma,C0006413,1,1,0.0,0.0
+C1706227,MLLT1 wt Allele,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C1704793,POMC wt Allele,gene_associated_with_disease,"['C0028754', 'C0405580']","['Obesity', 'Adrenocortical Insufficiency']",Obesity || Adrenocortical Insufficiency,C0028754 || C0405580,2,2,0.0,0.0
+C2825746,MIRLET7D wt Allele,gene_associated_with_disease,"['C0023487', 'C0042133', 'C0684249', 'C4721610']","['Acute Promyelocytic Leukemia with PML-RARA', 'Uterine Corpus Leiomyoma', 'Lung Carcinoma', 'Ovarian Carcinoma']",Acute Promyelocytic Leukemia with PML-RARA || Uterine Corpus Leiomyoma || Lung Carcinoma || Ovarian Carcinoma,C0023487 || C0042133 || C0684249 || C4721610,4,4,0.0,0.0
+C1333899,HLA-A Gene,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C0812444,CD82 Gene,gene_associated_with_disease,['C0600139'],['Prostate Carcinoma'],Prostate Carcinoma,C0600139,1,1,0.0,0.0
+C1537884,MIR342 Gene,gene_associated_with_disease,['C0009402'],['Colorectal Carcinoma'],Colorectal Carcinoma,C0009402,1,1,0.0,0.0
+C1336601,TEC Gene,gene_associated_with_disease,['C3463824'],['Myelodysplastic Syndrome'],Myelodysplastic Syndrome,C3463824,1,1,0.0,0.0
+C1337032,XRCC3 Gene,gene_associated_with_disease,['C0025202'],['Melanoma'],Melanoma,C0025202,1,1,0.0,0.0
+C1332694,CCNA2 Gene,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C1336599,TCTA Gene,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C1707171,CXCR4 wt Allele,gene_associated_with_disease,['C0001175'],['Acquired Immunodeficiency Syndrome'],Acquired Immunodeficiency Syndrome,C0001175,1,1,0.0,0.0
+C1332764,CLCA2 Gene,gene_associated_with_disease,"['C0010674', 'C0678222']","['Cystic Fibrosis', 'Breast Carcinoma']",Cystic Fibrosis || Breast Carcinoma,C0010674 || C0678222,2,2,0.0,0.0
+C1705059,PRICKLE4 wt Allele,gene_associated_with_disease,['C1458155'],['Breast Neoplasm'],Breast Neoplasm,C1458155,1,1,0.0,0.0
+C1332116,ARNT Gene,gene_associated_with_disease,['C0023467'],['Acute Myeloid Leukemia'],Acute Myeloid Leukemia,C0023467,1,1,0.0,0.0
+C1706023,PTK6 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1705063,CASP5 wt Allele,gene_associated_with_disease,['C1961099'],['T Acute Lymphoblastic Leukemia'],T Acute Lymphoblastic Leukemia,C1961099,1,1,0.0,0.0
+C1865068,MIR122 Gene,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C0812306,GLI2 Gene,gene_associated_with_disease,['C4721806'],['Skin Basal Cell Carcinoma'],Skin Basal Cell Carcinoma,C4721806,1,1,0.0,0.0
+C1537840,MIR200C Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C2697861,LRRK2 wt Allele,gene_associated_with_disease,['C0030567'],"[""Parkinson's Disease""]",Parkinson's Disease,C0030567,1,1,0.0,0.0
+C2826015,MIR210 wt Allele,gene_associated_with_disease,"['C0023487', 'C0678222']","['Acute Promyelocytic Leukemia with PML-RARA', 'Breast Carcinoma']",Acute Promyelocytic Leukemia with PML-RARA || Breast Carcinoma,C0023487 || C0678222,2,2,0.0,0.0
+C1366488,CRH Gene,gene_associated_with_disease,"['C0002395', 'C0019158', 'C0020615']","[""Alzheimer's Disease"", 'Hepatitis', 'Hypoglycemia']",Alzheimer's Disease || Hepatitis || Hypoglycemia,C0002395 || C0019158 || C0020615,3,3,0.0,0.0
+C1706027,H19 wt Allele,gene_associated_with_disease,['C0004903'],['Beckwith-Wiedemann Syndrome'],Beckwith-Wiedemann Syndrome,C0004903,1,1,0.0,0.0
+C1837033,NUTM1 Gene,gene_associated_with_disease,['C1707291'],['NUT Carcinoma'],NUT Carcinoma,C1707291,1,1,0.0,0.0
+C1706153,CEACAM7 wt Allele,gene_associated_with_disease,['C0338106'],['Colon Adenocarcinoma'],Colon Adenocarcinoma,C0338106,1,1,0.0,0.0
+C1709995,SPINK1 wt Allele,gene_associated_with_disease,['C0030305'],['Pancreatitis'],Pancreatitis,C0030305,1,1,0.0,0.0
+C2825776,MIR1-1 wt Allele,gene_associated_with_disease,"['C0684249', 'C0878544', 'C1956346', 'C2239176', 'C2911650']","['Lung Carcinoma', 'Cardiomyopathy', 'Coronary Artery Disease', 'Hepatocellular Carcinoma', 'Ventricular Hypertrophy by ECG Finding']",Lung Carcinoma || Cardiomyopathy || Coronary Artery Disease || Hepatocellular Carcinoma || Ventricular Hypertrophy by ECG Finding,C0684249 || C0878544 || C1956346 || C2239176 || C2911650,5,5,0.0,0.0
+C1366517,SET Gene,gene_associated_with_disease,['C0023470'],['Myeloid Leukemia'],Myeloid Leukemia,C0023470,1,1,0.0,0.0
+C1706331,FN1 wt Allele,gene_associated_with_disease,['C0013720'],['Ehlers-Danlos Syndrome'],Ehlers-Danlos Syndrome,C0013720,1,1,0.0,0.0
+C1704860,CD47 wt Allele,gene_associated_with_disease,['C0042769'],['Viral Infection'],Viral Infection,C0042769,1,1,0.0,0.0
+C1367307,STAT3 Gene,gene_associated_with_disease,['C0010346'],['Crohn Disease'],Crohn Disease,C0010346,1,1,0.0,0.0
+C1537716,MIR19B1 Gene,gene_associated_with_disease,"['C0025149', 'C0026764', 'C2239176']","['Medulloblastoma', 'Plasma Cell Myeloma', 'Hepatocellular Carcinoma']",Medulloblastoma || Plasma Cell Myeloma || Hepatocellular Carcinoma,C0025149 || C0026764 || C2239176,3,3,0.0,0.0
+C1710321,TPMT*V3 Allele,gene_associated_with_disease,['C0342801'],['Thiopurine Methyltransferase Deficiency'],Thiopurine Methyltransferase Deficiency,C0342801,1,1,0.0,0.0
+C1709111,NBAS wt Allele,gene_associated_with_disease,['C0027819'],['Neuroblastoma'],Neuroblastoma,C0027819,1,1,0.0,0.0
+C2983312,DCLRE1C wt Allele,gene_associated_with_disease,['C2700553'],['Omenn Syndrome'],Omenn Syndrome,C2700553,1,1,0.0,0.0
+C1333251,DRD2 1 Allele,gene_associated_with_disease,['C0036341'],['Schizophrenia'],Schizophrenia,C0036341,1,1,0.0,0.0
+C1708808,MCAM wt Allele,gene_associated_with_disease,['C0025202'],['Melanoma'],Melanoma,C0025202,1,1,0.0,0.0
+C1334118,IL4R Gene,gene_associated_with_disease,"['C0004096', 'C0392707']","['Asthma', 'Atopy']",Asthma || Atopy,C0004096 || C0392707,2,2,0.0,0.0
+C1334098,IL10 Gene,gene_associated_with_disease,"['C0001175', 'C0010346']","['Acquired Immunodeficiency Syndrome', 'Crohn Disease']",Acquired Immunodeficiency Syndrome || Crohn Disease,C0001175 || C0010346,2,2,0.0,0.0
+C1705572,HRAS wt Allele,gene_associated_with_disease,"['C0206682', 'C0585362']","['Thyroid Gland Follicular Carcinoma', 'Oral Cavity Squamous Cell Carcinoma']",Thyroid Gland Follicular Carcinoma || Oral Cavity Squamous Cell Carcinoma,C0206682 || C0585362,2,2,0.0,0.0
+C1333652,G6PD Gene,gene_associated_with_disease,"['C0002871', 'C0022346']","['Anemia', 'Jaundice']",Anemia || Jaundice,C0002871 || C0022346,2,2,0.0,0.0
+C1704691,FCGR3A wt Allele,gene_associated_with_disease,['C0042769'],['Viral Infection'],Viral Infection,C0042769,1,1,0.0,0.0
+C2825778,MIR7-1 wt Allele,gene_associated_with_disease,"['C0678222', 'C0684249']","['Breast Carcinoma', 'Lung Carcinoma']",Breast Carcinoma || Lung Carcinoma,C0678222 || C0684249,2,2,0.0,0.0
+C1366555,DPYD Gene,gene_associated_with_disease,['C1959620'],['Dihydrouracil Dehydrogenase Deficiency'],Dihydrouracil Dehydrogenase Deficiency,C1959620,1,1,0.0,0.0
+C1414160,RCAN1 Gene,gene_associated_with_disease,['C0013080'],['Down Syndrome'],Down Syndrome,C0013080,1,1,0.0,0.0
+C2347281,COL4A5 wt Allele,gene_associated_with_disease,['C1567741'],['Alport Syndrome'],Alport Syndrome,C1567741,1,1,0.0,0.0
+C1704816,HBEGF wt Allele,gene_associated_with_disease,['C0012546'],['Diphtheria'],Diphtheria,C0012546,1,1,0.0,0.0
+C1705269,HOXA9 wt Allele,gene_associated_with_disease,['C0023467'],['Acute Myeloid Leukemia'],Acute Myeloid Leukemia,C0023467,1,1,0.0,0.0
+C2827459,TBXT wt Allele,gene_associated_with_disease,['C0008487'],['Chordoma'],Chordoma,C0008487,1,1,0.0,0.0
+C1334083,IFNGR1 Gene,gene_associated_with_disease,"['C0026918', 'C0041296', 'C0850666']","['Mycobacterial Infection', 'Tuberculosis', 'Helicobacter Pylori Infection']",Mycobacterial Infection || Tuberculosis || Helicobacter Pylori Infection,C0026918 || C0041296 || C0850666,3,3,0.0,0.0
+C1826003,MIR146B Gene,gene_associated_with_disease,"['C0677865', 'C0678222']","['Brain Stem Glioma', 'Breast Carcinoma']",Brain Stem Glioma || Breast Carcinoma,C0677865 || C0678222,2,2,0.0,0.0
+C2825842,MIR92A1 wt Allele,gene_associated_with_disease,"['C0025149', 'C2239176']","['Medulloblastoma', 'Hepatocellular Carcinoma']",Medulloblastoma || Hepatocellular Carcinoma,C0025149 || C2239176,2,2,0.0,0.0
+C1704825,ERBB3 wt Allele,gene_associated_with_disease,"['C0006142', 'C0280100']","['Malignant Breast Neoplasm', 'Solid Neoplasm']",Malignant Breast Neoplasm || Solid Neoplasm,C0006142 || C0280100,2,2,0.0,0.0
+C1334133,INSR Gene,gene_associated_with_disease,['C0011849'],['Diabetes Mellitus'],Diabetes Mellitus,C0011849,1,1,0.0,0.0
+C2698729,CHRNA5 wt Allele,gene_associated_with_disease,['C0684249'],['Lung Carcinoma'],Lung Carcinoma,C0684249,1,1,0.0,0.0
+C3273300,TP53*1 Allele,gene_associated_with_disease,"['C0029463', 'C0206686', 'C0549473', 'C0678222', 'C2239176', 'C2931822']","['Osteosarcoma', 'Adrenal Cortex Carcinoma', 'Thyroid Gland Carcinoma', 'Breast Carcinoma', 'Hepatocellular Carcinoma', 'Nasopharyngeal Carcinoma']",Osteosarcoma || Adrenal Cortex Carcinoma || Thyroid Gland Carcinoma || Breast Carcinoma || Hepatocellular Carcinoma || Nasopharyngeal Carcinoma,C0029463 || C0206686 || C0549473 || C0678222 || C2239176 || C2931822,6,6,0.0,0.0
+C1418915,OLIG2 Gene,gene_associated_with_disease,['C1332146'],['Acute Adult T-Cell Leukemia/Lymphoma'],Acute Adult T-Cell Leukemia/Lymphoma,C1332146,1,1,0.0,0.0
+C1337112,INS Gene,gene_associated_with_disease,['C0011849'],['Diabetes Mellitus'],Diabetes Mellitus,C0011849,1,1,0.0,0.0
+C1420120,SLC1A2 Gene,gene_associated_with_disease,['C0002736'],['Amyotrophic Lateral Sclerosis'],Amyotrophic Lateral Sclerosis,C0002736,1,1,0.0,0.0
+C1336558,TACC3 Gene,gene_associated_with_disease,['C0026764'],['Plasma Cell Myeloma'],Plasma Cell Myeloma,C0026764,1,1,0.0,0.0
+C1537799,MIR145 Gene,gene_associated_with_disease,"['C0006413', 'C0009402', 'C0023434', 'C0079744', 'C0600139']","['Burkitt Lymphoma', 'Colorectal Carcinoma', 'Chronic Lymphocytic Leukemia', 'Diffuse Large B-Cell Lymphoma', 'Prostate Carcinoma']",Burkitt Lymphoma || Colorectal Carcinoma || Chronic Lymphocytic Leukemia || Diffuse Large B-Cell Lymphoma || Prostate Carcinoma,C0006413 || C0009402 || C0023434 || C0079744 || C0600139,5,5,0.0,0.0
+C1705861,INSR wt Allele,gene_associated_with_disease,['C0011849'],['Diabetes Mellitus'],Diabetes Mellitus,C0011849,1,1,0.0,0.0
+C1706156,TPD52L1 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1537700,MIR1-2 Gene,gene_associated_with_disease,['C0878544'],['Cardiomyopathy'],Cardiomyopathy,C0878544,1,1,0.0,0.0
+C1332450,BRMS1 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1705060,CASP10 wt Allele,gene_associated_with_disease,['C0024305'],['Non-Hodgkin Lymphoma'],Non-Hodgkin Lymphoma,C0024305,1,1,0.0,0.0
+C1334516,AFDN Gene,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C0809246,NRAS Gene,gene_associated_with_disease,"['C0023480', 'C0349639', 'C1292772']","['Chronic Myelomonocytic Leukemia', 'Juvenile Myelomonocytic Leukemia', 'Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative']","Chronic Myelomonocytic Leukemia || Juvenile Myelomonocytic Leukemia || Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative",C0023480 || C0349639 || C1292772,3,3,0.0,0.0
+C1334862,NBN Gene,gene_associated_with_disease,"['C0023449', 'C0398791']","['Acute Lymphoblastic Leukemia', 'Nijmegen Breakage Syndrome']",Acute Lymphoblastic Leukemia || Nijmegen Breakage Syndrome,C0023449 || C0398791,2,2,0.0,0.0
+C1333253,DRD2 Gene,gene_associated_with_disease,['C0036341'],['Schizophrenia'],Schizophrenia,C0036341,1,1,0.0,0.0
+C1539144,CTAG1A Gene,gene_associated_with_disease,['C0238463'],['Thyroid Gland Papillary Carcinoma'],Thyroid Gland Papillary Carcinoma,C0238463,1,1,0.0,0.0
+C1334146,ITGB2 Gene,gene_associated_with_disease,['C0272187'],['Leukocyte Adhesion Deficiency'],Leukocyte Adhesion Deficiency,C0272187,1,1,0.0,0.0
+C1537502,Oncogene K-Ras,gene_associated_with_disease,"['C0346629', 'C1302401']","['Malignant Colorectal Neoplasm', 'Colorectal Adenoma']",Malignant Colorectal Neoplasm || Colorectal Adenoma,C0346629 || C1302401,2,2,0.0,0.0
+C1539082,CD40LG Gene,gene_associated_with_disease,['C0272236'],['Hyperimmunoglobulin M Syndrome'],Hyperimmunoglobulin M Syndrome,C0272236,1,1,0.0,0.0
+C1705785,BIRC5 wt Allele,gene_associated_with_disease,"['C0007112', 'C0079740', 'C0152013', 'C0281361', 'C0338106', 'C0858252']","['Prostate Adenocarcinoma', 'High Grade Lymphoma', 'Lung Adenocarcinoma', 'Pancreatic Adenocarcinoma', 'Colon Adenocarcinoma', 'Breast Adenocarcinoma']",Prostate Adenocarcinoma || High Grade Lymphoma || Lung Adenocarcinoma || Pancreatic Adenocarcinoma || Colon Adenocarcinoma || Breast Adenocarcinoma,C0007112 || C0079740 || C0152013 || C0281361 || C0338106 || C0858252,6,6,0.0,0.0
+C2825956,MIR145 wt Allele,gene_associated_with_disease,"['C0006413', 'C0009402', 'C0023434', 'C0079744', 'C0600139']","['Burkitt Lymphoma', 'Colorectal Carcinoma', 'Chronic Lymphocytic Leukemia', 'Diffuse Large B-Cell Lymphoma', 'Prostate Carcinoma']",Burkitt Lymphoma || Colorectal Carcinoma || Chronic Lymphocytic Leukemia || Diffuse Large B-Cell Lymphoma || Prostate Carcinoma,C0006413 || C0009402 || C0023434 || C0079744 || C0600139,5,5,0.0,0.0
+C2827449,PICALM wt Allele,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C1421565,YY1 Gene,gene_associated_with_disease,['C4479652'],['Gabriele-de Vries Syndrome'],Gabriele-de Vries Syndrome,C4479652,1,1,0.0,0.0
+C0919441,CCN3 Gene,gene_associated_with_disease,['C0027708'],['Wilms Tumor'],Wilms Tumor,C0027708,1,1,0.0,0.0
+C1705966,CDH1 wt Allele,gene_associated_with_disease,"['C0009402', 'C4721610']","['Colorectal Carcinoma', 'Ovarian Carcinoma']",Colorectal Carcinoma || Ovarian Carcinoma,C0009402 || C4721610,2,2,0.0,0.0
+C1705003,TERF2 wt Allele,gene_associated_with_disease,['C0699791'],['Gastric Carcinoma'],Gastric Carcinoma,C0699791,1,1,0.0,0.0
+C1332799,CTBP1 Gene,gene_associated_with_disease,['C0302592'],['Cervical Carcinoma'],Cervical Carcinoma,C0302592,1,1,0.0,0.0
+C1537630,LYST Gene,gene_associated_with_disease,['C0007965'],['Chediak-Higashi Syndrome'],Chediak-Higashi Syndrome,C0007965,1,1,0.0,0.0
+C0812308,LTA Gene,gene_associated_with_disease,['C0027051'],['Myocardial Infarction'],Myocardial Infarction,C0027051,1,1,0.0,0.0
+C2826000,MIR197 wt Allele,gene_associated_with_disease,['C0549473'],['Thyroid Gland Carcinoma'],Thyroid Gland Carcinoma,C0549473,1,1,0.0,0.0
+C1334292,JAK3 Gene,gene_associated_with_disease,['C0085110'],['Severe Combined Immunodeficiency'],Severe Combined Immunodeficiency,C0085110,1,1,0.0,0.0
+C1705220,IL4R wt Allele,gene_associated_with_disease,"['C0004096', 'C0392707']","['Asthma', 'Atopy']",Asthma || Atopy,C0004096 || C0392707,2,2,0.0,0.0
+C1537841,MIR203A Gene,gene_associated_with_disease,"['C0023449', 'C0033860', 'C1292771']","['Acute Lymphoblastic Leukemia', 'Psoriasis', 'Chronic Myelogenous Leukemia, BCR-ABL1 Positive']","Acute Lymphoblastic Leukemia || Psoriasis || Chronic Myelogenous Leukemia, BCR-ABL1 Positive",C0023449 || C0033860 || C1292771,3,3,0.0,0.0
+C1425774,CCDC6 Gene,gene_associated_with_disease,"['C0238463', 'C1292772']","['Thyroid Gland Papillary Carcinoma', 'Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative']","Thyroid Gland Papillary Carcinoma || Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative",C0238463 || C1292772,2,2,0.0,0.0
+C0812382,GLI3 Gene,gene_associated_with_disease,['C0265306'],['Greig Syndrome'],Greig Syndrome,C0265306,1,1,0.0,0.0
+C1413858,CYP17A1 Gene,gene_associated_with_disease,['C0342494'],['Adrenal Cortical Hyperplasia'],Adrenal Cortical Hyperplasia,C0342494,1,1,0.0,0.0
+C1420191,SLC3A1 Gene,gene_associated_with_disease,['C0010691'],['Cystinuria'],Cystinuria,C0010691,1,1,0.0,0.0
+C1706013,DCAF5 wt Allele,gene_associated_with_disease,['C0151995'],['Uterine Corpus Degenerated Leiomyoma'],Uterine Corpus Degenerated Leiomyoma,C0151995,1,1,0.0,0.0
+C1537811,MIR155 Gene,gene_associated_with_disease,"['C0020538', 'C0023449', 'C0079744', 'C0235974', 'C0678222', 'C1292778']","['Hypertension', 'Acute Lymphoblastic Leukemia', 'Diffuse Large B-Cell Lymphoma', 'Pancreatic Carcinoma', 'Breast Carcinoma', 'Myeloproliferative Neoplasm']",Hypertension || Acute Lymphoblastic Leukemia || Diffuse Large B-Cell Lymphoma || Pancreatic Carcinoma || Breast Carcinoma || Myeloproliferative Neoplasm,C0020538 || C0023449 || C0079744 || C0235974 || C0678222 || C1292778,6,6,0.0,0.0
+C1826077,MIR516A2 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1705519,NRAS wt Allele,gene_associated_with_disease,"['C0023480', 'C0349639', 'C1292772']","['Chronic Myelomonocytic Leukemia', 'Juvenile Myelomonocytic Leukemia', 'Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative']","Chronic Myelomonocytic Leukemia || Juvenile Myelomonocytic Leukemia || Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative",C0023480 || C0349639 || C1292772,3,3,0.0,0.0
+C1335836,SLC26A3 Gene,gene_associated_with_disease,['C0011991'],['Diarrhea'],Diarrhea,C0011991,1,1,0.0,0.0
+C1706048,SLC26A3 wt Allele,gene_associated_with_disease,['C0011991'],['Diarrhea'],Diarrhea,C0011991,1,1,0.0,0.0
+C1418941,PRNP Gene,gene_associated_with_disease,['C0022336'],['Creutzfeldt-Jakob Disease'],Creutzfeldt-Jakob Disease,C0022336,1,1,0.0,0.0
+C1332015,ADAM11 Gene,gene_associated_with_disease,"['C0678222', 'C1140680']","['Breast Carcinoma', 'Malignant Ovarian Neoplasm']",Breast Carcinoma || Malignant Ovarian Neoplasm,C0678222 || C1140680,2,2,0.0,0.0
+C1705597,PDGFB wt Allele,gene_associated_with_disease,"['C0025286', 'C0392784']","['Meningioma', 'Dermatofibrosarcoma Protuberans']",Meningioma || Dermatofibrosarcoma Protuberans,C0025286 || C0392784,2,2,0.0,0.0
+C1333935,HYOU1 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1335869,SSTR4 Gene,gene_associated_with_disease,['C0600139'],['Prostate Carcinoma'],Prostate Carcinoma,C0600139,1,1,0.0,0.0
+C2825810,CSAG3 wt Allele,gene_associated_with_disease,['C0025202'],['Melanoma'],Melanoma,C0025202,1,1,0.0,0.0
+C1422129,LAPTM4B Gene,gene_associated_with_disease,['C0278493'],['Recurrent Breast Carcinoma'],Recurrent Breast Carcinoma,C0278493,1,1,0.0,0.0
+C1538615,PDZK1IP1 Gene,gene_associated_with_disease,"['C0007134', 'C0678222', 'C0684249', 'C0699790']","['Renal Cell Carcinoma', 'Breast Carcinoma', 'Lung Carcinoma', 'Colon Carcinoma']",Renal Cell Carcinoma || Breast Carcinoma || Lung Carcinoma || Colon Carcinoma,C0007134 || C0678222 || C0684249 || C0699790,4,4,0.0,0.0
+C1334338,LHX2 Gene,gene_associated_with_disease,['C1292771'],"['Chronic Myelogenous Leukemia, BCR-ABL1 Positive']","Chronic Myelogenous Leukemia, BCR-ABL1 Positive",C1292771,1,1,0.0,0.0
+C1424693,RNF139 Gene,gene_associated_with_disease,['C0007134'],['Renal Cell Carcinoma'],Renal Cell Carcinoma,C0007134,1,1,0.0,0.0
+C2825947,MIR133B wt Allele,gene_associated_with_disease,"['C0030567', 'C0280298', 'C0280315']","[""Parkinson's Disease"", 'Anterior Tongue Squamous Cell Carcinoma', 'Posterior Tongue Squamous Cell Carcinoma']",Parkinson's Disease || Anterior Tongue Squamous Cell Carcinoma || Posterior Tongue Squamous Cell Carcinoma,C0030567 || C0280298 || C0280315,3,3,0.0,0.0
+C1366526,BTG2 Gene,gene_associated_with_disease,['C0023434'],['Chronic Lymphocytic Leukemia'],Chronic Lymphocytic Leukemia,C0023434,1,1,0.0,0.0
+C1823489,TRIM27 Gene,gene_associated_with_disease,['C0238463'],['Thyroid Gland Papillary Carcinoma'],Thyroid Gland Papillary Carcinoma,C0238463,1,1,0.0,0.0
+C1705896,MUCL1 wt Allele,gene_associated_with_disease,['C1134719'],"['Invasive Ductal Carcinoma, Not Otherwise Specified']","Invasive Ductal Carcinoma, Not Otherwise Specified",C1134719,1,1,0.0,0.0
+C1705021,INS wt Allele,gene_associated_with_disease,['C0011849'],['Diabetes Mellitus'],Diabetes Mellitus,C0011849,1,1,0.0,0.0
+C1366535,AVP Gene,gene_associated_with_disease,['C0011848'],['Diabetes Insipidus'],Diabetes Insipidus,C0011848,1,1,0.0,0.0
+C2981740,YWHAZ wt Allele,gene_associated_with_disease,['C0278493'],['Recurrent Breast Carcinoma'],Recurrent Breast Carcinoma,C0278493,1,1,0.0,0.0
+C1413775,CST6 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1704827,SLC22A18 wt Allele,gene_associated_with_disease,['C0035412'],['Rhabdomyosarcoma'],Rhabdomyosarcoma,C0035412,1,1,0.0,0.0
+C2349086,VEGFA wt Allele,gene_associated_with_disease,['C0011884'],['Diabetic Retinopathy'],Diabetic Retinopathy,C0011884,1,1,0.0,0.0
+C2825749,MIRLET7G wt Allele,gene_associated_with_disease,"['C0684249', 'C4721610']","['Lung Carcinoma', 'Ovarian Carcinoma']",Lung Carcinoma || Ovarian Carcinoma,C0684249 || C4721610,2,2,0.0,0.0
+C1705547,CRYBG1 wt Allele,gene_associated_with_disease,['C0025202'],['Melanoma'],Melanoma,C0025202,1,1,0.0,0.0
+C1704945,SOD1 wt Allele,gene_associated_with_disease,['C0002736'],['Amyotrophic Lateral Sclerosis'],Amyotrophic Lateral Sclerosis,C0002736,1,1,0.0,0.0
+C2983386,SLITRK1 wt Allele,gene_associated_with_disease,['C0040517'],['Tourette Syndrome'],Tourette Syndrome,C0040517,1,1,0.0,0.0
+C1537710,MIR15B Gene,gene_associated_with_disease,['C0023434'],['Chronic Lymphocytic Leukemia'],Chronic Lymphocytic Leukemia,C0023434,1,1,0.0,0.0
+C2986690,FSHR wt Allele,gene_associated_with_disease,['C0018051'],['Gonadal Dysgenesis'],Gonadal Dysgenesis,C0018051,1,1,0.0,0.0
+C1424700,TUSC2 Gene,gene_associated_with_disease,['C0024121'],['Lung Neoplasm'],Lung Neoplasm,C0024121,1,1,0.0,0.0
+C1415486,HBG2 Gene,gene_associated_with_disease,['C2825560'],['S-Beta Thalassemia'],S-Beta Thalassemia,C2825560,1,1,0.0,0.0
+C1417772,PNP Gene,gene_associated_with_disease,"['C0085110', 'C0268125']","['Severe Combined Immunodeficiency', 'Purine-Nucleoside Phosphorylase Deficiency']",Severe Combined Immunodeficiency || Purine-Nucleoside Phosphorylase Deficiency,C0085110 || C0268125,2,2,0.0,0.0
+C1425020,DCLRE1C Gene,gene_associated_with_disease,['C2700553'],['Omenn Syndrome'],Omenn Syndrome,C2700553,1,1,0.0,0.0
+C1826016,MIR376B Gene,gene_associated_with_disease,['C4721610'],['Ovarian Carcinoma'],Ovarian Carcinoma,C4721610,1,1,0.0,0.0
+C2825780,MIR7-3 wt Allele,gene_associated_with_disease,"['C0678222', 'C0684249']","['Breast Carcinoma', 'Lung Carcinoma']",Breast Carcinoma || Lung Carcinoma,C0678222 || C0684249,2,2,0.0,0.0
+C1418596,PITX2 Gene,gene_associated_with_disease,['C3714873'],['Rieger Syndrome Type 1'],Rieger Syndrome Type 1,C3714873,1,1,0.0,0.0
+C1421478,WAS Gene,gene_associated_with_disease,['C0043194'],['Wiskott-Aldrich Syndrome'],Wiskott-Aldrich Syndrome,C0043194,1,1,0.0,0.0
+C1705974,FCGR2A wt Allele,gene_associated_with_disease,['C0024143'],['Lupus Glomerulonephritis'],Lupus Glomerulonephritis,C0024143,1,1,0.0,0.0
+C1336598,TCL1B Gene,gene_associated_with_disease,"['C0023418', 'C0024299']","['Leukemia', 'Lymphoma']",Leukemia || Lymphoma,C0023418 || C0024299,2,2,0.0,0.0
+C0037207,Oncogene SIS,gene_associated_with_disease,"['C0025286', 'C0392784']","['Meningioma', 'Dermatofibrosarcoma Protuberans']",Meningioma || Dermatofibrosarcoma Protuberans,C0025286 || C0392784,2,2,0.0,0.0
+C1537746,MIR34B Gene,gene_associated_with_disease,"['C0006413', 'C0009402', 'C0684249', 'C4721610']","['Burkitt Lymphoma', 'Colorectal Carcinoma', 'Lung Carcinoma', 'Ovarian Carcinoma']",Burkitt Lymphoma || Colorectal Carcinoma || Lung Carcinoma || Ovarian Carcinoma,C0006413 || C0009402 || C0684249 || C4721610,4,4,0.0,0.0
+C1334112,IL1B Gene,gene_associated_with_disease,['C0850666'],['Helicobacter Pylori Infection'],Helicobacter Pylori Infection,C0850666,1,1,0.0,0.0
+C2828026,FANCA wt Allele,gene_associated_with_disease,['C0015625'],['Fanconi Anemia'],Fanconi Anemia,C0015625,1,1,0.0,0.0
+C1705709,XPA wt Allele,gene_associated_with_disease,['C0268135'],"['Xeroderma Pigmentosum, Complementation Group A']","Xeroderma Pigmentosum, Complementation Group A",C0268135,1,1,0.0,0.0
+C1705159,LCP1 wt Allele,gene_associated_with_disease,['C0079731'],['B-Cell Non-Hodgkin Lymphoma'],B-Cell Non-Hodgkin Lymphoma,C0079731,1,1,0.0,0.0
+C1705452,EIF2B5 wt Allele,gene_associated_with_disease,['C0270612'],['Leukoencephalopathy'],Leukoencephalopathy,C0270612,1,1,0.0,0.0
+C1421511,WNT10B Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1337031,XRCC2 Gene,gene_associated_with_disease,['C0020517'],['Hypersensitivity'],Hypersensitivity,C0020517,1,1,0.0,0.0
+C1706178,RNF139 wt Allele,gene_associated_with_disease,['C0007134'],['Renal Cell Carcinoma'],Renal Cell Carcinoma,C0007134,1,1,0.0,0.0
+C1705796,CYP11B1 wt Allele,gene_associated_with_disease,['C0342494'],['Adrenal Cortical Hyperplasia'],Adrenal Cortical Hyperplasia,C0342494,1,1,0.0,0.0
+C1332126,AXIN2 Gene,gene_associated_with_disease,"['C0009402', 'C0027819', 'C0678222']","['Colorectal Carcinoma', 'Neuroblastoma', 'Breast Carcinoma']",Colorectal Carcinoma || Neuroblastoma || Breast Carcinoma,C0009402 || C0027819 || C0678222,3,3,0.0,0.0
+C1705516,NOS1 wt Allele,gene_associated_with_disease,"['C0030567', 'C0034194']","[""Parkinson's Disease"", 'Pyloric Stenosis']",Parkinson's Disease || Pyloric Stenosis,C0030567 || C0034194,2,2,0.0,0.0
+C0812242,CBL Gene,gene_associated_with_disease,['C0079731'],['B-Cell Non-Hodgkin Lymphoma'],B-Cell Non-Hodgkin Lymphoma,C0079731,1,1,0.0,0.0
+C1332805,CTSD Gene,gene_associated_with_disease,"['C0678222', 'C4721610']","['Breast Carcinoma', 'Ovarian Carcinoma']",Breast Carcinoma || Ovarian Carcinoma,C0678222 || C4721610,2,2,0.0,0.0
+C1708838,MSH3 wt Allele,gene_associated_with_disease,"['C0346627', 'C0476089']","['Malignant Intestinal Neoplasm', 'Endometrial Carcinoma']",Malignant Intestinal Neoplasm || Endometrial Carcinoma,C0346627 || C0476089,2,2,0.0,0.0
+C1334875,NEURL1 Gene,gene_associated_with_disease,['C0334579'],['Anaplastic Astrocytoma'],Anaplastic Astrocytoma,C0334579,1,1,0.0,0.0
+C1332695,CCNB1 Gene,gene_associated_with_disease,['C0280324'],['Laryngeal Squamous Cell Carcinoma'],Laryngeal Squamous Cell Carcinoma,C0280324,1,1,0.0,0.0
+C2825777,MIR1-2 wt Allele,gene_associated_with_disease,['C0878544'],['Cardiomyopathy'],Cardiomyopathy,C0878544,1,1,0.0,0.0
+C1332772,COL1A1 Gene,gene_associated_with_disease,"['C0029434', 'C0029456', 'C0392784']","['Osteogenesis Imperfecta', 'Osteoporosis', 'Dermatofibrosarcoma Protuberans']",Osteogenesis Imperfecta || Osteoporosis || Dermatofibrosarcoma Protuberans,C0029434 || C0029456 || C0392784,3,3,0.0,0.0
+C1705700,TSPAN32 wt Allele,gene_associated_with_disease,"['C0027708', 'C0035412', 'C0206686', 'C0678222', 'C0684249', 'C4721610']","['Wilms Tumor', 'Rhabdomyosarcoma', 'Adrenal Cortex Carcinoma', 'Breast Carcinoma', 'Lung Carcinoma', 'Ovarian Carcinoma']",Wilms Tumor || Rhabdomyosarcoma || Adrenal Cortex Carcinoma || Breast Carcinoma || Lung Carcinoma || Ovarian Carcinoma,C0027708 || C0035412 || C0206686 || C0678222 || C0684249 || C4721610,6,6,0.0,0.0
+C1418816,PPM1D Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C2825959,MIR148A wt Allele,gene_associated_with_disease,['C0004096'],['Asthma'],Asthma,C0004096,1,1,0.0,0.0
+C1422360,CSMD1 Gene,gene_associated_with_disease,"['C1134719', 'C1319315', 'C3887461']","['Invasive Ductal Carcinoma, Not Otherwise Specified', 'Colorectal Adenocarcinoma', 'Head and Neck Carcinoma']","Invasive Ductal Carcinoma, Not Otherwise Specified || Colorectal Adenocarcinoma || Head and Neck Carcinoma",C1134719 || C1319315 || C3887461,3,3,0.0,0.0
+C2699248,SIX3 wt Allele,gene_associated_with_disease,['C1834877'],['Holoprosencephaly Type 2'],Holoprosencephaly Type 2,C1834877,1,1,0.0,0.0
+C2985122,MIR93 wt Allele,gene_associated_with_disease,"['C0023493', 'C0026764']","['Adult T-Cell Leukemia/Lymphoma', 'Plasma Cell Myeloma']",Adult T-Cell Leukemia/Lymphoma || Plasma Cell Myeloma,C0023493 || C0026764,2,2,0.0,0.0
+C1704851,NPM1 wt Allele,gene_associated_with_disease,"['C0023467', 'C0024305', 'C3463824']","['Acute Myeloid Leukemia', 'Non-Hodgkin Lymphoma', 'Myelodysplastic Syndrome']",Acute Myeloid Leukemia || Non-Hodgkin Lymphoma || Myelodysplastic Syndrome,C0023467 || C0024305 || C3463824,3,3,0.0,0.0
+C1332728,CDH13 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1708137,GNRHR wt Allele,gene_associated_with_disease,['C0022735'],['Klinefelter Syndrome'],Klinefelter Syndrome,C0022735,1,1,0.0,0.0
+C1537845,MIR208A Gene,gene_associated_with_disease,['C2911650'],['Ventricular Hypertrophy by ECG Finding'],Ventricular Hypertrophy by ECG Finding,C2911650,1,1,0.0,0.0
+C1826005,MIR181A2 Gene,gene_associated_with_disease,"['C0026764', 'C0677865']","['Plasma Cell Myeloma', 'Brain Stem Glioma']",Plasma Cell Myeloma || Brain Stem Glioma,C0026764 || C0677865,2,2,0.0,0.0
+C1537834,MIR198 Gene,gene_associated_with_disease,['C0036341'],['Schizophrenia'],Schizophrenia,C0036341,1,1,0.0,0.0
+C1705804,NCOA1 wt Allele,gene_associated_with_disease,['C0035412'],['Rhabdomyosarcoma'],Rhabdomyosarcoma,C0035412,1,1,0.0,0.0
+C0079414,DCC Gene,gene_associated_with_disease,['C0009402'],['Colorectal Carcinoma'],Colorectal Carcinoma,C0009402,1,1,0.0,0.0
+C1705543,APP wt Allele,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C2826030,MIR335 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1415097,GCLC Gene,gene_associated_with_disease,"['C0002878', 'C0027051']","['Hemolytic Anemia', 'Myocardial Infarction']",Hemolytic Anemia || Myocardial Infarction,C0002878 || C0027051,2,2,0.0,0.0
+C1336641,TMPRSS2 Gene,gene_associated_with_disease,['C0600139'],['Prostate Carcinoma'],Prostate Carcinoma,C0600139,1,1,0.0,0.0
+C1413787,CTAG1B Gene,gene_associated_with_disease,['C0238463'],['Thyroid Gland Papillary Carcinoma'],Thyroid Gland Papillary Carcinoma,C0238463,1,1,0.0,0.0
+C1537920,MIRLET7I Gene,gene_associated_with_disease,['C4721610'],['Ovarian Carcinoma'],Ovarian Carcinoma,C4721610,1,1,0.0,0.0
+C1706474,IRF1 wt Allele,gene_associated_with_disease,['C0699791'],['Gastric Carcinoma'],Gastric Carcinoma,C0699791,1,1,0.0,0.0
+C1413942,DDB2 Gene,gene_associated_with_disease,['C0043346'],['Xeroderma Pigmentosum'],Xeroderma Pigmentosum,C0043346,1,1,0.0,0.0
+C2985242,DGCR8 wt Allele,gene_associated_with_disease,['C0012236'],['22q11.2 Deletion Syndrome'],22q11.2 Deletion Syndrome,C0012236,1,1,0.0,0.0
+C2826560,ASTN2 wt Allele,gene_associated_with_disease,['C0036341'],['Schizophrenia'],Schizophrenia,C0036341,1,1,0.0,0.0
+C1420712,TGIF1 Gene,gene_associated_with_disease,['C1840528'],['Holoprosencephaly Type 4'],Holoprosencephaly Type 4,C1840528,1,1,0.0,0.0
+C1705699,TSPY1 wt Allele,gene_associated_with_disease,"['C0039590', 'C0206661']","['Testicular Neoplasm', 'Gonadoblastoma']",Testicular Neoplasm || Gonadoblastoma,C0039590 || C0206661,2,2,0.0,0.0
+C2825820,MIR29C wt Allele,gene_associated_with_disease,"['C0011860', 'C0035412', 'C0684249', 'C2931822']","['Type 2 Diabetes Mellitus', 'Rhabdomyosarcoma', 'Lung Carcinoma', 'Nasopharyngeal Carcinoma']",Type 2 Diabetes Mellitus || Rhabdomyosarcoma || Lung Carcinoma || Nasopharyngeal Carcinoma,C0011860 || C0035412 || C0684249 || C2931822,4,4,0.0,0.0
+C1707861,EPS15 wt Allele,gene_associated_with_disease,['C0023467'],['Acute Myeloid Leukemia'],Acute Myeloid Leukemia,C0023467,1,1,0.0,0.0
+C2825814,MIR26A2 wt Allele,gene_associated_with_disease,"['C0006413', 'C0549473', 'C2239176']","['Burkitt Lymphoma', 'Thyroid Gland Carcinoma', 'Hepatocellular Carcinoma']",Burkitt Lymphoma || Thyroid Gland Carcinoma || Hepatocellular Carcinoma,C0006413 || C0549473 || C2239176,3,3,0.0,0.0
+C0812287,Oncogene MYCN,gene_associated_with_disease,"['C0027819', 'C0149925']","['Neuroblastoma', 'Lung Small Cell Carcinoma']",Neuroblastoma || Lung Small Cell Carcinoma,C0027819 || C0149925,2,2,0.0,0.0
+C1705836,SMAD2 wt Allele,gene_associated_with_disease,['C0009402'],['Colorectal Carcinoma'],Colorectal Carcinoma,C0009402,1,1,0.0,0.0
+C1710322,TPMT*V4 Allele,gene_associated_with_disease,['C0342801'],['Thiopurine Methyltransferase Deficiency'],Thiopurine Methyltransferase Deficiency,C0342801,1,1,0.0,0.0
+C2698697,PLP1 wt Allele,gene_associated_with_disease,['C0205711'],['Pelizaeus-Merzbacher Disease'],Pelizaeus-Merzbacher Disease,C0205711,1,1,0.0,0.0
+C1705049,STAT5B wt Allele,gene_associated_with_disease,['C0023487'],['Acute Promyelocytic Leukemia with PML-RARA'],Acute Promyelocytic Leukemia with PML-RARA,C0023487,1,1,0.0,0.0
+C1332001,ABCB6 Gene,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C1706113,CYP27B1 wt Allele,gene_associated_with_disease,['C0035579'],['Rickets'],Rickets,C0035579,1,1,0.0,0.0
+C1333655,GADD45A Gene,gene_associated_with_disease,['C0235974'],['Pancreatic Carcinoma'],Pancreatic Carcinoma,C0235974,1,1,0.0,0.0
+C1333670,GFI1B Gene,gene_associated_with_disease,['C1292771'],"['Chronic Myelogenous Leukemia, BCR-ABL1 Positive']","Chronic Myelogenous Leukemia, BCR-ABL1 Positive",C1292771,1,1,0.0,0.0
+C1414530,FANCD2 Gene,gene_associated_with_disease,['C0015625'],['Fanconi Anemia'],Fanconi Anemia,C0015625,1,1,0.0,0.0
+C1706234,LEPR wt Allele,gene_associated_with_disease,"['C0011849', 'C0028754']","['Diabetes Mellitus', 'Obesity']",Diabetes Mellitus || Obesity,C0011849 || C0028754,2,2,0.0,0.0
+C2825999,MIR196A1 wt Allele,gene_associated_with_disease,['C0152018'],['Esophageal Carcinoma'],Esophageal Carcinoma,C0152018,1,1,0.0,0.0
+C1426840,SLITRK1 Gene,gene_associated_with_disease,['C0040517'],['Tourette Syndrome'],Tourette Syndrome,C0040517,1,1,0.0,0.0
+C1334494,MCM7 Gene,gene_associated_with_disease,['C0302592'],['Cervical Carcinoma'],Cervical Carcinoma,C0302592,1,1,0.0,0.0
+C1539141,CSAG2 Gene,gene_associated_with_disease,['C0025202'],['Melanoma'],Melanoma,C0025202,1,1,0.0,0.0
+C1823878,XRCC6 Gene,gene_associated_with_disease,['C0024141'],['Systemic Lupus Erythematosus'],Systemic Lupus Erythematosus,C0024141,1,1,0.0,0.0
+C1710286,TEC wt Allele,gene_associated_with_disease,['C3463824'],['Myelodysplastic Syndrome'],Myelodysplastic Syndrome,C3463824,1,1,0.0,0.0
+C1706894,BMP2 wt Allele,gene_associated_with_disease,['C0016037'],['Fibrodysplasia Ossificans Progressiva'],Fibrodysplasia Ossificans Progressiva,C0016037,1,1,0.0,0.0
+C1538432,CALML4 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1414532,FANCF Gene,gene_associated_with_disease,['C0015625'],['Fanconi Anemia'],Fanconi Anemia,C0015625,1,1,0.0,0.0
+C1853132,MIR214 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1367449,BCL10 Gene,gene_associated_with_disease,"['C0023448', 'C0024301', 'C0025500', 'C0036920', 'C0205851', 'C0699790']","['Lymphoid Leukemia', 'Follicular Lymphoma', 'Mesothelioma', 'Sezary Syndrome', 'Germ Cell Tumor', 'Colon Carcinoma']",Lymphoid Leukemia || Follicular Lymphoma || Mesothelioma || Sezary Syndrome || Germ Cell Tumor || Colon Carcinoma,C0023448 || C0024301 || C0025500 || C0036920 || C0205851 || C0699790,6,6,0.0,0.0
+C1853133,MIR199A2 Gene,gene_associated_with_disease,['C4721610'],['Ovarian Carcinoma'],Ovarian Carcinoma,C4721610,1,1,0.0,0.0
+C1334122,IL6 Gene,gene_associated_with_disease,"['C0026764', 'C0032131']","['Plasma Cell Myeloma', 'Plasmacytoma']",Plasma Cell Myeloma || Plasmacytoma,C0026764 || C0032131,2,2,0.0,0.0
+C1707607,DCK wt Allele,gene_associated_with_disease,['C0023467'],['Acute Myeloid Leukemia'],Acute Myeloid Leukemia,C0023467,1,1,0.0,0.0
+C1705432,CDK11B wt Allele,gene_associated_with_disease,['C0027819'],['Neuroblastoma'],Neuroblastoma,C0027819,1,1,0.0,0.0
+C1706108,ABL2 wt Allele,gene_associated_with_disease,"['C0023467', 'C0023470']","['Acute Myeloid Leukemia', 'Myeloid Leukemia']",Acute Myeloid Leukemia || Myeloid Leukemia,C0023467 || C0023470,2,2,0.0,0.0
+C2826022,MIR224 wt Allele,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C1704974,TGFB1 wt Allele,gene_associated_with_disease,['C0018179'],['Granular Corneal Dystrophy'],Granular Corneal Dystrophy,C0018179,1,1,0.0,0.0
+C1421376,USF1 Gene,gene_associated_with_disease,['C0020473'],['Hyperlipidemia'],Hyperlipidemia,C0020473,1,1,0.0,0.0
+C1707092,CD14 wt Allele,gene_associated_with_disease,['C2939461'],['Myeloid Neoplasm'],Myeloid Neoplasm,C2939461,1,1,0.0,0.0
+C1336604,TERF1 Gene,gene_associated_with_disease,['C0699791'],['Gastric Carcinoma'],Gastric Carcinoma,C0699791,1,1,0.0,0.0
+C1707155,CST6 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1368803,PTPN12 Gene,gene_associated_with_disease,['C0699790'],['Colon Carcinoma'],Colon Carcinoma,C0699790,1,1,0.0,0.0
+C1704855,ANKRD30A wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1826604,AFF1 Gene,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C2828027,FANCB wt Allele,gene_associated_with_disease,['C0015625'],['Fanconi Anemia'],Fanconi Anemia,C0015625,1,1,0.0,0.0
+C1537818,MIR184 Gene,gene_associated_with_disease,['C0027819'],['Neuroblastoma'],Neuroblastoma,C0027819,1,1,0.0,0.0
+C1708581,JAK2 wt Allele,gene_associated_with_disease,['C0019829'],['Hodgkin Lymphoma'],Hodgkin Lymphoma,C0019829,1,1,0.0,0.0
+C1706544,ICAM1 wt Allele,gene_associated_with_disease,['C0024530'],['Malaria'],Malaria,C0024530,1,1,0.0,0.0
+C1706632,ABCB1 2 Allele,gene_associated_with_disease,"['C0010346', 'C0235782']","['Crohn Disease', 'Gallbladder Carcinoma']",Crohn Disease || Gallbladder Carcinoma,C0010346 || C0235782,2,2,0.0,0.0
+C1333343,EPS15 Gene,gene_associated_with_disease,['C0023467'],['Acute Myeloid Leukemia'],Acute Myeloid Leukemia,C0023467,1,1,0.0,0.0
+C1336679,TSHR Gene,gene_associated_with_disease,['C0020550'],['Hyperthyroidism'],Hyperthyroidism,C0020550,1,1,0.0,0.0
+C1414028,DGCR8 Gene,gene_associated_with_disease,['C0012236'],['22q11.2 Deletion Syndrome'],22q11.2 Deletion Syndrome,C0012236,1,1,0.0,0.0
+C1706155,TPD52 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1416498,ITGB3 Gene,gene_associated_with_disease,['C0392386'],['Thrombocytopenia'],Thrombocytopenia,C0392386,1,1,0.0,0.0
+C2825791,MIR10B wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1421374,UROD Gene,gene_associated_with_disease,"['C0162566', 'C0162569']","['Porphyria Cutanea Tarda', 'Hepatoerythropoietic Porphyria']",Porphyria Cutanea Tarda || Hepatoerythropoietic Porphyria,C0162566 || C0162569,2,2,0.0,0.0
+C1706005,CD40LG wt Allele,gene_associated_with_disease,['C0272236'],['Hyperimmunoglobulin M Syndrome'],Hyperimmunoglobulin M Syndrome,C0272236,1,1,0.0,0.0
+C2698689,PEA15 wt Allele,gene_associated_with_disease,['C0011860'],['Type 2 Diabetes Mellitus'],Type 2 Diabetes Mellitus,C0011860,1,1,0.0,0.0
+C2825923,MIR101-1 wt Allele,gene_associated_with_disease,"['C0600139', 'C0699885', 'C2239176']","['Prostate Carcinoma', 'Bladder Carcinoma', 'Hepatocellular Carcinoma']",Prostate Carcinoma || Bladder Carcinoma || Hepatocellular Carcinoma,C0600139 || C0699885 || C2239176,3,3,0.0,0.0
+C1333887,H19 Gene,gene_associated_with_disease,['C0004903'],['Beckwith-Wiedemann Syndrome'],Beckwith-Wiedemann Syndrome,C0004903,1,1,0.0,0.0
+C1705267,MLH3 wt Allele,gene_associated_with_disease,['C4552100'],['Lynch Syndrome'],Lynch Syndrome,C4552100,1,1,0.0,0.0
+C1706247,PLAUR wt Allele,gene_associated_with_disease,['C1153706'],['Endometrial Adenocarcinoma'],Endometrial Adenocarcinoma,C1153706,1,1,0.0,0.0
+C1334123,IL7R Gene,gene_associated_with_disease,['C0085110'],['Severe Combined Immunodeficiency'],Severe Combined Immunodeficiency,C0085110,1,1,0.0,0.0
+C1538455,CHMP2A Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1334912,NUP214 Gene,gene_associated_with_disease,['C3463824'],['Myelodysplastic Syndrome'],Myelodysplastic Syndrome,C3463824,1,1,0.0,0.0
+C1333541,FGFR1OP Gene,gene_associated_with_disease,['C1301355'],['Myelodysplastic/Myeloproliferative Neoplasm'],Myelodysplastic/Myeloproliferative Neoplasm,C1301355,1,1,0.0,0.0
+C1537776,MIR128-2 Gene,gene_associated_with_disease,"['C0677865', 'C0684249']","['Brain Stem Glioma', 'Lung Carcinoma']",Brain Stem Glioma || Lung Carcinoma,C0677865 || C0684249,2,2,0.0,0.0
+C1708119,GDNF wt Allele,gene_associated_with_disease,['C0019569'],['Hirschsprung Disease'],Hirschsprung Disease,C0019569,1,1,0.0,0.0
+C1425650,LRRK2 Gene,gene_associated_with_disease,['C0030567'],"[""Parkinson's Disease""]",Parkinson's Disease,C0030567,1,1,0.0,0.0
+C1537750,MIR93 Gene,gene_associated_with_disease,"['C0023493', 'C0026764']","['Adult T-Cell Leukemia/Lymphoma', 'Plasma Cell Myeloma']",Adult T-Cell Leukemia/Lymphoma || Plasma Cell Myeloma,C0023493 || C0026764,2,2,0.0,0.0
+C1328053,NOS3 Gene,gene_associated_with_disease,"['C0002395', 'C0020538']","[""Alzheimer's Disease"", 'Hypertension']",Alzheimer's Disease || Hypertension,C0002395 || C0020538,2,2,0.0,0.0
+C1707168,CX3CR1 wt Allele,gene_associated_with_disease,['C0001175'],['Acquired Immunodeficiency Syndrome'],Acquired Immunodeficiency Syndrome,C0001175,1,1,0.0,0.0
+C1707839,EDN1 wt Allele,gene_associated_with_disease,['C0020538'],['Hypertension'],Hypertension,C0020538,1,1,0.0,0.0
+C1706035,IL2RG wt Allele,gene_associated_with_disease,"['C0085110', 'C1279481']","['Severe Combined Immunodeficiency', 'X-Linked Severe Combined Immunodeficiency']",Severe Combined Immunodeficiency || X-Linked Severe Combined Immunodeficiency,C0085110 || C1279481,2,2,0.0,0.0
+C1707135,CLCA2 wt Allele,gene_associated_with_disease,"['C0010674', 'C0678222']","['Cystic Fibrosis', 'Breast Carcinoma']",Cystic Fibrosis || Breast Carcinoma,C0010674 || C0678222,2,2,0.0,0.0
+C1332125,AXIN1 Gene,gene_associated_with_disease,"['C0206624', 'C0346163', 'C2239176']","['Hepatoblastoma', 'Ovarian Endometrioid Adenocarcinoma', 'Hepatocellular Carcinoma']",Hepatoblastoma || Ovarian Endometrioid Adenocarcinoma || Hepatocellular Carcinoma,C0206624 || C0346163 || C2239176,3,3,0.0,0.0
+C1705629,XRCC1 wt Allele,gene_associated_with_disease,['C0006826'],['Malignant Neoplasm'],Malignant Neoplasm,C0006826,1,1,0.0,0.0
+C1705145,FGFR3 wt Allele,gene_associated_with_disease,"['C0000889', 'C0001080']","['Acanthosis Nigricans', 'Achondroplasia']",Acanthosis Nigricans || Achondroplasia,C0000889 || C0001080,2,2,0.0,0.0
+C1705395,MT3 wt Allele,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C1332745,CEACAM7 Gene,gene_associated_with_disease,['C0338106'],['Colon Adenocarcinoma'],Colon Adenocarcinoma,C0338106,1,1,0.0,0.0
+C2825932,MIR125A wt Allele,gene_associated_with_disease,"['C0025149', 'C0678222']","['Medulloblastoma', 'Breast Carcinoma']",Medulloblastoma || Breast Carcinoma,C0025149 || C0678222,2,2,0.0,0.0
+C1337030,XPA Gene,gene_associated_with_disease,['C0268135'],"['Xeroderma Pigmentosum, Complementation Group A']","Xeroderma Pigmentosum, Complementation Group A",C0268135,1,1,0.0,0.0
+C2825973,MIR181A2 wt Allele,gene_associated_with_disease,"['C0026764', 'C0677865']","['Plasma Cell Myeloma', 'Brain Stem Glioma']",Plasma Cell Myeloma || Brain Stem Glioma,C0026764 || C0677865,2,2,0.0,0.0
+C2986625,DYSF wt Allele,gene_associated_with_disease,"['C0686353', 'C0751336']","['Limb-Girdle Muscular Dystrophy', 'Distal Muscular Dystrophy']",Limb-Girdle Muscular Dystrophy || Distal Muscular Dystrophy,C0686353 || C0751336,2,2,0.0,0.0
+C1425411,TRERF1 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C2825813,MIR26A1 wt Allele,gene_associated_with_disease,"['C0006413', 'C0549473', 'C2239176']","['Burkitt Lymphoma', 'Thyroid Gland Carcinoma', 'Hepatocellular Carcinoma']",Burkitt Lymphoma || Thyroid Gland Carcinoma || Hepatocellular Carcinoma,C0006413 || C0549473 || C2239176,3,3,0.0,0.0
+C1537791,MIR138-1 Gene,gene_associated_with_disease,['C0549473'],['Thyroid Gland Carcinoma'],Thyroid Gland Carcinoma,C0549473,1,1,0.0,0.0
+C1707232,CYP2E1*1 Allele,gene_associated_with_disease,['C0684249'],['Lung Carcinoma'],Lung Carcinoma,C0684249,1,1,0.0,0.0
+C2825809,MIR24-2 wt Allele,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C1366757,ERCC6 Gene,gene_associated_with_disease,['C0009207'],['Cockayne Syndrome'],Cockayne Syndrome,C0009207,1,1,0.0,0.0
+C1417835,NR3C2 Gene,gene_associated_with_disease,['C0020538'],['Hypertension'],Hypertension,C0020538,1,1,0.0,0.0
+C1421224,TTR Gene,gene_associated_with_disease,['C0002726'],['Amyloidosis'],Amyloidosis,C0002726,1,1,0.0,0.0
+C1332765,CLC Gene,gene_associated_with_disease,"['C0023470', 'C1516443']","['Myeloid Leukemia', 'Charcot-Leyden Crystals Formation']",Myeloid Leukemia || Charcot-Leyden Crystals Formation,C0023470 || C1516443,2,2,0.0,0.0
+C2826556,DCT wt Allele,gene_associated_with_disease,['C0025202'],['Melanoma'],Melanoma,C0025202,1,1,0.0,0.0
+C1537784,MIR133B Gene,gene_associated_with_disease,"['C0030567', 'C0280298', 'C0280315']","[""Parkinson's Disease"", 'Anterior Tongue Squamous Cell Carcinoma', 'Posterior Tongue Squamous Cell Carcinoma']",Parkinson's Disease || Anterior Tongue Squamous Cell Carcinoma || Posterior Tongue Squamous Cell Carcinoma,C0030567 || C0280298 || C0280315,3,3,0.0,0.0
+C1705727,FRAT1 wt Allele,gene_associated_with_disease,['C0079740'],['High Grade Lymphoma'],High Grade Lymphoma,C0079740,1,1,0.0,0.0
+C1704958,APPBP2 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1537797,MIR143 Gene,gene_associated_with_disease,"['C0006413', 'C0009402', 'C0023434', 'C0028754', 'C0079744', 'C0699885']","['Burkitt Lymphoma', 'Colorectal Carcinoma', 'Chronic Lymphocytic Leukemia', 'Obesity', 'Diffuse Large B-Cell Lymphoma', 'Bladder Carcinoma']",Burkitt Lymphoma || Colorectal Carcinoma || Chronic Lymphocytic Leukemia || Obesity || Diffuse Large B-Cell Lymphoma || Bladder Carcinoma,C0006413 || C0009402 || C0023434 || C0028754 || C0079744 || C0699885,6,6,0.0,0.0
+C1704824,ERBB2 wt Allele,gene_associated_with_disease,"['C0017636', 'C0152013', 'C4721610']","['Glioblastoma', 'Lung Adenocarcinoma', 'Ovarian Carcinoma']",Glioblastoma || Lung Adenocarcinoma || Ovarian Carcinoma,C0017636 || C0152013 || C4721610,3,3,0.0,0.0
+C1367551,CALCA Gene,gene_associated_with_disease,['C0029456'],['Osteoporosis'],Osteoporosis,C0029456,1,1,0.0,0.0
+C1335876,STAT5B Gene,gene_associated_with_disease,['C0023487'],['Acute Promyelocytic Leukemia with PML-RARA'],Acute Promyelocytic Leukemia with PML-RARA,C0023487,1,1,0.0,0.0
+C1825263,AMER1 Gene,gene_associated_with_disease,['C0027708'],['Wilms Tumor'],Wilms Tumor,C0027708,1,1,0.0,0.0
+C1705240,AR wt Allele,gene_associated_with_disease,['C0039585'],['Androgen Insensitivity Syndrome'],Androgen Insensitivity Syndrome,C0039585,1,1,0.0,0.0
+C1710692,XRCC5 wt Allele,gene_associated_with_disease,"['C0006826', 'C0024141']","['Malignant Neoplasm', 'Systemic Lupus Erythematosus']",Malignant Neoplasm || Systemic Lupus Erythematosus,C0006826 || C0024141,2,2,0.0,0.0
+C2825807,MIR23B wt Allele,gene_associated_with_disease,['C0600139'],['Prostate Carcinoma'],Prostate Carcinoma,C0600139,1,1,0.0,0.0
+C2828029,FANCC wt Allele,gene_associated_with_disease,['C0015625'],['Fanconi Anemia'],Fanconi Anemia,C0015625,1,1,0.0,0.0
+C1709422,PPP2R1B wt Allele,gene_associated_with_disease,['C0684249'],['Lung Carcinoma'],Lung Carcinoma,C0684249,1,1,0.0,0.0
+C1537851,MIR215 Gene,gene_associated_with_disease,['C0026764'],['Plasma Cell Myeloma'],Plasma Cell Myeloma,C0026764,1,1,0.0,0.0
+C1332402,BCL9 Gene,gene_associated_with_disease,['C1292769'],['B Acute Lymphoblastic Leukemia'],B Acute Lymphoblastic Leukemia,C1292769,1,1,0.0,0.0
+C1333695,KISS1R Gene,gene_associated_with_disease,['C0007115'],['Malignant Thyroid Gland Neoplasm'],Malignant Thyroid Gland Neoplasm,C0007115,1,1,0.0,0.0
+C1835839,MIR29C Gene,gene_associated_with_disease,"['C0011860', 'C0035412', 'C0684249', 'C2931822']","['Type 2 Diabetes Mellitus', 'Rhabdomyosarcoma', 'Lung Carcinoma', 'Nasopharyngeal Carcinoma']",Type 2 Diabetes Mellitus || Rhabdomyosarcoma || Lung Carcinoma || Nasopharyngeal Carcinoma,C0011860 || C0035412 || C0684249 || C2931822,4,4,0.0,0.0
+C2982012,ORAI1 wt Allele,gene_associated_with_disease,['C0085110'],['Severe Combined Immunodeficiency'],Severe Combined Immunodeficiency,C0085110,1,1,0.0,0.0
+C1333205,DCK Gene,gene_associated_with_disease,['C0023467'],['Acute Myeloid Leukemia'],Acute Myeloid Leukemia,C0023467,1,1,0.0,0.0
+C1707072,CASP3 wt Allele,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C2826007,MIR203A wt Allele,gene_associated_with_disease,"['C0023449', 'C0033860', 'C1292771']","['Acute Lymphoblastic Leukemia', 'Psoriasis', 'Chronic Myelogenous Leukemia, BCR-ABL1 Positive']","Acute Lymphoblastic Leukemia || Psoriasis || Chronic Myelogenous Leukemia, BCR-ABL1 Positive",C0023449 || C0033860 || C1292771,3,3,0.0,0.0
+C1706047,CHEK2 wt Allele,gene_associated_with_disease,"['C0006118', 'C0009404', 'C0033578', 'C1458155']","['Brain Neoplasm', 'Colorectal Neoplasm', 'Prostate Neoplasm', 'Breast Neoplasm']",Brain Neoplasm || Colorectal Neoplasm || Prostate Neoplasm || Breast Neoplasm,C0006118 || C0009404 || C0033578 || C1458155,4,4,0.0,0.0
+C2825958,MIR146B wt Allele,gene_associated_with_disease,"['C0677865', 'C0678222']","['Brain Stem Glioma', 'Breast Carcinoma']",Brain Stem Glioma || Breast Carcinoma,C0677865 || C0678222,2,2,0.0,0.0
+C1335193,PAX5 Gene,gene_associated_with_disease,['C0855095'],['Small Lymphocytic Lymphoma'],Small Lymphocytic Lymphoma,C0855095,1,1,0.0,0.0
+C1423544,PICALM Gene,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C2826049,MIR520C wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1835840,MIR29B1 Gene,gene_associated_with_disease,"['C0002395', 'C0011860', 'C0023434', 'C0023467', 'C0206698', 'C0684249']","[""Alzheimer's Disease"", 'Type 2 Diabetes Mellitus', 'Chronic Lymphocytic Leukemia', 'Acute Myeloid Leukemia', 'Cholangiocarcinoma', 'Lung Carcinoma']",Alzheimer's Disease || Type 2 Diabetes Mellitus || Chronic Lymphocytic Leukemia || Acute Myeloid Leukemia || Cholangiocarcinoma || Lung Carcinoma,C0002395 || C0011860 || C0023434 || C0023467 || C0206698 || C0684249,6,6,0.0,0.0
+C1706028,CDKN1C wt Allele,gene_associated_with_disease,"['C0235974', 'C0549473']","['Pancreatic Carcinoma', 'Thyroid Gland Carcinoma']",Pancreatic Carcinoma || Thyroid Gland Carcinoma,C0235974 || C0549473,2,2,0.0,0.0
+C2825937,MIR127 wt Allele,gene_associated_with_disease,"['C0009402', 'C0600139', 'C0678222', 'C0699885', 'C2239176']","['Colorectal Carcinoma', 'Prostate Carcinoma', 'Breast Carcinoma', 'Bladder Carcinoma', 'Hepatocellular Carcinoma']",Colorectal Carcinoma || Prostate Carcinoma || Breast Carcinoma || Bladder Carcinoma || Hepatocellular Carcinoma,C0009402 || C0600139 || C0678222 || C0699885 || C2239176,5,5,0.0,0.0
+C1710301,TMPRSS2 wt Allele,gene_associated_with_disease,['C0600139'],['Prostate Carcinoma'],Prostate Carcinoma,C0600139,1,1,0.0,0.0
+C0812267,ERBB4 Gene,gene_associated_with_disease,"['C0006142', 'C0280100']","['Malignant Breast Neoplasm', 'Solid Neoplasm']",Malignant Breast Neoplasm || Solid Neoplasm,C0006142 || C0280100,2,2,0.0,0.0
+C1333356,ERCC2 Gene,gene_associated_with_disease,"['C0009207', 'C0268138', 'C1955934', 'C5399761']","['Cockayne Syndrome', 'Xeroderma Pigmentosum, Complementation Group D', 'Trichothiodystrophy', 'Cerebrooculofacioskeletal Syndrome']","Cockayne Syndrome || Xeroderma Pigmentosum, Complementation Group D || Trichothiodystrophy || Cerebrooculofacioskeletal Syndrome",C0009207 || C0268138 || C1955934 || C5399761,4,4,0.0,0.0
+C1334518,FOXO4 Gene,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C1337001,WNT3 Gene,gene_associated_with_disease,"['C0007113', 'C0024623', 'C0678222', 'C0684249']","['Rectal Carcinoma', 'Malignant Gastric Neoplasm', 'Breast Carcinoma', 'Lung Carcinoma']",Rectal Carcinoma || Malignant Gastric Neoplasm || Breast Carcinoma || Lung Carcinoma,C0007113 || C0024623 || C0678222 || C0684249,4,4,0.0,0.0
+C1705588,CYP11B2 wt Allele,gene_associated_with_disease,['C0020538'],['Hypertension'],Hypertension,C0020538,1,1,0.0,0.0
+C1708423,IL13 wt Allele,gene_associated_with_disease,['C0004096'],['Asthma'],Asthma,C0004096,1,1,0.0,0.0
+C1427106,FANCL Gene,gene_associated_with_disease,['C0015625'],['Fanconi Anemia'],Fanconi Anemia,C0015625,1,1,0.0,0.0
+C1706382,CSF1R wt Allele,gene_associated_with_disease,['C2939461'],['Myeloid Neoplasm'],Myeloid Neoplasm,C2939461,1,1,0.0,0.0
+C1704797,CCR5 wt Allele,gene_associated_with_disease,['C0019693'],['HIV Infection'],HIV Infection,C0019693,1,1,0.0,0.0
+C1705783,CALCA wt Allele,gene_associated_with_disease,['C0029456'],['Osteoporosis'],Osteoporosis,C0029456,1,1,0.0,0.0
+C1537790,MIR137 Gene,gene_associated_with_disease,"['C0017636', 'C0585362', 'C0684249']","['Glioblastoma', 'Oral Cavity Squamous Cell Carcinoma', 'Lung Carcinoma']",Glioblastoma || Oral Cavity Squamous Cell Carcinoma || Lung Carcinoma,C0017636 || C0585362 || C0684249,3,3,0.0,0.0
+C1334517,MLLT6 Gene,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C2825946,MIR133A2 wt Allele,gene_associated_with_disease,"['C0280298', 'C0280315', 'C0878544', 'C2911650']","['Anterior Tongue Squamous Cell Carcinoma', 'Posterior Tongue Squamous Cell Carcinoma', 'Cardiomyopathy', 'Ventricular Hypertrophy by ECG Finding']",Anterior Tongue Squamous Cell Carcinoma || Posterior Tongue Squamous Cell Carcinoma || Cardiomyopathy || Ventricular Hypertrophy by ECG Finding,C0280298 || C0280315 || C0878544 || C2911650,4,4,0.0,0.0
+C1537855,MIR218-2 Gene,gene_associated_with_disease,['C0302592'],['Cervical Carcinoma'],Cervical Carcinoma,C0302592,1,1,0.0,0.0
+C1708431,IL1B wt Allele,gene_associated_with_disease,['C0850666'],['Helicobacter Pylori Infection'],Helicobacter Pylori Infection,C0850666,1,1,0.0,0.0
+C1334890,NOVA1 Gene,gene_associated_with_disease,"['C0030472', 'C0149925', 'C0678222']","['Paraneoplastic Syndrome', 'Lung Small Cell Carcinoma', 'Breast Carcinoma']",Paraneoplastic Syndrome || Lung Small Cell Carcinoma || Breast Carcinoma,C0030472 || C0149925 || C0678222,3,3,0.0,0.0
+C1333219,DLEC1 Gene,gene_associated_with_disease,"['C0279626', 'C0684249', 'C1378703']","['Esophageal Squamous Cell Carcinoma', 'Lung Carcinoma', 'Kidney Carcinoma']",Esophageal Squamous Cell Carcinoma || Lung Carcinoma || Kidney Carcinoma,C0279626 || C0684249 || C1378703,3,3,0.0,0.0
+C1332718,ADGRE5 Gene,gene_associated_with_disease,"['C0220620', 'C0549473']","['Digestive System Neuroendocrine Tumor G1', 'Thyroid Gland Carcinoma']",Digestive System Neuroendocrine Tumor G1 || Thyroid Gland Carcinoma,C0220620 || C0549473,2,2,0.0,0.0
+C1332739,CDKN3 Gene,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C1537842,MIR204 Gene,gene_associated_with_disease,"['C0023470', 'C0206698', 'C0678222']","['Myeloid Leukemia', 'Cholangiocarcinoma', 'Breast Carcinoma']",Myeloid Leukemia || Cholangiocarcinoma || Breast Carcinoma,C0023470 || C0206698 || C0678222,3,3,0.0,0.0
+C1707077,CBLB wt Allele,gene_associated_with_disease,"['C0004364', 'C0011854']","['Autoimmune Disease', 'Type 1 Diabetes Mellitus']",Autoimmune Disease || Type 1 Diabetes Mellitus,C0004364 || C0011854,2,2,0.0,0.0
+C1537795,MIR141 Gene,gene_associated_with_disease,"['C0206698', 'C0678222']","['Cholangiocarcinoma', 'Breast Carcinoma']",Cholangiocarcinoma || Breast Carcinoma,C0206698 || C0678222,2,2,0.0,0.0
+C1537916,MIRLET7E Gene,gene_associated_with_disease,['C0684249'],['Lung Carcinoma'],Lung Carcinoma,C0684249,1,1,0.0,0.0
+C2982395,TARP wt Allele,gene_associated_with_disease,"['C0600139', 'C0678222']","['Prostate Carcinoma', 'Breast Carcinoma']",Prostate Carcinoma || Breast Carcinoma,C0600139 || C0678222,2,2,0.0,0.0
+C2984894,ATF1 wt Allele,gene_associated_with_disease,['C1266127'],['Angiomatoid Fibrous Histiocytoma'],Angiomatoid Fibrous Histiocytoma,C1266127,1,1,0.0,0.0
+C1709136,NOS3 wt Allele,gene_associated_with_disease,"['C0002395', 'C0020538']","[""Alzheimer's Disease"", 'Hypertension']",Alzheimer's Disease || Hypertension,C0002395 || C0020538,2,2,0.0,0.0
+C1412179,ADA Gene,gene_associated_with_disease,['C0085110'],['Severe Combined Immunodeficiency'],Severe Combined Immunodeficiency,C0085110,1,1,0.0,0.0
+C1332664,CASP5 Gene,gene_associated_with_disease,['C1961099'],['T Acute Lymphoblastic Leukemia'],T Acute Lymphoblastic Leukemia,C1961099,1,1,0.0,0.0
+C1706016,BMPR1A wt Allele,gene_associated_with_disease,['C0018553'],['Cowden Syndrome'],Cowden Syndrome,C0018553,1,1,0.0,0.0
+C1413861,CYP21A2 Gene,gene_associated_with_disease,['C0342494'],['Adrenal Cortical Hyperplasia'],Adrenal Cortical Hyperplasia,C0342494,1,1,0.0,0.0
+C1332096,ANXA8 Gene,gene_associated_with_disease,['C0023470'],['Myeloid Leukemia'],Myeloid Leukemia,C0023470,1,1,0.0,0.0
+C1705846,ATM wt Allele,gene_associated_with_disease,"['C0023418', 'C0024299', 'C0678222']","['Leukemia', 'Lymphoma', 'Breast Carcinoma']",Leukemia || Lymphoma || Breast Carcinoma,C0023418 || C0024299 || C0678222,3,3,0.0,0.0
+C1705128,DLEC1 wt Allele,gene_associated_with_disease,"['C0279626', 'C0684249', 'C1378703']","['Esophageal Squamous Cell Carcinoma', 'Lung Carcinoma', 'Kidney Carcinoma']",Esophageal Squamous Cell Carcinoma || Lung Carcinoma || Kidney Carcinoma,C0279626 || C0684249 || C1378703,3,3,0.0,0.0
+C1705056,CRH wt Allele,gene_associated_with_disease,"['C0002395', 'C0019158', 'C0020615']","[""Alzheimer's Disease"", 'Hepatitis', 'Hypoglycemia']",Alzheimer's Disease || Hepatitis || Hypoglycemia,C0002395 || C0019158 || C0020615,3,3,0.0,0.0
+C1705386,PTPN22 wt Allele,gene_associated_with_disease,"['C0003873', 'C0011854', 'C0024141', 'C0677607']","['Rheumatoid Arthritis', 'Type 1 Diabetes Mellitus', 'Systemic Lupus Erythematosus', 'Hashimoto Thyroiditis']",Rheumatoid Arthritis || Type 1 Diabetes Mellitus || Systemic Lupus Erythematosus || Hashimoto Thyroiditis,C0003873 || C0011854 || C0024141 || C0677607,4,4,0.0,0.0
+C1332656,C3 Gene,gene_associated_with_disease,['C1332655'],['C3 Deficiency'],C3 Deficiency,C1332655,1,1,0.0,0.4999999950000001
+C1710654,WNT3 wt Allele,gene_associated_with_disease,"['C0007113', 'C0024623', 'C0678222', 'C0684249']","['Rectal Carcinoma', 'Malignant Gastric Neoplasm', 'Breast Carcinoma', 'Lung Carcinoma']",Rectal Carcinoma || Malignant Gastric Neoplasm || Breast Carcinoma || Lung Carcinoma,C0007113 || C0024623 || C0678222 || C0684249,4,4,0.0,0.0
+C0919487,NTRK1 Gene,gene_associated_with_disease,['C0238463'],['Thyroid Gland Papillary Carcinoma'],Thyroid Gland Papillary Carcinoma,C0238463,1,1,0.0,0.0
+C2982011,NHEJ1 wt Allele,gene_associated_with_disease,['C1883020'],['Severe Combined Immunodeficiency with Absence of T and B Cells'],Severe Combined Immunodeficiency with Absence of T and B Cells,C1883020,1,1,0.0,0.0
+C1842690,NBAS Gene,gene_associated_with_disease,['C0027819'],['Neuroblastoma'],Neuroblastoma,C0027819,1,1,0.0,0.0
+C1367342,TERT Gene,gene_associated_with_disease,['C0027819'],['Neuroblastoma'],Neuroblastoma,C0027819,1,1,0.0,0.0
+C1333542,FGFR2 Gene,gene_associated_with_disease,['C1510455'],['Acrocephalosyndactyly'],Acrocephalosyndactyly,C1510455,1,1,0.0,0.0
+C3853888,Oncogene ErbB2,gene_associated_with_disease,['C0001418'],['Adenocarcinoma'],Adenocarcinoma,C0001418,1,1,0.0,0.0
+C2825801,MIR19B2 wt Allele,gene_associated_with_disease,"['C0023493', 'C2239176']","['Adult T-Cell Leukemia/Lymphoma', 'Hepatocellular Carcinoma']",Adult T-Cell Leukemia/Lymphoma || Hepatocellular Carcinoma,C0023493 || C2239176,2,2,0.0,0.0
+C1709138,NQO1 wt Allele,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C1537830,MIR196A1 Gene,gene_associated_with_disease,['C0152018'],['Esophageal Carcinoma'],Esophageal Carcinoma,C0152018,1,1,0.0,0.0
+C1455836,HRG Gene,gene_associated_with_disease,['C0040053'],['Thrombosis'],Thrombosis,C0040053,1,1,0.0,0.0
+C0919509,FGFR1 Gene,gene_associated_with_disease,['C0022735'],['Klinefelter Syndrome'],Klinefelter Syndrome,C0022735,1,1,0.0,0.0
+C1332387,BCAS1 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1332389,BCAS3 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1705717,AXIN1 wt Allele,gene_associated_with_disease,"['C0206624', 'C0346163', 'C2239176']","['Hepatoblastoma', 'Ovarian Endometrioid Adenocarcinoma', 'Hepatocellular Carcinoma']",Hepatoblastoma || Ovarian Endometrioid Adenocarcinoma || Hepatocellular Carcinoma,C0206624 || C0346163 || C2239176,3,3,0.0,0.0
+C1335288,PTPRJ Gene,gene_associated_with_disease,['C0699790'],['Colon Carcinoma'],Colon Carcinoma,C0699790,1,1,0.0,0.0
+C1705230,SET wt Allele,gene_associated_with_disease,['C0023470'],['Myeloid Leukemia'],Myeloid Leukemia,C0023470,1,1,0.0,0.0
+C1706243,PPARG wt Allele,gene_associated_with_disease,"['C0011860', 'C0020538', 'C0028754']","['Type 2 Diabetes Mellitus', 'Hypertension', 'Obesity']",Type 2 Diabetes Mellitus || Hypertension || Obesity,C0011860 || C0020538 || C0028754,3,3,0.0,0.0
+C1333216,DHFR Gene,gene_associated_with_disease,['C0002888'],['Megaloblastic Anemia'],Megaloblastic Anemia,C0002888,1,1,0.0,0.0
+C1710653,WNT2 wt Allele,gene_associated_with_disease,['C0006142'],['Malignant Breast Neoplasm'],Malignant Breast Neoplasm,C0006142,1,1,0.0,0.0
+C1709121,NCOA4 wt Allele,gene_associated_with_disease,['C0238463'],['Thyroid Gland Papillary Carcinoma'],Thyroid Gland Papillary Carcinoma,C0238463,1,1,0.0,0.0
+C1537727,MIR26A2 Gene,gene_associated_with_disease,"['C0006413', 'C0549473', 'C2239176']","['Burkitt Lymphoma', 'Thyroid Gland Carcinoma', 'Hepatocellular Carcinoma']",Burkitt Lymphoma || Thyroid Gland Carcinoma || Hepatocellular Carcinoma,C0006413 || C0549473 || C2239176,3,3,0.0,0.0
+C2826011,MIR206 wt Allele,gene_associated_with_disease,"['C0036341', 'C0678222']","['Schizophrenia', 'Breast Carcinoma']",Schizophrenia || Breast Carcinoma,C0036341 || C0678222,2,2,0.0,0.0
+C1707860,EPOR wt Allele,gene_associated_with_disease,"['C0152264', 'C4520840']","['Familial Polycythemia', 'Erythroleukemia']",Familial Polycythemia || Erythroleukemia,C0152264 || C4520840,2,2,0.0,0.0
+C1823488,TRIM24 Gene,gene_associated_with_disease,['C0238463'],['Thyroid Gland Papillary Carcinoma'],Thyroid Gland Papillary Carcinoma,C0238463,1,1,0.0,0.0
+C1335621,PDLIM4 wt Allele,gene_associated_with_disease,['C0029456'],['Osteoporosis'],Osteoporosis,C0029456,1,1,0.0,0.0
+C2826019,MIR221 wt Allele,gene_associated_with_disease,"['C0017636', 'C0025202', 'C0549473', 'C0600139', 'C0678222', 'C0684249', 'C2239176', 'C4721610']","['Glioblastoma', 'Melanoma', 'Thyroid Gland Carcinoma', 'Prostate Carcinoma', 'Breast Carcinoma', 'Lung Carcinoma', 'Hepatocellular Carcinoma', 'Ovarian Carcinoma']",Glioblastoma || Melanoma || Thyroid Gland Carcinoma || Prostate Carcinoma || Breast Carcinoma || Lung Carcinoma || Hepatocellular Carcinoma || Ovarian Carcinoma,C0017636 || C0025202 || C0549473 || C0600139 || C0678222 || C0684249 || C2239176 || C4721610,8,8,0.0,0.0
+C1367472,FN1 Gene,gene_associated_with_disease,['C0013720'],['Ehlers-Danlos Syndrome'],Ehlers-Danlos Syndrome,C0013720,1,1,0.0,0.0
+C0919426,CYP2E1 Gene,gene_associated_with_disease,['C0684249'],['Lung Carcinoma'],Lung Carcinoma,C0684249,1,1,0.0,0.0
+C1335284,PTPN7 Gene,gene_associated_with_disease,['C0024305'],['Non-Hodgkin Lymphoma'],Non-Hodgkin Lymphoma,C0024305,1,1,0.0,0.0
+C1705926,NFIB wt Allele,gene_associated_with_disease,['C0001430'],['Adenoma'],Adenoma,C0001430,1,1,0.0,0.0
+C1537702,MIR7-2 Gene,gene_associated_with_disease,"['C0678222', 'C0684249']","['Breast Carcinoma', 'Lung Carcinoma']",Breast Carcinoma || Lung Carcinoma,C0678222 || C0684249,2,2,0.0,0.0
+C1336626,THBS1 Gene,gene_associated_with_disease,['C0001618'],['Adrenal Cortex Neoplasm'],Adrenal Cortex Neoplasm,C0001618,1,1,0.0,0.0
+C1709137,NOVA1 wt Allele,gene_associated_with_disease,"['C0030472', 'C0149925', 'C0678222']","['Paraneoplastic Syndrome', 'Lung Small Cell Carcinoma', 'Breast Carcinoma']",Paraneoplastic Syndrome || Lung Small Cell Carcinoma || Breast Carcinoma,C0030472 || C0149925 || C0678222,3,3,0.0,0.0
+C1707078,CBL wt Allele,gene_associated_with_disease,['C0079731'],['B-Cell Non-Hodgkin Lymphoma'],B-Cell Non-Hodgkin Lymphoma,C0079731,1,1,0.0,0.0
+C1706874,BAIAP2 wt Allele,gene_associated_with_disease,['C0270715'],['Central Nervous System Degenerative Disorder'],Central Nervous System Degenerative Disorder,C0270715,1,1,0.0,0.0
+C1705338,F9 wt Allele,gene_associated_with_disease,['C0008533'],['Hemophilia B'],Hemophilia B,C0008533,1,1,0.0,0.0
+C1420175,SLC2A4 Gene,gene_associated_with_disease,['C0011860'],['Type 2 Diabetes Mellitus'],Type 2 Diabetes Mellitus,C0011860,1,1,0.0,0.0
+C1824746,CLIP1 Gene,gene_associated_with_disease,['C0019829'],['Hodgkin Lymphoma'],Hodgkin Lymphoma,C0019829,1,1,0.0,0.0
+C3642141,APOE*4 Allele,gene_associated_with_disease,"['C0002395', 'C0004153', 'C0020476']","[""Alzheimer's Disease"", 'Atherosclerotic Cardiovascular Disease', 'Hyperlipoproteinemia']",Alzheimer's Disease || Atherosclerotic Cardiovascular Disease || Hyperlipoproteinemia,C0002395 || C0004153 || C0020476,3,3,0.0,0.0
+C2826044,MIR451A wt Allele,gene_associated_with_disease,"['C0017636', 'C0678222']","['Glioblastoma', 'Breast Carcinoma']",Glioblastoma || Breast Carcinoma,C0017636 || C0678222,2,2,0.0,0.0
+C1705969,CTLA4 wt Allele,gene_associated_with_disease,"['C0007131', 'C0007570', 'C0011854', 'C0020676', 'C0033860']","['Lung Non-Small Cell Carcinoma', 'Celiac Disease', 'Type 1 Diabetes Mellitus', 'Hypothyroidism', 'Psoriasis']",Lung Non-Small Cell Carcinoma || Celiac Disease || Type 1 Diabetes Mellitus || Hypothyroidism || Psoriasis,C0007131 || C0007570 || C0011854 || C0020676 || C0033860,5,5,0.0,0.0
+C2826038,MIR376A1 wt Allele,gene_associated_with_disease,['C4721610'],['Ovarian Carcinoma'],Ovarian Carcinoma,C4721610,1,1,0.0,0.0
+C1706266,S100P wt Allele,gene_associated_with_disease,['C0600139'],['Prostate Carcinoma'],Prostate Carcinoma,C0600139,1,1,0.0,0.0
+C1853135,MIR195 Gene,gene_associated_with_disease,['C2911650'],['Ventricular Hypertrophy by ECG Finding'],Ventricular Hypertrophy by ECG Finding,C2911650,1,1,0.0,0.0
+C0812377,SPINK1 Gene,gene_associated_with_disease,['C0030305'],['Pancreatitis'],Pancreatitis,C0030305,1,1,0.0,0.0
+C1705125,FGFR1OP wt Allele,gene_associated_with_disease,['C1301355'],['Myelodysplastic/Myeloproliferative Neoplasm'],Myelodysplastic/Myeloproliferative Neoplasm,C1301355,1,1,0.0,0.0
+C1334129,ING1 Gene,gene_associated_with_disease,['C1168401'],['Head and Neck Squamous Cell Carcinoma'],Head and Neck Squamous Cell Carcinoma,C1168401,1,1,0.0,0.0
+C0079419,TP53 Gene,gene_associated_with_disease,"['C0029463', 'C0206686', 'C0549473', 'C0678222', 'C2239176', 'C2931822']","['Osteosarcoma', 'Adrenal Cortex Carcinoma', 'Thyroid Gland Carcinoma', 'Breast Carcinoma', 'Hepatocellular Carcinoma', 'Nasopharyngeal Carcinoma']",Osteosarcoma || Adrenal Cortex Carcinoma || Thyroid Gland Carcinoma || Breast Carcinoma || Hepatocellular Carcinoma || Nasopharyngeal Carcinoma,C0029463 || C0206686 || C0549473 || C0678222 || C2239176 || C2931822,6,6,0.0,0.0
+C1704878,MSMB wt Allele,gene_associated_with_disease,['C0600139'],['Prostate Carcinoma'],Prostate Carcinoma,C0600139,1,1,0.0,0.0
+C1333358,ERCC4 Gene,gene_associated_with_disease,['C0268140'],"['Xeroderma Pigmentosum, Complementation Group F']","Xeroderma Pigmentosum, Complementation Group F",C0268140,1,1,0.0,0.0
+C2825924,MIR106A wt Allele,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C0027260,Oncogene N-RAS,gene_associated_with_disease,['C0009402'],['Colorectal Carcinoma'],Colorectal Carcinoma,C0009402,1,1,0.0,0.0
+C1335799,S100P Gene,gene_associated_with_disease,['C0600139'],['Prostate Carcinoma'],Prostate Carcinoma,C0600139,1,1,0.0,0.0
+C1332378,BAIAP2 Gene,gene_associated_with_disease,['C0270715'],['Central Nervous System Degenerative Disorder'],Central Nervous System Degenerative Disorder,C0270715,1,1,0.0,0.0
+C2826009,MIR204 wt Allele,gene_associated_with_disease,"['C0023470', 'C0206698', 'C0678222']","['Myeloid Leukemia', 'Cholangiocarcinoma', 'Breast Carcinoma']",Myeloid Leukemia || Cholangiocarcinoma || Breast Carcinoma,C0023470 || C0206698 || C0678222,3,3,0.0,0.0
+C1334899,NR3C1 Gene,gene_associated_with_disease,['C0020538'],['Hypertension'],Hypertension,C0020538,1,1,0.0,0.0
+C1366499,MME Gene,gene_associated_with_disease,['C0023449'],['Acute Lymphoblastic Leukemia'],Acute Lymphoblastic Leukemia,C0023449,1,1,0.0,0.0
+C1706223,CTTN wt Allele,gene_associated_with_disease,['C1336079'],['Squamous Cell Breast Carcinoma'],Squamous Cell Breast Carcinoma,C1336079,1,1,0.0,0.0
+C1426195,FAM13A Gene,gene_associated_with_disease,['C0024117'],['Chronic Obstructive Pulmonary Disease'],Chronic Obstructive Pulmonary Disease,C0024117,1,1,0.0,0.0
+C1418986,PSEN2 Gene,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C1704805,EPCAM wt Allele,gene_associated_with_disease,['C0009402'],['Colorectal Carcinoma'],Colorectal Carcinoma,C0009402,1,1,0.0,0.0
+C1708304,HYOU1 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1704844,DDR1 wt Allele,gene_associated_with_disease,['C1458155'],['Breast Neoplasm'],Breast Neoplasm,C1458155,1,1,0.0,0.0
+C2826018,MIR218-2 wt Allele,gene_associated_with_disease,['C0302592'],['Cervical Carcinoma'],Cervical Carcinoma,C0302592,1,1,0.0,0.0
+C1420805,TNFRSF11A Gene,gene_associated_with_disease,['C0029401'],['Bone Paget Disease'],Bone Paget Disease,C0029401,1,1,0.0,0.0
+C1708409,IFNGR1 wt Allele,gene_associated_with_disease,"['C0026918', 'C0041296', 'C0850666']","['Mycobacterial Infection', 'Tuberculosis', 'Helicobacter Pylori Infection']",Mycobacterial Infection || Tuberculosis || Helicobacter Pylori Infection,C0026918 || C0041296 || C0850666,3,3,0.0,0.0
+C1337108,MAP3K8 Gene,gene_associated_with_disease,['C0152013'],['Lung Adenocarcinoma'],Lung Adenocarcinoma,C0152013,1,1,0.0,0.0
+C1708298,HTR2A 1 Allele,gene_associated_with_disease,['C0036341'],['Schizophrenia'],Schizophrenia,C0036341,1,1,0.0,0.0
+C1537827,MIR194-1 Gene,gene_associated_with_disease,['C0026764'],['Plasma Cell Myeloma'],Plasma Cell Myeloma,C0026764,1,1,0.0,0.0
+C1417101,MEF2B Gene,gene_associated_with_disease,['C0023449'],['Acute Lymphoblastic Leukemia'],Acute Lymphoblastic Leukemia,C0023449,1,1,0.0,0.0
+C0919428,NQO1 Gene,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C1335798,S100A9 Gene,gene_associated_with_disease,['C0010674'],['Cystic Fibrosis'],Cystic Fibrosis,C0010674,1,1,0.0,0.0
+C2347435,PRNP wt Allele,gene_associated_with_disease,['C0022336'],['Creutzfeldt-Jakob Disease'],Creutzfeldt-Jakob Disease,C0022336,1,1,0.0,0.0
+C1367458,LGI1 Gene,gene_associated_with_disease,"['C0555198', 'C0854109']","['Malignant Glioma', 'Congenital Epilepsy']",Malignant Glioma || Congenital Epilepsy,C0555198 || C0854109,2,2,0.0,0.0
+C1705716,AXIN2 wt Allele,gene_associated_with_disease,"['C0009402', 'C0027819', 'C0678222']","['Colorectal Carcinoma', 'Neuroblastoma', 'Breast Carcinoma']",Colorectal Carcinoma || Neuroblastoma || Breast Carcinoma,C0009402 || C0027819 || C0678222,3,3,0.0,0.0
+C1364142,SMO Gene,gene_associated_with_disease,['C4721806'],['Skin Basal Cell Carcinoma'],Skin Basal Cell Carcinoma,C4721806,1,1,0.0,0.0
+C1706881,BCAS3 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1707082,CCL11 wt Allele,gene_associated_with_disease,"['C0004096', 'C0011603', 'C0035455']","['Asthma', 'Dermatitis', 'Rhinitis']",Asthma || Dermatitis || Rhinitis,C0004096 || C0011603 || C0035455,3,3,0.0,0.0
+C1706045,CHGB wt Allele,gene_associated_with_disease,['C4551683'],['Adrenal Gland Pheochromocytoma'],Adrenal Gland Pheochromocytoma,C4551683,1,1,0.0,0.0
+C0694883,STK11 Gene,gene_associated_with_disease,"['C0017185', 'C0678222']","['Digestive System Neoplasm', 'Breast Carcinoma']",Digestive System Neoplasm || Breast Carcinoma,C0017185 || C0678222,2,2,0.0,0.0
+C1704811,COL1A2 wt Allele,gene_associated_with_disease,"['C0029434', 'C0029456']","['Osteogenesis Imperfecta', 'Osteoporosis']",Osteogenesis Imperfecta || Osteoporosis,C0029434 || C0029456,2,2,0.0,0.0
+C1705377,MFHAS1 wt Allele,gene_associated_with_disease,['C0334463'],['Undifferentiated Pleomorphic Sarcoma'],Undifferentiated Pleomorphic Sarcoma,C0334463,1,1,0.0,0.0
+C1705622,MLLT6 wt Allele,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C1710318,TPMT*3A Allele,gene_associated_with_disease,['C0342801'],['Thiopurine Methyltransferase Deficiency'],Thiopurine Methyltransferase Deficiency,C0342801,1,1,0.0,0.0
+C1706641,ADA wt Allele,gene_associated_with_disease,['C0085110'],['Severe Combined Immunodeficiency'],Severe Combined Immunodeficiency,C0085110,1,1,0.0,0.0
+C1337111,POMC Gene,gene_associated_with_disease,"['C0028754', 'C0405580']","['Obesity', 'Adrenocortical Insufficiency']",Obesity || Adrenocortical Insufficiency,C0028754 || C0405580,2,2,0.0,0.0
+C1704716,DPYD wt Allele,gene_associated_with_disease,['C1959620'],['Dihydrouracil Dehydrogenase Deficiency'],Dihydrouracil Dehydrogenase Deficiency,C1959620,1,1,0.0,0.0
+C1421207,TSPY1 Gene,gene_associated_with_disease,"['C0039590', 'C0206661']","['Testicular Neoplasm', 'Gonadoblastoma']",Testicular Neoplasm || Gonadoblastoma,C0039590 || C0206661,2,2,0.0,0.0
+C1537748,MIR92A1 Gene,gene_associated_with_disease,"['C0025149', 'C2239176']","['Medulloblastoma', 'Hepatocellular Carcinoma']",Medulloblastoma || Hepatocellular Carcinoma,C0025149 || C2239176,2,2,0.0,0.0
+C2827564,HBG2 wt Allele,gene_associated_with_disease,['C2825560'],['S-Beta Thalassemia'],S-Beta Thalassemia,C2825560,1,1,0.0,0.0
+C1537838,MIR200A Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1705375,ADAM11 wt Allele,gene_associated_with_disease,"['C0678222', 'C1140680']","['Breast Carcinoma', 'Malignant Ovarian Neoplasm']",Breast Carcinoma || Malignant Ovarian Neoplasm,C0678222 || C1140680,2,2,0.0,0.0
+C1705090,CD3E wt Allele,gene_associated_with_disease,['C1334159'],['Immunodeficiency-Related Disorder'],Immunodeficiency-Related Disorder,C1334159,1,1,0.0,0.0
+C2825945,MIR133A1 wt Allele,gene_associated_with_disease,"['C0280298', 'C0280315', 'C0878544', 'C2911650']","['Anterior Tongue Squamous Cell Carcinoma', 'Posterior Tongue Squamous Cell Carcinoma', 'Cardiomyopathy', 'Ventricular Hypertrophy by ECG Finding']",Anterior Tongue Squamous Cell Carcinoma || Posterior Tongue Squamous Cell Carcinoma || Cardiomyopathy || Ventricular Hypertrophy by ECG Finding,C0280298 || C0280315 || C0878544 || C2911650,4,4,0.0,0.0
+C1332124,AVPR2 Gene,gene_associated_with_disease,['C0011848'],['Diabetes Insipidus'],Diabetes Insipidus,C0011848,1,1,0.0,0.0
+C1335809,SELP Gene,gene_associated_with_disease,['C0392707'],['Atopy'],Atopy,C0392707,1,1,0.0,0.0
+C1334908,NTN1 Gene,gene_associated_with_disease,['C0027819'],['Neuroblastoma'],Neuroblastoma,C0027819,1,1,0.0,0.0
+C2981875,CST3 wt Allele,gene_associated_with_disease,"['C0002726', 'C0242383']","['Amyloidosis', 'Age-Related Macular Degeneration']",Amyloidosis || Age-Related Macular Degeneration,C0002726 || C0242383,2,2,0.0,0.0
+C1705271,TLX1 wt Allele,gene_associated_with_disease,['C0085669'],['Acute Leukemia'],Acute Leukemia,C0085669,1,1,0.0,0.0
+C1424448,CHEK2 Gene,gene_associated_with_disease,"['C0006118', 'C0009404', 'C0033578', 'C1458155']","['Brain Neoplasm', 'Colorectal Neoplasm', 'Prostate Neoplasm', 'Breast Neoplasm']",Brain Neoplasm || Colorectal Neoplasm || Prostate Neoplasm || Breast Neoplasm,C0006118 || C0009404 || C0033578 || C1458155,4,4,0.0,0.0
+C1708410,IFNGR2 wt Allele,gene_associated_with_disease,['C0026918'],['Mycobacterial Infection'],Mycobacterial Infection,C0026918,1,1,0.0,0.0
+C1420248,SNAI2 Gene,gene_associated_with_disease,['C3266898'],['Waardenburg Syndrome'],Waardenburg Syndrome,C3266898,1,1,0.0,0.0
+C1537803,MIR148B Gene,gene_associated_with_disease,['C0004096'],['Asthma'],Asthma,C0004096,1,1,0.0,0.0
+C2986687,ICOS wt Allele,gene_associated_with_disease,['C2936664'],['Common Variable Immunodeficiency'],Common Variable Immunodeficiency,C2936664,1,1,0.0,0.0
+C1367578,AR Gene,gene_associated_with_disease,['C0039585'],['Androgen Insensitivity Syndrome'],Androgen Insensitivity Syndrome,C0039585,1,1,0.0,0.0
+C1413865,CYP27B1 Gene,gene_associated_with_disease,['C0035579'],['Rickets'],Rickets,C0035579,1,1,0.0,0.0
+C2826553,NRXN1 wt Allele,gene_associated_with_disease,['C0036341'],['Schizophrenia'],Schizophrenia,C0036341,1,1,0.0,0.0
+C1537757,MIR101-1 Gene,gene_associated_with_disease,"['C0600139', 'C0699885', 'C2239176']","['Prostate Carcinoma', 'Bladder Carcinoma', 'Hepatocellular Carcinoma']",Prostate Carcinoma || Bladder Carcinoma || Hepatocellular Carcinoma,C0600139 || C0699885 || C2239176,3,3,0.0,0.0
+C1537729,MIR27A Gene,gene_associated_with_disease,"['C0678222', 'C0699791', 'C2239176']","['Breast Carcinoma', 'Gastric Carcinoma', 'Hepatocellular Carcinoma']",Breast Carcinoma || Gastric Carcinoma || Hepatocellular Carcinoma,C0678222 || C0699791 || C2239176,3,3,0.0,0.0
+C1706439,ITGAM wt Allele,gene_associated_with_disease,['C0398738'],['Leukocyte Adhesion Deficiency Type 1'],Leukocyte Adhesion Deficiency Type 1,C0398738,1,1,0.0,0.0
+C1704762,TRIM27 wt Allele,gene_associated_with_disease,['C0238463'],['Thyroid Gland Papillary Carcinoma'],Thyroid Gland Papillary Carcinoma,C0238463,1,1,0.0,0.0
+C1708582,JAK3 wt Allele,gene_associated_with_disease,['C0085110'],['Severe Combined Immunodeficiency'],Severe Combined Immunodeficiency,C0085110,1,1,0.0,0.0
+C1835841,MIR29A Gene,gene_associated_with_disease,"['C0002395', 'C0011860', 'C0684249']","[""Alzheimer's Disease"", 'Type 2 Diabetes Mellitus', 'Lung Carcinoma']",Alzheimer's Disease || Type 2 Diabetes Mellitus || Lung Carcinoma,C0002395 || C0011860 || C0684249,3,3,0.0,0.0
+C1334332,LCP1 Gene,gene_associated_with_disease,['C0079731'],['B-Cell Non-Hodgkin Lymphoma'],B-Cell Non-Hodgkin Lymphoma,C0079731,1,1,0.0,0.0
+C1707161,CTSD wt Allele,gene_associated_with_disease,"['C0678222', 'C4721610']","['Breast Carcinoma', 'Ovarian Carcinoma']",Breast Carcinoma || Ovarian Carcinoma,C0678222 || C4721610,2,2,0.0,0.0
+C1537765,MIR107 Gene,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C1705784,CD82 wt Allele,gene_associated_with_disease,['C0600139'],['Prostate Carcinoma'],Prostate Carcinoma,C0600139,1,1,0.0,0.0
+C0243036,Oncogene ERB B,gene_associated_with_disease,['C0001418'],['Adenocarcinoma'],Adenocarcinoma,C0001418,1,1,0.0,0.0
+C1415701,HPRT1 Gene,gene_associated_with_disease,['C0018099'],['Gout'],Gout,C0018099,1,1,0.0,0.0
+C1333903,HMGA1 Gene,gene_associated_with_disease,"['C0006413', 'C0678222']","['Burkitt Lymphoma', 'Breast Carcinoma']",Burkitt Lymphoma || Breast Carcinoma,C0006413 || C0678222,2,2,0.0,0.0
+C1705068,ACKR2 wt Allele,gene_associated_with_disease,['C1334630'],['Malignant Vascular Neoplasm'],Malignant Vascular Neoplasm,C1334630,1,1,0.0,0.0
+C1418401,PDCD1 Gene,gene_associated_with_disease,['C0024141'],['Systemic Lupus Erythematosus'],Systemic Lupus Erythematosus,C0024141,1,1,0.0,0.0
+C1334121,IL5 Gene,gene_associated_with_disease,"['C0004096', 'C1540912']","['Asthma', 'Hypereosinophilic Syndrome']",Asthma || Hypereosinophilic Syndrome,C0004096 || C1540912,2,2,0.0,0.0
+C1705514,NAT2 wt Allele,gene_associated_with_disease,['C0024141'],['Systemic Lupus Erythematosus'],Systemic Lupus Erythematosus,C0024141,1,1,0.0,0.0
+C1537726,MIR26A1 Gene,gene_associated_with_disease,"['C0006413', 'C0549473', 'C2239176']","['Burkitt Lymphoma', 'Thyroid Gland Carcinoma', 'Hepatocellular Carcinoma']",Burkitt Lymphoma || Thyroid Gland Carcinoma || Hepatocellular Carcinoma,C0006413 || C0549473 || C2239176,3,3,0.0,0.0
+C1706112,SELE wt Allele,gene_associated_with_disease,['C0398739'],['Leukocyte Adhesion Deficiency Type 2'],Leukocyte Adhesion Deficiency Type 2,C0398739,1,1,0.0,0.0
+C1706879,BAX wt Allele,gene_associated_with_disease,"['C0009402', 'C0346629', 'C1961099']","['Colorectal Carcinoma', 'Malignant Colorectal Neoplasm', 'T Acute Lymphoblastic Leukemia']",Colorectal Carcinoma || Malignant Colorectal Neoplasm || T Acute Lymphoblastic Leukemia,C0009402 || C0346629 || C1961099,3,3,0.0,0.0
+C1704919,TAP1 wt Allele,gene_associated_with_disease,"['C0009402', 'C0678222']","['Colorectal Carcinoma', 'Breast Carcinoma']",Colorectal Carcinoma || Breast Carcinoma,C0009402 || C0678222,2,2,0.0,0.0
+C1709986,SIPA1 wt Allele,gene_associated_with_disease,['C0600139'],['Prostate Carcinoma'],Prostate Carcinoma,C0600139,1,1,0.0,0.0
+C1710332,TSG101 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1332802,CTLA4 Gene,gene_associated_with_disease,"['C0007131', 'C0007570', 'C0011854', 'C0020676', 'C0033860']","['Lung Non-Small Cell Carcinoma', 'Celiac Disease', 'Type 1 Diabetes Mellitus', 'Hypothyroidism', 'Psoriasis']",Lung Non-Small Cell Carcinoma || Celiac Disease || Type 1 Diabetes Mellitus || Hypothyroidism || Psoriasis,C0007131 || C0007570 || C0011854 || C0020676 || C0033860,5,5,0.0,0.0
+C2825936,MIR126 wt Allele,gene_associated_with_disease,"['C0009402', 'C0023418', 'C0600139', 'C0678222', 'C0684249', 'C2239176']","['Colorectal Carcinoma', 'Leukemia', 'Prostate Carcinoma', 'Breast Carcinoma', 'Lung Carcinoma', 'Hepatocellular Carcinoma']",Colorectal Carcinoma || Leukemia || Prostate Carcinoma || Breast Carcinoma || Lung Carcinoma || Hepatocellular Carcinoma,C0009402 || C0023418 || C0600139 || C0678222 || C0684249 || C2239176,6,6,0.0,0.0
+C1367689,PLAUR Gene,gene_associated_with_disease,['C1153706'],['Endometrial Adenocarcinoma'],Endometrial Adenocarcinoma,C1153706,1,1,0.0,0.0
+C1412756,BCHE Gene,gene_associated_with_disease,['C0003578'],['Apnea'],Apnea,C0003578,1,1,0.0,0.0
+C1334084,IFNGR2 Gene,gene_associated_with_disease,['C0026918'],['Mycobacterial Infection'],Mycobacterial Infection,C0026918,1,1,0.0,0.0
+C1335290,PURA Gene,gene_associated_with_disease,"['C0023467', 'C3463824']","['Acute Myeloid Leukemia', 'Myelodysplastic Syndrome']",Acute Myeloid Leukemia || Myelodysplastic Syndrome,C0023467 || C3463824,2,2,0.0,0.0
+C1419102,PTPN22 Gene,gene_associated_with_disease,"['C0003873', 'C0011854', 'C0024141', 'C0677607']","['Rheumatoid Arthritis', 'Type 1 Diabetes Mellitus', 'Systemic Lupus Erythematosus', 'Hashimoto Thyroiditis']",Rheumatoid Arthritis || Type 1 Diabetes Mellitus || Systemic Lupus Erythematosus || Hashimoto Thyroiditis,C0003873 || C0011854 || C0024141 || C0677607,4,4,0.0,0.0
+C1332388,BCAS2 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1704810,COL1A1 wt Allele,gene_associated_with_disease,"['C0029434', 'C0029456', 'C0392784']","['Osteogenesis Imperfecta', 'Osteoporosis', 'Dermatofibrosarcoma Protuberans']",Osteogenesis Imperfecta || Osteoporosis || Dermatofibrosarcoma Protuberans,C0029434 || C0029456 || C0392784,3,3,0.0,0.0
+C1537915,MIRLET7D Gene,gene_associated_with_disease,"['C0023487', 'C0042133', 'C0684249', 'C4721610']","['Acute Promyelocytic Leukemia with PML-RARA', 'Uterine Corpus Leiomyoma', 'Lung Carcinoma', 'Ovarian Carcinoma']",Acute Promyelocytic Leukemia with PML-RARA || Uterine Corpus Leiomyoma || Lung Carcinoma || Ovarian Carcinoma,C0023487 || C0042133 || C0684249 || C4721610,4,4,0.0,0.0
+C2826027,MIR320A wt Allele,gene_associated_with_disease,"['C0002895', 'C0023467', 'C0206698']","['Sickle Cell Disease', 'Acute Myeloid Leukemia', 'Cholangiocarcinoma']",Sickle Cell Disease || Acute Myeloid Leukemia || Cholangiocarcinoma,C0002895 || C0023467 || C0206698,3,3,0.0,0.0
+C1332713,CD47 Gene,gene_associated_with_disease,['C0042769'],['Viral Infection'],Viral Infection,C0042769,1,1,0.0,0.0
+C1826024,MIR432 Gene,gene_associated_with_disease,['C4721610'],['Ovarian Carcinoma'],Ovarian Carcinoma,C4721610,1,1,0.0,0.0
+C1710333,TSHR wt Allele,gene_associated_with_disease,['C0020550'],['Hyperthyroidism'],Hyperthyroidism,C0020550,1,1,0.0,0.0
+C1706026,PAX5 wt Allele,gene_associated_with_disease,['C0855095'],['Small Lymphocytic Lymphoma'],Small Lymphocytic Lymphoma,C0855095,1,1,0.0,0.0
+C1337114,SELE Gene,gene_associated_with_disease,['C0398739'],['Leukocyte Adhesion Deficiency Type 2'],Leukocyte Adhesion Deficiency Type 2,C0398739,1,1,0.0,0.0
+C1706590,BCL10 wt Allele,gene_associated_with_disease,"['C0023448', 'C0024301', 'C0025500', 'C0036920', 'C0205851', 'C0699790']","['Lymphoid Leukemia', 'Follicular Lymphoma', 'Mesothelioma', 'Sezary Syndrome', 'Germ Cell Tumor', 'Colon Carcinoma']",Lymphoid Leukemia || Follicular Lymphoma || Mesothelioma || Sezary Syndrome || Germ Cell Tumor || Colon Carcinoma,C0023448 || C0024301 || C0025500 || C0036920 || C0205851 || C0699790,6,6,0.0,0.0
+C1704829,IL6 wt Allele,gene_associated_with_disease,"['C0026764', 'C0032131']","['Plasma Cell Myeloma', 'Plasmacytoma']",Plasma Cell Myeloma || Plasmacytoma,C0026764 || C0032131,2,2,0.0,0.0
+C1705986,FANCM wt Allele,gene_associated_with_disease,['C0015625'],['Fanconi Anemia'],Fanconi Anemia,C0015625,1,1,0.0,0.0
+C2825920,MIR92A2 wt Allele,gene_associated_with_disease,"['C0025149', 'C2239176']","['Medulloblastoma', 'Hepatocellular Carcinoma']",Medulloblastoma || Hepatocellular Carcinoma,C0025149 || C2239176,2,2,0.0,0.0
+C1415098,GCLM Gene,gene_associated_with_disease,['C0027051'],['Myocardial Infarction'],Myocardial Infarction,C0027051,1,1,0.0,0.0
+C0162804,MCC Gene,gene_associated_with_disease,['C0009402'],['Colorectal Carcinoma'],Colorectal Carcinoma,C0009402,1,1,0.0,0.0
+C1704789,DCC wt Allele,gene_associated_with_disease,['C0009402'],['Colorectal Carcinoma'],Colorectal Carcinoma,C0009402,1,1,0.0,0.0
+C1825692,TET2 Gene,gene_associated_with_disease,['C0032463'],['Polycythemia Vera'],Polycythemia Vera,C0032463,1,1,0.0,0.0
+C1705557,DLEU1 wt Allele,gene_associated_with_disease,['C0023434'],['Chronic Lymphocytic Leukemia'],Chronic Lymphocytic Leukemia,C0023434,1,1,0.0,0.0
+C1537898,MIR377 Gene,gene_associated_with_disease,"['C0022658', 'C4721610']","['Nephropathy', 'Ovarian Carcinoma']",Nephropathy || Ovarian Carcinoma,C0022658 || C4721610,2,2,0.0,0.0
+C2826047,MIR516A2 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1537749,MIR92A2 Gene,gene_associated_with_disease,"['C0025149', 'C2239176']","['Medulloblastoma', 'Hepatocellular Carcinoma']",Medulloblastoma || Hepatocellular Carcinoma,C0025149 || C2239176,2,2,0.0,0.0
+C1413222,CD3D Gene,gene_associated_with_disease,['C0085110'],['Severe Combined Immunodeficiency'],Severe Combined Immunodeficiency,C0085110,1,1,0.0,0.0
+C0812204,NME1 Gene,gene_associated_with_disease,['C0027819'],['Neuroblastoma'],Neuroblastoma,C0027819,1,1,0.0,0.0
+C1826623,BMI1 Gene,gene_associated_with_disease,['C0079731'],['B-Cell Non-Hodgkin Lymphoma'],B-Cell Non-Hodgkin Lymphoma,C0079731,1,1,0.0,0.0
+C2827465,APOE wt Allele,gene_associated_with_disease,"['C0002395', 'C0004153', 'C0020476']","[""Alzheimer's Disease"", 'Atherosclerotic Cardiovascular Disease', 'Hyperlipoproteinemia']",Alzheimer's Disease || Atherosclerotic Cardiovascular Disease || Hyperlipoproteinemia,C0002395 || C0004153 || C0020476,3,3,0.0,0.0
+C1334503,MFHAS1 Gene,gene_associated_with_disease,['C0334463'],['Undifferentiated Pleomorphic Sarcoma'],Undifferentiated Pleomorphic Sarcoma,C0334463,1,1,0.0,0.0
+C2826004,MIR200A wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1706109,AVP wt Allele,gene_associated_with_disease,['C0011848'],['Diabetes Insipidus'],Diabetes Insipidus,C0011848,1,1,0.0,0.0
+C1424691,ASTN2 Gene,gene_associated_with_disease,['C0036341'],['Schizophrenia'],Schizophrenia,C0036341,1,1,0.0,0.0
+C1335243,PPP2R1B Gene,gene_associated_with_disease,['C0684249'],['Lung Carcinoma'],Lung Carcinoma,C0684249,1,1,0.0,0.0
+C1412615,ATF1 Gene,gene_associated_with_disease,['C1266127'],['Angiomatoid Fibrous Histiocytoma'],Angiomatoid Fibrous Histiocytoma,C1266127,1,1,0.0,0.0
+C1335238,PPARG Gene,gene_associated_with_disease,"['C0011860', 'C0020538', 'C0028754']","['Type 2 Diabetes Mellitus', 'Hypertension', 'Obesity']",Type 2 Diabetes Mellitus || Hypertension || Obesity,C0011860 || C0020538 || C0028754,3,3,0.0,0.0
+C1335203,PDGFRL Gene,gene_associated_with_disease,"['C0007131', 'C0009402', 'C2239176']","['Lung Non-Small Cell Carcinoma', 'Colorectal Carcinoma', 'Hepatocellular Carcinoma']",Lung Non-Small Cell Carcinoma || Colorectal Carcinoma || Hepatocellular Carcinoma,C0007131 || C0009402 || C2239176,3,3,0.0,0.0
+C1335795,S100A11 Gene,gene_associated_with_disease,['C0009404'],['Colorectal Neoplasm'],Colorectal Neoplasm,C0009404,1,1,0.0,0.0
+C1704966,FOXO4 wt Allele,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C1704795,IL12B wt Allele,gene_associated_with_disease,['C0004096'],['Asthma'],Asthma,C0004096,1,1,0.0,0.0
+C1708145,KISS1R wt Allele,gene_associated_with_disease,['C0007115'],['Malignant Thyroid Gland Neoplasm'],Malignant Thyroid Gland Neoplasm,C0007115,1,1,0.0,0.0
+C2698412,NIPBL wt Allele,gene_associated_with_disease,['C0270972'],['Cornelia De Lange Syndrome'],Cornelia De Lange Syndrome,C0270972,1,1,0.0,0.0
+C2981725,GPC3 wt Allele,gene_associated_with_disease,['C0027708'],['Wilms Tumor'],Wilms Tumor,C0027708,1,1,0.0,0.0
+C1826031,MIR451A Gene,gene_associated_with_disease,"['C0017636', 'C0678222']","['Glioblastoma', 'Breast Carcinoma']",Glioblastoma || Breast Carcinoma,C0017636 || C0678222,2,2,0.0,0.0
+C1704932,ACVR1B wt Allele,gene_associated_with_disease,['C0235974'],['Pancreatic Carcinoma'],Pancreatic Carcinoma,C0235974,1,1,0.0,0.0
+C1706661,AMFR wt Allele,gene_associated_with_disease,"['C0699791', 'C0699885']","['Gastric Carcinoma', 'Bladder Carcinoma']",Gastric Carcinoma || Bladder Carcinoma,C0699791 || C0699885,2,2,0.0,0.0
+C1826098,MIR520C Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1705126,FLT4 wt Allele,gene_associated_with_disease,['C4317089'],['Infantile Hemangioma'],Infantile Hemangioma,C4317089,1,1,0.0,0.0
+C1826079,MIR516B1 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1537813,MIR181B1 Gene,gene_associated_with_disease,"['C0023434', 'C0026764', 'C0677865']","['Chronic Lymphocytic Leukemia', 'Plasma Cell Myeloma', 'Brain Stem Glioma']",Chronic Lymphocytic Leukemia || Plasma Cell Myeloma || Brain Stem Glioma,C0023434 || C0026764 || C0677865,3,3,0.0,0.0
+C1708280,HMGA1 wt Allele,gene_associated_with_disease,"['C0006413', 'C0678222']","['Burkitt Lymphoma', 'Breast Carcinoma']",Burkitt Lymphoma || Breast Carcinoma,C0006413 || C0678222,2,2,0.0,0.0
+C1705142,BRINP1 wt Allele,gene_associated_with_disease,['C0699885'],['Bladder Carcinoma'],Bladder Carcinoma,C0699885,1,1,0.0,0.0
+C1537707,MIR10A Gene,gene_associated_with_disease,['C1292771'],"['Chronic Myelogenous Leukemia, BCR-ABL1 Positive']","Chronic Myelogenous Leukemia, BCR-ABL1 Positive",C1292771,1,1,0.0,0.0
+C2826040,MIR377 wt Allele,gene_associated_with_disease,"['C0022658', 'C4721610']","['Nephropathy', 'Ovarian Carcinoma']",Nephropathy || Ovarian Carcinoma,C0022658 || C4721610,2,2,0.0,0.0
+C1333906,HMGA2 Gene,gene_associated_with_disease,['C0028754'],['Obesity'],Obesity,C0028754,1,1,0.0,0.0
+C1706037,MCM7 wt Allele,gene_associated_with_disease,['C0302592'],['Cervical Carcinoma'],Cervical Carcinoma,C0302592,1,1,0.0,0.0
+C1367466,MSMB Gene,gene_associated_with_disease,['C0600139'],['Prostate Carcinoma'],Prostate Carcinoma,C0600139,1,1,0.0,0.0
+C1826402,NHEJ1 Gene,gene_associated_with_disease,['C1883020'],['Severe Combined Immunodeficiency with Absence of T and B Cells'],Severe Combined Immunodeficiency with Absence of T and B Cells,C1883020,1,1,0.0,0.0
+C1705781,CSPG4 wt Allele,gene_associated_with_disease,['C0025202'],['Melanoma'],Melanoma,C0025202,1,1,0.0,0.0
+C2826031,MIR337 wt Allele,gene_associated_with_disease,['C4721610'],['Ovarian Carcinoma'],Ovarian Carcinoma,C4721610,1,1,0.0,0.0
+C2697655,ING2 wt Allele,gene_associated_with_disease,['C0699790'],['Colon Carcinoma'],Colon Carcinoma,C0699790,1,1,0.0,0.0
+C2984559,RUNX2 wt Allele,gene_associated_with_disease,['C0008928'],['Cleidocranial Dysplasia'],Cleidocranial Dysplasia,C0008928,1,1,0.0,0.0
+C1334507,MIF Gene,gene_associated_with_disease,['C0003873'],['Rheumatoid Arthritis'],Rheumatoid Arthritis,C0003873,1,1,0.0,0.0
+C1710316,TPMT wt Allele,gene_associated_with_disease,['C0342801'],['Thiopurine Methyltransferase Deficiency'],Thiopurine Methyltransferase Deficiency,C0342801,1,1,0.0,0.0
+C1537802,MIR148A Gene,gene_associated_with_disease,['C0004096'],['Asthma'],Asthma,C0004096,1,1,0.0,0.0
+C1706017,BMPR2 wt Allele,gene_associated_with_disease,['C0020542'],['Pulmonary Hypertension'],Pulmonary Hypertension,C0020542,1,1,0.0,0.0
+C1704999,RRAS2 wt Allele,gene_associated_with_disease,['C4721610'],['Ovarian Carcinoma'],Ovarian Carcinoma,C4721610,1,1,0.0,0.0
+C2825796,MIR17 wt Allele,gene_associated_with_disease,"['C0009402', 'C0023418', 'C0024299', 'C0027819', 'C0549473', 'C0678222', 'C0684249', 'C2239176']","['Colorectal Carcinoma', 'Leukemia', 'Lymphoma', 'Neuroblastoma', 'Thyroid Gland Carcinoma', 'Breast Carcinoma', 'Lung Carcinoma', 'Hepatocellular Carcinoma']",Colorectal Carcinoma || Leukemia || Lymphoma || Neuroblastoma || Thyroid Gland Carcinoma || Breast Carcinoma || Lung Carcinoma || Hepatocellular Carcinoma,C0009402 || C0023418 || C0024299 || C0027819 || C0549473 || C0678222 || C0684249 || C2239176,8,8,0.0,0.0
+C1826022,MIR429 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C2825787,MIR9-2 wt Allele,gene_associated_with_disease,['C2239176'],['Hepatocellular Carcinoma'],Hepatocellular Carcinoma,C2239176,1,1,0.0,0.0
+C1705723,FOXO1 wt Allele,gene_associated_with_disease,['C0206655'],['Alveolar Rhabdomyosarcoma'],Alveolar Rhabdomyosarcoma,C0206655,1,1,0.0,0.0
+C1537914,MIRLET7C Gene,gene_associated_with_disease,"['C0006413', 'C0023487', 'C0600139', 'C0684249', 'C4721610']","['Burkitt Lymphoma', 'Acute Promyelocytic Leukemia with PML-RARA', 'Prostate Carcinoma', 'Lung Carcinoma', 'Ovarian Carcinoma']",Burkitt Lymphoma || Acute Promyelocytic Leukemia with PML-RARA || Prostate Carcinoma || Lung Carcinoma || Ovarian Carcinoma,C0006413 || C0023487 || C0600139 || C0684249 || C4721610,5,5,0.0,0.0
+C1332444,BRCD1 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C0812260,NCOA4 Gene,gene_associated_with_disease,['C0238463'],['Thyroid Gland Papillary Carcinoma'],Thyroid Gland Papillary Carcinoma,C0238463,1,1,0.0,0.0
+C1414260,EDN1 Gene,gene_associated_with_disease,['C0020538'],['Hypertension'],Hypertension,C0020538,1,1,0.0,0.0
+C1364818,APP Gene,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C1706895,BMP3 wt Allele,gene_associated_with_disease,['C0751690'],['Malignant Peripheral Nerve Sheath Tumor'],Malignant Peripheral Nerve Sheath Tumor,C0751690,1,1,0.0,0.0
+C1825996,MIR18A Gene,gene_associated_with_disease,"['C0549473', 'C0684249', 'C2239176']","['Thyroid Gland Carcinoma', 'Lung Carcinoma', 'Hepatocellular Carcinoma']",Thyroid Gland Carcinoma || Lung Carcinoma || Hepatocellular Carcinoma,C0549473 || C0684249 || C2239176,3,3,0.0,0.0
+C1537775,MIR128-1 Gene,gene_associated_with_disease,"['C0677865', 'C0684249']","['Brain Stem Glioma', 'Lung Carcinoma']",Brain Stem Glioma || Lung Carcinoma,C0677865 || C0684249,2,2,0.0,0.0
+C1708628,LTBP2 wt Allele,gene_associated_with_disease,['C0025202'],['Melanoma'],Melanoma,C0025202,1,1,0.0,0.0
+C3540585,YY1 wt Allele,gene_associated_with_disease,['C4479652'],['Gabriele-de Vries Syndrome'],Gabriele-de Vries Syndrome,C4479652,1,1,0.0,0.0
+C1332822,CXCR3 Gene,gene_associated_with_disease,['C0018213'],['Graves Disease'],Graves Disease,C0018213,1,1,0.0,0.0
+C2825974,MIR181B1 wt Allele,gene_associated_with_disease,"['C0023434', 'C0026764', 'C0677865']","['Chronic Lymphocytic Leukemia', 'Plasma Cell Myeloma', 'Brain Stem Glioma']",Chronic Lymphocytic Leukemia || Plasma Cell Myeloma || Brain Stem Glioma,C0023434 || C0026764 || C0677865,3,3,0.0,0.0
+C1537839,MIR200B Gene,gene_associated_with_disease,"['C0206698', 'C0678222', 'C2239176']","['Cholangiocarcinoma', 'Breast Carcinoma', 'Hepatocellular Carcinoma']",Cholangiocarcinoma || Breast Carcinoma || Hepatocellular Carcinoma,C0206698 || C0678222 || C2239176,3,3,0.0,0.0
+C1706479,AFDN wt Allele,gene_associated_with_disease,['C0023418'],['Leukemia'],Leukemia,C0023418,1,1,0.0,0.0
+C1706389,STK11 wt Allele,gene_associated_with_disease,"['C0017185', 'C0678222']","['Digestive System Neoplasm', 'Breast Carcinoma']",Digestive System Neoplasm || Breast Carcinoma,C0017185 || C0678222,2,2,0.0,0.0
+C1413915,BRINP1 Gene,gene_associated_with_disease,['C0699885'],['Bladder Carcinoma'],Bladder Carcinoma,C0699885,1,1,0.0,0.0
+C1705991,PDZK1IP1 wt Allele,gene_associated_with_disease,"['C0007134', 'C0678222', 'C0684249', 'C0699790']","['Renal Cell Carcinoma', 'Breast Carcinoma', 'Lung Carcinoma', 'Colon Carcinoma']",Renal Cell Carcinoma || Breast Carcinoma || Lung Carcinoma || Colon Carcinoma,C0007134 || C0678222 || C0684249 || C0699790,4,4,0.0,0.0
+C1704693,ITGB3 wt Allele,gene_associated_with_disease,['C0392386'],['Thrombocytopenia'],Thrombocytopenia,C0392386,1,1,0.0,0.0
+C1333669,GDNF Gene,gene_associated_with_disease,['C0019569'],['Hirschsprung Disease'],Hirschsprung Disease,C0019569,1,1,0.0,0.0
+C1704696,GCLM wt Allele,gene_associated_with_disease,['C0027051'],['Myocardial Infarction'],Myocardial Infarction,C0027051,1,1,0.0,0.0
+C2825975,MIR181B2 wt Allele,gene_associated_with_disease,"['C0023434', 'C0026764', 'C0677865']","['Chronic Lymphocytic Leukemia', 'Plasma Cell Myeloma', 'Brain Stem Glioma']",Chronic Lymphocytic Leukemia || Plasma Cell Myeloma || Brain Stem Glioma,C0023434 || C0026764 || C0677865,3,3,0.0,0.0
+C1537861,MIR223 Gene,gene_associated_with_disease,"['C0023487', 'C1292771', 'C2239176', 'C4721610']","['Acute Promyelocytic Leukemia with PML-RARA', 'Chronic Myelogenous Leukemia, BCR-ABL1 Positive', 'Hepatocellular Carcinoma', 'Ovarian Carcinoma']","Acute Promyelocytic Leukemia with PML-RARA || Chronic Myelogenous Leukemia, BCR-ABL1 Positive || Hepatocellular Carcinoma || Ovarian Carcinoma",C0023487 || C1292771 || C2239176 || C4721610,4,4,0.0,0.0
+C1537709,MIR15A Gene,gene_associated_with_disease,"['C0022680', 'C0023434', 'C0023487', 'C0032000', 'C0158683', 'C0600139', 'C1292771']","['Polycystic Kidney Disease', 'Chronic Lymphocytic Leukemia', 'Acute Promyelocytic Leukemia with PML-RARA', 'Pituitary Gland Adenoma', 'Polycystic Liver Disease', 'Prostate Carcinoma', 'Chronic Myelogenous Leukemia, BCR-ABL1 Positive']","Polycystic Kidney Disease || Chronic Lymphocytic Leukemia || Acute Promyelocytic Leukemia with PML-RARA || Pituitary Gland Adenoma || Polycystic Liver Disease || Prostate Carcinoma || Chronic Myelogenous Leukemia, BCR-ABL1 Positive",C0022680 || C0023434 || C0023487 || C0032000 || C0158683 || C0600139 || C1292771,7,7,0.0,0.0
+C2826051,MIR521-2 wt Allele,gene_associated_with_disease,['C0600139'],['Prostate Carcinoma'],Prostate Carcinoma,C0600139,1,1,0.0,0.0
+C1706513,MIF wt Allele,gene_associated_with_disease,['C0003873'],['Rheumatoid Arthritis'],Rheumatoid Arthritis,C0003873,1,1,0.0,0.0
+C1707090,CCR1 wt Allele,gene_associated_with_disease,['C0021368'],['Inflammation'],Inflammation,C0021368,1,1,0.0,0.0
+C1336661,TPD52L1 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1704875,S100A8 wt Allele,gene_associated_with_disease,['C0010674'],['Cystic Fibrosis'],Cystic Fibrosis,C0010674,1,1,0.0,0.0
+C1705840,RHOH wt Allele,gene_associated_with_disease,['C0024305'],['Non-Hodgkin Lymphoma'],Non-Hodgkin Lymphoma,C0024305,1,1,0.0,0.0
+C1537725,MIR25 Gene,gene_associated_with_disease,"['C0026764', 'C0699791', 'C2239176']","['Plasma Cell Myeloma', 'Gastric Carcinoma', 'Hepatocellular Carcinoma']",Plasma Cell Myeloma || Gastric Carcinoma || Hepatocellular Carcinoma,C0026764 || C0699791 || C2239176,3,3,0.0,0.0
+C1709997,SRD5A2 wt Allele,gene_associated_with_disease,['C0848558'],['Hypospadias'],Hypospadias,C0848558,1,1,0.0,0.0
+C1413586,COL4A5 Gene,gene_associated_with_disease,['C1567741'],['Alport Syndrome'],Alport Syndrome,C1567741,1,1,0.0,0.0
+C1706328,CXCR3 wt Allele,gene_associated_with_disease,['C0018213'],['Graves Disease'],Graves Disease,C0018213,1,1,0.0,0.0
+C1332430,BMPR1A Gene,gene_associated_with_disease,['C0018553'],['Cowden Syndrome'],Cowden Syndrome,C0018553,1,1,0.0,0.0
+C1415846,ICOS Gene,gene_associated_with_disease,['C2936664'],['Common Variable Immunodeficiency'],Common Variable Immunodeficiency,C2936664,1,1,0.0,0.0
+C1333213,DEFB1 Gene,gene_associated_with_disease,['C0010674'],['Cystic Fibrosis'],Cystic Fibrosis,C0010674,1,1,0.0,0.0
+C1704944,KMT2D wt Allele,gene_associated_with_disease,['C0023470'],['Myeloid Leukemia'],Myeloid Leukemia,C0023470,1,1,0.0,0.0
+C1706511,GFI1B wt Allele,gene_associated_with_disease,['C1292771'],"['Chronic Myelogenous Leukemia, BCR-ABL1 Positive']","Chronic Myelogenous Leukemia, BCR-ABL1 Positive",C1292771,1,1,0.0,0.0
+C1704967,AGR2 wt Allele,gene_associated_with_disease,"['C0027708', 'C0678222']","['Wilms Tumor', 'Breast Carcinoma']",Wilms Tumor || Breast Carcinoma,C0027708 || C0678222,2,2,0.0,0.0
+C2987020,LRP8 wt Allele,gene_associated_with_disease,['C0027051'],['Myocardial Infarction'],Myocardial Infarction,C0027051,1,1,0.0,0.0
+C1706652,AFF4 Gene,gene_associated_with_disease,['C0023449'],['Acute Lymphoblastic Leukemia'],Acute Lymphoblastic Leukemia,C0023449,1,1,0.0,0.0
+C1420228,SLC7A9 Gene,gene_associated_with_disease,['C0010691'],['Cystinuria'],Cystinuria,C0010691,1,1,0.0,0.0
+C1424333,PDLIM4 Gene,gene_associated_with_disease,['C0029456'],['Osteoporosis'],Osteoporosis,C0029456,1,1,0.0,0.0
+C1537712,MIR16-2 Gene,gene_associated_with_disease,"['C0023434', 'C2239176']","['Chronic Lymphocytic Leukemia', 'Hepatocellular Carcinoma']",Chronic Lymphocytic Leukemia || Hepatocellular Carcinoma,C0023434 || C2239176,2,2,0.0,0.0
+C1413403,CHRNA3 Gene,gene_associated_with_disease,['C0684249'],['Lung Carcinoma'],Lung Carcinoma,C0684249,1,1,0.0,0.0
+C2825797,MIR18A wt Allele,gene_associated_with_disease,"['C0549473', 'C0684249', 'C2239176']","['Thyroid Gland Carcinoma', 'Lung Carcinoma', 'Hepatocellular Carcinoma']",Thyroid Gland Carcinoma || Lung Carcinoma || Hepatocellular Carcinoma,C0549473 || C0684249 || C2239176,3,3,0.0,0.0
+C1334103,IL13 Gene,gene_associated_with_disease,['C0004096'],['Asthma'],Asthma,C0004096,1,1,0.0,0.0
+C1710689,XRCC2 wt Allele,gene_associated_with_disease,['C0020517'],['Hypersensitivity'],Hypersensitivity,C0020517,1,1,0.0,0.0
+C1414330,EIF2B4 Gene,gene_associated_with_disease,['C0270612'],['Leukoencephalopathy'],Leukoencephalopathy,C0270612,1,1,0.0,0.0
+C1704664,SMO wt Allele,gene_associated_with_disease,['C4721806'],['Skin Basal Cell Carcinoma'],Skin Basal Cell Carcinoma,C4721806,1,1,0.0,0.0
+C1706141,PNP wt Allele,gene_associated_with_disease,"['C0085110', 'C0268125']","['Severe Combined Immunodeficiency', 'Purine-Nucleoside Phosphorylase Deficiency']",Severe Combined Immunodeficiency || Purine-Nucleoside Phosphorylase Deficiency,C0085110 || C0268125,2,2,0.0,0.0
+C1537807,MIR152 Gene,gene_associated_with_disease,['C0004096'],['Asthma'],Asthma,C0004096,1,1,0.0,0.0
+C1705468,ERCC3 wt Allele,gene_associated_with_disease,"['C0268136', 'C1955934']","['Xeroderma Pigmentosum, Complementation Group B', 'Trichothiodystrophy']","Xeroderma Pigmentosum, Complementation Group B || Trichothiodystrophy",C0268136 || C1955934,2,2,0.0,0.0
+C1414828,FSHR Gene,gene_associated_with_disease,['C0018051'],['Gonadal Dysgenesis'],Gonadal Dysgenesis,C0018051,1,1,0.0,0.0
+C1704894,TAL1 wt Allele,gene_associated_with_disease,['C1961099'],['T Acute Lymphoblastic Leukemia'],T Acute Lymphoblastic Leukemia,C1961099,1,1,0.0,0.0
+C1706143,PRKCA wt Allele,gene_associated_with_disease,['C0032019'],['Pituitary Gland Neoplasm'],Pituitary Gland Neoplasm,C0032019,1,1,0.0,0.0
+C2825938,MIR128-1 wt Allele,gene_associated_with_disease,"['C0677865', 'C0684249']","['Brain Stem Glioma', 'Lung Carcinoma']",Brain Stem Glioma || Lung Carcinoma,C0677865 || C0684249,2,2,0.0,0.0
+C2825997,MIR193A wt Allele,gene_associated_with_disease,['C0585362'],['Oral Cavity Squamous Cell Carcinoma'],Oral Cavity Squamous Cell Carcinoma,C0585362,1,1,0.0,0.0
+C1439296,CX3CR1 Gene,gene_associated_with_disease,['C0001175'],['Acquired Immunodeficiency Syndrome'],Acquired Immunodeficiency Syndrome,C0001175,1,1,0.0,0.0
+C2827463,CLIP1 wt Allele,gene_associated_with_disease,['C0019829'],['Hodgkin Lymphoma'],Hodgkin Lymphoma,C0019829,1,1,0.0,0.0
+C1707133,CISH wt Allele,gene_associated_with_disease,"['C0007134', 'C0024121']","['Renal Cell Carcinoma', 'Lung Neoplasm']",Renal Cell Carcinoma || Lung Neoplasm,C0007134 || C0024121,2,2,0.0,0.0
+C2698695,PKD1 wt Allele,gene_associated_with_disease,['C0022680'],['Polycystic Kidney Disease'],Polycystic Kidney Disease,C0022680,1,1,0.0,0.0
+C1537782,MIR133A1 Gene,gene_associated_with_disease,"['C0280298', 'C0280315', 'C0878544', 'C2911650']","['Anterior Tongue Squamous Cell Carcinoma', 'Posterior Tongue Squamous Cell Carcinoma', 'Cardiomyopathy', 'Ventricular Hypertrophy by ECG Finding']",Anterior Tongue Squamous Cell Carcinoma || Posterior Tongue Squamous Cell Carcinoma || Cardiomyopathy || Ventricular Hypertrophy by ECG Finding,C0280298 || C0280315 || C0878544 || C2911650,4,4,0.0,0.0
+C1705089,CD3D wt Allele,gene_associated_with_disease,['C0085110'],['Severe Combined Immunodeficiency'],Severe Combined Immunodeficiency,C0085110,1,1,0.0,0.0
+C1335806,SCTR Gene,gene_associated_with_disease,['C0235974'],['Pancreatic Carcinoma'],Pancreatic Carcinoma,C0235974,1,1,0.0,0.0
+C0920270,TLX1 Gene,gene_associated_with_disease,['C0085669'],['Acute Leukemia'],Acute Leukemia,C0085669,1,1,0.0,0.0
+C1705779,BCAR1 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1704888,KIT wt Allele,gene_associated_with_disease,['C0205851'],['Germ Cell Tumor'],Germ Cell Tumor,C0205851,1,1,0.0,0.0
+C1420135,SLC22A18 Gene,gene_associated_with_disease,['C0035412'],['Rhabdomyosarcoma'],Rhabdomyosarcoma,C0035412,1,1,0.0,0.0
+C1537846,MIR210 Gene,gene_associated_with_disease,"['C0023487', 'C0678222']","['Acute Promyelocytic Leukemia with PML-RARA', 'Breast Carcinoma']",Acute Promyelocytic Leukemia with PML-RARA || Breast Carcinoma,C0023487 || C0678222,2,2,0.0,0.0
+C2697642,IDH1 wt Allele,gene_associated_with_disease,['C0017636'],['Glioblastoma'],Glioblastoma,C0017636,1,1,0.0,0.0
+C1705820,TINF2 wt Allele,gene_associated_with_disease,['C0206664'],['Mixed Embryonal Carcinoma and Teratoma'],Mixed Embryonal Carcinoma and Teratoma,C0206664,1,1,0.0,0.0
+C0812201,ETS1 Gene,gene_associated_with_disease,['C1318544'],['Acute Monocytic Leukemia'],Acute Monocytic Leukemia,C1318544,1,1,0.0,0.0
+C0812198,BAX Gene,gene_associated_with_disease,"['C0009402', 'C0346629', 'C1961099']","['Colorectal Carcinoma', 'Malignant Colorectal Neoplasm', 'T Acute Lymphoblastic Leukemia']",Colorectal Carcinoma || Malignant Colorectal Neoplasm || T Acute Lymphoblastic Leukemia,C0009402 || C0346629 || C1961099,3,3,0.0,0.0
+C1706654,AFP wt Allele,gene_associated_with_disease,"['C0039538', 'C2239176']","['Teratoma', 'Hepatocellular Carcinoma']",Teratoma || Hepatocellular Carcinoma,C0039538 || C2239176,2,2,0.0,0.0
+C2825799,MIR19B1 wt Allele,gene_associated_with_disease,"['C0025149', 'C0026764', 'C2239176']","['Medulloblastoma', 'Plasma Cell Myeloma', 'Hepatocellular Carcinoma']",Medulloblastoma || Plasma Cell Myeloma || Hepatocellular Carcinoma,C0025149 || C0026764 || C2239176,3,3,0.0,0.0
+C0079471,HRAS Gene,gene_associated_with_disease,"['C0206682', 'C0585362']","['Thyroid Gland Follicular Carcinoma', 'Oral Cavity Squamous Cell Carcinoma']",Thyroid Gland Follicular Carcinoma || Oral Cavity Squamous Cell Carcinoma,C0206682 || C0585362,2,2,0.0,0.0
+C1332440,BRCATA Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1880879,GPX1 wt Allele,gene_associated_with_disease,['C0011860'],['Type 2 Diabetes Mellitus'],Type 2 Diabetes Mellitus,C0011860,1,1,0.0,0.0
+C1335797,S100A2 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C2981618,NEFH wt Allele,gene_associated_with_disease,['C0002736'],['Amyotrophic Lateral Sclerosis'],Amyotrophic Lateral Sclerosis,C0002736,1,1,0.0,0.0
+C1706274,NRTN wt Allele,gene_associated_with_disease,['C0019569'],['Hirschsprung Disease'],Hirschsprung Disease,C0019569,1,1,0.0,0.0
+C2983548,PRKN wt Allele,gene_associated_with_disease,['C0030567'],"[""Parkinson's Disease""]",Parkinson's Disease,C0030567,1,1,0.0,0.0
+C2825967,MIR181A1 wt Allele,gene_associated_with_disease,"['C0026764', 'C0677865']","['Plasma Cell Myeloma', 'Brain Stem Glioma']",Plasma Cell Myeloma || Brain Stem Glioma,C0026764 || C0677865,2,2,0.0,0.0
+C1333523,F7 Gene,gene_associated_with_disease,['C0272315'],['Coagulation Factor Deficiency'],Coagulation Factor Deficiency,C0272315,1,1,0.0,0.0
+C2825966,MIR155 wt Allele,gene_associated_with_disease,"['C0020538', 'C0023449', 'C0079744', 'C0235974', 'C0678222', 'C1292778']","['Hypertension', 'Acute Lymphoblastic Leukemia', 'Diffuse Large B-Cell Lymphoma', 'Pancreatic Carcinoma', 'Breast Carcinoma', 'Myeloproliferative Neoplasm']",Hypertension || Acute Lymphoblastic Leukemia || Diffuse Large B-Cell Lymphoma || Pancreatic Carcinoma || Breast Carcinoma || Myeloproliferative Neoplasm,C0020538 || C0023449 || C0079744 || C0235974 || C0678222 || C1292778,6,6,0.0,0.0
+C1826105,MIR521-2 Gene,gene_associated_with_disease,['C0600139'],['Prostate Carcinoma'],Prostate Carcinoma,C0600139,1,1,0.0,0.0
+C1332804,CTSB Gene,gene_associated_with_disease,"['C0002395', 'C0279628', 'C0699791']","[""Alzheimer's Disease"", 'Esophageal Adenocarcinoma', 'Gastric Carcinoma']",Alzheimer's Disease || Esophageal Adenocarcinoma || Gastric Carcinoma,C0002395 || C0279628 || C0699791,3,3,0.0,0.0
+C1332676,CCL11 Gene,gene_associated_with_disease,"['C0004096', 'C0011603', 'C0035455']","['Asthma', 'Dermatitis', 'Rhinitis']",Asthma || Dermatitis || Rhinitis,C0004096 || C0011603 || C0035455,3,3,0.0,0.0
+C2825927,MIR107 wt Allele,gene_associated_with_disease,['C0002395'],"[""Alzheimer's Disease""]",Alzheimer's Disease,C0002395,1,1,0.0,0.0
+C1707111,CDH5 wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1705508,AVPR2 wt Allele,gene_associated_with_disease,['C0011848'],['Diabetes Insipidus'],Diabetes Insipidus,C0011848,1,1,0.0,0.0
+C1334074,ICAM1 Gene,gene_associated_with_disease,['C0024530'],['Malaria'],Malaria,C0024530,1,1,0.0,0.0
+C2825948,MIR137 wt Allele,gene_associated_with_disease,"['C0017636', 'C0585362', 'C0684249']","['Glioblastoma', 'Oral Cavity Squamous Cell Carcinoma', 'Lung Carcinoma']",Glioblastoma || Oral Cavity Squamous Cell Carcinoma || Lung Carcinoma,C0017636 || C0585362 || C0684249,3,3,0.0,0.0
+C1706242,LDLR wt Allele,gene_associated_with_disease,['C1522133'],['Hypercholesterolemia'],Hypercholesterolemia,C1522133,1,1,0.0,0.0
+C1705975,FCGR2B wt Allele,gene_associated_with_disease,['C0024301'],['Follicular Lymphoma'],Follicular Lymphoma,C0024301,1,1,0.0,0.0
+C1415483,HBD Gene,gene_associated_with_disease,['C2825560'],['S-Beta Thalassemia'],S-Beta Thalassemia,C2825560,1,1,0.0,0.0
+C1705795,CYP2E1 wt Allele,gene_associated_with_disease,['C0684249'],['Lung Carcinoma'],Lung Carcinoma,C0684249,1,1,0.0,0.0
+C1366618,CDKN1C Gene,gene_associated_with_disease,"['C0235974', 'C0549473']","['Pancreatic Carcinoma', 'Thyroid Gland Carcinoma']",Pancreatic Carcinoma || Thyroid Gland Carcinoma,C0235974 || C0549473,2,2,0.0,0.0
+C1333583,KDSR Gene,gene_associated_with_disease,['C0024301'],['Follicular Lymphoma'],Follicular Lymphoma,C0024301,1,1,0.0,0.0
+C1332762,CISH Gene,gene_associated_with_disease,"['C0007134', 'C0024121']","['Renal Cell Carcinoma', 'Lung Neoplasm']",Renal Cell Carcinoma || Lung Neoplasm,C0007134 || C0024121,2,2,0.0,0.0
+C1333357,ERCC3 Gene,gene_associated_with_disease,"['C0268136', 'C1955934']","['Xeroderma Pigmentosum, Complementation Group B', 'Trichothiodystrophy']","Xeroderma Pigmentosum, Complementation Group B || Trichothiodystrophy",C0268136 || C1955934,2,2,0.0,0.0
+C2981728,PPM1D wt Allele,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C2825803,MIR20A wt Allele,gene_associated_with_disease,"['C0023418', 'C0024299', 'C0678222', 'C0684249', 'C2239176']","['Leukemia', 'Lymphoma', 'Breast Carcinoma', 'Lung Carcinoma', 'Hepatocellular Carcinoma']",Leukemia || Lymphoma || Breast Carcinoma || Lung Carcinoma || Hepatocellular Carcinoma,C0023418 || C0024299 || C0678222 || C0684249 || C2239176,5,5,0.0,0.0
+C1826076,MIR516A1 Gene,gene_associated_with_disease,['C0678222'],['Breast Carcinoma'],Breast Carcinoma,C0678222,1,1,0.0,0.0
+C1334894,NPM1 Gene,gene_associated_with_disease,"['C0023467', 'C0024305', 'C3463824']","['Acute Myeloid Leukemia', 'Non-Hodgkin Lymphoma', 'Myelodysplastic Syndrome']",Acute Myeloid Leukemia || Non-Hodgkin Lymphoma || Myelodysplastic Syndrome,C0023467 || C0024305 || C3463824,3,3,0.0,0.0
+C1704849,NFKB2 wt Allele,gene_associated_with_disease,"['C0079731', 'C2004493']","['B-Cell Non-Hodgkin Lymphoma', 'B-Cell Leukemia']",B-Cell Non-Hodgkin Lymphoma || B-Cell Leukemia,C0079731 || C2004493,2,2,0.0,0.0
+C1705675,CXCL11 wt Allele,gene_associated_with_disease,['C0011616'],['Contact Dermatitis'],Contact Dermatitis,C0011616,1,1,0.0,0.0

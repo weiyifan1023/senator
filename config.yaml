@@ -1,0 +1,57 @@
+---
+ROOT_PATH: '/share/project/weiyifan/KG_RAG/'
+
+# KG-RAG hyperparameters
+CONTEXT_VOLUME : 150
+QUESTION_VS_CONTEXT_SIMILARITY_PERCENTILE_THRESHOLD : 75
+QUESTION_VS_CONTEXT_MINIMUM_SIMILARITY : 0.5
+SENTENCE_EMBEDDING_MODEL_FOR_NODE_RETRIEVAL : '/share/project/models/all-MiniLM-L6-v2'  #'sentence-transformers/all-MiniLM-L6-v2'
+SENTENCE_EMBEDDING_MODEL_FOR_CONTEXT_RETRIEVAL : '/share/project/models/S-PubMedBert-MS-MARCO'  #'pritamdeka/S-PubMedBert-MS-MARCO'
+
+# VectorDB hyperparameters
+VECTOR_DB_DISEASE_ENTITY_PATH : '/share/project/weiyifan/KG_RAG/data/disease_with_relation_to_genes.pickle'
+VECTOR_DB_PATH : '/share/project/weiyifan/KG_RAG/data/vectorDB/disease_nodes_db'
+VECTOR_DB_CHUNK_SIZE : 650
+VECTOR_DB_CHUNK_OVERLAP : 200
+VECTOR_DB_BATCH_SIZE : 200
+VECTOR_DB_SENTENCE_EMBEDDING_MODEL : '/share/project/models/all-MiniLM-L6-v2' #'sentence-transformers/all-MiniLM-L6-v2'
+
+# Path for context file from SPOKE KG
+NODE_CONTEXT_PATH : '/share/project/weiyifan/KG_RAG/data/context_of_disease_which_has_relation_to_genes.csv'
+
+# Just note that, this assumes your GPT config file is in the $HOME path, if not, change it accordingly
+# Also, GPT '.env' file should contain values for API_KEY, and optionally API_VERSION and RESOURCE_ENDPOINT. We are not including those parameters in this yaml file
+GPT_CONFIG_FILE : '/share/project/weiyifan/gpt_config.env'
+# Can be 'azure' or 'open_ai'.
+GPT_API_TYPE : 'azure'
+
+# Llama model name (Refer Hugging face to get the correct name for the model version you would like to use, also make sure you have the right permission to use the model)
+LLAMA_MODEL_NAME : '/share/project/models/Llama-2-13b-chat-hf' # 'meta-llama/Llama-2-7b-hf'
+LLAMA_MODEL_BRANCH : 'main'
+
+# Path for caching LLM model files (When the model gets downloaded from hugging face, it will be saved in this path)
+LLM_CACHE_DIR : '/share/project/models/Llama-2-13b-chat-hf'
+LLM_TEMPERATURE : 0
+
+
+# Path to save results
+SAVE_RESULTS_PATH : '/share/project/weiyifan/KG_RAG/data/results'
+
+# File paths for test questions
+MCQ_PATH : '/share/project/weiyifan/KG_RAG/data/benchmark_data/mcq_questions.csv'
+TRUE_FALSE_PATH : '/share/project/weiyifan/KG_RAG/data/benchmark_data/true_false_questions.csv'
+SINGLE_DISEASE_ENTITY_FILE : '/share/project/weiyifan/KG_RAG/data/hyperparam_tuning_data/single_disease_entity_prompts.csv'
+TWO_DISEASE_ENTITY_FILE : '/share/project/weiyifan/KG_RAG/data/hyperparam_tuning_data/two_disease_entity_prompts.csv'
+
+# SPOKE-API params
+BASE_URI : 'https://spoke.rbvi.ucsf.edu'
+cutoff_Compound_max_phase : 3
+cutoff_Protein_source : ['SwissProt']
+cutoff_DaG_diseases_sources : ['knowledge', 'experiments']
+cutoff_DaG_textmining : 3
+cutoff_CtD_phase : 3
+cutoff_PiP_confidence : 0.7
+cutoff_ACTeG_level : ['Low', 'Medium', 'High']
+depth : 2
+cutoff_DpL_average_prevalence : 0.001
+
