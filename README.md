@@ -6,11 +6,13 @@
 <img src='https://img.shields.io/badge/python-3.9+-blue.svg'>
 <img src='https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg'>
 </p>
+
+
 ## Abstract
 
 
 
-## Analysis
+## Distribution Analysis
 
 ![Image text](https://github.com/weiyifan1023/KSE-Nav/blob/main/figures/ditribution_contour_group.png)
 
