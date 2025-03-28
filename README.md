@@ -37,9 +37,9 @@ pip install -r requirements.txt
 
 ### 1. Data preparation
 
-The seed entities of SPOKE KG are derived from Project [KG_RAG](https://github.com/BaranziniLab/KG_RAG/tree/main/data)
+The seed entities of SPOKE KG are derived from the Project [KG_RAG](https://github.com/BaranziniLab/KG_RAG/tree/main/data)
 
-Download the Instruction Tuning dataset from [PMC-LLaMA](https://huggingface.co/datasets/axiong/pmc_llama_instructions).
+Download the Instruction Tuning dataset from the Paper [PMC-LLaMA](https://huggingface.co/datasets/axiong/pmc_llama_instructions).
 
 Place the entire ./data/benchmark_data folder under the root folder. 
 
