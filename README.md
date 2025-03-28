@@ -10,6 +10,13 @@
 
 ## Abstract
 
+Large language models (LLMs) have achieved unprecedented performance by leveraging vast pretraining corpora—the "fossil fuel" of modern AI—as predicted by scaling laws. 
+However, the diminishing supply of high-quality, human-annotated data, especially in specialized domains, demands a shift toward synthetic data as a new energy source for further advancements. 
+In this paper, we propose  a novel Structural Entropy-guided Knowledge Navigator (SENATOR) framework that addresses the intrinsic knowledge deficiencies of LLMs. 
+Our approach employs the Structure Entropy (SE) metric to quantify uncertainty along knowledge graph paths and leverages Monte Carlo Tree Search (MCTS) to selectively explore regions where the model lacks domain-specific knowledge. 
+Guided by these insights, the framework generates targeted synthetic data for supervised fine-tuning, enabling continuous self-improvement. 
+Experimental results on medical benchmarks demonstrate that our SENATOR agent effectively supplements the pretraining corpus by injecting missing domain-specific information, leading to significant performance gains in models such as Llama-3 and Qwen2. 
+Our findings highlight the potential of synthetic data as the “new energy” for LLMs, paving the way for more efficient and scalable strategies to sustain and enhance model performance.
 
 
 ## Distribution Analysis
