@@ -21,15 +21,16 @@ Our findings highlight the potential of synthetic data as the “new energy” f
 
 ## Distribution Analysis
 
-![Image text](https://github.com/weiyifan1023/KSE-Nav/blob/main/figures/ditribution_contour_group.png)
+![Image text](https://github.com/weiyifan1023/senator/blob/main/figures/ditribution_contour_group.png)
 
 ## Prepare Environments
 
 ```
-git clone https://github.com/weiyifan1023/KSE-Nav.git
-cd KSE-Nav
-conda create -n KSE-Nav
-conda activate KSE-Nav
+git clone https://github.com/weiyifan1023/senator.git
+
+cd senator
+conda create -n senator
+conda activate senator
 pip install -r requirements.txt
 ```
 
