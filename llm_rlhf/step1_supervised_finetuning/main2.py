@@ -344,10 +344,10 @@ def main():
 
     args.global_rank = torch.distributed.get_rank()
     print_rank_0("***** Running wandb *****", args.global_rank)
-    wandb.login(key="07963e6d8178b64a43632ecdf4a2019f41121d5d")
+    wandb.login(key="")
     if args.global_rank == 0:
         wandb.init(config=args,
-               entity='weiyifan_team',
+               entity='',
                project=project_name,
                name=experiment_name,
                dir=run_dir,
