@@ -1,4 +1,4 @@
-# Knowledge Structural Entropy Guided Agent to Detect and Repair Knowledge Blind Spots in LLMs
+# Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs
 
 <p align="center">
 <a href="https://github.com/weiyifan1023/Neeko/blob/main/LICENSE">
