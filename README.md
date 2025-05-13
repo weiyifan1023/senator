@@ -97,5 +97,5 @@ If you find our paper inspiring and have utilized it in your work, please cite o
 
 ## Contact
 
-weiyifan@buaa.edu.cn 
+weiyifan@buaa.edu.cn and duli@baai.ac.cn
 
