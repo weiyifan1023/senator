@@ -17,9 +17,7 @@
 
 
 
-<div align="center">
-    <img src="https://github.com/weiyifan1023/senator/blob/main/figures/senator.png" width="796.5" height="368.5" alt="senator">
-</div>
+
 
 ## Abstract
 
@@ -31,6 +29,9 @@ Guided by these insights, the framework generates targeted synthetic data for su
 Experimental results on medical benchmarks demonstrate that our SENATOR agent effectively supplements the pretraining corpus by injecting missing domain-specific information, leading to significant performance gains in models such as Llama-3 and Qwen2. 
 Our findings highlight the potential of synthetic data as the “new energy” for LLMs, paving the way for more efficient and scalable strategies to sustain and enhance model performance.
 
+<div align="center">
+    <img src="https://github.com/weiyifan1023/senator/blob/main/figures/senator.png" width="796.5" height="368.5" alt="senator">
+</div>
 
 ## Distribution Analysis
 
