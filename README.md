@@ -4,7 +4,10 @@
 <a href="https://github.com/weiyifan1023/Neeko/blob/main/LICENSE">
 <img src='https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg'></a>
 <img src='https://img.shields.io/badge/python-3.9+-blue.svg'>
-<img src='https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg'>
+<a href="https://arxiv.org/abs/2505.07184" target="_blank">
+<img src="https://img.shields.io/badge/arXiv-2505.07184-b31b1b.svg" alt="arXiv:2505.07184"></a>
+<a href="https://huggingface.co/datasets/axiong/pmc_llama_instructions" target="_blank">
+<img src="https://img.shields.io/badge/🤗%20Hugging%20Face-Models%20%26%20Datasets-yellow.svg" alt="Hugging Face Models & Datasets"></a>
 </p>
 
 <p align="center">
