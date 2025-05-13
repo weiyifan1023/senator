@@ -18,7 +18,7 @@
 
 
 <div align="center">
-    <img src="https://github.com/weiyifan1023/senator/blob/main/figures/senator">
+    <img src="https://github.com/weiyifan1023/senator/blob/main/figures/senator.png">
 </div>
 
 ## Abstract
