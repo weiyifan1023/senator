@@ -30,8 +30,9 @@ Experimental results on medical benchmarks demonstrate that our SENATOR agent ef
 Our findings highlight the potential of synthetic data as the “new energy” for LLMs, paving the way for more efficient and scalable strategies to sustain and enhance model performance.
 
 <div align="center">
-    <img src="https://github.com/weiyifan1023/senator/blob/main/figures/senator.png" width="796.5" height="368.5" alt="senator">
+    <img src="https://github.com/weiyifan1023/senator/blob/main/figures/senator.png"  alt="senator">
 </div>
+Figure 1: The overall framework of SENATOR
 
 ## Distribution Analysis
 
