@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-🔔 <a href="https://github.com/weiyifan1023/Neeko" target="_blank">Code</a> • 📃 <a href="https://arxiv.org/abs/2505.07184" target="_blank">Paper</a> • 🤗 <a href="https://huggingface.co/datasets/axiong/pmc_llama_instructions" target="_blank">Dataset</a> <br>
+🔔 <a href="https://github.com/weiyifan1023/senator" target="_blank">Code</a> • 📃 <a href="https://arxiv.org/abs/2505.07184" target="_blank">Paper</a> • 🤗 <a href="https://huggingface.co/datasets/axiong/pmc_llama_instructions" target="_blank">Dataset</a> <br>
 </p>
 
 ## Abstract
