@@ -104,6 +104,10 @@ If you find our paper inspiring and have utilized it in your work, please cite o
 }
 ```
 
+## Acknowledgements
+
+Thanks to the authors of [KG-RAG](https://github.com/BaranziniLab/KG_RAG) and [DAMe](https://github.com/XiaoyanWork/DAMe/blob/main/system/utils/FL_SE.py) for releasing their code for retrieving the SPOKE KG and evaluating SE on the graph. Much of this codebase has been adapted from their codes.
+
 ## Contact
 
 weiyifan@buaa.edu.cn and duli@baai.ac.cn
