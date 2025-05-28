@@ -44,7 +44,7 @@ Figure 1: The overall framework of SENATOR
 git clone https://github.com/weiyifan1023/senator.git
 
 cd senator
-conda create -n senator
+conda create -n senator python=3.10.9
 conda activate senator
 pip install -r requirements.txt
 ```
