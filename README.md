@@ -72,7 +72,7 @@ Here, we initialize subgraph for MCTS,  and exploration maximum entropy path.
 (Customize the search depth)
 
 ```python
-python -m prompt_based_generation/MedLLMs/gen_synthetic_data.py
+python -m kg_rag.prompt_based_generation.MedLLMs.gen_synthetic_data
 ```
 
 ### 3.  Deficiency Knowledge Repair (SFT)
