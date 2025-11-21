@@ -96,11 +96,13 @@ To eval  MedQA, MedMCQA and PubMedQA datasets, you can run:
 ## Citation
 If you find our paper inspiring and have utilized it in your work, please cite our paper.
 ```
-@article{wei2025structural,
-  title={Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs},
-  author={Wei, Yifan and Yu, Xiaoyan and Pan, Tengfei and Li, Angsheng and Du, Li},
-  journal={arXiv preprint arXiv:2505.07184},
-  year={2025}
+@inproceedings{
+wei2025structural,
+title={Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in {LLM}s},
+author={Yifan Wei and Xiaoyan Yu and Tengfei Pan and Angsheng Li and Li Du},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=hTGqC1h8Ig}
 }
 ```
 
